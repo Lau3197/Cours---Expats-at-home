@@ -1,0 +1,8 @@
+{
+  "name": "ExpatsatHome.be - French Mastery",
+  "description": "Premium French Learning Platform for expats. Expert-led courses from A1 to B2 with social learning and home-based mastery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

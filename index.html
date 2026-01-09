@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TutorLMS AI Clone</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Fredoka:wght@300..700&family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --cream: #F9F7F2;
+        --dusty-pink: #dd8b8b;
+        --mustard-gold: #E8C586;
+        --primary-dark: #5A6B70;
+      }
+      body {
+        font-family: 'Montserrat', sans-serif;
+        background-color: var(--cream);
+        color: var(--primary-dark);
+      }
+      h1, h2, h3, .serif-display {
+        font-family: 'Fraunces', serif;
+      }
+      .sans-handwritten {
+        font-family: 'Fredoka', sans-serif;
+      }
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 6px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: #dd8b8b33;
+        border-radius: 10px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: #dd8b8b66;
+      }
+    </style>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
