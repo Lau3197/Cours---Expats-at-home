@@ -1,0 +1,15 @@
+Visual Structure: An infographic with a prominent main title positioned at the top. Below the title, present three distinct, clearly delineated information blocks, each dedicated to a specific emergency service discussed.
+
+Content for Graphic:
+*   **Main Title:** 6. Emergency Numbers
+*   **Block 1: Pharmacie de Garde / Apotheek van Wacht**
+    *   Description: "Pharmacy on Duty" for after-hours prescriptions and over-the-counter medicine (nights, weekends).
+    *   How to find: Sign on closed pharmacy doors, online search "pharmacie de garde" + city.
+*   **Block 2: 112**
+    *   Description: Pan-European Emergency Number for **life-threatening emergencies**.
+    *   Examples: Fire, serious accident, medical emergency (e.g., heart attack).
+    *   Note: Operators speak English.
+*   **Block 3: 1733**
+    *   Description: Doctor On-Call service for **urgent, non-life-threatening medical situations**.
+    *   Example: High fever on a Saturday, need to speak to a doctor.
+    *   Action: Assesses situation, advises on ER or on-call GP clinic.

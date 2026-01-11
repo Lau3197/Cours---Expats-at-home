@@ -1,0 +1,5 @@
+Screenshot of a local Brussels community club website. Specifically, display the homepage or 'activities' page of a *hypothetical* Brussels sports club (e.g., a running group or football club) or a hobby group (e.g., photography, board games). The screenshot should feature:
+*   A clear club name and logo (e.g., 'Brussels Striders,' 'Les Photographes Bruxellois').
+*   Sections like 'Our Activities,' 'Upcoming Events,' or 'Join Us.'
+*   Imagery of members participating in the hobby, ideally with a subtle Brussels landmark or park in the background (e.g., runners in Parc du Cinquantenaire).
+*   Some displayed text in French or Dutch (e.g., event descriptions, headlines) to signify local language use.

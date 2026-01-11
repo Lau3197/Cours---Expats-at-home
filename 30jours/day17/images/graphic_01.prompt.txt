@@ -1,0 +1,15 @@
+A clear, structured list displaying Belgium's 10 official National Public Holidays for the year 2026. Each entry should feature the holiday name alongside its specific date.
+
+**Visual Structure:** A clean, vertical list, with the holiday name and corresponding date clearly presented for each item.
+
+**Content:**
+1.  New Year's Day: January 1
+2.  Easter Monday: April 6
+3.  Labour Day: May 1
+4.  Ascension Day: May 14
+5.  Whit Monday (Pentecost Monday): May 25
+6.  Belgian National Day: July 21
+7.  Assumption Day: August 15
+8.  All Saints' Day: November 1
+9.  Armistice Day: November 11
+10. Christmas Day: December 25

@@ -1,0 +1,10 @@
+A visual illustrating how to find an 'on-duty' pharmacy.
+
+**Visual Structure:** A prominent display of a closed pharmacy door with a sign, complemented by a secondary visual of an online search.
+
+**Content:**
+1.  **Pharmacy Door Sign (Primary Focus):** A closed pharmacy door, clearly identifiable by a bright green cross. A sign is posted on the door displaying:
+    *   The terms "Pharmacie de Garde" (French) and "Apotheek van Wacht" (Dutch).
+    *   The address of the nearest on-duty pharmacy (e.g., "Pharmacie Centrale, Rue du Marché 5, Bruxelles").
+2.  **Online Search (Secondary Element):** A mobile phone or computer screen displaying a search engine results page. The search bar shows the query "pharmacie de garde + [City Name]" (e.g., "pharmacie de garde Brussels"), with an example search result visible below.
+3.  **Annotation/Text:** Clearly explain that "Pharmacie de Garde / Apotheek van Wacht" means "Pharmacy 'on duty'" for emergencies during nights and weekends.

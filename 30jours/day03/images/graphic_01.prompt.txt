@@ -1,0 +1,10 @@
+**Visual Structure:** A central infographic with 'MUTUELLE / ZIEKENFONDS' as the prominent core concept, surrounded by 4 distinct fact panels or bullet points, each paired with a supporting icon.
+
+**Content:**
+*   **Main Title:** '1. The Mutuelle System'
+*   **Central Concept:** 'MUTUELLE' (French) / 'ZIEKENFONDS' (Dutch)
+*   **Fact 1:** 'MANDATORY Healthcare in Belgium' (Icon: Lock, required symbol, or a checkmark)
+*   **Fact 2:** 'FUNDING: Social Security Contributions (from salary)' (Icon: Money, pay slip, or intertwined gears)
+*   **Fact 3:** 'COVERAGE: Approx. 77% of Medical Costs' (Icon: Shield, percentage symbol, or health cross)
+*   **Fact 4:** 'ACTION: MUST Sign Up to Access Coverage' (Icon: Hand choosing, membership card, or a sign-up form)
+*   **Optional visual metaphor:** A subtle visual cue hinting at the 'club' analogy (e.g., a membership card or club emblem).

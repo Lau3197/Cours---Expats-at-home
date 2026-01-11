@@ -1,0 +1,19 @@
+Visual Structure: A comparative table or grid.
+
+A side-by-side comparison of four popular dating apps in Brussels. The comparison features columns for 'App Logo', 'Best For', and 'Key Feature' for each application.
+
+**App 1: Tinder**
+*   **Best For:** Casual to Serious
+*   **Key Feature:** Largest user base in Brussels
+
+**App 2: Hinge**
+*   **Best For:** Relationship-focused
+*   **Key Feature:** Encourages detailed profiles for compatibility
+
+**App 3: Bumble**
+*   **Best For:** Women-led connections
+*   **Key Feature:** Women make the first move
+
+**App 4: Breeze**
+*   **Best For:** Immediate in-person dates
+*   **Key Feature:** Skips texting, helps schedule dates at partner bars/cafés

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "french": "C'est un beau quartier",
+    "english": "",
+    "context": "Explore Your Neighborhood"
+  },
+  {
+    "id": 2,
+    "french": "O\u00f9 est le parc le plus proche?",
+    "english": "",
+    "context": "Explore Your Neighborhood"
+  }
+]

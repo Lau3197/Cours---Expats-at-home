@@ -178,6 +178,30 @@ Belgians often ask about preferences when making plans or choosing activities. T
 
 ---
 
+## Grammar: Explaining your preferences (Connectors)
+
+**To explain WHY you prefer something, you need "connectors".**
+
+These small words act like "glue" for your sentences.
+
+### The Essential Trio:
+1.  **Parce que** [paʁs kə] = Because
+    *   *Ex:* Je préfère le train **parce que** c'est rapide.
+2.  **Mais** [mɛ] = But
+    *   *Ex:* J'aime le chocolat **mais** je préfère les gaufres.
+3.  **D'abord... ensuite** = First... then
+    *   *Ex:* **D'abord** je mange, **ensuite** je dors.
+
+### How to build a "Preference Argument":
+**[Opinion]** + **[Parce que]** + **[Raison]**
+
+*   "Je préfère Bruxelles **parce que** c'est international."
+*   "J'aime le vélo **mais** il pleut souvent."
+
+**💡 Tip:** Use these 3 words to make your sentences longer and more interesting!
+
+---
+
 ## Grammar Exercises
 
 ## Exercise 1: Express Preferences
@@ -250,20 +274,15 @@ Les Belges ont des préférences différentes pour la gastronomie. Certains pré
 
 ## Survival Phrases: When You Don't Understand
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+**Essential phrases for expressing tastes:**
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
+1. **"C'est pas mon truc."** [sɛ pa mɔ̃ tʁyk] = It's not my thing. (Informal)
+2. **"Je n'aime pas trop."** [ʒə nɛm pa tʁo] = I don't like it much. (Polite)
+3. **"C'est mon préféré !"** [sɛ mɔ̃ pʁefeʁe] = It's my favorite!
+4. **"Tu choisis !"** [ty ʃwazi] = You choose!
+5. **"Ça m'est égal."** [sa mɛt egal] = It's the same to me / I don't mind.
 
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** "Ça m'est égal" is very useful when you want to be polite and let others decide!
 
 ---
 
@@ -298,7 +317,7 @@ Les Belges ont des préférences différentes pour la gastronomie. Certains pré
 
 **Person A:** Moi, j'aime mieux les gaufres !
 
-**🎯 Your turn!** Practice expressing your preferences!
+**🎯 Your turn!** Practice this dialogue in front of a mirror!
 
 ---
 
@@ -317,8 +336,6 @@ Les Belges ont des préférences différentes pour la gastronomie. Certains pré
 
 **Success tip:** Start simple - practice comparing just 2 options first, then gradually add more complex comparisons!
 
----
-
 ## Troubleshooting: Having Trouble?
 
 **If you're struggling with "préférer" vs "aimer mieux":**
@@ -333,16 +350,8 @@ Les Belges ont des préférences différentes pour la gastronomie. Certains pré
 - Practice: "Je préfère le café plutôt que le thé"
 - Don't forget "plutôt" - it's essential for comparisons!
 
-**If infinitive after "préférer" confuses you:**
-- After "préférer", always use the base form: lire (not lis), voyager (not voyage)
-- Pattern: "Je préfère [verb in infinitive]"
-- Practice: "Je préfère lire", "Je préfère voyager", "Je préfère faire du sport"
-- Same rule applies to "aimer mieux": "J'aime mieux lire"
-
 **If expressing preferences is overwhelming:**
 - Start with simple comparisons: "Je préfère A plutôt que B"
-- Practice with everyday choices: coffee vs tea, reading vs watching TV
-- Add more complexity gradually: "Je préfère A plutôt que B, mais j'aime mieux C"
 - Focus on options you actually have preferences about
 
 **Still stuck?** Preference expressions are very practical for conversations. Focus on mastering "Je préfère" and "plutôt que" first. These are the essentials!
@@ -351,30 +360,28 @@ Les Belges ont des préférences différentes pour la gastronomie. Certains pré
 
 ## Writing Practice
 
-**Exercice :** Écrivez un texte sur vos préférences (5-6 phrases)
+**Exercise:** Write a text about your preferences (5-6 sentences)
 
 ---
 
-## Culture belge
+## Culture: Preferences in Belgium
 
-## Les préférences en Belgique
+In Belgium, people have varied preferences. It's normal to have different tastes! Belgians appreciate when you express your preferences clearly.
 
-En Belgique, les gens ont des préférences variées. C'est normal d'avoir des goûts différents ! Les Belges apprécient quand on exprime nos préférences clairement.
+**Cultural comparison:**
 
-**Comparaison culturelle / Cultural comparison:**
+**In many countries:**
+- People might hesitate to express preferences
+- "I don't know" is sometimes a common answer
 
-**Dans beaucoup de pays :**
-- On peut hésiter à exprimer ses préférences
-- "Je ne sais pas" est parfois une réponse courante
+**In Belgium:**
+- Expressing preferences is normal and appreciated
+- Belgians like discussing tastes and preferences
+- It's an excellent conversation topic!
 
-**En Belgique :**
-- Exprimer ses préférences est normal et apprécié
-- Les Belges aiment discuter des goûts et préférences
-- C'est un excellent sujet de conversation !
+**Why it matters:** Expressing your preferences helps you participate in conversations and bond with Belgians!
 
-**Pourquoi c'est important :** Exprimer vos préférences vous aide à participer aux conversations et à créer des liens avec les Belges !
-
-💡 **Tip pratique :** N'hésitez pas à exprimer vos préférences ! C'est un excellent moyen de pratiquer votre français et de créer des conversations !
+💡 **Practical Tip:** Don't hesitate to express your preferences! It's a great way to practice your French and create conversations!
 
 ---
 
@@ -382,35 +389,11 @@ En Belgique, les gens ont des préférences variées. C'est normal d'avoir des g
 
 ## Key Points: You've Learned So Much!
 
-✅ **Vocabulary:** Preference expressions (préférer, aimer mieux)  
-✅ **Grammar:** Expressing preferences and comparing options  
+✅ **Vocabulary:** Preference expressions (préférer, aimer mieux)
+✅ **Grammar:** Expressing preferences and comparing options
 ✅ **Skills:** Expressing preferences, making choices, comparing options
 
 **You should be proud!** 🎉 You can now express your preferences in French!
-
-**Spaced Review Schedule:**
-
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review preference expressions: préférer, aimer mieux
-- Practice comparison structure: "Je préfère X plutôt que Y"
-- Practice asking: "Qu'est-ce que tu préfères ?"
-
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do grammar exercises about preferences
-- Practice using "préférer" and "aimer mieux" correctly
-- Practice comparing different options
-
-**In 1 week:** Review grammar rules (10 minutes)
-- Review "préférer" conjugation and infinitive usage
-- Review "aimer mieux" structure
-- Review "plutôt que" for comparisons
-
-**In 2 weeks:** Practice expressing preferences (15 minutes)
-- Practice expressing your preferences out loud in French
-- Practice the preferences dialogue
-- Practice comparing different options in various situations
-
-**Tip:** Set calendar reminders for these reviews! Preference expressions are essential for conversations and decision-making.
 
 ## Self-Evaluation: Check Your Progress!
 
@@ -430,45 +413,31 @@ En Belgique, les gens ont des préférences variées. C'est normal d'avoir des g
 
 ---
 
-## Récapitulatif (Summary)
 
-**Points clés :**
-- Exprimer ses préférences (préférer, aimer mieux)
-- Comparer des options
-- Vocabulaire des préférences
 
-**Auto-évaluation:**
-- [ ] Je peux exprimer mes préférences
-- [ ] Je peux comparer des options
-- [ ] Je connais le verbe "préférer"
+## Extra Resources: Keep the Momentum Going!
 
-**Spaced Review Schedule:**
+**Want to practice more?**
 
-**Tomorrow:** Review vocabulary (5 minutes) - preference expressions and "plutôt que"
-
-**In 3 days:** Do exercises again (10 minutes) - practice "préférer" and comparisons
-
-**In 1 week:** Review grammar (10 minutes) - "préférer" conjugation and "aimer mieux"
-
-**In 2 weeks:** Practice expressing preferences (15 minutes) - real conversations
-
----
-
-## Quick Reference: Print This & Keep It Handy
-
-**Essential phrases from this lesson:**
-
-| French | IPA | English |
-|--------|-----|---------|
-| Je préfère... | [ʒə pʁefɛʁ] | I prefer... |
-| J'aime mieux... | [ʒɛm mjø] | I like... better |
-| Je préfère... plutôt que... | [ʒə pʁefɛʁ ... plytø kə] | I prefer... rather than... |
-| Moi aussi | [mwa osi] | Me too |
-| Moi non plus | [mwa nɔ̃ ply] | Me neither |
-
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+- **This or That:** Make a list of 5 pairs (Tea/Coffee, Morning/Evening) and say which you prefer out loud.
+- **Opinion:** Write 3 sentences about things you *prefer* in Belgium compared to your home country.
+- **Debate:** With a partner (or yourself), debate "Chocolat vs Gaufres" using "Je préfère... parce que...".
+- **Real Life:** When choosing a restaurant or movie, express your preference in French ("Je préfère manger italien ce soir").
 
 ---
 
 *Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
 
+---
+
+*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+
+*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+
+---
+
+## Prochaine leçon
+
+**Leçon suivante :** La gastronomie belge  
+**Thème :** Gaufres et chocolat  
+**Prérequis :** Verbe aimer, vocabulaire de la nourriture

@@ -356,22 +356,15 @@ Le matin, beaucoup de Belges se lèvent vers 7h. Ils se douchent, s'habillent et
 
 ---
 
-## Survival Phrases: When You Don't Understand
+**Essential phrases for routine:**
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+1. **"Je me réveille."** [ʒə mə ʁevej] = I wake up.
+2. **"Tu te lèves ?"** [ty tə lɛv] = Are you getting up?
+3. **"On se voit ?"** [ɔ̃ sə vwa] = Shall we meet?
+4. **"Je me prépare."** [ʒə mə pʁepaʁ] = I'm getting ready.
+5. **"Dépêche-toi !"** [depɛʃ twa] = Hurry up!
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
-
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** "Se voir" (to see each other) is very common for making plans!
 
 ---
 
@@ -524,29 +517,6 @@ En Belgique, les routines sont assez régulières. Les Belges se lèvent génér
 - Reflexive pronouns: me, te, se, nous, vous
 - Daily routine expressions: le matin, le soir, puis, ensuite
 
-**Spaced Review Schedule:**
-
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review the 8 reflexive verbs from this lesson
-- Write them with their meanings
-- Practice saying them with "Je": "Je me lève, je me couche, je me douche..."
-
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do Exercise 1 and Exercise 2
-- Focus on remembering the reflexive pronouns for each subject
-
-**In 1 week:** Review grammar rules (10 minutes)
-- Review the reflexive pronoun table (me, te, se, nous, vous, se)
-- Review why we use reflexive pronouns
-- Write out the conjugation of "se lever" from memory
-
-**In 2 weeks:** Practice speaking your routine (15 minutes)
-- Describe your complete morning and evening routine out loud
-- Record yourself and listen back
-- Practice variations with different times
-
-**Tip:** Set calendar reminders for these reviews! Reflexive verbs need repetition to become automatic.
-
 **Auto-évaluation:**
 - [ ] I can conjugate reflexive verbs correctly (me lever, te lèves, se lève, etc.)
 - [ ] I can describe my routine using reflexive verbs
@@ -564,19 +534,18 @@ En Belgique, les routines sont assez régulières. Les Belges se lèvent génér
 
 ---
 
-## Quick Reference: Print This & Keep It Handy
+## Extra Resources: Keep the Momentum Going!
 
-**Essential phrases from this lesson:**
+**Want to practice more?**
 
-| French | IPA | English |
-|--------|-----|---------|
-| Je me lève | [ʒə mə lɛv] | I get up |
-| Je me couche | [ʒə mə kuʃ] | I go to bed |
-| Je me douche | [ʒə mə duʃ] | I shower |
-| Je m'habille | [ʒə mabil] | I get dressed |
-| Je me réveille | [ʒə mə ʁevɛj] | I wake up |
+- **Narration:** Use the "Voice Memos" app to narrate your morning routine as you do it ("Je me lève", "Je me brosse les dents").
+- **Daily Log:** Keep a log for one day of everything you do at specific times.
+- **Observation:** Watch a French movie or series and notice how people talk about their day.
+- **Mental Practice:** Before bed, mentally review everything you did using reflexive verbs ("Ce matin, je me suis levé...").
 
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+---
+
+*Bonne continuation !*
 
 ---
 

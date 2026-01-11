@@ -157,20 +157,15 @@ Belgium is famous for its gastronomy: moules-frites (mussels and fries), gaufres
 
 ## Survival Phrases: When You Don't Understand
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+**Essential phrases for dining out:**
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
+1. **"L'addition, s'il vous plaît."** [ladisjɔ̃ sil vu plɛ] = The check, please.
+2. **"Je voudrais..."** [ʒə vudʁɛ] = I would like...
+3. **"C'est délicieux !"** [sɛ delisjø] = It's delicious!
+4. **"Une carafe d'eau, SVP."** [yn kaʁaf do] = A jug of tap water, please.
+5. **"Où sont les toilettes ?"** [u sɔ̃ le twalɛt] = Where are the toilets?
 
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** "S'il vous plaît" is mandatory for every request!
 
 ---
 
@@ -320,46 +315,20 @@ La Belgique est réputée pour sa gastronomie. Les moules-frites sont le plat na
 - [ ] Je connais les spécialités belges
 - [ ] Je connais le verbe "vouloir"
 
-**Spaced Review Schedule:**
 
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review restaurant vocabulary: menu, je voudrais, l'addition
-- Practice "Je voudrais [dish], s'il vous plaît"
-- Review Belgian specialties: moules-frites, gaufre, bière
 
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do Exercise 1 (vouloir conjugation)
-- Practice creating sentences ordering food
-- Practice asking for the bill: "L'addition, s'il vous plaît"
 
-**In 1 week:** Review grammar rules (10 minutes)
-- Review "vouloir" conjugation table
-- Review "Je voudrais" vs "Je veux" (polite vs direct)
-- Practice ordering a complete meal (entrée, plat, dessert, boisson)
-
-**In 2 weeks:** Practice at a real restaurant (15 minutes)
-- Go to a Belgian restaurant and practice ordering in French
-- Practice the restaurant dialogue out loud before going
-- Try ordering Belgian specialties
-
-**Tip:** Set calendar reminders for these reviews! Restaurant vocabulary is essential for enjoying Belgian gastronomy.
 
 ---
 
-## Quick Reference: Print This & Keep It Handy
+## Extra Resources: Keep the Momentum Going!
 
-**Essential phrases from this lesson:**
+**Want to practice more?**
 
-| French | IPA | English |
-|--------|-----|---------|
-| Je voudrais... | [ʒə vudʁɛ] | I would like... |
-| L'addition, s'il vous plaît | [ladisjɔ̃ sil vu plɛ] | The bill, please |
-| C'est délicieux | [sɛ delisjø] | It's delicious |
-| Le menu | [lə məny] | The menu |
-| Une table pour... | [yn tabl puʁ] | A table for... |
-| L'entrée / Le plat / Le dessert | [lɑ̃tʁe / lə pla / lə desɛʁ] | Starter / Main course / Dessert |
-
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+- **Find a Menu:** Search online for "menu restaurant Bruxelles" and try to choose what you would order.
+- **Roleplay:** Practice ordering your favorite meal in front of a mirror.
+- **Vocabulary:** Create flashcards for "entrée", "plat", "dessert", and your favorite foods.
+- **Challenge:** Next time you go to a restaurant, try to order one thing in French!
 
 ---
 

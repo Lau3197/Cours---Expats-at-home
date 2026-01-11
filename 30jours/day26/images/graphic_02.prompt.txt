@@ -1,0 +1,17 @@
+A three-column table comparing common French email closing phrases and their appropriate usage.
+
+**Column 1: Formality Level**
+*   Very Formal
+*   Standard Professional
+*   Informal
+
+**Column 2: French Closing Phrase**
+*   "Veuillez agréer..." (representing the classic, long, and complicated formal options)
+*   "Cordialement,"
+*   "Bien à vous,"
+*   *(No specific informal closing phrase recommended for business use)*
+
+**Column 3: When to Use**
+*   First contact with a government office; highly traditional or very formal written correspondence.
+*   Most day-to-day work emails; daily communication with colleagues, clients, or partners where a friendly but professional tone is desired.
+*   Generally avoided in business emails; reserved for very casual personal communication (no specific example provided in context).

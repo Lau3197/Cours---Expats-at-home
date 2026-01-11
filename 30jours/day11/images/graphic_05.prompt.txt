@@ -1,0 +1,10 @@
+Visual Structure: Layered Hierarchy Diagram with directional arrows.
+
+Content: A three-tiered organizational structure illustrating the balance of hierarchy and collaboration in Belgian workplaces.
+*   **Top Layer:** "Upper Management / Manager's Boss."
+*   **Middle Layer:** "Manager."
+*   **Bottom Layer:** "Team Members / Employees."
+    *   **Primary Flow (Downward, Solid Arrows):** Authority and clear communication channels from "Upper Management" to "Manager," and "Manager" to "Team Members," signifying respected authority and the role of the final decision-maker.
+    *   **Collaborative Flow (Upward, Dashed Arrows):** From "Team Members" to "Manager," labeled "Ideas & Concerns (Respectful Contribution)," illustrating the manager as a facilitator for projects and the expectation for team members to be proactive and share thoughts.
+    *   **Implicit Boundary:** No direct upward arrow from "Team Members" to "Upper Management," reinforcing the understanding of not typically going over the manager's head.
+*   **Overall Context:** The diagram should represent an approach consistent across many Brussels companies, combining respect for authority with team collaboration.

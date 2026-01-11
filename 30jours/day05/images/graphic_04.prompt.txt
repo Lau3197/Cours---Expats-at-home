@@ -1,0 +1,17 @@
+Visual Structure: Two-column comparative checklist.
+
+**Title:** Exchanging Your Driving License in Belgium
+
+**Column 1: Non-EU Country License**
+*   **Action:** Must exchange for a Belgian license.
+*   **Deadline:** Within 185 days (~6 months) of registering address in Belgium.
+
+**Column 2: EU Country License**
+*   **Flexibility:** Can continue to use until it expires.
+*   **When Exchanging (at expiration or voluntarily):**
+    *   **Where:** Local Town Hall (*commune* or *maison communale*)
+    *   **Required Documents:**
+        *   Original License
+        *   ID or Residence Permit
+        *   Passport Photo
+    *   **Cost:** ~25-30 euros

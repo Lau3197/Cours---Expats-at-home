@@ -1,0 +1,15 @@
+Visual Structure: A Titled List with Icons and brief explanatory text for each habit.
+
+Title: "Small Belgian Habits to Try"
+
+Item 1: Visit the local bakery
+*   Icon: A bakery storefront or fresh bread/pistolets.
+*   Text: A trip to the *boulangerie* (bakery) for fresh bread or *pistolets* (small, crusty bread rolls). Try once a week, perhaps on a Saturday morning, participating in the local rhythm like in Soignies.
+
+Item 2: Have a proper lunch break (not at your desk)
+*   Icon: People eating together away from a desk, or a lunch plate with a sandwich/soup.
+*   Text: Step away from your desk to eat with colleagues, a common practice in Belgian workplaces. In Brussels, grab a sandwich, *dagsoep* (soup of the day), or a salad and take a real break.
+
+Item 3: Go to a weekly outdoor market
+*   Icon: Market stalls with fresh produce or people browsing.
+*   Text: Experience the local rhythm of life by visiting a weekly outdoor market.

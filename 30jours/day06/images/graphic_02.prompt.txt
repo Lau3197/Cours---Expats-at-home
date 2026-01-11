@@ -1,0 +1,35 @@
+**Visual Structure:** A two-column comparison list.
+
+**Content:**
+**Column 1: BELGIAN FRENCH**
+**Column 2: FRENCH FROM FRANCE**
+
+---
+
+**Row 1:**
+*   **Belgian:** Drache
+*   *Meaning:* Heavy rain / Downpour
+*   **French:** il pleut des cordes
+*   *Meaning:* It's raining ropes
+
+---
+
+**Row 2:**
+*   **Belgian:** À tantôt
+*   *Meaning:* See you later today
+*   **French:** À plus tard / À tout à l'heure
+*   *Meaning:* See you later
+
+---
+
+**Row 3:**
+*   **Belgian:** Une fois
+*   *Meaning:* Filler word to soften requests (e.g., "Écoute une fois")
+*   **French:** (Primarily means "One time", not used as a filler in this context)
+
+---
+
+**Row 4:**
+*   **Belgian:** S'il vous plaît
+*   *Meaning:* Here you are (when handing something over)
+*   **French:** (Primarily means "Please")

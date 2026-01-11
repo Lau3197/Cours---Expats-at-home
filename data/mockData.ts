@@ -2,6 +2,7 @@
 import { CoursePackage, UserProfile, VocabItem, Course } from '../types';
 import { A1_1_LESSONS } from './courses/a1_1_content';
 import { A1_2_LESSONS } from './courses/a1_2_content';
+import { A2_1_LESSONS } from './courses/a2_1_content';
 
 const instructorImage = "https://i.ibb.co/s9XpSqzq/Moi-profil.jpg";
 
@@ -353,5 +354,82 @@ export const masterCurriculum: CoursePackage[] = [
         ]
       }
     ]
+  },
+
+  // --- LEVEL A2.1 ---
+  {
+    id: 'a2-1',
+    title: 'Niveau A2.1 - Raconter au Passé',
+    level: 'A2',
+    description: 'Maîtrisez les temps du passé pour raconter vos souvenirs, votre arrivée en Belgique et vos voyages.',
+    resources: [
+      { id: 'r_a21_1', name: 'Imparfait_Cheatsheet.pdf', type: 'pdf', url: '#' },
+      { id: 'r_a21_2', name: 'PC_vs_Imparfait_Guide.pdf', type: 'pdf', url: '#' }
+    ],
+    sections: [
+      {
+        id: 's_a21_1',
+        title: 'Module 1: L\'imparfait',
+        lessons: [
+          {
+            id: 'a21_l1',
+            title: 'Leçon 01: Souvenirs d\'enfance',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l1
+          },
+          {
+            id: 'a21_l2',
+            title: 'Leçon 02: La vie avant la Belgique',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l2
+          }
+        ]
+      },
+      {
+        id: 's_a21_2',
+        title: 'Module 2: Imparfait vs Passé Composé',
+        lessons: [
+          {
+            id: 'a21_l3',
+            title: 'Leçon 03: Mon arrivée en Belgique',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l3
+          },
+          {
+            id: 'a21_l4',
+            title: 'Leçon 04: Un voyage mémorable',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l4
+          },
+          {
+            id: 'a21_l5',
+            title: 'Leçon 05: Raconter au passé (Consolidation)',
+            duration: '30:00',
+            type: 'quiz',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l5
+          }
+        ]
+      }
+    ]
   }
 ];
+

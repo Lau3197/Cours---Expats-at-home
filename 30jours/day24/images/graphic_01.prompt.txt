@@ -1,0 +1,10 @@
+**Visual Structure:** A multi-stage funnel diagram, showing progression from top to bottom, with call-outs or annotations for actions that facilitate movement between stages.
+
+**Content:**
+
+*   **Top (Widest) Layer:** Labeled "Acquaintances." Text below: "Many, casual interactions (e.g., work, events)."
+*   **Transition Action 1 (from Acquaintances to Friends):** An arrow or flow moving downwards, labeled "Be Intentional: One-on-One Invitations." Include examples: "Suggest 'Sunday market in Saint-Gilles' or 'Coffee near office.'" Emphasize "Low-pressure activity."
+*   **Middle Layer:** Labeled "Friends." Text below: "Fewer, intentional one-on-one time."
+*   **Transition Action 2 (from Friends to Inner Circle):** An arrow or flow moving downwards, labeled "Deepen Connection: Invite into your Home." Include examples: "Simple snacks (Soignies tradition)" or "Host an Apéro (Belgian beer/wine, cheese, olives, crisps)." Emphasize "Sharing your space, not a formal dinner."
+*   **Bottom (Narrowest) Layer:** Labeled "Inner Circle." Text below: "A few, built on trust & vulnerability."
+*   **Overall Message (below or alongside funnel):** "Goal: Guide a few who feel right, not everyone."

@@ -1,0 +1,17 @@
+**Visual Structure:** A prominent title introducing the topic, followed by a clear two-column comparison table. Below the table, include a concise section listing additional key facts for all entrepreneurs.
+
+**Content:**
+*   **Title:** Starting Your Own Business in Belgium
+*   **Introductory Statement:** Belgium is very open to entrepreneurs.
+*   **Two-Column Table:**
+    *   **Column 1 Header:** EU/EFTA Citizen
+    *   **Column 1 Content:** Can start a business freely.
+    *   **Column 2 Header:** Non-EU Citizen
+    *   **Column 2 Content:** Requires:
+        *   Residence Permit
+        *   Professional Card (carte professionnelle / beroepskaart) – Your permit to work for yourself.
+*   **Additional Key Facts (Below the table):**
+    *   **Common Business Form:** BV (Dutch) / SRL (French) – Private Limited Company.
+    *   **Starting Capital:** No minimum capital required.
+    *   **Requirement:** A solid financial plan is needed.
+    *   **Support:** Regional agencies (e.g., hub.Brussels) offer guidance.

@@ -1,0 +1,15 @@
+**Visual Structure:** Split-screen graphic with two distinct sections.
+
+**Section 1: Eventbrite**
+*   Prominent Eventbrite logo.
+*   Below the logo, text or icons representing: "Finding Industry-Specific Conferences & Workshops."
+*   Examples listed: "EU Policy," "Tech Start-ups," "Finance."
+
+**Section 2: LinkedIn**
+*   Prominent LinkedIn logo.
+*   Below the logo, text or icons representing: "Professional Networking in Belgium."
+*   Key uses: "Connect with colleagues after meetings," "Follow company news."
+*   A sub-section titled "LinkedIn Profile Tips":
+    *   1. "Professional Photo (clear, friendly)"
+    *   2. "Keep Experience Up-to-Date"
+    *   3. "Add a Short, Polite Note to Connection Requests (explain who you are, why you want to connect)"

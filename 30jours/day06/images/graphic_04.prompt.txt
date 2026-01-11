@@ -1,0 +1,14 @@
+**TITLE**: At the Shop or Restaurant
+**VISUAL STRUCTURE**: A clear, distinct list of phrase cards or an icon-driven grid.
+**CONTENT**:
+Each entry should prominently display the French phrase with its English translation.
+1.  **Je voudrais…**
+    *   (I would like…)
+    *   *Note*: More polite than "Je veux" (I want).
+    *   *Example*: "Je voudrais un café, s'il vous plaît."
+2.  **C'est combien?**
+    *   (How much is it?)
+3.  **L'addition, s'il vous plaît.**
+    *   (The bill, please.)
+4.  **Par carte? / En espèces?**
+    *   (By card? / In cash?)

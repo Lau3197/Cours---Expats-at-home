@@ -1,0 +1,17 @@
+**Visual Structure:** A split-screen or two-column layout. The left side is titled "Common Challenges," and the right side is titled "Simple Solutions." Each challenge on the left corresponds directly to its solutions on the right.
+
+**Content for "Common Challenges" (Left Column):**
+*   **Loneliness:**
+    *   Visual representation of feeling isolated in a dense, busy city (e.g., Brussels), contrasting with the implied close-knit community of a smaller town (e.g., Soignies).
+*   **Language Barrier:**
+    *   Visual representation of confusion or difficulty understanding fast, real-world spoken French in Brussels, distinct from textbook learning.
+
+**Content for "Simple Solutions" (Right Column):**
+*   **For Loneliness (Start Small):**
+    *   Icon/illustration: A person sitting peacefully on a bench in a park.
+    *   Icon/illustration: A bustling local market scene, specifically on a Sunday morning.
+    *   Accompanying text: "Just being around other people can help you feel more connected."
+*   **For Language Barrier (Be Kind to Yourself):**
+    *   Accompanying text: "Every small conversation is practice."
+    *   A speech bubble or text box showing: "Sorry, can you speak more slowly?"
+    *   Accompanying text: "The language you learn in a book is always different from how people really speak."

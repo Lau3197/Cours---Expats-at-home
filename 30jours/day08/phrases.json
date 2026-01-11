@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "french": "Je voudrais un kilo de pommes",
+    "english": "",
+    "context": "Grocery & Food Culture"
+  },
+  {
+    "id": 2,
+    "french": "C'est bio?",
+    "english": "",
+    "context": "Grocery & Food Culture"
+  },
+  {
+    "id": 3,
+    "french": "Avez-vous des sacs?",
+    "english": "",
+    "context": "Grocery & Food Culture"
+  }
+]

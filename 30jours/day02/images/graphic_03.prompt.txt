@@ -1,0 +1,15 @@
+**Visual Structure**: Checklist graphic.
+
+**Content**:
+**Header**: Documents You Need
+**Main Item 1**: Proof of Identity
+    *   Bullet 1: Passport
+    *   Bullet 2: National ID Card (from home country)
+    *   *Associated Icon*: An ID card or passport.
+**Main Item 2**: Proof of Address
+    *   Bullet 1: Rental Contract
+    *   Bullet 2: Recent Utility Bill
+    *   Bullet 3: Official Registration Document (Town Hall / *gemeentehuis* / *maison communale*)
+    *   *Associated Icon*: A house or document with an address.
+**Callout Box / Side Note**: NISS Number
+    *   Text: Belgian Social Security Number. Needed for tax purposes, but you can often open the account before you have it (let them know it's coming).

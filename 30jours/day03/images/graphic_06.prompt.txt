@@ -1,0 +1,6 @@
+Visual Structure: Title card with two distinct content sections presented as methods.
+
+Content:
+*   **Prominent Title:** "4. Finding English-Speaking Doctors"
+*   **Method 1:** "Online Resource" with "Doctoranytime.be" highlighted, and a sub-bullet: "Filter by Language, Specialty, Location."
+*   **Method 2:** "Local Tip" with "Call Doctor's Office Directly" and a sub-bullet or speech bubble: "Ask: 'Do you have any doctors who speak English?'"

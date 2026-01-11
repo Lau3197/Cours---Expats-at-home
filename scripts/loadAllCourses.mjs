@@ -9,7 +9,7 @@ import { getFirestore, doc, setDoc } from 'firebase/firestore';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-const rootDir = join(__dirname, '..', '..');
+const rootDir = join(__dirname, '..');
 
 // Firebase configuration
 const firebaseConfig = {
@@ -50,13 +50,13 @@ function readMarkdownFile(filePath) {
 
 function extractMetadata(content) {
   if (!content) return { title: '', duration: '15:00', type: 'text' };
-  
+
   const titleMatch = content.match(/^# (.+)$/m);
   const durationMatch = content.match(/\*\*Durée estimée\*\* : (.+)/);
-  
+
   let title = titleMatch ? titleMatch[1].trim() : '';
   let duration = durationMatch ? durationMatch[1].trim() : '15:00';
-  
+
   if (duration.includes('heure')) {
     const hours = duration.match(/(\d+)/);
     if (hours) {
@@ -64,26 +64,26 @@ function extractMetadata(content) {
       duration = `${h.toString().padStart(2, '0')}:00`;
     }
   }
-  
+
   const hasVideo = content.includes('youtube.com') || content.includes('youtu.be') || content.includes('.mp4');
   const type = hasVideo ? 'video' : 'text';
-  
+
   return { title, duration, type };
 }
 
 function findLessonFiles() {
   const lessons = [];
   const courseDirs = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'B2.1', 'B2.2'];
-  
+
   for (const courseDir of courseDirs) {
     const levelPrefix = courseDir[0] + courseDir[1];
     const coursePath = join(rootDir, `Niveau_${levelPrefix}`, courseDir);
-    
+
     if (!existsSync(coursePath)) {
       console.log(`⚠️  Directory not found: ${coursePath}`);
       continue;
     }
-    
+
     const lessonDirs = readdirSync(coursePath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory() && dirent.name.startsWith('Lecon_'))
       .map(dirent => dirent.name)
@@ -92,21 +92,21 @@ function findLessonFiles() {
         const numB = parseInt(b.match(/\d+/)?.[0] || '0');
         return numA - numB;
       });
-    
+
     for (const lessonDir of lessonDirs) {
       const lessonPath = join(coursePath, lessonDir);
       const files = readdirSync(lessonPath)
         .filter(f => f.endsWith('.md') && !f.includes('-Laurine'))
         .sort();
-      
+
       if (files.length > 0) {
         const filePath = join(lessonPath, files[0]);
         const content = readMarkdownFile(filePath);
-        
+
         if (content) {
           const metadata = extractMetadata(content);
           const lessonNumber = lessonDir.match(/\d+/)?.[0] || '0';
-          
+
           lessons.push({
             courseId: courseDir.toLowerCase().replace('.', '-'),
             courseDir,
@@ -119,13 +119,13 @@ function findLessonFiles() {
       }
     }
   }
-  
+
   return lessons;
 }
 
 function organizeLessonsIntoCourses(lessons) {
   const courses = {};
-  
+
   for (const lesson of lessons) {
     if (!courses[lesson.courseId]) {
       const courseInfo = courseStructure[lesson.courseDir];
@@ -138,7 +138,7 @@ function organizeLessonsIntoCourses(lessons) {
         resources: []
       };
     }
-    
+
     let sectionIndex = Math.floor((lesson.lessonNumber - 1) / 4);
     if (sectionIndex >= courses[lesson.courseId].sections.length) {
       courses[lesson.courseId].sections.push({
@@ -147,7 +147,7 @@ function organizeLessonsIntoCourses(lessons) {
         lessons: []
       });
     }
-    
+
     const section = courses[lesson.courseId].sections[sectionIndex];
     section.lessons.push({
       id: lesson.lessonId,
@@ -160,27 +160,27 @@ function organizeLessonsIntoCourses(lessons) {
       comments: []
     });
   }
-  
+
   return Object.values(courses);
 }
 
 async function loadAllCourses() {
   console.log('📚 Scanning for lesson files...');
   console.log(`Root directory: ${rootDir}`);
-  
+
   const lessons = findLessonFiles();
   console.log(`✅ Found ${lessons.length} lessons`);
-  
+
   const courses = organizeLessonsIntoCourses(lessons);
   console.log(`✅ Organized into ${courses.length} courses:\n`);
-  
+
   for (const course of courses) {
     const totalLessons = course.sections.reduce((sum, s) => sum + s.lessons.length, 0);
     console.log(`  - ${course.title}: ${totalLessons} lessons in ${course.sections.length} sections`);
   }
-  
+
   console.log('\n🚀 Uploading to Firebase...\n');
-  
+
   for (const course of courses) {
     try {
       const courseRef = doc(db, 'courses', course.id);
@@ -191,7 +191,7 @@ async function loadAllCourses() {
       console.error(`❌ Error uploading ${course.title}:`, error.message);
     }
   }
-  
+
   console.log('\n🎉 All courses uploaded successfully!');
   process.exit(0);
 }

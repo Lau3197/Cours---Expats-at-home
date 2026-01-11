@@ -1,0 +1,11 @@
+**Main Title:** REGISTRATION DEADLINES
+
+**Visual Structure:** A two-column comparison layout.
+
+**Column 1 (Left):**
+*   **Header:** EU or EEA Citizens
+*   **Content:** Three months from arrival date
+
+**Column 2 (Right):**
+*   **Header:** Non-EU Citizens
+*   **Content:** Eight working days from arrival in Belgium

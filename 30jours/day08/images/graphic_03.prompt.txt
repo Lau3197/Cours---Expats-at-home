@@ -1,0 +1,4 @@
+An illustration depicting three distinct specialty food stores. Each store should be represented by its French name and associated product(s):
+1.  **Boulangerie:** Featuring a loaf of bread and a pastry.
+2.  **Boucherie:** Featuring a cut of meat (e.g., a steak).
+3.  **Fromagerie:** Featuring a wedge of cheese.

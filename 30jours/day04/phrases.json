@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "french": "Je cherche un appartement",
+    "english": "",
+    "context": "Housing Secrets"
+  },
+  {
+    "id": 2,
+    "french": "Quel est le loyer mensuel?",
+    "english": "",
+    "context": "Housing Secrets"
+  },
+  {
+    "id": 3,
+    "french": "Les charges sont comprises?",
+    "english": "",
+    "context": "Housing Secrets"
+  },
+  {
+    "id": 4,
+    "french": "Quand puis-je emm\u00e9nager?",
+    "english": "",
+    "context": "Housing Secrets"
+  }
+]

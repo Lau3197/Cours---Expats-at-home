@@ -1,0 +1,9 @@
+**Visual Structure:** A prominent "Important Note" or "Warning" overlay box.
+
+**Content:**
+*   **Headline:** "IMPORTANT: Volunteering & Unemployment Benefits in Belgium"
+*   **Condition:** If receiving *any kind of unemployment benefits in Belgium*.
+*   **Action Required:** You *must* get permission before you start volunteering.
+*   **Form:** Submit the specific "C45B form".
+*   **Recipient:** To "ONEM" (the national employment office).
+*   **Reason:** This step is crucial to avoid any problems with your allowance.

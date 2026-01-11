@@ -1,0 +1,10 @@
+Visual Structure: Numbered Step-by-Step Flowchart.
+
+Content: Title: "3. How Reimbursements Work".
+Steps illustrating the process:
+1.  **Pay Upfront:** Pay the full amount directly to the doctor (e.g., GP visit costs 30 euros).
+2.  **Receive Certificate:** Get a 'small green or white piece of paper' (official certificate of visit) from the doctor.
+3.  **Obtain Vignettes:** Receive a sheet of 'vignettes' (stickers with your name and member number) from your mutuelle.
+4.  **Attach Sticker:** Place one 'vignette' sticker onto the doctor's paper.
+5.  **Submit Form:** Drop the completed paper into the mutuelle's 'special mailbox' (often 24/7).
+6.  **Reimbursement:** 'A few weeks later', receive 77 percent reimbursement directly into your account.

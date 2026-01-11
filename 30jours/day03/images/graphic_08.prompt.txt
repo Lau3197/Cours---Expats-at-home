@@ -1,0 +1,16 @@
+Infographic titled "5. Pharmacies and the 'Garde' System" presented in a two-part structure.
+
+**Part 1: Regular Pharmacies**
+*   **Visual:** Depiction of a typical Belgian pharmacy, clearly marked with a "big, bright green cross."
+*   **Text/Labels:** "Open standard hours," "Go-to for prescriptions and over-the-counter medicine."
+*   **Context:** A small visual element (e.g., a clock showing "10 PM Sunday" or a 'closed' sign) to illustrate when these pharmacies are not open.
+
+**Part 2: The 'Garde' System (Emergency Pharmacies)**
+*   **Main Heading:** "Pharmacie de garde (French) / Apotheek van wacht (Dutch)" with the translation "Pharmacy on duty."
+*   **Visual:** An illuminated pharmacy at night or on a weekend, indicating it is open.
+*   **Key Features (with accompanying icons):**
+    *   Stays open "every night and on weekends" for emergencies.
+    *   "One pharmacy in each local area" is on duty.
+*   **How to Find (with distinct icons):**
+    *   **Method 1:** Image of a sign on a closed pharmacy door, displaying the address or directions to the nearest on-duty one.
+    *   **Method 2:** Icon representing an online search, with text: "Search online: 'pharmacie de garde' + your city's name."

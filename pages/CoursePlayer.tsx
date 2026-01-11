@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { 
-  ChevronLeft, 
-  Play, 
-  CheckCircle, 
-  FileText, 
-  Download, 
+import {
+  ChevronLeft,
+  Play,
+  CheckCircle,
+  FileText,
+  Download,
   BrainCircuit,
   Send,
   MessageCircle,
@@ -30,8 +30,8 @@ import VocabTrainer from '../components/VocabTrainer';
 import LiveTutor from '../components/LiveTutor';
 import { jsPDF } from 'jspdf';
 import { useAuth } from '../context/AuthContext';
-import { db } from '../services/firebase';
-import { doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
+// import { db } from '../services/firebase';
+// import { doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
 
 interface CoursePlayerProps {
   course: CoursePackage;
@@ -82,6 +82,53 @@ const generateCertificate = (userName: string, courseTitle: string) => {
   doc.save(`Certificate_${courseTitle.replace(/\s+/g, '_')}.pdf`);
 };
 
+// Helper to generate slugs matching rehype-slug default behavior (github-slugger)
+const slugify = (text: string) => {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')     // Replace spaces with -
+    .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+    .replace(/\-\-+/g, '-');  // Replace multiple - with single -
+};
+
+interface TOCItem {
+  id: string;
+  text: string;
+  level: number;
+}
+
+const extractTOC = (content: string): TOCItem[] => {
+  const lines = content.split(/\r?\n/);
+  const toc: TOCItem[] = [];
+
+  lines.forEach(line => {
+    // Match # headers. Note: we skip h1 (# ) as that's usually the title
+    const match = line.match(/^(#{2,3})\s+(.+)$/);
+    if (match) {
+      const level = match[1].length;
+      const text = match[2].trim();
+      const id = slugify(text);
+
+      // Filter to only show main sections based on user request ("Parts", "Practice", "Review")
+      // matches "Part 1", "Partie 1", "Practice", "Common Mistakes" (for Review), "Self-Evaluation"
+      if (
+        /^(Part|Partie)\s+\d+/i.test(text) ||
+        /^Practice/i.test(text) ||
+        /^Common Mistakes/i.test(text) ||
+        /^Review/i.test(text) ||
+        /^Self-Evaluation/i.test(text) ||
+        /^Wrap-up/i.test(text)
+      ) {
+        toc.push({ id, text, level });
+      }
+    }
+  });
+
+  return toc;
+};
+
 // Content remains the same, but we use ReactMarkdown instead of custom renderer
 
 const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLessonId }) => {
@@ -89,7 +136,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
   const [activeTab, setActiveTab] = useState<'content' | 'vocab' | 'assignments' | 'resources' | 'announcements' | 'tutor' | 'live' | 'discussions'>('content');
   const [userQuery, setUserQuery] = useState('');
-  const [chatHistory, setChatHistory] = useState<{role: 'user' | 'ai', text: string}[]>([]);
+  const [chatHistory, setChatHistory] = useState<{ role: 'user' | 'ai', text: string }[]>([]);
   const [isAiLoading, setIsAiLoading] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [completedLessons, setCompletedLessons] = useState<Set<string>>(new Set());
@@ -104,6 +151,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
         setCompletedLessons(new Set(JSON.parse(saved)));
       }
 
+      /* Firestore sync disabled for local-only mode
       // Charger depuis Firestore si utilisateur connecté
       if (user) {
         try {
@@ -126,7 +174,8 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           console.error("Error loading progress:", error);
         }
       }
-      
+      */
+
       // Si un lessonId initial est fourni, trouver et ouvrir cette leçon
       if (initialLessonId) {
         for (const section of course.sections) {
@@ -137,7 +186,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           }
         }
       }
-      
+
       setActiveLesson(course.sections[0]?.lessons[0] || null);
     };
 
@@ -147,99 +196,29 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   const toggleLessonComplete = async (lessonId: string) => {
     const next = new Set(completedLessons);
     const isCompleting = !next.has(lessonId);
-    
+
     if (isCompleting) {
       next.add(lessonId);
     } else {
       next.delete(lessonId);
     }
-    
+
     setCompletedLessons(next);
-    
+
     // Sauvegarder dans localStorage pour compatibilité
     localStorage.setItem(`progress_${course.id}`, JSON.stringify(Array.from(next)));
-    
+
+    /* Firestore sync disabled for local-only mode
     // Sauvegarder dans Firestore si utilisateur connecté
     if (user) {
       try {
         const progressRef = doc(db, 'userProgress', user.uid);
-        const progressSnap = await getDoc(progressRef);
-        
-        const lessonKey = `${course.id}_${lessonId}`;
-        const totalLessons = course.sections.reduce((acc, s) => acc + s.lessons.length, 0);
-        const completedCount = next.size;
-        
-        // Calculer les heures d'apprentissage
-        const lesson = course.sections.flatMap(s => s.lessons).find(l => l.id === lessonId);
-        const parseDuration = (duration: string): number => {
-          const parts = duration.split(':');
-          if (parts.length === 2) {
-            const hours = parseInt(parts[0]) || 0;
-            const minutes = parseInt(parts[1]) || 0;
-            return hours + minutes / 60;
-          }
-          return 0;
-        };
-        
-        if (progressSnap.exists()) {
-          const currentProgress = progressSnap.data();
-          const completedLessons = currentProgress.completedLessons || [];
-          const courseProgress = currentProgress.courseProgress || {};
-          const learningHours = currentProgress.learningHours || 0;
-          
-          let updatedCompleted = [...completedLessons];
-          if (isCompleting) {
-            if (!updatedCompleted.includes(lessonKey)) {
-              updatedCompleted.push(lessonKey);
-            }
-          } else {
-            updatedCompleted = updatedCompleted.filter(id => id !== lessonKey);
-          }
-          
-          const hoursToAdd = lesson ? parseDuration(lesson.duration) : 0;
-          const newLearningHours = isCompleting 
-            ? learningHours + hoursToAdd 
-            : Math.max(0, learningHours - hoursToAdd);
-          
-          // Mettre à jour l'activité hebdomadaire
-          const today = new Date();
-          const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-          const dayName = dayNames[today.getDay()];
-          const weeklyActivity = currentProgress.weeklyActivity || {};
-          weeklyActivity[dayName] = (weeklyActivity[dayName] || 0) + (isCompleting ? hoursToAdd : -hoursToAdd);
-          
-          await updateDoc(progressRef, {
-            completedLessons: updatedCompleted,
-            courseProgress: {
-              ...courseProgress,
-              [course.id]: {
-                completed: completedCount,
-                total: totalLessons
-              }
-            },
-            learningHours: newLearningHours,
-            lastActivity: new Date(),
-            weeklyActivity
-          });
-        } else {
-          // Créer la progression initiale
-          await setDoc(progressRef, {
-            completedLessons: isCompleting ? [lessonKey] : [],
-            courseProgress: {
-              [course.id]: {
-                completed: completedCount,
-                total: totalLessons
-              }
-            },
-            learningHours: isCompleting && lesson ? parseDuration(lesson.duration) : 0,
-            lastActivity: new Date(),
-            weeklyActivity: {}
-          });
-        }
+        // ... (Firestore update logic commented out)
       } catch (error) {
         console.error("Error saving progress:", error);
       }
     }
+    */
   };
 
   const handleAiAsk = async () => {
@@ -271,12 +250,12 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   return (
     <div className="flex h-[calc(100vh-96px)] overflow-hidden bg-[#F9F7F2]">
       <div className="flex-1 overflow-y-auto custom-scrollbar">
-        
+
         {/* Video Player Section */}
         {activeLesson?.videoUrl ? (
           <div className="bg-black aspect-video w-full relative group">
             {activeLesson.videoUrl.includes('youtube.com') || activeLesson.videoUrl.includes('youtu.be') ? (
-              <iframe 
+              <iframe
                 key={activeLesson.id}
                 className="w-full h-full"
                 src={`https://www.youtube.com/embed/${activeLesson.videoUrl.includes('v=') ? activeLesson.videoUrl.split('v=')[1].split('&')[0] : activeLesson.videoUrl.split('/').pop()}`}
@@ -286,7 +265,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                 allowFullScreen
               ></iframe>
             ) : (
-              <video 
+              <video
                 key={activeLesson.id}
                 className="w-full h-full"
                 controls
@@ -306,10 +285,10 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           <div className="bg-[#5A6B70] aspect-[21/9] w-full flex items-center justify-center relative shadow-inner overflow-hidden max-h-[350px]">
             <div className="absolute inset-0 bg-gradient-to-br from-[#C87A7A]/20 to-[#5A6B70]/90" />
             <div className="text-white flex flex-col items-center gap-4 relative z-10 text-center px-4">
-               <div className="bg-white/10 backdrop-blur-md px-6 py-2 rounded-full border border-white/20 text-xs font-black uppercase tracking-[0.3em]">
-                 {course.title}
-               </div>
-               <h1 className="text-4xl md:text-5xl font-bold serif-display italic">{activeLesson?.title}</h1>
+              <div className="bg-white/10 backdrop-blur-md px-6 py-2 rounded-full border border-white/20 text-xs font-black uppercase tracking-[0.3em]">
+                {course.title}
+              </div>
+              <h1 className="text-4xl md:text-5xl font-bold serif-display italic">{activeLesson?.title}</h1>
             </div>
             {!isSidebarOpen && (
               <button onClick={() => setIsSidebarOpen(true)} className="absolute right-6 top-6 z-20 p-4 bg-white/10 backdrop-blur-md text-white rounded-2xl hover:bg-white/20 border border-white/10 shadow-xl transition-all">
@@ -322,38 +301,38 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
         <div className="max-w-5xl mx-auto px-6 py-12 pb-32">
           {/* Lesson Actions & Audio Player */}
           <div className="mb-10 flex flex-col md:flex-row justify-between items-center gap-6 bg-white p-8 rounded-[40px] border border-[#C87A7A]/10 shadow-sm">
-             <div className="flex flex-col gap-1">
-               <h2 className="text-3xl font-bold text-[#5A6B70] serif-display italic">{activeLesson?.title}</h2>
-               <div className="flex items-center gap-4 text-xs font-black uppercase tracking-widest text-[#5A6B70]/40">
-                 <span className="flex items-center gap-1.5"><Play className="w-3.5 h-3.5" /> {activeLesson?.duration}</span>
-                 <span className="w-1 h-1 rounded-full bg-[#5A6B70]/20" />
-                 <span>Level: {course.level}</span>
-               </div>
-             </div>
-             
-             <div className="flex items-center gap-4">
-               {activeLesson?.audioUrl && (
-                 <div className="flex items-center gap-3 bg-[#F9F7F2] p-2 pr-4 rounded-2xl border border-[#C87A7A]/5">
-                   <button 
+            <div className="flex flex-col gap-1">
+              <h2 className="text-3xl font-bold text-[#5A6B70] serif-display italic">{activeLesson?.title}</h2>
+              <div className="flex items-center gap-4 text-xs font-black uppercase tracking-widest text-[#5A6B70]/40">
+                <span className="flex items-center gap-1.5"><Play className="w-3.5 h-3.5" /> {activeLesson?.duration}</span>
+                <span className="w-1 h-1 rounded-full bg-[#5A6B70]/20" />
+                <span>Level: {course.level}</span>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-4">
+              {activeLesson?.audioUrl && (
+                <div className="flex items-center gap-3 bg-[#F9F7F2] p-2 pr-4 rounded-2xl border border-[#C87A7A]/5">
+                  <button
                     onClick={toggleAudio}
                     className="w-10 h-10 bg-[#C87A7A] text-white rounded-xl flex items-center justify-center hover:scale-105 active:scale-95 transition-all"
-                   >
-                     {isAudioPlaying ? <Pause className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
-                   </button>
-                   <div className="flex flex-col">
-                     <span className="text-[9px] font-black uppercase tracking-widest text-[#C87A7A]">Audio Version</span>
-                     <span className="text-[10px] font-bold text-[#5A6B70]">Listen to Lesson</span>
-                   </div>
-                   <audio ref={audioRef} src={activeLesson.audioUrl} onEnded={() => setIsAudioPlaying(false)} className="hidden" />
-                 </div>
-               )}
-               <button 
+                  >
+                    {isAudioPlaying ? <Pause className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
+                  </button>
+                  <div className="flex flex-col">
+                    <span className="text-[9px] font-black uppercase tracking-widest text-[#C87A7A]">Audio Version</span>
+                    <span className="text-[10px] font-bold text-[#5A6B70]">Listen to Lesson</span>
+                  </div>
+                  <audio ref={audioRef} src={activeLesson.audioUrl} onEnded={() => setIsAudioPlaying(false)} className="hidden" />
+                </div>
+              )}
+              <button
                 onClick={() => activeLesson && toggleLessonComplete(activeLesson.id)}
                 className={`px-8 py-3 rounded-2xl font-bold transition-all shadow-lg flex items-center gap-2 ${completedLessons.has(activeLesson?.id || '') ? 'bg-green-500 text-white' : 'bg-[#C87A7A] text-white hover:scale-105'}`}
-               >
-                  {completedLessons.has(activeLesson?.id || '') ? 'Completed' : 'Mark Complete'} <CheckCircle className="w-5 h-5" />
-               </button>
-             </div>
+              >
+                {completedLessons.has(activeLesson?.id || '') ? 'Completed' : 'Mark Complete'} <CheckCircle className="w-5 h-5" />
+              </button>
+            </div>
           </div>
 
           {/* Navigation Tabs */}
@@ -381,7 +360,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                 <div className="bg-white p-10 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm">
                   <StyledMarkdown content={activeLesson?.content || ""} />
                 </div>
-                
+
                 {activeLesson?.transcript && (
                   <div className="bg-[#E8C586]/5 p-10 rounded-[40px] border border-[#E8C586]/20">
                     <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic mb-6">Video Transcript</h3>
@@ -406,7 +385,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                           <p className="text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">{res.type}</p>
                         </div>
                       </div>
-                      <a 
+                      <a
                         href={res.url && res.url !== '#' ? res.url : '#'}
                         onClick={(e) => {
                           if (!res.url || res.url === '#') {
@@ -500,7 +479,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             )}
 
             {activeTab === 'discussions' && (
-              <LessonComments comments={activeLesson?.comments || []} onAddComment={() => {}} />
+              <LessonComments comments={activeLesson?.comments || []} onAddComment={() => { }} />
             )}
           </div>
         </div>
@@ -520,42 +499,69 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
               </div>
               <div className="px-4 py-3 space-y-2">
                 {section.lessons.map((lesson) => (
-                  <button key={lesson.id} onClick={() => { setActiveLesson(lesson); setActiveTab('content'); }} className={`w-full text-left p-4 rounded-2xl flex items-center gap-4 transition-all ${activeLesson?.id === lesson.id ? 'bg-[#F9F7F2] border-[#C87A7A]/20 shadow-md border' : 'hover:bg-[#F9F7F2]/50'}`}>
-                    <div className={`w-6 h-6 rounded-lg flex items-center justify-center border-2 ${completedLessons.has(lesson.id) ? 'bg-green-500 border-green-500' : 'border-[#C87A7A]/20'}`}>
-                      {completedLessons.has(lesson.id) ? <CheckCircle className="w-4 h-4 text-white" /> : <div className="w-1.5 h-1.5 bg-[#C87A7A]/20 rounded-full" />}
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <div className={`text-sm font-bold truncate ${activeLesson?.id === lesson.id ? 'text-[#C87A7A]' : 'text-[#5A6B70]'}`}>{lesson.title}</div>
-                      <div className="text-[8px] text-[#5A6B70]/40 font-black uppercase tracking-widest mt-1 flex items-center gap-2">
-                        {lesson.type === 'video' ? <Play className="w-2.5 h-2.5" /> : <FileText className="w-2.5 h-2.5" />}
-                        {lesson.duration}
+                  <div key={lesson.id} className="mb-2">
+                    <button
+                      onClick={() => { setActiveLesson(lesson); setActiveTab('content'); }}
+                      className={`w-full text-left p-4 rounded-2xl flex items-center gap-4 transition-all ${activeLesson?.id === lesson.id ? 'bg-[#F9F7F2] border-[#C87A7A]/20 shadow-md border' : 'hover:bg-[#F9F7F2]/50'}`}
+                    >
+                      <div className={`w-6 h-6 rounded-lg flex items-center justify-center border-2 ${completedLessons.has(lesson.id) ? 'bg-green-500 border-green-500' : 'border-[#C87A7A]/20'}`}>
+                        {completedLessons.has(lesson.id) ? <CheckCircle className="w-4 h-4 text-white" /> : <div className="w-1.5 h-1.5 bg-[#C87A7A]/20 rounded-full" />}
                       </div>
-                    </div>
-                  </button>
+                      <div className="flex-1 min-w-0">
+                        <div className={`text-sm font-bold truncate ${activeLesson?.id === lesson.id ? 'text-[#C87A7A]' : 'text-[#5A6B70]'}`}>{lesson.title}</div>
+                        <div className="text-[8px] text-[#5A6B70]/40 font-black uppercase tracking-widest mt-1 flex items-center gap-2">
+                          {lesson.type === 'video' ? <Play className="w-2.5 h-2.5" /> : <FileText className="w-2.5 h-2.5" />}
+                          {lesson.duration}
+                        </div>
+                      </div>
+                    </button>
+
+                    {/* Render TOC for active lesson - OUTSIDE the button */}
+                    {activeLesson?.id === lesson.id && lesson.content && (
+                      <div className="mt-2 ml-4 pl-6 border-l-2 border-[#C87A7A]/10 space-y-1 animate-in slide-in-from-left-2 duration-300">
+                        {extractTOC(lesson.content).map((item) => (
+                          <a
+                            key={item.id}
+                            href={`#${item.id}`}
+                            onClick={(e) => {
+                              e.preventDefault();
+                              const element = document.getElementById(item.id);
+                              if (element) {
+                                element.scrollIntoView({ behavior: 'smooth' });
+                              }
+                            }}
+                            className={`block py-1 text-[11px] font-medium leading-tight transition-colors hover:text-[#dd8b8b] hover:translate-x-1 duration-200 ${item.level === 3 ? 'pl-3 text-[#5A6B70]/50' : 'text-[#5A6B70]/70'}`}
+                          >
+                            {item.text}
+                          </a>
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 ))}
               </div>
             </div>
           ))}
         </div>
-        
+
         {/* Certificate Sidebar Panel */}
         <div className="p-6 bg-[#F9F7F2]/50 border-t border-[#C87A7A]/10">
-           <div className={`p-6 rounded-[24px] border flex flex-col gap-4 transition-all ${isCourseComplete ? 'bg-[#E8C586] border-[#E8C586] text-[#5A6B70]' : 'bg-white border-[#C87A7A]/10 text-[#5A6B70]/40'}`}>
-               <div>
-                 <p className="text-[9px] font-black uppercase tracking-widest leading-none mb-1">Milestone Progress</p>
-                 <div className="h-1.5 bg-[#5A6B70]/10 rounded-full overflow-hidden mb-2">
-                    <div className="h-full bg-[#C87A7A] transition-all" style={{ width: `${currentProgress}%` }} />
-                 </div>
-                 <h4 className="text-md font-bold serif-display italic">{isCourseComplete ? 'Claim Certificate!' : `Complete ${totalLessonsCount - completedLessons.size} more`}</h4>
-               </div>
-               <button 
-                onClick={() => isCourseComplete && generateCertificate(currentUser.name, course.title)}
-                disabled={!isCourseComplete}
-                className={`w-full py-3 rounded-xl flex items-center justify-center gap-2 font-black text-[10px] uppercase tracking-widest ${isCourseComplete ? 'bg-white text-[#C87A7A] shadow-md hover:scale-105' : 'bg-transparent border border-current opacity-30 cursor-not-allowed'}`}
-               >
-                 <Award className="w-4 h-4" /> Download Award
-               </button>
+          <div className={`p-6 rounded-[24px] border flex flex-col gap-4 transition-all ${isCourseComplete ? 'bg-[#E8C586] border-[#E8C586] text-[#5A6B70]' : 'bg-white border-[#C87A7A]/10 text-[#5A6B70]/40'}`}>
+            <div>
+              <p className="text-[9px] font-black uppercase tracking-widest leading-none mb-1">Milestone Progress</p>
+              <div className="h-1.5 bg-[#5A6B70]/10 rounded-full overflow-hidden mb-2">
+                <div className="h-full bg-[#C87A7A] transition-all" style={{ width: `${currentProgress}%` }} />
+              </div>
+              <h4 className="text-md font-bold serif-display italic">{isCourseComplete ? 'Claim Certificate!' : `Complete ${totalLessonsCount - completedLessons.size} more`}</h4>
             </div>
+            <button
+              onClick={() => isCourseComplete && generateCertificate(currentUser.name, course.title)}
+              disabled={!isCourseComplete}
+              className={`w-full py-3 rounded-xl flex items-center justify-center gap-2 font-black text-[10px] uppercase tracking-widest ${isCourseComplete ? 'bg-white text-[#C87A7A] shadow-md hover:scale-105' : 'bg-transparent border border-current opacity-30 cursor-not-allowed'}`}
+            >
+              <Award className="w-4 h-4" /> Download Award
+            </button>
+          </div>
         </div>
       </div>
     </div>

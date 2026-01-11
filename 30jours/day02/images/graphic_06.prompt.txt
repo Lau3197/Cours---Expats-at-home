@@ -1,0 +1,17 @@
+**Visual Structure:** A three-column or three-section numbered summary slide.
+
+**Content:**
+
+**Headline:** Key Takeaways / Summary
+
+**Section 1: Choose Your Banks Wisely**
+*   **Text:** For your main bank, choose a reliable traditional bank like KBC, ING, or BNP Paribas Fortis. Consider adding a digital bank like N26 for extra flexibility.
+*   **Visual:** Icons/logos for KBC, ING, and BNP Paribas Fortis, possibly grouped under "Traditional Banks." A separate icon/logo for N26 under "Digital Bank."
+
+**Section 2: Opening Your Account**
+*   **Text:** To open your account, you just need your ID and proof of your Belgian address.
+*   **Visual:** An icon representing an ID card (e.g., a national ID or passport) and an icon representing a document or letter as proof of address.
+
+**Section 3: Pay Like a Local**
+*   **Text:** Use your Bancontact card for everything. Set up a *domiciliation* (a direct debit) for all your monthly bills.
+*   **Visual:** An icon of a Bancontact card or logo. An icon representing recurring payments (e.g., a calendar with a repeating arrow and a Euro sign).

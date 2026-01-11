@@ -1,0 +1,4 @@
+Screenshot of the IRISbox website homepage.
+**Visual Structure**: Direct screenshot of the official IRISbox website homepage.
+**Content Details**: The screenshot should clearly display the IRISbox branding and interface, highlighting its function as the "electronic service counter for the Brussels region." Visually emphasize areas or elements on the page that suggest the ability to "select your commune" and "book your appointment online."
+**Text Overlay**: "IRISbox: Your Online Portal for Appointments"

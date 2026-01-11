@@ -1,0 +1,9 @@
+**Visual Structure:** A 2x2 grid or horizontal showcase displaying four distinct training categories.
+
+**Content:**
+Each section features a simple, illustrative icon paired with its specific category name, representing "one of the most direct ways to boost your career" through professional development.
+
+1.  **Leadership & Management**: (Icon: e.g., an upward-trending arrow with a figure, interconnected gears, or a strategic chess piece)
+2.  **Finance**: (Icon: e.g., a currency symbol like €, a rising bar chart, or a calculator)
+3.  **EU Affairs**: (Icon: e.g., the circle of EU stars, a stylized map of Europe, or an official document with an EU flag)
+4.  **Tech & IT**: (Icon: e.g., a computer monitor, code brackets, a network cloud, or a server rack)

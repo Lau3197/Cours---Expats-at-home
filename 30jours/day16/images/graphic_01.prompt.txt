@@ -1,0 +1,6 @@
+A flowchart, referred to as the 'bureaucracy_flowchart', illustrating four key Belgian administrative processes. Each process should be represented by a distinct icon and linked to its main associated government body:
+1.  **Registering:** Icon representing residence or registration. Body: 'Commune / Gemeentehuis'.
+2.  **Taxes:** Icon representing financial forms or the tax system. Body: 'Tax Authority'.
+3.  **Healthcare:** Icon representing health or essential insurances. Body: 'Health Insurance Provider'.
+4.  **Driving:** Icon representing a car or vehicle registration. Body: 'Vehicle Registration Authority'.
+The overall visual should convey a clear, simplified path through what can feel like a bureaucratic 'maze', aiming to replace confusion with a clear plan for common tasks.

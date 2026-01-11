@@ -1,0 +1,3 @@
+**Visual Structure:** Full-screen title card.
+
+**Content:** Display "Part 3: The Practical Stuff" as the prominent section title.

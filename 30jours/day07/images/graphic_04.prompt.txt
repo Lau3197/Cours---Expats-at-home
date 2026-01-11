@@ -1,0 +1,11 @@
+**Visual Structure:** A prominent central title. Below it, a key directive emphasized, followed by three distinct, visually separated cards or sections, each detailing a specific example goal for Week 2. A concluding motivational statement at the bottom.
+
+**Content:**
+*   **Main Title:** "Setting Goals for Week 2"
+*   **Key Directive:** "Choose just ONE small, achievable goal. (Not ten, just one!)"
+*   **Caution/Avoid:** "Avoid big, stressful goals (e.g., 'make five new friends')."
+*   **Three Example Goals (each in its own visual element):**
+    1.  "Try one new Belgian food (e.g., *stoemp* - a mashed potato with vegetables)."
+    2.  "Find your local library (*bibliothèques*)."
+    3.  "Walk down a street in your neighbourhood you haven't explored yet."
+*   **Concluding Message:** "Build confidence, one small step at a time."

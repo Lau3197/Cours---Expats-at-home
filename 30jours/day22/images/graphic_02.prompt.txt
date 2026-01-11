@@ -1,0 +1,8 @@
+Visual Structure: Weekly Schedule Grid Template.
+Columns: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+Rows: Morning, Afternoon, Evening.
+Content: Illustrate the following specific example entries within their respective grid cells:
+*   **Wednesday Afternoon:** Local market at Place du Châtelain
+*   **Wednesday Afternoon:** Kids finish school early
+*   **Saturday Morning:** Grocery shopping
+*   **Sunday (spanning the entire day):** Rest day / Walk in Parc de Woluwe

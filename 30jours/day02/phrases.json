@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "french": "Je voudrais ouvrir un compte bancaire",
+    "english": "",
+    "context": "Banking & Finance Setup"
+  },
+  {
+    "id": 2,
+    "french": "Quels documents avez-vous besoin?",
+    "english": "",
+    "context": "Banking & Finance Setup"
+  },
+  {
+    "id": 3,
+    "french": "Je voudrais faire un virement",
+    "english": "",
+    "context": "Banking & Finance Setup"
+  }
+]

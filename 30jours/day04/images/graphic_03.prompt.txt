@@ -1,0 +1,5 @@
+Animated Map of Brussels with distinct neighborhood outlines. As each group is mentioned, highlight the specified neighborhoods and display their associated characteristics:
+
+1.  **Ixelles and Saint-Gilles:** Highlighted. Display: "EU Institutions & Young Professionals," "Lively, Central," "Popular with Expats," "Bars, Cafes, Parks."
+2.  **Uccle and Woluwe-Saint-Pierre:** Highlighted. Display: "Families & Quieter Lifestyle," "Greener, Suburban Feel," "Bigger Houses, Gardens, Schools," "Good City Connections."
+3.  **Marolles and Dansaert area:** Highlighted. Display: "Historic, Trendy, Alternative," "Flea Markets, Independent Shops," "Authentic Brussels Character."

@@ -1,0 +1,23 @@
+**Visual Structure:** Comparison Table.
+
+**Content:** A table comparing four supermarkets with the following columns: "Supermarket," "Price," "Selection," and "Best For."
+
+*   **Delhaize:**
+    *   Price: Quality-focused (implied mid-to-higher)
+    *   Selection: General range
+    *   Best For: Quality all-rounder
+
+*   **Colruyt:**
+    *   Price: Best prices for big weekly shop
+    *   Selection: Functional, less frills
+    *   Best For: Big weekly shop
+
+*   **Carrefour:**
+    *   Price: Convenience-focused (implied mid-to-higher)
+    *   Selection: Very wide (food to electronics); includes "Carrefour Express" (quick items) and "Carrefour Hypermarkets"
+    *   Best For: Most choice & convenience, longest opening hours
+
+*   **Aldi:**
+    *   Price: Very low cost / Budget
+    *   Selection: Smaller, mostly own brands
+    *   Best For: Budget basics, saving money

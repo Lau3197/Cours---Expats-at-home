@@ -1,0 +1,5 @@
+**Visual Structure:** Animated Timeline
+
+**Content:** An animated timeline illustrating key historical rulers of the land now known as Belgium leading up to its independence.
+*   **Segment 1 (Historical Rulers):** Display a sequence or grouping of previous rulers: Romans, Spanish, Austrians, French, and Dutch.
+*   **Segment 2 (Independence):** Highlight the year "1830" with the event "Belgium becomes an independent country."

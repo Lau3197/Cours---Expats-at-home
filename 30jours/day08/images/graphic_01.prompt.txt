@@ -1,0 +1,5 @@
+A four-panel comparison grid featuring the logos of the main supermarkets. Each panel details key characteristics:
+1.  **Delhaize:** Logo prominently displayed. Text mentions "Classic Belgian," "100+ years," "Quality Balance," "Great Fresh Produce," "Good Store Brand," "International Products," and "Reliable Daily/Weekly Shop."
+2.  **Colruyt:** Logo prominently displayed. Text highlights "Low Prices Focus," "Warehouse Style," "Practical Shopping Experience," and "Pack Own Bags."
+3.  **Carrefour:** Logo prominently displayed. Text notes "French Chain," "Huge in Belgium," and mentions "Different Sizes" including "Carrefour Express" (for quick items) and "Carrefour Hypermarkets" (large format).
+4.  **Aldi:** Logo prominently displayed.

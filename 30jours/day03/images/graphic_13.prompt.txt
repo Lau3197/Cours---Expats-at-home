@@ -1,0 +1,21 @@
+**Visual Structure:** A four-panel or four-column infographic. Each of the four summary points should be clearly numbered and presented with a bold title, a concise textual explanation of the key details, and a distinct accompanying icon or simple illustration.
+
+**Content:**
+
+1.  **Title:** JOIN A MUTUELLE
+    *   **Text:** It's mandatory health insurance. You must register within 3 months.
+    *   **Icon Suggestion:** A shield or a checkmark, possibly with a calendar icon indicating a 3-month deadline.
+
+2.  **Title:** PAY FIRST, GET REIMBURSED LATER
+    *   **Text:** Pay the doctor upfront. Use the green form and your sticker to get about 77% of it back.
+    *   **Icon Suggestion:** Hands exchanging money, a green document icon, and a percentage sign (77%).
+
+3.  **Title:** FIND ENGLISH-SPEAKING DOCTORS
+    *   **Text:** Use online tools like Doctoranytime.be or call and ask.
+    *   **Icon Suggestion:** A laptop or smartphone screen with a search bar and "Doctoranytime.be" visible, or a phone icon with a speech bubble.
+
+4.  **Title:** KNOW YOUR NUMBERS
+    *   **Text:**
+        *   **112:** For life-threatening emergencies (fire, serious accident, heart attack).
+        *   **1733:** For urgent, but not critical, medical needs (e.g., high fever on a Saturday).
+    *   **Icon Suggestion:** Two distinct icons: one for "112" (e.g., a siren or ambulance) and one for "1733" (e.g., a doctor's bag or stethoscope with a phone).

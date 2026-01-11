@@ -1,0 +1,11 @@
+**Visual Structure:** Detailed Information Panel / Fact Card
+
+**Content Description:**
+A graphic featuring the prominent logos for SNCB (French) and NMBS (Dutch). Below or alongside the logos, present the following key information in distinct, clearly labeled sections:
+
+*   **Company Name:** "SNCB (French)" and "NMBS (Dutch)"
+*   **Brussels Main Stations:** List "Brussels-Nord," "Brussels-Central," and "Brussels-Midi" (with its Dutch alternative "Zuidstation").
+*   **International Connections:** Specify that Brussels-Midi/Zuidstation is for international trains, listing examples: "Eurostar (to London)" and "Thalys (to Paris and Amsterdam)."
+*   **National Destinations (Examples):** Include "Ghent" and "Antwerp" to illustrate the extensive network.
+*   **Ticket Purchase Options:** Depict or list methods: "At the station" and via the "SNCB app."
+*   **Special Offer (Example):** Highlight the "Weekend Ticket" offering "50% off on return journeys."

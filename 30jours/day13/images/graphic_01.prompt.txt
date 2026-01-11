@@ -1,0 +1,3 @@
+Visual Structure: Map.
+
+A stylized, simple map depicting a residential neighborhood in Brussels. Clearly mark a starting point labeled "Your Home" or "Apartment." Show a faint, greyed-out path illustrating a typical routine (e.g., leading right towards a generic "Metro Station"). Overlay a prominent, dashed line representing a "Self-Guided Walking Tour," starting from "Your Home" and veering left into previously unexplored streets. The path should visually suggest a "ten-minute walk" in an unfamiliar direction. Include generic residential buildings and placeholder street names (e.g., Rue des Lilas, Avenue du Parc) to illustrate "looking at buildings and names of little streets." The overall feel should convey "exploring your local area" to find "special spots."

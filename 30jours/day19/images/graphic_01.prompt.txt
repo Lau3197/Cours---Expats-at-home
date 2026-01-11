@@ -1,0 +1,13 @@
+**Visual Structure:** Map of Belgium.
+
+**Content:**
+*   A simplified map of Belgium, prominently featuring Brussels as the central hub.
+*   Display train lines radiating from Brussels to three key destination cities: Ghent, Antwerp, and Leuven.
+*   Clearly label each train line with its approximate travel time from Brussels:
+    *   To Ghent: ~35 min
+    *   To Antwerp: ~45 min
+    *   To Leuven: ~30 min
+*   For each destination city (Ghent, Antwerp, Leuven), include a concise descriptive annotation reflecting its key characteristics:
+    *   **Ghent:** Historic canals, relaxed atmosphere.
+    *   **Antwerp:** Shopping, art, vibrant energy.
+    *   **Leuven:** Lively university town.

@@ -2,497 +2,374 @@
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Maîtriser les formules de politesse essentielles pour la vie quotidienne en Belgique
+**Objectifs** : Demander "Comment ça va ?", utiliser les formules de politesse, découvrir le verbe "avoir"
 
 ---
 
-## Let's Start! Learning Polite Expressions
+## 🎧 Let's Start! À la boulangerie
 
-## Discovery Activity: What's Missing?
+### Écoutez ce dialogue
 
-**Here's a real situation you'll face:**
+**Tom entre dans une boulangerie à Bruxelles :**
 
-You walk into a bakery in Brussels. The baker says "Bonjour !" You want to buy bread. What do you say?
-
-**A)** "Un pain" (A bread)  
-**B)** "Un pain, s'il vous plaît" (A bread, please)  
-**C)** Just point at the bread
-
-**Which one do you think is correct?** Write down: A, B, or C
-
----
-
-## Introduction
-
-**Did you guess B?** You're absolutely right!
-
-In Belgium, you MUST say "s'il vous plaît" (please) when asking for something. It's essential for politeness!
-
-**What you will learn today:**
-- How to ask "How are you?" and respond (formal and informal)
-- Essential polite expressions (please, thank you, excuse me, you're welcome)
-- The verb "avoir" (to have) - especially "J'ai"
-
-**Belgian context:** Politeness is VERY important in Belgium. Always say "Bonjour" when entering a shop and "Merci" when leaving. Belgians appreciate good manners!
+> **Boulanger :** Bonjour, monsieur !
+> 
+> **Tom :** Bonjour ! Comment ça va ?
+> 
+> **Boulanger :** Ça va bien, merci ! Et vous ?
+> 
+> **Tom :** Très bien, merci ! Je voudrais un pain, **s'il vous plaît**.
+> 
+> **Boulanger :** Voilà ! C'est 2 euros 50.
+> 
+> **Tom :** Voilà. **Merci** beaucoup !
+> 
+> **Boulanger :** **Je vous en prie**. Bonne journée !
+> 
+> **Tom :** Bonne journée !
 
 ---
 
-## French Pronunciation: Key Sounds for This Lesson
+### 🔍 Compréhension
 
-**Before we start, here are the key sounds you'll need:**
+**Répondez aux questions :**
 
-## The French R [ʁ]
+1. Comment va le boulanger ?
+2. Tom veut acheter quoi ?
+3. Combien coûte le pain ?
+4. Qu'est-ce que Tom dit quand il reçoit le pain ?
 
-**Not like English R!** Make a sound from the back of your throat (like gargling!)
+<details>
+<summary>📝 Réponses</summary>
 
-**Examples in this lesson:**
-- **merci** [mɛʁsi] - R in the middle
+1. Il va **bien**
+2. Un **pain**
+3. **2 euros 50**
+4. **Merci beaucoup**
 
-**💡 Practice tip:** Try saying "merci" and feel the R vibrate in your throat!
-
-## Nasal Sounds
-
-**These are special French sounds - let air through your nose!**
-
-**The "en" sound [ɑ̃]:**
-- **Comment** [kɔmɑ̃] - say "ah" but let air through your nose!
-
-**The "in" sound [ɛ̃]:**
-- **bien** [bjɛ̃] - say "eh" but let air through your nose!
-
-**Quick Practice:** Say these words 3 times each, focusing on the sounds:
-- Merci [mɛʁsi]
-- Comment [kɔmɑ̃]
-- Bien [bjɛ̃]
-
-**Good!** Now you're ready to learn the words! 🎉
+</details>
 
 ---
 
-## Part 1: Essential Polite Expressions
+## 🔍 Observation 1 : Comment ça va ?
 
-## Mini-Dialogue 1: In a Shop
+**Regardez cette partie du dialogue :**
 
-**You :** Bonjour ! Un pain, **s'il vous plaît**.  
-**Baker :** Bien sûr ! Voilà !
+> **Tom :** **Comment ça va ?**  
+> **Boulanger :** **Ça va bien**, merci ! Et vous ?  
+> **Tom :** **Très bien**, merci !
 
-**You :** **Merci** beaucoup !  
-**Baker :** **De rien** !
+**Que remarquez-vous ?**
 
-## Vocabulary: Polite Expressions
+- Pour demander "How are you?" → **Comment ça va ?**
+- Pour répondre → **Ça va bien** ou **Très bien**
+- On ajoute toujours **merci** !
 
-**You just heard these words. Let's learn them:**
+### Vocabulaire : Comment ça va ?
 
-| Français | IPA | English | Exemple d'utilisation |
-|----------|-----|---------|---------------------|
-| S'il vous plaît | [sil vu plɛ] | Please (formal) | Un café, s'il vous plaît. |
-| S'il te plaît | [sil tə plɛ] | Please (informal) | Passe-moi le pain, s'il te plaît. |
-| Merci | [mɛʁsi] | Thank you | Merci ! |
-| Merci beaucoup | [mɛʁsi boku] | Thank you very much | Merci beaucoup ! |
-| De rien | [də ʁjɛ̃] | You're welcome (informal) | De rien, c'est normal. |
-| Je vous en prie | [ʒə vu zɑ̃ pʁi] | You're welcome (formal) | Je vous en prie, madame. |
-| Excusez-moi | [ɛkskyze mwa] | Excuse me (formal) | Excusez-moi, où est la gare ? |
-| Pardon | [paʁdɔ̃] | Sorry / Pardon | Pardon, je ne comprends pas. |
-
-**💡 Important:** 
-- In Belgium, always use "s'il vous plaît" in shops and with people you don't know!
-- Use "Je vous en prie" in shops (more formal). With friends, use "De rien".
-- Use "Excusez-moi" to get attention or apologize. Use "Pardon" when you bump into someone.
-
-## Try It Now!
-
-**Practice these exchanges:**
-
-1. **Asking for something:**
-   - "Un café, s'il vous plaît" (3 times)
-   - "Une baguette, s'il vous plaît" (3 times)
-
-2. **Saying thank you:**
-   - "Merci !" (3 times)
-   - "Merci beaucoup !" (3 times)
-
-3. **Responding to thank you:**
-   - A: "Merci !" → B: "De rien !" (2 times)
-   - A: "Merci !" → B: "Je vous en prie !" (2 times)
-
-4. **Excuse me:**
-   - "Excusez-moi, où est... ?" (3 times)
-   - "Pardon !" (3 times)
+| Français | Prononciation | English |
+|:---------|:--------------|:--------|
+| Comment ça va ? | [kɔmɑ̃ sa va] | How are you? (informal) |
+| Ça va bien | [sa va bjɛ̃] | I'm fine |
+| Très bien | [tʁɛ bjɛ̃] | Very well |
+| Et vous ? | [e vu] | And you? (formal) |
+| Et toi ? | [e twa] | And you? (informal) |
 
 ---
 
-## Part 2: Asking "How Are You?"
+## ✏️ Practice 1 : Comment ça va ?
 
-## Mini-Dialogue 2: Formal Greeting
+**Jouez cette conversation :**
 
-**Shopkeeper :** Bonjour ! **Comment allez-vous ?**  
-**You :** Bonjour ! Ça va bien, merci. **Et vous ?**  
-**Shopkeeper :** Très bien, merci !
+**A :** Bonjour ! Comment ça va ?  
+**B :** Ça va bien, merci ! Et vous ?  
+**A :** Très bien, merci !
 
-## Mini-Dialogue 3: Informal Greeting
-
-**Friend :** Salut ! **Comment ça va ?**  
-**You :** Salut ! Ça va bien ! **Et toi ?**  
-**Friend :** Ça va très bien, merci !
-
-## Vocabulary: How Are You?
-
-**You just heard these words. Let's learn them:**
-
-| Français | IPA | English | Usage |
-|----------|-----|---------|-------|
-| Comment allez-vous ? | [kɔmɑ̃t ale vu] | How are you? (formal) | Use with shopkeepers, neighbors, people you don't know well |
-| Comment ça va ? | [kɔmɑ̃ sa va] | How are you? (informal) | Use with friends and people you know well |
-| Ça va bien, merci | [sa va bjɛ̃ mɛʁsi] | I'm fine, thank you | Response to "How are you?" |
-| Très bien, merci | [tʁɛ bjɛ̃ mɛʁsi] | Very well, thank you | Response to "How are you?" |
-| Pas mal | [pa mal] | Not bad | Response to "How are you?" |
-| Et vous ? | [e vu] | And you? (formal) | Follow-up question |
-| Et toi ? | [e twa] | And you? (informal) | Follow-up question |
-
-**💡 Important:** 
-- Use "Comment allez-vous ?" with people you don't know well (shopkeepers, neighbors, etc.)
-- Use "Comment ça va ?" with friends and people you know well
-
-## Try It Now!
-
-**Practice these conversations:**
-
-1. **Formal exchange:**
-   - A: "Bonjour ! Comment allez-vous ?"
-   - B: "Ça va bien, merci ! Et vous ?"
-   - A: "Très bien, merci !"
-   Say it 2 times!
-
-2. **Informal exchange:**
-   - A: "Salut ! Comment ça va ?"
-   - B: "Ça va bien ! Et toi ?"
-   - A: "Ça va très bien, merci !"
-   Say it 2 times!
+**Dites-le 3 fois à voix haute !**
 
 ---
 
-## Part 3: Grammar "Avoir"
+## 🔍 Observation 2 : S'il vous plaît
 
-## Grammar Point 1: "J'ai" = "I have"
+**Regardez cette partie du dialogue :**
 
-**"J'ai"** [ʒe] means **"I have"** in English.
+> **Tom :** Je voudrais un pain, **s'il vous plaît**.
 
-**How to use it:**
-- **J'ai** + something = "I have [something]"
-- Example: **J'ai un pain** = "I have a bread"
+**Que remarquez-vous ?**
 
-**⚠️ Important:** It's "J'ai" not "Je ai" - the "e" is dropped before a vowel!
+- Quand on demande quelque chose, on ajoute **"s'il vous plaît"**
+- "S'il vous plaît" = "Please" en anglais
+- C'est ESSENTIEL en Belgique !
 
-**Examples:**
-- J'ai un appartement à Bruxelles. (I have an apartment in Brussels.)
-- J'ai une question. (I have a question.)
-- J'ai un rendez-vous. (I have an appointment.)
+### Formel vs Informel
 
-## Try It Now!
-
-**Say these sentences:**
-- "J'ai un pain" (I have a bread)
-- "J'ai une question" (I have a question)
-- "J'ai un rendez-vous" (I have an appointment)
-
-Practice each 3 times!
+| Situation | Français | English |
+|:----------|:---------|:--------|
+| Avec un vendeur | S'il **vous** plaît | Please (formal) |
+| Avec un ami | S'il **te** plaît | Please (informal) |
 
 ---
 
-## Grammar Point 2: More Forms of "Avoir"
+## ✏️ Practice 2 : S'il vous plaît
 
-**You've learned "J'ai" (I have). Here are more forms:**
+**Demandez ces choses poliment :**
 
-| Pronom | Verbe "avoir" | IPA | English | Exemple |
-|--------|---------------|-----|---------|---------|
-| J' | ai | [ʒe] | I have | J'ai un pain. |
-| Tu | as | [ty a] | You have (informal) | Tu as un chat ? |
-| Il/Elle | a | [il/ɛl a] | He/She has | Il a une voiture. |
-| Nous | avons | [nu zavɔ̃] | We have | Nous avons une carte MOBIB. |
-| Vous | avez | [vu zave] | You have (formal/plural) | Vous avez des questions ? |
-| Ils/Elles | ont | [il/ɛl ɔ̃] | They have | Ils ont un appartement. |
+1. Un café → "Un café, _______________."
+2. L'addition → "L'addition, _______________."
+3. Un croissant → "Un croissant, _______________."
 
-**💡 Don't worry!** For now, focus on "J'ai" - you'll use it the most!
+<details>
+<summary>📝 Réponses</summary>
 
-**More examples:**
-- Tu as un chat ? (Do you have a cat?)
-- Nous avons un rendez-vous. (We have an appointment.)
-- Vous avez la carte MOBIB ? (Do you have the MOBIB card?)
-- Ils ont un appartement à Ixelles. (They have an apartment in Ixelles.)
+1. Un café, **s'il vous plaît**.
+2. L'addition, **s'il vous plaît**.
+3. Un croissant, **s'il vous plaît**.
 
-## Quick Practice
-
-**Complete these sentences:**
-
-1. J'_____ un rendez-vous à la commune. (ai)
-2. Tu _____ un chat ? (as)
-3. Nous _____ une carte MOBIB. (avons)
-4. Vous _____ des questions ? (avez)
-5. Il _____ une voiture. (a)
-
-**Answers:** ai, as, avons, avez, a ✅
-
-**Now create your own sentences:**
-- Write 3 sentences using "J'ai"
-- Write 2 sentences using "Tu as"
-- Write 1 sentence using "Nous avons"
+</details>
 
 ---
 
-## Practice: Put It All Together!
+## 🔍 Observation 3 : Merci et réponses
 
-**Now create a complete shop conversation:**
+**Regardez cette partie du dialogue :**
 
-1. Say hello: "Bonjour !"
-2. Ask how they are: "Comment allez-vous ?"
-3. Answer: "Ça va bien, merci ! Et vous ?"
-4. Ask for something: "Un pain, s'il vous plaît"
-5. Say thank you: "Merci beaucoup !"
-6. Respond: "Je vous en prie !"
-7. Say goodbye: "Bonne journée !"
+> **Tom :** **Merci** beaucoup !  
+> **Boulanger :** **Je vous en prie**.
 
-**Say the whole conversation out loud 2 times!**
+**Que remarquez-vous ?**
 
----
+- Pour remercier → **Merci** ou **Merci beaucoup**
+- Pour répondre "You're welcome" → **Je vous en prie** (formel) ou **De rien** (informel)
 
-## Listening Comprehension: A Polite Exchange
+### Vocabulaire : Merci et réponses
 
-## Audio: At the Bakery
-
-**While listening:** 
-- Don't worry if you don't understand everything! Just try to catch the polite expressions.
-- Listen at least twice - the first time for the general idea, the second time for details!
-
-## Transcription
-
-**Baker :** Bonjour, madame ! Comment allez-vous ?
-
-**Customer :** Bonjour ! Ça va bien, merci. Et vous ?
-
-**Baker :** Très bien, merci ! Que désirez-vous ?
-
-**Customer :** Je voudrais un pain, s'il vous plaît.
-
-**Baker :** Bien sûr, voilà !
-
-**Customer :** Merci beaucoup !
-
-**Baker :** Je vous en prie !
-
-**Customer :** Merci, bonne journée !
-
-**Baker :** Merci, au revoir !
-
-**Quick Check:** Did you hear these?
-- How the baker greets the customer
-- How the customer asks for bread
-- How they say goodbye
-
-**Answers:** "Bonjour, madame! Comment allez-vous?", "Un pain, s'il vous plaît.", "Merci, bonne journée! / Merci, au revoir!"
-
-**Good work!** You've just heard a real-life polite conversation! 🎉
+| Français | English | Usage |
+|:---------|:--------|:------|
+| Merci | Thank you | Standard |
+| Merci beaucoup | Thank you very much | Plus reconnaissant |
+| Je vous en prie | You're welcome | Formel |
+| De rien | You're welcome | Informel |
 
 ---
 
-## Speaking Practice: Practice the Dialogue
+## 🔍 Observation 4 : Bonne journée
 
-**Now practice the dialogue you just heard!**
+**Regardez la fin du dialogue :**
 
-## Practice the "Customer" Role
+> **Boulanger :** **Bonne journée !**  
+> **Tom :** **Bonne journée !**
 
-**Read the dialogue from Listening Comprehension and practice saying the "Customer" lines:**
+**Que remarquez-vous ?**
 
-**Baker :** Bonjour, madame ! Comment allez-vous ?
+- "Bonne journée" = "Have a nice day"
+- On le dit quand on quitte un magasin
 
-**You (Customer) :** Bonjour ! Ça va bien, merci. Et vous ?
+### Vocabulaire : Formules de fin
 
-**Baker :** Très bien, merci ! Que désirez-vous ?
-
-**You (Customer) :** Je voudrais un pain, s'il vous plaît.
-
-**Baker :** Bien sûr, voilà !
-
-**You (Customer) :** Merci beaucoup !
-
-**Baker :** Je vous en prie !
-
-**You (Customer) :** Merci, bonne journée !
-
-**Baker :** Merci, au revoir !
-
-**Practice:**
-1. Read the "Customer" lines out loud 3 times
-2. Try to match the pronunciation from the audio
-3. Focus on polite intonation
-
-**💡 Tip:** Listen to the audio again and repeat immediately after each "Customer" line (shadowing technique).
+| Français | English | Quand ? |
+|:---------|:--------|:--------|
+| Bonne journée | Have a nice day | Pendant la journée |
+| Bonne soirée | Have a nice evening | Le soir |
+| Bon week-end | Have a nice weekend | Vendredi/samedi |
+| À bientôt | See you soon | Quand on va se revoir |
 
 ---
 
-## Writing Practice: Write a Polite Dialogue
+## 🇧🇪 Culture : La politesse en Belgique
 
-## Guided Exercise: Your First Polite Text!
+### Lisez ce témoignage
 
-**Topic:** Write a short dialogue (5-6 sentences) between a client and a shopkeeper in a Belgian shop.
+**Sarah, expat américaine à Bruxelles :**
 
-**Don't stress!** This is just practice. Write what you can, and don't worry about being perfect!
+> "Au début, je ne disais pas 'Bonjour' en entrant dans les magasins. Les vendeurs étaient froids avec moi ! Maintenant, je dis toujours 'Bonjour' en entrant et 'Merci, bonne journée !' en partant. Les Belges sont beaucoup plus chaleureux !"
 
-**Suggested structure:**
-1. Client greets the shopkeeper.
-2. Shopkeeper asks how the client is.
-3. Client responds and asks for an item politely.
-4. Shopkeeper gives the item.
-5. Client says thank you/goodbye.
+### Les règles d'or de la politesse belge
 
-**Useful vocabulary:**
-- Bonjour, Au revoir, Merci, S'il vous plaît
-- Comment allez-vous ?, Ça va bien
-- Un pain, un croissant, une baguette (a bread, a croissant, a baguette)
-- J'ai (I have)
-
-**💡 Writing tip:** Focus on using the polite expressions you learned. Making mistakes is how we learn!
-
-## Free Writing: Be Creative!
-
-**Topic:** Imagine you are at a market in Brussels. Write a short dialogue where you buy items, using polite expressions.
-
-**Evaluation criteria:**
-- Did you use "avoir" correctly (e.g., "J'ai un pain")?
-- Did you use appropriate polite vocabulary?
-- Is the structure clear?
-
-## Model Answer: See How It's Done!
-
-**Example:**
-
-**Client :** Bonjour ! Un pain, s'il vous plaît.
-**Vendeur :** Bonjour ! Ça va bien, merci.
-**Client :** Ça va bien, merci.
-**Vendeur :** Voilà !
-**Client :** Merci beaucoup !
-**Vendeur :** Je vous en prie !
-**Client :** Merci, bonne journée !
-**Vendeur :** Merci, au revoir !
-
-**What's good about this:**
-- ✅ Great use of "Bonjour", "S'il vous plaît", "Merci"
-- ✅ Correct use of "Ça va bien"
-- ✅ Clear and polite exchange
-
-**Now write your own version!** 🎨
+| ✅ À faire | ❌ À éviter |
+|:----------|:-----------|
+| "Bonjour !" en entrant | Entrer sans rien dire |
+| "S'il vous plaît" pour demander | Demander sans "s'il vous plaît" |
+| "Merci !" après un service | Partir sans remercier |
+| "Bonne journée !" en partant | Partir silencieusement |
 
 ---
 
-## Common Mistakes to Avoid
+## 🔍 Observation 5 : Le verbe AVOIR
 
-**Watch out for these common mistakes:**
+**Écoutez cette conversation avec Sophie :**
 
-## Mistake 1: Not Saying "Bonjour" First
+> **Sophie :** Tu as un rendez-vous à la commune ?
+> 
+> **Tom :** Oui, **j'ai** un rendez-vous à 14h. Et toi ?
+> 
+> **Sophie :** Moi, **j'ai** une réunion. On **a** beaucoup de travail aujourd'hui !
 
-**Wrong:** "Un pain, s'il vous plaît" (without "Bonjour")  
-**Correct:** "Bonjour ! Un pain, s'il vous plaît" ✅
+**Que remarquez-vous ?**
 
-**Why:** In Belgium, you MUST say "Bonjour" before asking for something!
+- "J'ai" = "I have"
+- "Tu as" = "You have"
+- "On a" = "We have" (informal)
 
----
+### Vocabulaire : Avoir
 
-## Mistake 2: Using "Comment allez-vous ?" with Friends
+| Français | English |
+|:---------|:--------|
+| J'ai | I have |
+| Tu as | You have |
+| Il/Elle/On a | He/She/We has/have |
 
-**Wrong:** "Salut ! Comment allez-vous ?" (too formal for friends)  
-**Correct:** "Salut ! Comment ça va ?" ✅
+### Exemples courants
 
-**Why:** "Comment allez-vous ?" is formal. Use "Comment ça va ?" with friends.
-
----
-
-## Mistake 3: "J'ai" Written as "Je ai"
-
-**Wrong:** "Je ai un pain"  
-**Correct:** "J'ai un pain" ✅
-
-**Why:** Before a vowel, "je" becomes "j'". Always write "J'ai" not "Je ai".
-
----
-
-## Mistake 4: Not Saying "Merci" When Leaving
-
-**Wrong:** Leaving a shop without saying anything  
-**Correct:** "Merci, bonne journée !" ✅
-
-**Why:** In Belgium, always say "Merci" when leaving shops!
+- **J'ai** un rendez-vous. (I have an appointment.)
+- **J'ai** une question. (I have a question.)
+- **J'ai** faim. (I'm hungry. - litteralement "I have hunger")
 
 ---
 
-## Mistake 5: "De rien" vs "Je vous en prie" Confusion
+## ✏️ Practice 3 : J'ai...
 
-**Wrong:** Using "De rien" in a very formal situation  
-**Correct:** "De rien" (informal) or "Je vous en prie" (formal) both mean "you're welcome" ✅
+**Complétez avec "j'ai", "tu as" ou "il/elle a" :**
 
-**Why:** Both are correct, but "Je vous en prie" is more formal. In Belgium, when in doubt, use "Je vous en prie" in shops and formal situations.
+1. _______ un frère. (je)
+2. _______ une voiture ? (tu)
+3. Sophie _______ un rendez-vous. (elle)
+4. _______ une question. (je)
 
----
+<details>
+<summary>📝 Réponses</summary>
 
-## Survival Phrases: When You Don't Understand
+1. **J'ai** un frère.
+2. **Tu as** une voiture ?
+3. Sophie **a** un rendez-vous.
+4. **J'ai** une question.
 
-**Essential phrases for when you don't understand:**
-
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort!
-
----
-
-## Belgian Culture: The Importance of Politeness!
-
-**Did you know?** In Belgium, politeness is not just a suggestion, it's a way of life! Always greeting people (Bonjour/Bonsoir) and thanking them (Merci) is fundamental.
-
-**Practical tip:** Politeness shows respect for the local culture and will be noticed and appreciated.
+</details>
 
 ---
 
-## Wrap-up: What You've Accomplished!
+## 🗣️ Speaking Practice
 
-**Congratulations!** You've learned:
+### Exercice 1 : À la boulangerie
 
-✅ How to use essential polite expressions (please, thank you, excuse me)  
-✅ How to ask "How are you?" and respond (formal and informal)  
-✅ The verb "avoir" (to have) - especially "J'ai"
+**Jouez ce dialogue :**
 
-**You're ready for polite daily interactions in Belgium!** 🎉
+**Vendeur :** Bonjour !  
+**Vous :** Bonjour ! _______________? (Comment ça va ?)  
+**Vendeur :** Ça va bien, merci ! Vous désirez ?  
+**Vous :** Un croissant, _______________. (s'il vous plaît)  
+**Vendeur :** Voilà !  
+**Vous :** _______________ ! (Merci)  
+**Vendeur :** Je vous en prie.  
+**Vous :** _______________ ! (Bonne journée)
 
----
+### Exercice 2 : Conversation complète
 
-## Self-Evaluation: Check What You Know!
-
-**How confident are you with what you've learned?** Check the boxes below:
-
-- [ ] I can say "S'il vous plaît" and "Merci" correctly.
-- [ ] I can respond to "Merci" with "De rien" or "Je vous en prie".
-- [ ] I can ask "Comment allez-vous ?" (formal) and "Comment ça va ?" (informal).
-- [ ] I can respond "Ça va bien, merci !".
-- [ ] I can use "Excusez-moi" to get attention or apologize.
-- [ ] I know how to use "J'ai" (I have).
-- [ ] I understand why politeness is important in Belgium.
-- [ ] I can use at least 2 survival phrases when I don't understand.
-
-**Your Score:**
-- **8-9/9:** Amazing! You've mastered the basics! Keep practicing!
-- **5-7/9:** Great job! You're almost there. Review the sections you're less confident about.
-- **Less than 5/9:** No worries! Learning takes time. Go back through the lesson, focus on the "Try It Now!" sections, and practice out loud. You'll get there!
+**Entraînez-vous à avoir cette conversation fluide !**
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
+## ✍️ Writing Practice
 
-**Want to practice more?**
+**Écrivez un court dialogue (5-6 échanges) dans un café.**
 
-- Practice pronunciation: `Prononciation/00_Decouvrir_la_Prononciation_Francaise.md`
-- Review vocabulary: Make flashcards with the words you learned
-- Practice speaking: Role-play polite interactions with a friend or in front of a mirror!
+Incluez :
+- Bonjour
+- Comment ça va ?
+- Commander quelque chose avec "s'il vous plaît"
+- Merci
+- Bonne journée
 
 ---
 
-*Bonne continuation !*
+## 📖 Grammar : Récapitulatif
+
+### Le verbe AVOIR (to have)
+
+| Français | English |
+|:---------|:--------|
+| J'ai | I have |
+| Tu as | You have |
+| Il/Elle/On a | He/She has / We have |
+| Nous avons | We have |
+| Vous avez | You have (formal/plural) |
+| Ils/Elles ont | They have |
+
+### Usages courants de "avoir"
+
+| Expression | English | Exemple |
+|:-----------|:--------|:--------|
+| J'ai + nom | I have + noun | J'ai un rendez-vous. |
+| J'ai faim | I'm hungry | J'ai faim ! |
+| J'ai soif | I'm thirsty | J'ai soif ! |
+| J'ai froid | I'm cold | J'ai froid. |
+| J'ai chaud | I'm hot | J'ai chaud. |
+
+### Formules de politesse - Récap
+
+| Pour... | Formel | Informel |
+|:--------|:-------|:---------|
+| Please | S'il vous plaît | S'il te plaît |
+| Thank you | Merci | Merci |
+| You're welcome | Je vous en prie | De rien |
+| How are you? | Comment allez-vous ? | Comment ça va ? / Ça va ? |
+
+---
+
+## ⚠️ Common Mistakes to Avoid
+
+### Erreur 1 : Oublier "s'il vous plaît"
+
+| ❌ Incorrect | ✅ Correct |
+|:------------|:-----------|
+| "Un café." | "Un café, **s'il vous plaît**." |
+
+**En Belgique, c'est considéré comme impoli !**
+
+### Erreur 2 : Confondre "Je suis" et "J'ai"
+
+| ❌ Incorrect | ✅ Correct |
+|:------------|:-----------|
+| "Je suis faim" | "**J'ai** faim" |
+| "Je suis 30 ans" | "**J'ai** 30 ans" |
+
+**En français, on "a" faim/soif/froid/chaud, on ne "l'est" pas !**
+
+### Erreur 3 : "De rien" dans un contexte formel
+
+| ❌ Moins approprié | ✅ Mieux |
+|:-------------------|:--------|
+| (au vendeur) "De rien" | "**Je vous en prie**" |
+
+**"De rien" est pour les amis, "Je vous en prie" pour les vendeurs/inconnus.**
+
+---
+
+## ✅ Self-Evaluation
+
+**Cochez ce que vous savez faire :**
+
+- ☐ Je sais demander "Comment ça va ?" et répondre
+- ☐ Je sais utiliser "s'il vous plaît" pour demander
+- ☐ Je sais dire "merci" et répondre à "merci"
+- ☐ Je sais dire "Bonne journée !"
+- ☐ Je connais les formes de base de "avoir" (j'ai, tu as, il/elle a)
+- ☐ Je comprends les règles de politesse en Belgique
+
+---
+
+## 📚 Extra Resources
+
+### Activités supplémentaires
+
+- **Au café :** Commandez en français cette semaine en utilisant toutes les formules
+- **Observation :** Écoutez comment les Belges disent "merci" et "au revoir" dans les magasins
+- **Enregistrement :** Enregistrez-vous jouant le dialogue de la boulangerie
+
+### Prochaine leçon
+
+> **Leçon 03 : Les nombres et l'âge**  
+> Vous apprendrez à compter et à dire votre âge !
+
+---
+
+*Bonne continuation ! 🎉*

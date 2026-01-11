@@ -354,20 +354,15 @@ En Belgique, il faut s'habiller selon les saisons. En hiver, il fait froid et il
 
 ## Survival Phrases: When You Don't Understand
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+**Essential phrases for shopping clothes:**
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
+1. **"C'est ma taille."** [sɛ ma taj] = It's my size.
+2. **"Je peux essayer ?"** [ʒə pø esɛje] = Can I try it on?
+3. **"C'est trop grand."** [sɛ tʁo gʁɑ̃] = It's too big.
+4. **"Il fait froid."** [il fɛ fʁwa] = It's cold.
+5. **"J'aime ce pull."** [ʒɛm sə pyl] = I like this sweater.
 
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** "Les soldes" (sales) happen in January and July in Belgium!
 
 ---
 
@@ -527,29 +522,9 @@ En Belgique, les gens s'habillent selon les saisons et le temps. Il pleut souven
 
 **You should be proud!** 🎉 You can now talk about clothes and what to wear in different seasons!
 
-**Spaced Review Schedule:**
 
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review clothing items: manteau, veste, pantalon, jupe, robe, chaussures
-- Practice seasons: printemps, été, automne, hiver
-- Practice describing what you wear: "Je porte [clothing]"
 
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do grammar exercises about "porter"
-- Practice conjugating "porter" with different clothing items
-- Practice seasonal clothing: "En hiver, je porte..."
 
-**In 1 week:** Review grammar rules (10 minutes)
-- Review "porter" conjugation: je porte, tu portes, il porte, nous portons, vous portez, ils portent
-- Review articles with clothes: un/une before clothing nouns
-- Review adjective agreement: une robe rouge, des robes rouges
-
-**In 2 weeks:** Practice describing clothes (15 minutes)
-- Describe what you're wearing out loud in French
-- Practice talking about appropriate clothing for each season
-- Practice the clothes dialogue
-
-**Tip:** Set calendar reminders for these reviews! Clothes vocabulary is essential for daily conversations and shopping.
 
 ## Self-Evaluation: Check Your Progress!
 
@@ -569,22 +544,24 @@ En Belgique, les gens s'habillent selon les saisons et le temps. Il pleut souven
 
 ---
 
-## Quick Reference: Print This & Keep It Handy
+## Extra Resources: Keep the Momentum Going!
 
-**Essential phrases from this lesson:**
+**Want to practice more?**
 
-| French | IPA | English |
-|--------|-----|---------|
-| Je porte... | [ʒə pɔʁt] | I wear... |
-| Un manteau / Un pull | [œ̃ mɑ̃to / œ̃ pyl] | A coat / A sweater |
-| Des gants / Une écharpe | [de gɑ̃ / yn eʃaʁp] | Gloves / A scarf |
-| Un parapluie | [œ̃ paʁaplɥi] | An umbrella |
-| Il fait froid / chaud | [il fɛ fʁwa / ʃo] | It's cold / hot |
-| Il pleut / Il neige | [il plø / il nɛʒ] | It's raining / snowing |
-
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+- **Wardrobe Check:** Open your closet and name 5 items in French.
+- **Online Shopping:** Visit a French clothing site (e.g., Zalando.be in FR) and filter by "couleur" or "taille".
+- **Weather Prep:** Check the weather forecast for tomorrow and describe what you will wear.
+- **People Watching:** Sit in a park (or look out the window) and describe what people are wearing.
 
 ---
 
 *Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+
+---
+
+## Prochaine leçon
+
+**Leçon suivante :** Les loisirs et les hobbies  
+**Thème :** Parler de ce qu'on aime faire  
+**Prérequis :** Verbe aimer
 

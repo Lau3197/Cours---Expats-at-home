@@ -1,0 +1,25 @@
+**Visual Structure:** A numbered, vertical step-by-step infographic or checklist design. Each step should feature its number, title, and detailed description, potentially accompanied by a relevant simple icon.
+
+**Content:**
+
+**Title:** Commune Mastery Steps
+
+**Step 1:**
+*   **Title:** Know Your Deadline
+*   **Details:** 8 days for non-EU, 3 months for EU citizens.
+
+**Step 2:**
+*   **Title:** Book Online
+*   **Details:** Use IRISbox for Brussels.
+
+**Step 3:**
+*   **Title:** Prepare Documents
+*   **Details:** Get your checklist right, and make copies!
+
+**Step 4:**
+*   **Title:** The Police Visit
+*   **Details:** Put your name on the doorbell.
+
+**Step 5:**
+*   **Title:** Be Patient
+*   **Details:** The full process takes 2-3 months.

@@ -1,0 +1,11 @@
+Title: Essential Greetings & Politeness.
+Visual Structure: A clear title at the top, followed by a vertical list of phrases. Each phrase should be presented with the French term, its English translation, and any specific usage notes.
+Content:
+*   **Bonjour** (Hello - formal, use during the day). Include a specific note: "Use when entering any shop."
+*   **Salut** (Hi - informal, for friends)
+*   **Bonsoir** (Good evening)
+*   **Ça va?** (How are you?)
+*   **Merci** (Thank you)
+*   **S'il vous plaît** (Please / Here you are)
+*   **De rien** (You're welcome)
+*   **Excusez-moi** (Excuse me)

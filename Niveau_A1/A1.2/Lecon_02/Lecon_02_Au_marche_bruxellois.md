@@ -115,20 +115,15 @@ Bruxelles compte de nombreux marchés. Le marché de la place du Jeu de Balle es
 
 ## Survival Phrases: When You Don't Understand
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+**Essential phrases for the market:**
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
+1. **"C'est combien ?"** [sɛ kɔ̃bjɛ̃] = How much is it?
+2. **"Un kilo de tomates, SVP."** [œ̃ kilo də tɔmat] = A kilo of tomatoes, please.
+3. **"C'est frais ?"** [sɛ fʁɛ] = Is it fresh?
+4. **"Je peux goûter ?"** [ʒə pø gute] = Can I taste?
+5. **"C'est tout, merci."** [sɛ tu mɛʁsi] = That's all, thanks.
 
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** Bring your own bags (sacs) to the market!
 
 ---
 
@@ -256,46 +251,20 @@ Les marchés sont une institution en Belgique. C'est l'endroit idéal pour déco
 - Faire ses courses
 - Verbe "acheter"
 
-**Spaced Review Schedule:**
 
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review food vocabulary: fruits, légumes, pain, fromage
-- Review quantities: un kilo, une livre, un morceau
-- Practice "Je voudrais [quantity] de [product]"
 
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do Exercise 1 (acheter conjugation)
-- Practice creating sentences about shopping
-- Practice asking prices: "C'est combien ?"
 
-**In 1 week:** Review grammar rules (10 minutes)
-- Review "acheter" conjugation table
-- Review quantities: un kilo de, une livre de (remember: une livre = 500g in Belgium!)
-- Practice market dialogue
-
-**In 2 weeks:** Practice at a real market (15 minutes)
-- Visit a Belgian market and practice ordering
-- Practice the market dialogue out loud before going
-- Try buying something simple at the market using French
-
-**Tip:** Set calendar reminders for these reviews! Market vocabulary is essential for daily shopping in Belgium.
 
 ---
 
-## Quick Reference: Print This & Keep It Handy
+## Extra Resources: Keep the Momentum Going!
 
-**Essential phrases from this lesson:**
+**Want to practice more?**
 
-| French | IPA | English |
-|--------|-----|---------|
-| Je voudrais... | [ʒə vudʁɛ] | I would like... |
-| Un kilo de... | [œ̃ kilo də] | A kilo of... |
-| Une livre de... | [yn livʁ də] | Half a kilo of... |
-| C'est combien ? | [sɛ kɔ̃bjɛ̃] | How much is it? |
-| Ça fait... euros | [sa fɛ ... øʁo] | That's... euros |
-| Autre chose ? | [otʁ ʃoz] | Anything else? |
-
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+- **Market Visit:** Go to a local market (e.g., Place du Jeu de Balle) and listen to vendors.
+- **Shopping List:** Write your next grocery list in French.
+- **Cooking:** Find a simple Belgian recipe online and try to name ingredients in French.
+- **Challenge:** Buy one fruit or vegetable using only French!
 
 ---
 
@@ -304,3 +273,12 @@ Les marchés sont une institution en Belgique. C'est l'endroit idéal pour déco
 
 
 
+*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+
+---
+
+## Prochaine leçon
+
+**Leçon suivante :** L'heure et les horaires  
+**Thème :** Dire l'heure et comprendre les horaires  
+**Prérequis :** Connaître les nombres jusqu'à 60

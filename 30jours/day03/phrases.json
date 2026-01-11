@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "french": "Je suis inscrit \u00e0 la mutuelle",
+    "english": "",
+    "context": "Healthcare Decoded"
+  },
+  {
+    "id": 2,
+    "french": "Je voudrais prendre rendez-vous",
+    "english": "",
+    "context": "Healthcare Decoded"
+  },
+  {
+    "id": 3,
+    "french": "O\u00f9 est la pharmacie de garde?",
+    "english": "",
+    "context": "Healthcare Decoded"
+  }
+]

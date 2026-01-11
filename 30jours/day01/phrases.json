@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "french": "Bonjour, je voudrais m'inscrire",
+    "english": "",
+    "context": "Commune Mastery"
+  },
+  {
+    "id": 2,
+    "french": "Voici mon passeport",
+    "english": "",
+    "context": "Commune Mastery"
+  },
+  {
+    "id": 3,
+    "french": "J'habite ici depuis une semaine",
+    "english": "",
+    "context": "Commune Mastery"
+  },
+  {
+    "id": 4,
+    "french": "O\u00f9 est le guichet?",
+    "english": "",
+    "context": "Commune Mastery"
+  }
+]

@@ -1,0 +1,18 @@
+**Visual Structure:** Numbered List with Icons
+
+**Graphic Content:**
+
+**Title:** Budget Shopping Tips
+
+1.  **Shop Seasonally:**
+    *   Icon: Seasonal produce (e.g., berries for summer, root vegetables for winter).
+    *   Text: Look for seasonal produce at markets. Examples: Berries (summer), Root Vegetables (winter).
+2.  **Use Store Brands:**
+    *   Icon: Shopping cart or supermarket aisle.
+    *   Text: Check supermarket own-brands. Examples: Delhaize "365", Colruyt "Everyday".
+3.  **Bring Reusable Bags:**
+    *   Icon: Reusable shopping bag.
+    *   Text: Always bring your own reusable bags to avoid plastic bag fees.
+4.  **Checkout Language Tip:**
+    *   Icon: Speech bubble with a question mark.
+    *   Text: "Avec ça?" at checkout means "Anything else?". Reply "Non, merci" or "Oui".

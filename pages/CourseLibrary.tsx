@@ -3,8 +3,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { Star, ChevronRight, CheckCircle, ShieldCheck, Loader2, Sparkles, BookOpen } from 'lucide-react';
 import { masterCurriculum } from '../data/mockData';
 import { CoursePackage } from '../types';
-import { db } from '../services/firebase';
-import { collection, getDocs, query, orderBy } from 'firebase/firestore';
+import localCourses from '../data/allCourses.json';
 import StyledMarkdown from '../components/StyledMarkdown';
 import { fuzzySearchCourses, fuzzySearchLessons, getSearchSuggestions, SearchResult, LessonSearchResult } from '../services/search';
 
@@ -18,33 +17,28 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchCourses = async () => {
+    // Load courses from local JSON
+    const loadCourses = () => {
       try {
-        const q = query(collection(db, 'courses'));
-        const querySnapshot = await getDocs(q);
-        const fetchedCourses: CoursePackage[] = [];
-        querySnapshot.forEach((doc) => {
-          fetchedCourses.push({ id: doc.id, ...doc.data() } as CoursePackage);
-        });
-
-        // If Firestore is empty, we show the mock data
-        if (fetchedCourses.length === 0) {
-          setCourses(masterCurriculum);
-        } else {
+        if (localCourses && localCourses.length > 0) {
           // Sort by level A1 -> A2 -> B1 -> B2
           const levelOrder = { 'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4 };
-          fetchedCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
-          setCourses(fetchedCourses);
+          // We need to cast to CoursePackage[] because JSON import might be inferred loosely
+          const typedCourses = localCourses as unknown as CoursePackage[];
+          typedCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
+          setCourses(typedCourses);
+        } else {
+          setCourses(masterCurriculum);
         }
       } catch (error) {
-        console.error("Error fetching courses from Firestore:", error);
+        console.error("Error loading local courses:", error);
         setCourses(masterCurriculum);
       } finally {
         setLoading(false);
       }
     };
 
-    fetchCourses();
+    loadCourses();
   }, []);
 
   // Recherche fuzzy avec résultats triés par pertinence
@@ -157,33 +151,33 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
         {searchResults.map((result, idx) => {
           const pkg = result.course;
           return (
-            <div 
+            <div
               key={pkg.id}
               onClick={() => onSelectCourse(pkg)}
               className="group relative bg-white rounded-[56px] p-10 border border-[#dd8b8b]/10 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-700 cursor-pointer overflow-hidden"
             >
               <div className="absolute top-0 right-0 w-64 h-64 bg-[#F9F7F2] rounded-full -mr-20 -mt-20 group-hover:bg-[#dd8b8b]/5 transition-all duration-700" />
-              
+
               <div className="relative z-10 flex flex-col md:flex-row items-center gap-10">
                 <div className="w-32 h-32 rounded-[40px] bg-[#F9F7F2] flex items-center justify-center text-5xl font-black text-[#dd8b8b] serif-display italic shadow-inner border border-[#dd8b8b]/5">
                   {pkg.level}
                 </div>
-                
+
                 <div className="flex-1 text-center md:text-left">
                   <div className="flex items-center justify-center md:justify-start gap-3 mb-2 flex-wrap">
-                     <div className="px-3 py-1 bg-[#E8C586] text-white text-[9px] font-black rounded-full uppercase tracking-widest">
-                       Étape {idx + 1}
-                     </div>
-                     {searchTerm && result.score < 1 && (
-                       <div className="px-3 py-1 bg-[#dd8b8b]/10 text-[#dd8b8b] text-[9px] font-black rounded-full uppercase tracking-widest border border-[#dd8b8b]/20">
-                         {Math.round(result.score * 100)}% de correspondance
-                       </div>
-                     )}
-                     <div className="flex text-[#E8C586]">
+                    <div className="px-3 py-1 bg-[#E8C586] text-white text-[9px] font-black rounded-full uppercase tracking-widest">
+                      Étape {idx + 1}
+                    </div>
+                    {searchTerm && result.score < 1 && (
+                      <div className="px-3 py-1 bg-[#dd8b8b]/10 text-[#dd8b8b] text-[9px] font-black rounded-full uppercase tracking-widest border border-[#dd8b8b]/20">
+                        {Math.round(result.score * 100)}% de correspondance
+                      </div>
+                    )}
+                    <div className="flex text-[#E8C586]">
                       <Star className="w-3 h-3 fill-current" />
                       <Star className="w-3 h-3 fill-current" />
                       <Star className="w-3 h-3 fill-current" />
-                     </div>
+                    </div>
                   </div>
                   <h3 className="text-4xl font-bold text-[#5A6B70] serif-display italic mb-4">{pkg.title}</h3>
                   {result.matchedLessons && result.matchedLessons.length > 0 && (
@@ -205,29 +199,29 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
                       </div>
                     </div>
                   )}
-                <div className="text-[#5A6B70]/70 text-lg leading-relaxed mb-6 max-w-xl prose prose-lg max-w-none">
-                  <StyledMarkdown 
-                    content={pkg.description} 
-                    className="[&_p]:text-lg [&_p]:leading-relaxed [&_p]:mb-3 [&_p]:sans-handwritten [&_p]:italic [&_p]:text-[#5A6B70]/70 [&_ul]:list-disc [&_ul]:ml-6 [&_ul]:space-y-2 [&_li]:text-[#5A6B70]/70"
-                  />
+                  <div className="text-[#5A6B70]/70 text-lg leading-relaxed mb-6 max-w-xl prose prose-lg max-w-none">
+                    <StyledMarkdown
+                      content={pkg.description}
+                      className="[&_p]:text-lg [&_p]:leading-relaxed [&_p]:mb-3 [&_p]:sans-handwritten [&_p]:italic [&_p]:text-[#5A6B70]/70 [&_ul]:list-disc [&_ul]:ml-6 [&_ul]:space-y-2 [&_li]:text-[#5A6B70]/70"
+                    />
+                  </div>
+                  <div className="flex flex-wrap justify-center md:justify-start gap-4">
+                    <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
+                      <CheckCircle className="w-3 h-3 text-green-400" /> Vidéos HD
+                    </span>
+                    <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
+                      <CheckCircle className="w-3 h-3 text-green-400" /> Vokabel-Trainer
+                    </span>
+                    <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
+                      <CheckCircle className="w-3 h-3 text-green-400" /> PDF-Ressourcen
+                    </span>
+                  </div>
                 </div>
-                <div className="flex flex-wrap justify-center md:justify-start gap-4">
-                  <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
-                    <CheckCircle className="w-3 h-3 text-green-400" /> Vidéos HD
-                  </span>
-                  <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
-                    <CheckCircle className="w-3 h-3 text-green-400" /> Vokabel-Trainer
-                  </span>
-                  <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">
-                    <CheckCircle className="w-3 h-3 text-green-400" /> PDF-Ressourcen
-                  </span>
-                </div>
-              </div>
 
-              <div className="w-20 h-20 rounded-[30px] bg-[#F9F7F2] flex items-center justify-center text-[#dd8b8b] group-hover:bg-[#dd8b8b] group-hover:text-white transition-all transform group-hover:rotate-12 shadow-sm">
-                <ChevronRight className="w-10 h-10" />
+                <div className="w-20 h-20 rounded-[30px] bg-[#F9F7F2] flex items-center justify-center text-[#dd8b8b] group-hover:bg-[#dd8b8b] group-hover:text-white transition-all transform group-hover:rotate-12 shadow-sm">
+                  <ChevronRight className="w-10 h-10" />
+                </div>
               </div>
-            </div>
             </div>
           );
         })}
@@ -240,7 +234,7 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
         <p className="text-xl sans-handwritten italic opacity-80 mb-12 max-w-xl mx-auto">
           One simple membership. Unlimited access to the entire Mastery Path. Your home for French in Belgium.
         </p>
-        <button 
+        <button
           onClick={() => onSelectCourse(courses[0])}
           className="px-12 py-5 bg-[#dd8b8b] text-white rounded-[24px] font-black sans-geometric uppercase tracking-[0.3em] hover:scale-105 transition-all shadow-xl shadow-black/20"
         >

@@ -47,13 +47,13 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
     if (searchValue.length >= 2) {
       const newSuggestions = getSearchSuggestions(courses, searchValue, 5);
       setSuggestions(newSuggestions);
-      
+
       const courseResults = fuzzySearchCourses(courses, searchValue, 0.3);
       setMatchedCourses(courseResults.slice(0, 5).map(r => r.course));
-      
+
       const lessonResults = fuzzySearchLessons(courses, searchValue, 0.3);
       setMatchedLessons(lessonResults.slice(0, 5));
-      
+
       setShowSuggestions(true);
     } else {
       setSuggestions([]);
@@ -111,29 +111,50 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full">
         <div className="flex justify-between h-full items-center">
           <div className="flex items-center gap-10 h-full">
-            <div 
-              className="flex items-center cursor-pointer group h-full relative" 
+            <div
+              className="flex items-center cursor-pointer group h-full relative"
               onClick={() => onNavigate('library')}
             >
               {/* Logo container: allowing it to be larger than standard icons */}
               <div className="h-20 transition-transform duration-500 group-hover:scale-105 flex items-center">
-                <img 
-                  src={logoUrl} 
-                  alt="ExpatsatHome.be" 
+                <img
+                  src={logoUrl}
+                  alt="ExpatsatHome.be"
                   className="h-full w-auto object-contain py-1"
                 />
               </div>
             </div>
-            
+
             <div className="hidden xl:flex items-center gap-8 text-[10px] font-black text-[#5A6B70]/40 sans-geometric uppercase tracking-[0.3em]">
-              <button 
+              <button
                 onClick={() => onNavigate('library')}
                 className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'library' ? 'text-[#dd8b8b]' : ''}`}
               >
                 Catalog
                 {currentPage === 'library' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
-              <button 
+              <button
+                onClick={() => onNavigate('grammaire')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'grammaire' ? 'text-[#dd8b8b]' : ''}`}
+              >
+                Grammaire
+                {currentPage === 'grammaire' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+              </button>
+              <button
+                onClick={() => onNavigate('30jours')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === '30jours' ? 'text-[#dd8b8b]' : ''}`}
+              >
+                30 Jours
+                {currentPage === '30jours' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+              </button>
+              {/* <button
+                onClick={() => onNavigate('lessons')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'lessons' ? 'text-[#dd8b8b]' : ''}`}
+              >
+                Leçons
+                {currentPage === 'lessons' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+              </button> */}
+              <button
                 onClick={() => onNavigate('dashboard')}
                 className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'dashboard' ? 'text-[#dd8b8b]' : ''}`}
               >
@@ -141,7 +162,7 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
                 {currentPage === 'dashboard' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
               {(user.role === 'admin' || user.role === 'superadmin' || user.role === 'instructor') && (
-                <button 
+                <button
                   onClick={() => onNavigate('instructor')}
                   className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'instructor' ? 'text-[#dd8b8b]' : ''}`}
                 >
@@ -156,8 +177,8 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
             <div className="relative group">
               <div className="absolute inset-0 bg-[#dd8b8b]/5 rounded-full group-hover:bg-[#dd8b8b]/10 transition-colors" />
               <Search className="absolute left-5 top-1/2 -translate-y-1/2 text-[#dd8b8b] w-4 h-4 z-10" />
-              <input 
-                type="text" 
+              <input
+                type="text"
                 value={searchValue}
                 onChange={(e) => handleSearchChange(e.target.value)}
                 onFocus={() => searchValue.length >= 2 && setShowSuggestions(true)}
@@ -178,21 +199,21 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
           </div>
 
           <div className="flex items-center gap-4">
-            <button 
+            <button
               className="relative p-3 text-[#5A6B70]/40 hover:text-[#dd8b8b] transition-all bg-[#F9F7F2] rounded-2xl group"
               title="Notifications"
             >
               <Bell className="w-5 h-5" />
               <span className="absolute top-2 right-2 w-2 h-2 bg-[#E8C586] rounded-full border border-white"></span>
             </button>
-            <button 
+            <button
               onClick={() => onNavigate('logout')}
               className="relative p-3 text-[#5A6B70]/40 hover:text-[#dd8b8b] transition-all bg-[#F9F7F2] rounded-2xl group"
               title="Déconnexion"
             >
               <LogOut className="w-5 h-5" />
             </button>
-            <div 
+            <div
               className="flex items-center gap-4 pl-4 border-l border-[#dd8b8b]/10 cursor-pointer group"
               onClick={() => onNavigate('profile')}
             >

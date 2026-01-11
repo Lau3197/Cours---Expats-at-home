@@ -1,0 +1,9 @@
+Illustration of a central MOBIB smartcard. Around the card, include callouts or a layered infographic detailing:
+*   **Purpose**: "Your Key to Brussels Transport (STIB/MIVB network)" and "Plastic Smartcard for Tickets".
+*   **Card Cost & Validity**: "Card Price: €6" and "Valid for 5 Years (until 2026)".
+*   **Where to Purchase**: "Available at any Metro Station KIOSK ticket office".
+*   **Ticket Options & Prices**:
+    *   "Single Trip: €2.30"
+    *   "10-Journey Ticket: €16.80"
+    *   "Monthly Pass: €55 (Unlimited STIB lines)"
+    *   "Student School Season Ticket: €12/year (for ages 18-24, registered in Brussels)"

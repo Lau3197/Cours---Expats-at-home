@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeSlug from 'rehype-slug';
 
 interface StyledMarkdownProps {
   content: string;
@@ -12,25 +13,26 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
     <div className={`styled-markdown ${className}`}>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeSlug]}
         components={{
           // Headings avec le style serif-display
-          h1: ({ children }) => (
-            <h1 className="text-4xl font-black text-[#5A6B70] serif-display italic mb-6 mt-8 first:mt-0">
+          h1: ({ children, ...props }) => (
+            <h1 className="text-4xl font-black text-[#5A6B70] serif-display italic mb-6 mt-8 first:mt-0" {...props}>
               {children}
             </h1>
           ),
-          h2: ({ children }) => (
-            <h2 className="text-3xl font-bold text-[#5A6B70] serif-display italic mb-5 mt-8 first:mt-0">
+          h2: ({ children, ...props }) => (
+            <h2 className="text-3xl font-bold text-[#5A6B70] serif-display italic mb-5 mt-8 first:mt-0" {...props}>
               {children}
             </h2>
           ),
-          h3: ({ children }) => (
-            <h3 className="text-2xl font-bold text-[#dd8b8b] serif-display italic mb-4 mt-6">
+          h3: ({ children, ...props }) => (
+            <h3 className="text-2xl font-bold text-[#dd8b8b] serif-display italic mb-4 mt-6" {...props}>
               {children}
             </h3>
           ),
-          h4: ({ children }) => (
-            <h4 className="text-xl font-bold text-[#5A6B70] mb-3 mt-5">
+          h4: ({ children, ...props }) => (
+            <h4 className="text-xl font-bold text-[#5A6B70] mb-3 mt-5" {...props}>
               {children}
             </h4>
           ),
@@ -116,16 +118,41 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
             </blockquote>
           ),
           // Links
-          a: ({ href, children }) => (
-            <a 
-              href={href} 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-[#dd8b8b] font-bold hover:text-[#c97a7a] underline transition-colors"
-            >
-              {children}
-            </a>
-          ),
+          a: ({ href, children }) => {
+            // Check if it's an internal anchor link
+            const isAnchor = href?.startsWith('#');
+
+            if (isAnchor) {
+              return (
+                <a
+                  href={href}
+                  className="text-[#dd8b8b] font-bold hover:text-[#c97a7a] underline transition-colors cursor-pointer"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    const targetId = href?.slice(1);
+                    const targetElement = document.getElementById(targetId || '');
+                    if (targetElement) {
+                      targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
+                  }}
+                >
+                  {children}
+                </a>
+              );
+            }
+
+            // External links open in new tab
+            return (
+              <a
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#dd8b8b] font-bold hover:text-[#c97a7a] underline transition-colors"
+              >
+                {children}
+              </a>
+            );
+          },
           // Strong/Bold
           strong: ({ children }) => (
             <strong className="font-black text-[#5A6B70]">

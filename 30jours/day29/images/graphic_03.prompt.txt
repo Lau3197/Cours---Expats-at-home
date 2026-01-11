@@ -1,0 +1,6 @@
+A numbered list of 4 key takeaways, each featuring a title, concise description, and a distinct supporting visual element.
+
+1.  **Centralize Information**: Your playbook serves as one central place for all essential information about your life in Brussels, including "bakery with the best croissants," "quietest café," and "good coffee" spots.
+2.  **Start with a Template**: Utilize the `master_playbook` PDF (VERIFIED 2026) provided to structure your notes from this course.
+3.  **Personalize It**: Maximize its value by adding your unique discoveries, contacts, and favorite places.
+4.  **Keep it Alive**: This is a living document. Update it regularly (e.g., monthly for ten minutes) by adding new contacts, removing irrelevant information, and noting new discoveries to support your entire journey in Brussels.

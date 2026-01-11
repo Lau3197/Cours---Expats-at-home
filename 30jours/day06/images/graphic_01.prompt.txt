@@ -1,0 +1,7 @@
+Visual structure: Two-column comparison.
+Column 1: Belgium / Belgian French
+- 70: septante
+- 90: nonante
+Column 2: France / French from France
+- 70: soixante-dix (literal: "sixty-ten")
+- 90: quatre-vingt-dix (literal: "four-twenty-ten")

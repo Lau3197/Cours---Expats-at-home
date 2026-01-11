@@ -226,22 +226,15 @@ La Belgique est célèbre pour ses bières. Il y a plus de 1000 variétés de bi
 
 ---
 
-## Survival Phrases: When You Don't Understand
+**Essential phrases for the bar:**
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+1. **"Santé !"** [sɑ̃te] = Cheers!
+2. **"Une bière, s'il vous plaît."** [yn bjɛʁ sil vu plɛ] = A beer, please.
+3. **"Une autre ?"** [yn otʁ] = Another one?
+4. **"C'est quoi ça ?"** [sɛ kwa sa] = What is that?
+5. **"C'est fort ?"** [sɛ fɔʁ] = Is it strong?
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
-
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** Always look people in the eye when saying "Santé" in Belgium!
 
 ---
 
@@ -251,15 +244,15 @@ La Belgique est célèbre pour ses bières. Il y a plus de 1000 variétés de bi
 
 **Method 1: Record Yourself**
 1. Read the dialogue model below
-2. Record yourself saying the "Vous" lines on your phone
-3. Listen back and compare with the video/audio
-4. Try to match the pronunciation and rhythm
+2. Record yourself ordering beer on your phone
+3. Listen back and check your pronunciation
+4. Focus on using "Je voudrais" and beer vocabulary correctly
 
 **Method 2: Shadowing Technique**
 1. Play the video/audio of the dialogue
 2. Repeat immediately after each line (shadowing)
-3. Try to match the intonation and speed
-4. Focus on politeness and beer vocabulary
+3. Try to match the rhythm and pronunciation
+4. Pay attention to beer vocabulary and politeness
 
 **Method 3: Practice Both Roles**
 1. Read the entire dialogue out loud, playing both roles
@@ -288,28 +281,7 @@ La Belgique est célèbre pour ses bières. Il y a plus de 1000 variétés de bi
 
 ---
 
-## Speaking Practice: Your Turn!
 
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself ordering beer on your phone
-3. Listen back and check your pronunciation
-4. Focus on using "Je voudrais" and beer vocabulary correctly
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to beer vocabulary and politeness
-
-**Method 3: Practice Ordering Different Beers**
-1. Practice ordering different types of Belgian beers
-2. Practice: "Je voudrais [beer type], s'il vous plaît"
-3. Practice saying "À votre santé !" (Cheers!)
-
----
 
 ## Real-World Practice: Try This Today!
 
@@ -393,29 +365,7 @@ La bière est une institution en Belgique ! Il y a plus de 1000 variétés de bi
 
 **You should be proud!** 🎉 You can now order Belgian beer in French!
 
-**Spaced Review Schedule:**
 
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review beer types: blonde, brune, trappiste
-- Practice ordering phrases: "Je voudrais une bière [type], s'il vous plaît"
-- Practice saying "À votre santé !" (Cheers!)
-
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do grammar exercises about ordering beer
-- Practice using "Je voudrais" with different beer types
-- Practice asking for recommendations
-
-**In 1 week:** Review grammar rules (10 minutes)
-- Review "Je voudrais" (polite way to order)
-- Review beer vocabulary: "une bière" (feminine)
-- Review "pression" (draft) vs "bouteille" (bottle)
-
-**In 2 weeks:** Practice ordering (15 minutes)
-- Practice ordering Belgian beer out loud in French
-- Practice the ordering dialogue
-- Practice asking for recommendations and saying "À votre santé !"
-
-**Tip:** Set calendar reminders for these reviews! Beer vocabulary is essential for social situations in Belgium.
 
 ## Self-Evaluation: Check Your Progress!
 
@@ -435,19 +385,18 @@ La bière est une institution en Belgique ! Il y a plus de 1000 variétés de bi
 
 ---
 
-## Quick Reference: Print This & Keep It Handy
+## Extra Resources: Keep the Momentum Going!
 
-**Essential phrases from this lesson:**
+**Want to practice more?**
 
-| French | IPA | English |
-|--------|-----|---------|
-| Une bière | [yn bjɛʁ] | A beer |
-| Une bière blonde / brune | [yn bjɛʁ blɔ̃d / bʁyn] | A blond / dark beer |
-| Un verre de bière | [œ̃ vɛʁ də bjɛʁ] | A glass of beer |
-| À votre santé | [a vɔtʁ sɑ̃te] | Cheers |
-| Une bière, s'il vous plaît | [yn bjɛʁ sil vu plɛ] | A beer, please |
+- **Bar Roleplay:** Roleplay ordering a beer with a friend (or in front of a mirror).
+- **Label Reading:** Buy a specialized beer bottle in the supermarket and read the label (look for "blonde", "brune", "% alc").
+- **Culture:** Watch a video about "Belgian Beer Culture" on YouTube to see the different glasses.
+- **Challenge:** Order a drink in French at a café this weekend!
 
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+---
+
+*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
 
 ---
 

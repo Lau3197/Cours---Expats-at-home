@@ -1,0 +1,1 @@
+Screenshot of the Doctoranytime.be website interface. Prominently display the search or filter panel with distinct options for 'Language', 'Specialty', and 'Location'. The 'Language' filter should be clearly highlighted or emphasized, appearing active or selected.

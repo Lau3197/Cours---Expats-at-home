@@ -1,0 +1,15 @@
+Visual Structure: Three distinct resource cards or panels, arranged horizontally, each highlighting one recommended language learning app.
+
+Content for each panel:
+1.  **Babbel:**
+    *   Logo: Babbel
+    *   Primary Benefit: Best All-Around Choice
+    *   Key Features: Good Grammar Explanations, Affordable.
+2.  **Pimsleur:**
+    *   Logo: Pimsleur
+    *   Primary Benefit: Excellent for Audio Learning
+    *   Key Features: Ideal for Learning During Commutes, Focus on Listening.
+3.  **TV5MONDE EDU:**
+    *   Logo: TV5MONDE EDU
+    *   Primary Benefit: Great Free Option
+    *   Key Features: Videos with Global French Speakers (including Brussels), Practice Belgian Accent & Rhythm.

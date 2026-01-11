@@ -1,0 +1,8 @@
+A visual timeline illustrating the 'First 20 Days' of accomplishments. The timeline should feature distinct icons for each key milestone, followed by specific details extracted from the script, and a green checkmark indicating completion for each.
+
+Milestones to include:
+*   **Commune Registration / *gemeentehuis***: Alongside a visual of a municipal building, depict a Passport and a Rental Contract.
+*   **Bank Account**: Alongside a bank or money icon, include the detail 'National Registration Number'.
+*   **Utilities Setup**: Alongside a utility-related icon (e.g., light switch, water tap), include 'Proof of Identity' and 'Proof of Occupancy'.
+*   **Public Transport**: Alongside a transport icon (e.g., bus, metro), include 'Bank Card (tap)' and the 'STIB/MIVB's Floya app'.
+*   **Groceries**: Represented by a shopping cart or food items icon.

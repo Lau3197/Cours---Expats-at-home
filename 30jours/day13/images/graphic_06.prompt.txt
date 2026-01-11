@@ -1,0 +1,13 @@
+Visual structure: A three-panel summary graphic, each panel representing a key takeaway.
+
+**Panel 1: Self-Guided Walk**
+*   **Content:** "Walk out your door with no plan."
+*   **Visual:** Icon of a person stepping out of a doorway, indicating exploration.
+
+**Panel 2: Look for Three Things**
+*   **Content:** "Your local green space, a potential new cafe, your own hidden gems."
+*   **Visual:** Three distinct icons: a leaf (for green space), a coffee cup (for cafe), and a sparkling gem (for hidden gems).
+
+**Panel 3: The Goal**
+*   **Content:** "Build your personal map of happy places to make Brussels feel like home."
+*   **Visual:** A stylized map outline with multiple 'happy place' markers (e.g., small hearts, stars) scattered across it, with a prominent 'home' icon or house shape integrated into the map.

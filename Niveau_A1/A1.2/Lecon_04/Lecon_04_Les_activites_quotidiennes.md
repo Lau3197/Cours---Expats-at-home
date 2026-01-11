@@ -522,20 +522,15 @@ Le travail se termine vers 17h (5 PM). Ensuite, les Belges rentrent à la maison
 
 ## Survival Phrases: When You Don't Understand
 
-**Before we continue, here are essential phrases for when you don't understand something:**
+**Essential phrases for daily life:**
 
-- **Pouvez-vous répéter, s'il vous plaît ?** [puv vu ʁepete sil vu plɛ] = Can you repeat, please?
-- **Pouvez-vous répéter, plus lentement ?** [puv vu ʁepete ply lɑ̃tmɑ̃] = Can you repeat, more slowly?
-- **Je ne comprends pas** [ʒə nə kɔ̃pʁɑ̃ pa] = I don't understand
-- **Je ne comprends pas très bien** [ʒə nə kɔ̃pʁɑ̃ pa tʁɛ bjɛ̃] = I don't understand very well
-- **Parlez plus lentement, s'il vous plaît** [paʁle ply lɑ̃tmɑ̃ sil vu plɛ] = Speak more slowly, please
-- **Comment dit-on... en français ?** [kɔmɑ̃ dit ɔ̃ ɑ̃ fʁɑ̃sɛ] = How do you say... in French?
-- **Qu'est-ce que ça veut dire ?** [kɛs kə sa vø diʁ] = What does that mean?
-- **Pouvez-vous écrire ça, s'il vous plaît ?** [puv vu ekʁi sa sil vu plɛ] = Can you write that, please?
-- **Un moment, s'il vous plaît** [œ̃ mɔmɑ̃ sil vu plɛ] = One moment, please
-- **Euh...** [ø] = Um... / Er... (natural hesitation - use this when you need to think!)
+1. **"Je me lève tôt."** [ʒə mə lɛv to] = I get up early.
+2. **"Je suis en retard."** [ʒə sɥi ɑ̃ ʁətaʁ] = I'm late.
+3. **"Je suis fatigué(e)."** [ʒə sɥi fatige] = I'm tired.
+4. **"Je rentre à la maison."** [ʒə ʁɑ̃tʁ a la mɛzɔ̃] = I'm going home.
+5. **"À demain !"** [a dəmɛ̃] = See you tomorrow!
 
-**💡 Important:** It's okay to ask for clarification. Belgians appreciate when you make an effort to communicate. Don't be afraid to use these phrases!
+**💡 Important:** "Métro-Boulot-Dodo" is the French expression for "Rat race" (Commute-Work-Sleep).
 
 ---
 
@@ -775,29 +770,9 @@ Le matin, je me lève à 7 heures. Je prends le petit-déjeuner à 8h, puis je v
 
 **You should be proud!** 🎉 You can now describe your day in French!
 
-**Spaced Review Schedule:**
 
-**Tomorrow:** Review vocabulary (5 minutes)
-- Review daily activities: se lever, prendre le petit-déjeuner, aller au travail, rentrer, se coucher
-- Practice time expressions: le matin, l'après-midi, le soir
-- Practice describing your routine: "Le matin, je [activity]"
 
-**In 3 days:** Do the exercises again (10 minutes)
-- Re-do grammar exercises about -ir and -re verbs
-- Practice conjugating "finir" and "descendre"
-- Practice creating sentences about your daily routine
 
-**In 1 week:** Review grammar rules (10 minutes)
-- Review -ir verb pattern: finis, finis, finit, finissons, finissez, finissent
-- Review -re verb pattern: descends, descends, descend, descendons, descendez, descendent
-- Review reflexive verbs: je me lève, tu te lèves, etc.
-
-**In 2 weeks:** Practice describing your routine (15 minutes)
-- Describe your complete daily routine out loud in French
-- Practice the routine dialogue
-- Try talking about Belgian routines (lunch 12-1 PM, dinner 7-8 PM)
-
-**Tip:** Set calendar reminders for these reviews! Daily routine vocabulary is essential for conversations and integration.
 
 ## Self-Evaluation: Check Your Progress!
 
@@ -818,9 +793,9 @@ Le matin, je me lève à 7 heures. Je prends le petit-déjeuner à 8h, puis je v
 
 ## 🚀 Next Lesson: What's Coming Up!
 
-**Next up:** Les loisirs et les hobbies  
-**Theme:** Talking about hobbies and free time activities  
-**What you need:** Know daily activities, verbs in -ir and -re
+**Next up:** La météo en Belgique  
+**Theme:** Parler du temps qu'il fait  
+**Prérequis:** Connaître "Il fait"
 
 **You're ready for it!** 💪
 
@@ -828,30 +803,12 @@ Le matin, je me lève à 7 heures. Je prends le petit-déjeuner à 8h, puis je v
 
 ## Extra Resources: Keep the Momentum Going!
 
-- Practice describing your day in French every morning
-- Listen to French podcasts about daily life
-- Watch French videos about routines
-- Write a journal in French about your day
+**Want to practice more?**
 
-**💡 Pro tip:** Try describing your day in French while you're doing your activities! It's great practice!
-
----
-
-## Quick Reference: Print This & Keep It Handy
-
-**Essential phrases from this lesson:**
-
-| French | IPA | English |
-|--------|-----|---------|
-| Je me lève | [ʒə mə lɛv] | I get up |
-| Je me douche | [ʒə mə duʃ] | I shower |
-| Je prends le petit-déjeuner | [ʒə pʁɑ̃ lə pəti deʒøne] | I have breakfast |
-| Je vais au travail | [ʒə vɛ o tʁavaj] | I go to work |
-| Je rentre à la maison | [ʒə ʁɑ̃tʁ a la mɛzɔ̃] | I go home |
-| Je me couche | [ʒə mə kuʃ] | I go to bed |
-| Le matin / L'après-midi / Le soir | [lə matɛ̃ / lapʁɛmidi / lə swaʁ] | Morning / Afternoon / Evening |
-
-**💡 Print this page and keep it in your wallet or phone for quick reference!**
+- **Time Yourself:** Describe your daily routine aloud. Try to do it in under 1 minute!
+- **Journaling:** Write down what you did yesterday. Even simple sentences like "J'ai mangé une pomme" count!
+- **Listening:** Search for "Daily Routine French" on YouTube to hear native speakers.
+- **Challenge:** Changze your phone's language to French for one day! (You'll see "Réglages", "Calendrier", etc.)
 
 ---
 

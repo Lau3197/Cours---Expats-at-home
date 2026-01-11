@@ -1,0 +1,6 @@
+Visual Structure: Composite image.
+
+Content:
+1.  A "small green or white piece of paper" representing the "official certificate of your visit" from the doctor.
+2.  A sticker, explicitly labeled 'Vignette', showing placeholder text for 'Name' and 'Member Number' as received from the mutuelle.
+3.  A visual depiction of the 'Vignette' sticker being placed onto the "certificate of visit."

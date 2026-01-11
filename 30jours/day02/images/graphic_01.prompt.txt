@@ -1,0 +1,11 @@
+Two-Column Comparison Graphic: 'Which Bank to Choose in Belgium?'
+
+**Column 1: Traditional Banks**
+*   **KBC Logo**: Key features: "One of the best banks", "KBC Brussels (special division for expats)", "Account opening process can start online before arrival".
+*   **ING Logo**: Key features: "Budget-friendly (often lowest basic account fees)", "Very expat-friendly (lots of information in English)".
+*   **BNP Paribas Fortis Logo**: Key features: "Largest bank in Belgium", "Widespread branches and ATMs".
+
+**Column 2: Digital Banks**
+*   **Bunq Logo**
+*   **N26 Logo**
+*   **Revolut Logo**
