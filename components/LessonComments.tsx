@@ -10,6 +10,8 @@ interface LessonCommentsProps {
 
 const LessonComments: React.FC<LessonCommentsProps> = ({ comments, onAddComment }) => {
   const [newComment, setNewComment] = useState('');
+  // Note: ideally we'd trigger a notification to the thread owner here via backend functions.
+  // For now, the parent handles the actual add logic.
 
   const CommentItem = ({ comment, isReply = false }: { comment: Comment, isReply?: boolean }) => (
     <div className={`group flex gap-4 ${isReply ? 'ml-12 mt-4' : 'mt-8'}`}>
@@ -28,9 +30,8 @@ const LessonComments: React.FC<LessonCommentsProps> = ({ comments, onAddComment 
           )}
           <span className="text-[10px] text-[#5A6B70]/40 font-bold sans-geometric uppercase tracking-widest">{comment.timestamp}</span>
         </div>
-        <div className={`p-4 rounded-[20px] text-sm leading-relaxed ${
-          comment.isInstructor ? 'bg-[#E8C586]/5 text-[#5A6B70]' : 'bg-white text-[#5A6B70]/80 shadow-sm border border-[#dd8b8b]/5'
-        }`}>
+        <div className={`p-4 rounded-[20px] text-sm leading-relaxed ${comment.isInstructor ? 'bg-[#E8C586]/5 text-[#5A6B70]' : 'bg-white text-[#5A6B70]/80 shadow-sm border border-[#dd8b8b]/5'
+          }`}>
           {comment.text}
         </div>
         <div className="flex items-center gap-6 mt-2 px-1">
@@ -70,17 +71,17 @@ const LessonComments: React.FC<LessonCommentsProps> = ({ comments, onAddComment 
       <div className="bg-[#F9F7F2] p-6 rounded-[32px] border-2 border-dashed border-[#dd8b8b]/20 mb-12">
         <div className="flex gap-4">
           <div className="w-10 h-10 rounded-2xl bg-white flex-shrink-0 overflow-hidden border border-[#dd8b8b]/10">
-             <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie" className="w-full h-full object-cover" />
+            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie" className="w-full h-full object-cover" />
           </div>
           <div className="flex-1">
-            <textarea 
+            <textarea
               value={newComment}
               onChange={(e) => setNewComment(e.target.value)}
               placeholder="Join the conversation... Partagez vos pensées!"
               className="w-full bg-white border-none rounded-2xl p-4 text-sm focus:ring-2 focus:ring-[#dd8b8b]/20 min-h-[100px] resize-none shadow-sm"
             />
             <div className="flex justify-end mt-4">
-              <button 
+              <button
                 onClick={() => { onAddComment(newComment); setNewComment(''); }}
                 className="bg-[#5A6B70] text-white px-8 py-3 rounded-2xl font-bold hover:bg-[#dd8b8b] transition-all sans-geometric uppercase tracking-widest text-xs shadow-lg shadow-[#5A6B70]/10"
               >

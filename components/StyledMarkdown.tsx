@@ -2,18 +2,59 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeSlug from 'rehype-slug';
+import rehypeRaw from 'rehype-raw';
 
 interface StyledMarkdownProps {
   content: string;
   className?: string;
+  id?: string; // Add ID for persistence namespacing
 }
 
-const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = '' }) => {
+const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = '', id }) => {
+  // State for checkboxes
+  const [checkedItems, setCheckedItems] = React.useState<{ [key: string]: boolean }>({});
+
+  // Load state on mount or when id changes
+  React.useEffect(() => {
+    if (id) {
+      const saved = localStorage.getItem(`checklist_${id}`);
+      if (saved) {
+        try {
+          setCheckedItems(JSON.parse(saved));
+        } catch (e) {
+          console.error("Failed to parse checklist state", e);
+        }
+      } else {
+        setCheckedItems({});
+      }
+    }
+  }, [id]);
+
+  // Save state when it changes
+  const toggleCheckbox = (index: number) => {
+    if (!id) return;
+
+    setCheckedItems(prev => {
+      const next = { ...prev, [index]: !prev[index] };
+      localStorage.setItem(`checklist_${id}`, JSON.stringify(next));
+      return next;
+    });
+  };
+
+  // Helper to count checkboxes to give them unique indices
+  let checkboxCount = 0;
+
+  // Pre-process content to fix markdown bolding issues with French contractions
+  // e.g. **l'**école -> <strong>l'</strong>école
+  const processedContent = React.useMemo(() => {
+    return content.replace(/\*\*([LlDdQqNnJjMmTtSsCc]')\*\*/g, '<strong>$1</strong>');
+  }, [content]);
+
   return (
     <div className={`styled-markdown ${className}`}>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeSlug]}
+        rehypePlugins={[rehypeSlug, rehypeRaw]}
         components={{
           // Headings avec le style serif-display
           h1: ({ children, ...props }) => (
@@ -53,11 +94,52 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
               {children}
             </ol>
           ),
-          li: ({ children }) => (
-            <li className="mb-2 pl-2 leading-relaxed">
-              {children}
-            </li>
-          ),
+          // LI block replaced          // Interactive Checkboxes
+          input: (props) => {
+            if (props.type === "checkbox") {
+              const index = checkboxCount++;
+              const isChecked = checkedItems[index] || props.checked || false;
+
+              return (
+                <input
+                  type="checkbox"
+                  checked={isChecked}
+                  onChange={() => toggleCheckbox(index)}
+                  disabled={!id} // Disable if no ID provided (preview mode)
+                  className={`
+                    appearance-none w-5 h-5 border-2 border-[#dd8b8b] rounded 
+                    bg-white checked:bg-[#dd8b8b] checked:border-[#dd8b8b] 
+                    cursor-pointer relative align-middle mr-2 mt-[-2px]
+                    transition-all duration-200 ease-in-out
+                    after:content-[''] after:hidden after:absolute after:left-[6px] after:top-[2px] 
+                    after:w-[6px] after:h-[10px] after:border-white after:border-r-2 after:border-b-2 
+                    after:rotate-45 checked:after:block
+                    hover:scale-110
+                  `}
+                />
+              );
+            }
+            return <input {...props} />;
+          },
+          // Custom LI to handle task list items styling
+          li: ({ children, className, ...props }) => {
+            // Check if this is a task list item
+            const isTaskList = className?.includes('task-list-item');
+
+            if (isTaskList) {
+              return (
+                <li className="flex items-start mb-2 pl-0 list-none" {...props}>
+                  {children}
+                </li>
+              );
+            }
+
+            return (
+              <li className="mb-2 pl-2 leading-relaxed" {...props}>
+                {children}
+              </li>
+            );
+          },
           // Tables avec style personnalisé
           table: ({ children }) => (
             <div className="overflow-x-auto my-8 rounded-[24px] border-2 border-[#dd8b8b]/20 shadow-lg bg-white">
@@ -92,7 +174,8 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
             </td>
           ),
           // Code blocks
-          code: ({ inline, children }) => {
+          code: (props: any) => {
+            const { inline, children } = props;
             if (inline) {
               return (
                 <code className="bg-[#F9F7F2] text-[#dd8b8b] px-2 py-1 rounded-lg text-sm font-mono font-bold">
@@ -171,7 +254,7 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
           ),
         }}
       >
-        {content}
+        {processedContent}
       </ReactMarkdown>
     </div>
   );

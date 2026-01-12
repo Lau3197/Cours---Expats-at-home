@@ -17,7 +17,26 @@ const courseStructure = {
     'B1.1': { level: 'B1', title: 'Niveau B1.1 - Le Monde Professionnel', description: 'Navigate the Belgian job market, interviews, and professional communication.' },
     'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
     'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
+    'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
+    'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
     'B2.2': { level: 'B2', title: 'Niveau B2.2 - Maîtrise Complète', description: 'Achieve full mastery of French with Belgian nuances and advanced expressions.' }
+};
+
+// Configuration for manual module grouping (optional overrides)
+const moduleOverrides = {
+    'B1.1': [
+        { title: "Module 1", lessons: [1, 2, 3] },
+        { title: "Module 2", lessons: [4, 5] },
+        { title: "Module 3", lessons: [6, 7, 8, 9] },
+        { title: "Module 4", lessons: [10, 11, 12] },
+        { title: "Module 5", lessons: [13, 14, 15] },
+        { title: "Module 6", lessons: [16, 17, 18] },
+        { title: "Module 7", lessons: [19, 20, 21] },
+        { title: "Module 8", lessons: [22, 23] },
+        { title: "Module 9", lessons: [24, 25] },
+        { title: "Module 10", lessons: [26, 27, 28] },
+        { title: "Module 11", lessons: [29, 30, 31, 32] }
+    ]
 };
 
 function readMarkdownFile(filePath) {
@@ -120,15 +139,52 @@ function organizeLessonsIntoCourses(lessons) {
             };
         }
 
-        // Group by 4 lessons per module
-        let sectionIndex = Math.floor((lesson.lessonNumber - 1) / 4);
+        let sectionIndex = 0;
+        let sectionTitle = `Module 1`;
+
+        // Check for manual overrides for this course
+        if (moduleOverrides[lesson.courseId]) {
+            const overrides = moduleOverrides[lesson.courseId];
+            let found = false;
+            for (let i = 0; i < overrides.length; i++) {
+                if (overrides[i].lessons.includes(lesson.lessonNumber)) {
+                    sectionIndex = i;
+                    sectionTitle = overrides[i].title || `Module ${i + 1}`;
+                    found = true;
+                    break;
+                }
+            }
+            // If not found in override, it defaults to first module or we could handle differently
+            // For now, let's assume all lessons are covered if an override exists, or push to end
+            if (!found) {
+                // Fallback for lessons not in the manual list: put them in a "Extra" module at the end
+                sectionIndex = overrides.length;
+                sectionTitle = "Modules Supplémentaires";
+            }
+        } else {
+            // Default logic: Group by 4 lessons per module
+            sectionIndex = Math.floor((lesson.lessonNumber - 1) / 4);
+            sectionTitle = `Module ${sectionIndex + 1}`;
+        }
 
         // Create sections if they don't exist
         while (courses[lesson.courseId].sections.length <= sectionIndex) {
             const idx = courses[lesson.courseId].sections.length;
+            // naming logic needs to be consistent
+            // If we are filling gaps, we might not have titles for intermediate empty sections
+            // but the loop ensures sequential creation.
+            // If using manual overrides, we should trust the index order.
+
+            let titleToUse = `Module ${idx + 1}`;
+            if (moduleOverrides[lesson.courseId] && idx < moduleOverrides[lesson.courseId].length) {
+                titleToUse = moduleOverrides[lesson.courseId][idx].title;
+            } else if (idx === sectionIndex) {
+                titleToUse = sectionTitle;
+            }
+
             courses[lesson.courseId].sections.push({
                 id: `section-${idx + 1}`,
-                title: `Module ${idx + 1}`,
+                title: titleToUse,
                 lessons: []
             });
         }

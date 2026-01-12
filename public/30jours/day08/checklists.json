@@ -1,0 +1,28 @@
+[
+    {
+        "id": "grocery_run",
+        "title": "Grocery Mastery",
+        "items": [
+            {
+                "id": "loyalty_cards",
+                "label": "Get Loyalty Cards",
+                "description": "Xtra (Colruyt), SuperPlus (Delhaize), Carrefour Bonus Card."
+            },
+            {
+                "id": "bags",
+                "label": "Buy Reusable Bags",
+                "description": "Keep them in your backpack/car. Plastic bags cost money."
+            },
+            {
+                "id": "moulen",
+                "label": "Buy 'Moules-Frites' Ingredients",
+                "description": "Try cooking a Belgian classic this week."
+            },
+            {
+                "id": "beer",
+                "label": "The Beer Aisle",
+                "description": "Spend 10 minutes just admiring the selection. It's art."
+            }
+        ]
+    }
+]

@@ -2,283 +2,317 @@
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre à faire ses courses au marché, vocabulaire des aliments
+**Objectifs** : Shop at a market, talk about quantities and prices, bargain politely
 
 ---
 
+## Let's Start! At the Brussels market
 
-## 📋 Introduction
+### Listen to this dialogue
 
-In this lesson, you will learn how to shop at a Belgian market. Markets are an important part of Belgian culture!
+**Sophie goes to the Marché du Midi:**
 
-**What you will learn today / Ce que vous allez apprendre aujourd'hui :**
-- Vocabulary about food and shopping
-- How to buy at a market
-- Quantities and prices
-- The verb "acheter" (to buy)
-
-**Belgian context / Contexte belge :**
-Brussels has many markets, like the famous "Marché aux puces" (flea market) at Place du Jeu de Balle. Markets are great places to practice French and discover Belgian products!
+> **Vendeur :** Bonjour madame ! Qu'est-ce que je vous sers ?
+> 
+> **Sophie :** Bonjour ! Je voudrais des tomates, s'il vous plaît.
+> 
+> **Vendeur :** Combien vous en voulez ?
+> 
+> **Sophie :** **Un kilo**, s'il vous plaît. Elles sont à combien ?
+> 
+> **Vendeur :** Deux euros le kilo. Voilà ! Autre chose ?
+> 
+> **Sophie :** Oui, je voudrais aussi **une botte** de carottes et **six** pommes.
+> 
+> **Vendeur :** Très bien. Voilà les carottes et les pommes.
+> 
+> **Sophie :** C'est tout. Ça fait combien ?
+> 
+> **Vendeur :** Alors, les tomates 2€, les carottes 1€50, les pommes 2€. Ça fait **5 euros 50**.
+> 
+> **Sophie :** Voilà. Merci, bonne journée !
+> 
+> **Vendeur :** Merci à vous !
 
 ---
 
-## Vocabulaire thématique
+### Comprehension
 
-## Aliments
+**Answer the questions:**
 
-| Français | English | Exemple |
-|----------|---------|---------|
-| Les fruits | Fruits | Je voudrais des fruits. |
-| Les légumes | Vegetables | Des légumes, s'il vous plaît. |
-| La tomate | Tomato | Des tomates |
-| La pomme | Apple | Des pommes |
-| Le pain | Bread | Un pain |
-| Le fromage | Cheese | Du fromage belge |
-| La viande | Meat | De la viande |
+1. What does Sophie buy first?
+2. How much does she want?
+3. How much do the tomatoes cost per kilo?
+4. What else does she buy?
+5. What is the total price?
 
-## Quantités
+<details>
+<summary>Answers</summary>
 
-| Français | English |
-|----------|---------|
-| Un kilo | One kilo |
-| Une livre | Half a kilo (500g) |
-| Un morceau | A piece |
-| Une douzaine | A dozen |
+1. Tomatoes (tomates)
+2. One kilo
+3. 2 euros per kilo
+4. Carrots and apples
+5. 5 euros 50
 
-## Expressions
+</details>
 
-- **Je voudrais...** : I would like...
-- **Combien coûte... ?** : How much does... cost?
-- **C'est tout** : That's all
-- **Ça fait combien ?** : How much is that in total?
+---
+
+## Observation 1: Asking about quantity
+
+**Look at the vendor's question:**
+
+> **Combien** vous en voulez ?
+
+### Quantity expressions
+
+| French | English |
+|:-------|:--------|
+| Combien ? | How much? / How many? |
+| Combien vous en voulez ? | How much do you want? |
+| Combien ça coûte ? | How much does it cost? |
+| C'est à combien ? | How much is this? |
+| Ça fait combien ? | How much is the total? |
+
+---
+
+## Observation 2: Quantity words
+
+**Look at how Sophie specifies quantities:**
+
+> **Un kilo** de tomates  
+> **Une botte** de carottes  
+> **Six** pommes
+
+### Common quantity expressions
+
+| French | English | Used for |
+|:-------|:--------|:---------|
+| un kilo de | a kilo of | vegetables, fruits |
+| une livre de | a pound of | meat, cheese |
+| 100 grammes de | 100 grams of | deli items |
+| une botte de | a bunch of | carrots, leeks |
+| une barquette de | a punnet of | berries |
+| une douzaine de | a dozen | eggs |
+| un morceau de | a piece of | cheese, cake |
+| une tranche de | a slice of | ham, bread |
+
+---
+
+## Practice 1: Express quantities
+
+**Write in French:**
+
+1. A kilo of apples → _______________
+2. 200 grams of cheese → _______________
+3. A bunch of leeks → _______________
+4. A dozen eggs → _______________
+
+<details>
+<summary>Answers</summary>
+
+1. Un kilo de pommes
+2. 200 grammes de fromage
+3. Une botte de poireaux
+4. Une douzaine d'œufs
+
+</details>
+
+---
+
+## Observation 3: Market vocabulary
+
+### Fruits
+
+| French | English |
+|:-------|:--------|
+| la pomme | apple |
+| la poire | pear |
+| l'orange (f) | orange |
+| la banane | banana |
+| la fraise | strawberry |
+| le raisin | grapes |
+| la pêche | peach |
+| la cerise | cherry |
+
+### Vegetables
+
+| French | English |
+|:-------|:--------|
+| la tomate | tomato |
+| la carotte | carrot |
+| la pomme de terre | potato |
+| le poireau | leek |
+| l'oignon (m) | onion |
+| le chou | cabbage |
+| la courgette | zucchini |
+| l'aubergine (f) | eggplant |
+
+---
+
+## Observation 4: Market dialogue structure
+
+**Complete dialogue pattern:**
+
+| Vendor | Customer |
+|:-------|:---------|
+| Bonjour ! Qu'est-ce que je vous sers ? | Je voudrais... |
+| Combien vous en voulez ? | [quantity] s'il vous plaît. |
+| Voilà. Autre chose ? | Oui, je voudrais aussi... / Non, c'est tout. |
+| Ça fait [price]. | Voilà. Merci ! |
+| Merci, bonne journée ! | Bonne journée ! |
+
+---
+
+## Culture: Brussels markets
+
+### Read this testimony
+
+**Jean, market vendor in Brussels:**
+
+> "The Marché du Midi is the biggest market in Europe! Every Sunday, there are more than 450 vendors. You'll find fruits, vegetables, meat, fish, clothes, and even electronics. It's very international – you'll hear French, Arabic, Turkish, and many other languages. Arrive early for the best selection!"
+
+### Famous Brussels markets
+
+| Market | Location | Day | Specialty |
+|:-------|:---------|:----|:----------|
+| Marché du Midi | Gare du Midi | Sunday | Largest market, multicultural |
+| Place du Jeu de Balle | Marolles | Daily | Antiques, vintage |
+| Parvis de Saint-Gilles | Saint-Gilles | Thursday | Organic products |
+| Place Flagey | Ixelles | Sunday | Fresh produce |
+
+---
+
+## Practice 2: Complete the dialogue
+
+**Fill in the blanks:**
+
+**Vendeur :** Bonjour ! _____________ je vous sers ?
+
+**You :** Bonjour ! Je voudrais _____________ de pommes, s'il vous plaît.
+
+**Vendeur :** Voilà. _____________ chose ?
+
+**You :** Oui, _____________ de carottes aussi.
+
+**Vendeur :** C'est tout ?
+
+**You :** Oui, ça fait _____________ ?
+
+<details>
+<summary>Answers</summary>
+
+1. Qu'est-ce que
+2. un kilo
+3. Autre
+4. une botte
+5. combien
+
+</details>
+
+---
+
+## Speaking Practice
+
+### Exercise 1: At the market
+
+**Practice buying these items:**
+
+1. 1 kg of tomatoes
+2. A bunch of leeks
+3. 6 oranges
+4. 500g of strawberries
+
+### Exercise 2: Calculate the total
+
+**Say the prices out loud:**
+
+- Tomatoes: 2€ → "Les tomates, c'est deux euros."
+- Total: 8€50 → "Ça fait huit euros cinquante."
+
+---
+
+## Writing Practice
+
+**Write a complete market dialogue (10-12 lines):**
+
+Include:
+- Greeting
+- Asking for 3 items with quantities
+- Asking about prices
+- Payment
+
+---
+
+## Grammar: "En" for quantities
+
+### The pronoun "en" replaces "de + noun"
+
+**Look at this exchange:**
+
+> Combien **de tomates** voulez-vous ?  
+> J'**en** voudrais un kilo.
+
+### Pattern
+
+| Full form | With "en" |
+|:----------|:----------|
+| Je voudrais un kilo **de tomates**. | J'**en** voudrais un kilo. |
+| Vous avez **des pommes** ? | Oui, j'**en** ai. |
+| Je prends trois **oranges**. | J'**en** prends trois. |
 
 ---
 
 ## Common Mistakes to Avoid
 
-**Before we dive into grammar, watch out for these common mistakes:**
+### Mistake 1: Forgetting "de" after quantity
 
-**Mistake 1:** "J'achète des tomates" vs "J'achète de tomates" ❌  
-**Correct:** "J'achète des tomates" (with article) ✅  
-**Why:** Use "des" (some/any) for plural countables. "J'achète des tomates" not "J'achète de tomates".
+| Incorrect | Correct |
+|:----------|:--------|
+| un kilo tomates | un kilo **de** tomates |
 
-**Mistake 2:** Confusing quantities: "un kilo" vs "une livre" ❌  
-**Correct:** "un kilo" (1 kg), "une livre" (500g, half kilo in Belgium) ✅  
-**Why:** In Belgium, "une livre" means 500g (half a kilo), not 1 kg like in some countries.
+### Mistake 2: Wrong quantity word
 
-**Mistake 3:** "C'est combien ?" vs "Combien ça coûte ?" ❌  
-**Correct:** Both are correct, but "C'est combien ?" is more common at markets ✅  
-**Why:** Both mean "How much?", but "C'est combien ?" is shorter and more common in markets.
+| Incorrect | Correct |
+|:----------|:--------|
+| une botte de pommes | **un kilo** de pommes |
 
-**Mistake 4:** Forgetting "de" after quantities: "Je voudrais un kilo tomates" ❌  
-**Correct:** "Je voudrais un kilo de tomates" (with "de") ✅  
-**Why:** After quantities (un kilo, une livre), you need "de" before the product: "un kilo de tomates".
+**Use "une botte" for vegetables with stems (carrots, leeks), not for fruits!**
 
----
+### Mistake 3: Forgetting to greet
 
-## Grammaire
-
-## Le verbe "acheter" (to buy)
-
-**Formation :**
-
-| Pronom | Verbe "acheter" |
-|--------|-----------------|
-| J' | achète |
-| Tu | achètes |
-| Il/Elle | achète |
-| Nous | achetons |
-| Vous | achetez |
-| Ils/Elles | achètent |
-
-**Exemples :**
-- J'achète des tomates. (I buy tomatoes.)
-- Tu achètes du pain ? (Do you buy bread?)
+| Rude | Polite |
+|:-----|:-------|
+| Un kilo de tomates. | **Bonjour !** Un kilo de tomates, s'il vous plaît. |
 
 ---
 
-## Compréhension orale
+## Self-Evaluation
 
-## Audio : Au marché
+**Check what you can do:**
 
-[Voir transcription dans A1.2_Transcriptions.md - Leçon 02]
-
----
-
-## Compréhension écrite
-
-## Texte : Les marchés de Bruxelles
-
-Bruxelles compte de nombreux marchés. Le marché de la place du Jeu de Balle est célèbre. On y trouve des fruits, des légumes, et des produits locaux.
+- [ ] I can greet a vendor and start a conversation
+- [ ] I can ask for products with specific quantities
+- [ ] I can ask about prices
+- [ ] I know common fruits and vegetables in French
+- [ ] I understand how to use "en" for quantities
 
 ---
 
-## Survival Phrases: When You Don't Understand
+## Extra Resources
 
-**Essential phrases for the market:**
+### Additional activities
 
-1. **"C'est combien ?"** [sɛ kɔ̃bjɛ̃] = How much is it?
-2. **"Un kilo de tomates, SVP."** [œ̃ kilo də tɔmat] = A kilo of tomatoes, please.
-3. **"C'est frais ?"** [sɛ fʁɛ] = Is it fresh?
-4. **"Je peux goûter ?"** [ʒə pø gute] = Can I taste?
-5. **"C'est tout, merci."** [sɛ tu mɛʁsi] = That's all, thanks.
+- **Market visit:** Go to a Brussels market this week
+- **Shopping list:** Make your weekly shopping list in French
+- **Price practice:** Practice saying prices out loud
 
-**💡 Important:** Bring your own bags (sacs) to the market!
+### Next lesson
 
----
-
-## Expression orale / Speaking Practice
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself saying the "Vous" (You) lines on your phone
-3. Listen back and check your pronunciation
-4. Focus on quantities and "Je voudrais"
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to market vocabulary
-
-**Method 3: Practice Both Roles**
-1. Read the entire dialogue out loud, playing both roles
-2. This helps you practice both buying and understanding the vendor
-3. Try variations with different products and quantities
-
----
-
-## Dialogue Model: Acheter au marché
-
-**Vendeur :** Bonjour ! Que désirez-vous ? [bɔ̃ʒuʁ kə dezire vu]  
-**You :** Bonjour. Je voudrais un kilo de tomates, s'il vous plaît. [bɔ̃ʒuʁ ʒə vudʁɛ œ̃ kilo də tɔmat sil vu plɛ]  
-**Vendeur :** Voilà. Autre chose ? [vwala otʁ ʃoz]  
-**You :** Oui, une livre de pommes. [wi yn livʁ də pɔm]  
-**Vendeur :** Voilà. Ça fait 5 euros. [vwala sa fɛ sɛ̃k øʁo]  
-**You :** Voilà. Merci, bonne journée ! [vwala mɛʁsi bɔn ʒuʁne]
-
-**Tips for practicing:**
-- Practice saying quantities: "un kilo de...", "une livre de...", "une douzaine de..."
-- Practice asking prices: "C'est combien ?" or "Ça fait combien ?"
-- Always say "Bonjour" when arriving and "Merci, bonne journée !" when leaving
-
-**Your turn!** Practice this dialogue! Try variations with different products!
-
----
-
-## Situation : Acheter au marché
-
-[Exercices de dialogue]
-
----
-
-## Expression écrite
-
-**Exercice :** Écrivez un dialogue d'achat au marché
-
----
-
-## Real-World Practice: Try This Today!
-
-**This week, challenge yourself to use what you've learned:**
-
-**Practice opportunities:**
-- [ ] Visit a Belgian market and practice ordering: "Je voudrais [quantity] de [product]"
-- [ ] Practice asking "C'est combien ?" about prices
-- [ ] Practice saying "Bonjour" to vendors and "Merci, bonne journée !" when leaving
-- [ ] Write down a shopping list in French and practice saying it
-
-**Don't worry if market situations feel challenging - vendors are usually patient and helpful!**  
-**The most important thing is to use "Je voudrais" and "s'il vous plaît" - politeness goes a long way!**
-
-**Success tip:** Start with simple products you know well, then gradually try new ones. Practice the quantities before going!
-
----
-
-## Troubleshooting: Having Trouble?
-
-**If you're struggling with "acheter" conjugation:**
-- Write out the conjugation 5 times: j'achète, tu achètes, il/elle achète, nous achetons, vous achetez, ils/elles achètent
-- Practice "J'achète" 20 times - make it automatic
-- Remember: "J'achète" has an accent on the first e (achète)
-
-**If quantities confuse you:**
-- Learn these 5 essentials: un kilo (1 kg), une livre (500g), un morceau (a piece), une douzaine (a dozen), un peu (a bit)
-- Practice pattern: "[quantity] de [product]" - "un kilo de tomates", "une livre de pommes"
-- Remember: "une livre" in Belgium = 500g (half kilo), not 1 kg!
-
-**If market vocabulary is overwhelming:**
-- Focus on products YOU actually buy: fruits, légumes, pain, fromage
-- Learn 5-10 essential products first, then add more gradually
-- Practice saying "Je voudrais [your favorite products]"
-
-**Still stuck?** Market vocabulary can be extensive. Focus on mastering "Je voudrais [quantity] de [product]" and "C'est combien ?". These will get you through most market situations!
-
----
-
-## Culture belge
-
-## Les marchés bruxellois
-
-Les marchés sont une institution en Belgique. C'est l'endroit idéal pour découvrir les produits locaux et pratiquer votre français !
-
-**Comparaison culturelle / Cultural comparison:**
-
-**Dans beaucoup de pays :**
-- Les marchés sont parfois optionnels (on peut tout acheter en supermarché)
-- On peut négocier les prix partout
-- Les marchés sont surtout pour les touristes
-
-**En Belgique :**
-- Les marchés sont une tradition importante - les Belges y vont régulièrement
-- C'est un lieu de socialisation - on discute avec les commerçants
-- Les produits locaux sont valorisés
-- On peut négocier un peu, mais avec respect et politesse
-- Les marchés sont pour tout le monde, pas seulement les touristes !
-
-**Pourquoi c'est important :** Aller au marché est un excellent moyen de pratiquer votre français, découvrir les produits belges, et rencontrer des locaux !
-
-💡 **Tip pratique :** Allez au marché le week-end pour une expérience authentique ! N'oubliez pas de dire "Bonjour" aux commerçants !
-
----
-
-## Récapitulatif
-
-**Points clés :**
-- Vocabulaire des aliments
-- Faire ses courses
-- Verbe "acheter"
-
-
-
-
-
----
-
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Market Visit:** Go to a local market (e.g., Place du Jeu de Balle) and listen to vendors.
-- **Shopping List:** Write your next grocery list in French.
-- **Cooking:** Find a simple Belgian recipe online and try to name ingredients in French.
-- **Challenge:** Buy one fruit or vegetable using only French!
+> **Leçon 03 : L'heure et les horaires**  
+> You'll learn to tell time and talk about schedules!
 
 ---
 
 *Bonne continuation !*
-
-
-
-
-*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
-
----
-
-## Prochaine leçon
-
-**Leçon suivante :** L'heure et les horaires  
-**Thème :** Dire l'heure et comprendre les horaires  
-**Prérequis :** Connaître les nombres jusqu'à 60

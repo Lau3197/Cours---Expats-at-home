@@ -1,4 +1,4 @@
-# Index des Leçons - Niveau A1.2
+# Index des Leçons - Niveau A1.2 (18 leçons)
 
 Ce document liste l'ordre logique des leçons pour le niveau A1.2.
 
@@ -20,3 +20,5 @@ Ce document liste l'ordre logique des leçons pour le niveau A1.2.
 | 14 | [Mon parcours en Belgique](./Lecon_14/Lecon_14_Mon_parcours_en_Belgique.md) | Passé Composé (Être), Il y a (temps) | L'immigration en Belgique |
 | 15 | [Les démarches administratives](./Lecon_15/Lecon_15_Les_demarches_administratives.md) | Devoir, Pouvoir, Falloir | La commune, la carte d'identité |
 | 16 | [Révision et évaluation A1.2](./Lecon_16/Lecon_16_Revision_et_evaluation_A1.2.md) | Tout revoir | Bilan final A1 |
+| 17 | [Expression écrite A1.2 (Consolidation)](./Lecon_17/Lecon_17_Expression_ecrite_A1.2.md) | Révision structures écrites | Pratique de l'écriture |
+| 18 | [Compréhension orale A1.2 (Consolidation)](./Lecon_18/Lecon_18_Comprehension_orale_A1.2.md) | Révision compréhension | Pratique de l'écoute |

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "graduation",
+        "title": "The Final Checklist",
+        "items": [
+            {
+                "id": "celebrate",
+                "label": "Celebrate",
+                "description": "Buy yourself something nice. You saved so much money on fines!"
+            },
+            {
+                "id": "review",
+                "label": "Review the Course",
+                "description": "Go back to any days you missed."
+            },
+            {
+                "id": "share",
+                "label": "Share a Tip",
+                "description": "Tell a new expat one thing you learned."
+            },
+            {
+                "id": "live",
+                "label": "Live Your Life",
+                "description": "Close the laptop. Go outside."
+            }
+        ]
+    }
+]

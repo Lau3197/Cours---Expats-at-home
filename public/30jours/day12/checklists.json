@@ -1,0 +1,28 @@
+[
+    {
+        "id": "social_french",
+        "title": "Practice Your 'Santé'",
+        "items": [
+            {
+                "id": "toast",
+                "label": "Toast Correctly",
+                "description": "Eye contact. No crossing arms. Practice with a mirror if you have to."
+            },
+            {
+                "id": "tu_vous",
+                "label": "Spot the Difference",
+                "description": "Listen to people in a cafe. Are they using Tu or Vous?"
+            },
+            {
+                "id": "ah_bon",
+                "label": "Use 'Ah bon?'",
+                "description": "Try it in a conversation. It makes you sound very interested."
+            },
+            {
+                "id": "invite",
+                "label": "Invite Someone",
+                "description": "'Ça te dit de prendre un verre ?' (Do you want to get a drink?)"
+            }
+        ]
+    }
+]

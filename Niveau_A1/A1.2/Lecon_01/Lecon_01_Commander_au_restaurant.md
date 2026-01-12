@@ -1,339 +1,352 @@
-# Leçon 01 : Commander au restaurant belge
+# Leçon 01 : Commander au restaurant
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre à commander au restaurant, découvrir la gastronomie belge
+**Objectifs** : Order food in a restaurant, understand a menu, use polite expressions
 
 ---
 
+## Let's Start! At the restaurant
 
-## 📋 Introduction
+### Listen to this dialogue
 
-In this lesson, you will learn how to order food in a Belgian restaurant. You'll discover Belgian specialties like moules-frites and Belgian beers!
+**Tom and Sophie have dinner at a restaurant in Brussels:**
 
-**What you will learn today / Ce que vous allez apprendre aujourd'hui :**
-- How to order food and drinks in a restaurant
-- Vocabulary about Belgian food
-- The verb "vouloir" (to want)
-- How to ask for the bill
-
-**Belgian context / Contexte belge :**
-Belgium is famous for its gastronomy: moules-frites (mussels and fries), gaufres (waffles), chocolat (chocolate), and bières (beers). In restaurants, it's polite to say "Bon appétit" before eating!
+> **Serveur :** Bonsoir ! Vous avez réservé ?
+> 
+> **Sophie :** Oui, une table pour deux au nom de Sophie.
+> 
+> **Serveur :** Très bien. Suivez-moi. Voici le menu.
+> 
+> *(quelques minutes plus tard)*
+> 
+> **Serveur :** Vous avez choisi ?
+> 
+> **Sophie :** Oui. **Je voudrais** la soupe à l'oignon en entrée.
+> 
+> **Tom :** Et moi, **je prends** la salade César.
+> 
+> **Serveur :** Et comme plat principal ?
+> 
+> **Sophie :** **Pour moi**, le steak-frites, **saignant** s'il vous plaît.
+> 
+> **Tom :** Et **pour moi**, les moules-frites.
+> 
+> **Serveur :** Parfait. Et comme boisson ?
+> 
+> **Tom :** Une carafe d'eau et deux bières, s'il vous plaît.
+> 
+> **Serveur :** Très bien. Je vous apporte ça tout de suite.
 
 ---
 
-## Vocabulaire thématique
+### Comprehension
 
-## Mots-clés essentiels
+**Answer the questions:**
 
-| Français | English | Exemple |
-|----------|---------|---------|
-| Le menu | Menu | Je voudrais voir le menu. |
-| La carte | Menu | La carte, s'il vous plaît. |
-| Commander | To order | Je voudrais commander. |
-| L'entrée | Starter | Comme entrée, je prends... |
-| Le plat principal | Main course | Pour le plat principal... |
-| Le dessert | Dessert | Comme dessert... |
-| La boisson | Drink | Et comme boisson ? |
-| L'addition | Bill | L'addition, s'il vous plaît. |
-| Le serveur / La serveuse | Waiter / Waitress | Serveur ! |
-| Une table | Table | Une table pour deux. |
+1. Did Sophie make a reservation?
+2. What does Sophie order as a starter?
+3. How does Sophie like her steak cooked?
+4. What does Tom order as a main course?
+5. What do they order to drink?
 
-## Spécialités belges
+<details>
+<summary>Answers</summary>
 
-| Français | English | Description |
-|----------|---------|-------------|
-| Les moules-frites | Mussels and fries | Plat national belge |
-| La gaufre de Bruxelles | Brussels waffle | Légère et croustillante |
-| La gaufre de Liège | Liège waffle | Épaisse avec sucre |
-| Le chocolat | Chocolate | Spécialité belge |
-| La bière | Beer | Plus de 1000 variétés ! |
-| Les frites | French fries | Inventées en Belgique ! |
+1. Yes, a table for two
+2. Onion soup (soupe à l'oignon)
+3. Rare (saignant)
+4. Mussels with fries (moules-frites)
+5. A carafe of water and two beers
 
-## Expressions utiles
+</details>
 
-- **Je voudrais...** : I would like...
-- **Qu'est-ce que vous recommandez ?** : What do you recommend?
-- **C'est tout** : That's all
-- **Bon appétit !** : Enjoy your meal!
-- **C'était délicieux** : It was delicious
+---
+
+## Observation 1: Ordering expressions
+
+**Look at how they order:**
+
+> **Je voudrais** la soupe à l'oignon.  
+> **Je prends** la salade César.  
+> **Pour moi**, le steak-frites.
+
+### Ways to order
+
+| French | English | Politeness |
+|:-------|:--------|:-----------|
+| Je voudrais... | I would like... | Very polite |
+| J'aimerais... | I would like... | Very polite |
+| Je prends... | I'll have... | Standard |
+| Pour moi... | For me... | Casual |
+
+---
+
+## Practice 1: Order your meal
+
+**Complete with "Je voudrais" or "Je prends":**
+
+1. _____________ une pizza margherita.
+2. _____________ le menu du jour.
+3. _____________ une salade verte.
+
+<details>
+<summary>Answers</summary>
+
+1. Je voudrais / Je prends une pizza margherita.
+2. Je voudrais / Je prends le menu du jour.
+3. Je voudrais / Je prends une salade verte.
+
+</details>
+
+---
+
+## Observation 2: Restaurant vocabulary
+
+**Look at the key words in the dialogue:**
+
+> une entrée → la soupe  
+> un plat principal → le steak-frites  
+> une boisson → une bière
+
+### Menu structure
+
+| French | English |
+|:-------|:--------|
+| l'entrée | starter/appetizer |
+| le plat principal | main course |
+| le dessert | dessert |
+| la boisson | drink |
+| le menu du jour | daily special |
+| la carte | menu |
+| l'addition | the bill |
+
+### Common dishes
+
+| French | English |
+|:-------|:--------|
+| la soupe | soup |
+| la salade | salad |
+| le steak-frites | steak with fries |
+| les moules-frites | mussels with fries |
+| le poulet | chicken |
+| le poisson | fish |
+| les pâtes | pasta |
+
+---
+
+## Observation 3: How do you like your steak?
+
+**Look at the dialogue:**
+
+> Le steak-frites, **saignant** s'il vous plaît.
+
+### Steak cooking levels
+
+| French | English | Description |
+|:-------|:--------|:------------|
+| bleu | very rare | Almost raw inside |
+| saignant | rare | Red center |
+| à point | medium | Pink center |
+| bien cuit | well done | No pink |
+
+---
+
+## Practice 2: Complete the order
+
+**Fill in the blanks:**
+
+**Serveur :** Vous avez choisi ?
+
+**You :** Oui. Comme _____________ (starter), je voudrais la soupe.
+
+**Serveur :** Et comme plat principal ?
+
+**You :** Je prends le steak-frites, _____________ (medium) s'il vous plaît.
+
+**Serveur :** Et comme _____________ (drink)?
+
+**You :** Une _____________ (carafe) d'eau, s'il vous plaît.
+
+<details>
+<summary>Answers</summary>
+
+1. entrée
+2. à point
+3. boisson
+4. carafe
+
+</details>
+
+---
+
+## Observation 4: Asking for the bill
+
+**At the end of the meal:**
+
+> **Tom :** L'addition, s'il vous plaît.
+> 
+> **Serveur :** Voilà. Ça fait 45 euros.
+> 
+> **Tom :** Je peux payer par carte ?
+> 
+> **Serveur :** Oui, bien sûr.
+
+### Useful expressions
+
+| French | English |
+|:-------|:--------|
+| L'addition, s'il vous plaît. | The bill, please. |
+| C'est combien ? | How much is it? |
+| Je peux payer par carte ? | Can I pay by card? |
+| Vous acceptez les espèces ? | Do you accept cash? |
+| Le service est compris ? | Is service included? |
+| Gardez la monnaie. | Keep the change. |
+
+---
+
+## Culture: Dining in Belgium
+
+### Read this testimony
+
+**Marc, Belgian restaurant owner:**
+
+> "In Belgium, we take our time at restaurants. A meal can last 2-3 hours – it's a social experience! Tipping isn't obligatory because service is included in the price, but you can round up the bill or leave 5-10% for excellent service."
+
+### Belgian restaurant customs
+
+| Topic | Information |
+|:------|:------------|
+| Reservations | Recommended for dinner, especially weekends |
+| Service charge | Included in prices |
+| Tipping | Optional, 5-10% for great service |
+| Meal times | Lunch 12-14h, Dinner 19-21h |
+| Dress code | Smart casual for most restaurants |
+
+### Belgian specialties
+
+| Dish | Description |
+|:-----|:------------|
+| Moules-frites | Mussels with fries – national dish! |
+| Carbonnade flamande | Beef stewed in beer |
+| Waterzooi | Creamy chicken or fish stew |
+| Vol-au-vent | Chicken in creamy sauce |
+| Stoemp | Mashed potatoes with vegetables |
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Role-play at a restaurant
+
+**Practice this complete dialogue:**
+
+1. Waiter greets you
+2. You say you have a reservation
+3. Waiter gives you the menu
+4. You order a starter and main course
+5. You order drinks
+6. You ask for the bill
+7. You pay
+
+### Exercise 2: Describe your favorite restaurant
+
+**Say out loud:**
+
+"Mon restaurant préféré est... J'aime commander... Le plat typique est..."
+
+---
+
+## Writing Practice
+
+**Write a restaurant dialogue (10-12 lines):**
+
+Include:
+- Greeting and seating
+- Ordering starter, main, drinks
+- Asking for the bill
+- Payment
+
+---
+
+## Grammar: The verb "prendre" (to take/have)
+
+### Complete conjugation
+
+| Subject | Conjugation |
+|:--------|:------------|
+| Je | prends |
+| Tu | prends |
+| Il/Elle/On | prend |
+| Nous | prenons |
+| Vous | prenez |
+| Ils/Elles | prennent |
+
+### Uses in restaurant context
+
+| French | English |
+|:-------|:--------|
+| Je prends le menu du jour. | I'll have the daily special. |
+| Qu'est-ce que vous prenez ? | What will you have? |
+| On prend l'addition. | We'll take the bill. |
 
 ---
 
 ## Common Mistakes to Avoid
 
-**Before we dive into grammar, watch out for these common mistakes:**
+### Mistake 1: "Je veux" instead of "Je voudrais"
 
-**Mistake 1:** Using "Je veux" instead of "Je voudrais" in restaurants ❌  
-**Correct:** "Je voudrais..." (I would like) is more polite ✅  
-**Why:** "Je veux" (I want) is too direct in restaurants. Always use "Je voudrais" (I would like) - it's more polite and appropriate.
+| Too direct | Polite |
+|:-----------|:-------|
+| Je veux une pizza. | **Je voudrais** une pizza. |
 
-**Mistake 2:** Forgetting "s'il vous plaît" when ordering ❌  
-**Correct:** Always use "Je voudrais [dish], s'il vous plaît" ✅  
-**Why:** Politeness is essential in Belgian restaurants. Always add "s'il vous plaît" when ordering.
+**"Je veux" sounds demanding. Use "Je voudrais" in restaurants!**
 
-**Mistake 3:** "Je voudrais commander" (redundant) ❌  
-**Correct:** "Je voudrais [dish]" or "Je voudrais voir le menu" ✅  
-**Why:** "Je voudrais commander" is redundant - just say what you want: "Je voudrais les moules-frites".
+### Mistake 2: Forgetting the article
 
-**Mistake 4:** "L'addition" vs "Le compte" confusion ❌  
-**Correct:** "L'addition, s'il vous plaît" (the bill) ✅  
-**Why:** In restaurants, use "l'addition" for the bill. "Le compte" is for bank accounts.
+| Incorrect | Correct |
+|:----------|:--------|
+| Je voudrais soupe | Je voudrais **la** soupe |
 
----
+**Always use articles (le/la/les) when ordering!**
 
-## Grammaire
+### Mistake 3: Wrong steak cooking term
 
-## Le verbe "vouloir" (to want)
+| Incorrect | Correct |
+|:----------|:--------|
+| Medium | **À point** |
+| Rare | **Saignant** |
 
-**Formation :**
-
-| Pronom | Verbe "vouloir" | English |
-|--------|-----------------|---------|
-| Je | veux | I want |
-| Tu | veux | You want |
-| Il/Elle | veut | He/She wants |
-| Nous | voulons | We want |
-| Vous | voulez | You want |
-| Ils/Elles | veulent | They want |
-
-**Forme polie :**
-- **Je voudrais...** : I would like... (more polite than "je veux")
-
-**Exemples :**
-- Je voudrais un café. (I would like a coffee.)
-- Vous voulez un dessert ? (Do you want a dessert?)
-- Nous voulons voir le menu. (We want to see the menu.)
-
-## Exercices
-
-**Exercice 1 :** Conjuguez "vouloir"
-1. Je ______________ un café.
-2. Tu ______________ commander ?
-3. Nous ______________ l'addition.
-
-**Correction :**
-1. veux / voudrais
-2. veux
-3. voulons
+**Use French terms for steak doneness!**
 
 ---
 
-## Compréhension orale
+## Self-Evaluation
 
-## Audio : Au restaurant
+**Check what you can do:**
 
-[Voir transcription dans A1.2_Transcriptions.md]
-
-**Questions :**
-1. Que commande le client ?
-2. Quelle bière prend-il ?
-3. Que prend-il comme dessert ?
-
----
-
-## Compréhension écrite
-
-## Texte : Le menu d'un restaurant belge
-
-**ENTRÉES**
-- Salade de crevettes grises : 12€
-- Croquettes de crevettes : 10€
-
-**PLATS**
-- Moules-frites : 22€
-- Carbonnades flamandes : 18€
-- Waterzooi de poulet : 16€
-
-**DESSERTS**
-- Gaufre de Bruxelles : 6€
-- Mousse au chocolat : 7€
-
-**Questions :**
-1. Combien coûtent les moules-frites ?
-2. Quels desserts sont proposés ?
+- [ ] I can make a reservation
+- [ ] I can order food politely: "Je voudrais..."
+- [ ] I know menu vocabulary (entrée, plat, dessert)
+- [ ] I can specify how I want my steak cooked
+- [ ] I can ask for the bill and pay
+- [ ] I understand Belgian dining customs
 
 ---
 
-## Survival Phrases: When You Don't Understand
+## Extra Resources
 
-**Essential phrases for dining out:**
+### Additional activities
 
-1. **"L'addition, s'il vous plaît."** [ladisjɔ̃ sil vu plɛ] = The check, please.
-2. **"Je voudrais..."** [ʒə vudʁɛ] = I would like...
-3. **"C'est délicieux !"** [sɛ delisjø] = It's delicious!
-4. **"Une carafe d'eau, SVP."** [yn kaʁaf do] = A jug of tap water, please.
-5. **"Où sont les toilettes ?"** [u sɔ̃ le twalɛt] = Where are the toilets?
+- **Restaurant visit:** Practice ordering in French at a real restaurant
+- **Menu reading:** Look up a Brussels restaurant menu online
+- **Roleplay:** Practice with a friend or language partner
 
-**💡 Important:** "S'il vous plaît" is mandatory for every request!
+### Next lesson
 
----
-
-## Expression orale / Speaking Practice
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself saying the "Vous" (You) lines on your phone
-3. Listen back and check your pronunciation
-4. Focus on "Je voudrais" and polite expressions
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to restaurant vocabulary
-
-**Method 3: Practice Both Roles**
-1. Read the entire dialogue out loud, playing both roles
-2. This helps you practice both ordering and understanding the server
-3. Try variations with different dishes
-
----
-
-## Dialogue Model: Commander au restaurant
-
-**Vous :** Bonsoir ! Une table pour deux, s'il vous plaît. [bɔ̃swaʁ yn tabl puʁ dø sil vu plɛ]  
-**Serveur :** Bonsoir ! Parfait, suivez-moi. Voici le menu. [bɔ̃swaʁ paʁfɛ sɥive mwa vwasi lə meny]  
-**Vous :** Merci. Je voudrais voir le menu, s'il vous plaît. [mɛʁsi ʒə vudʁɛ vwaʁ lə meny sil vu plɛ]  
-**Serveur :** Voilà. Qu'est-ce que vous recommandez ? [vwala kɛs kə vu ʁəkɔmɑ̃de]  
-**Vous :** Je recommande les moules-frites, c'est une spécialité ! [ʒə ʁəkɔmɑ̃d le mul fʁit sɛt yn spesjalite]  
-**Vous :** D'accord, je voudrais les moules-frites, s'il vous plaît. [dakɔʁ ʒə vudʁɛ le mul fʁit sil vu plɛ]
-
-**Tips for practicing:**
-- Always use "Je voudrais" (I would like) - it's more polite than "Je veux"
-- Always add "s'il vous plaît" when ordering
-- Practice saying "L'addition, s'il vous plaît" for the bill
-- Practice "Bon appétit !" before eating (very appreciated in Belgium!)
-
-**Your turn!** Practice this dialogue! Try variations with different dishes!
-
----
-
-## Situation : Commander au restaurant
-
-**Dialogue :**
-
-**Vous :** Bonsoir ! Une table pour deux, s'il vous plaît.
-
-**Serveur :** Bonsoir ! Parfait, suivez-moi. Voici le menu.
-
-**Vous :** Merci. Qu'est-ce que vous recommandez ?
-
-**Serveur :** Je recommande les moules-frites, c'est une spécialité !
-
-**Vous :** D'accord, je prends les moules-frites. Et une bière, s'il vous plaît.
-
-**Serveur :** Quelle bière ?
-
-**Vous :** Une Jupiler, s'il vous plaît.
-
----
-
-## Expression écrite
-
-**Exercice :** Écrivez un dialogue au restaurant (8-10 répliques)
-
----
-
-## Real-World Practice: Try This Today!
-
-**This week, challenge yourself to use what you've learned:**
-
-**Practice opportunities:**
-- [ ] Practice ordering at a Belgian restaurant using "Je voudrais..."
-- [ ] Practice asking "L'addition, s'il vous plaît" when paying
-- [ ] Try ordering Belgian specialties: moules-frites, gaufres, Belgian beer
-- [ ] Practice saying "Bon appétit !" before eating (it's appreciated in Belgium!)
-
-**Don't worry if restaurant situations feel stressful - they do for everyone at first!**  
-**The most important thing is to use "Je voudrais" (polite) and "s'il vous plaît" (please).**
-
-**Success tip:** Before going to a restaurant, practice ordering your favorite dish in French several times!
-
----
-
-## Troubleshooting: Having Trouble?
-
-**If you're struggling with "vouloir" conjugation:**
-- Write out the conjugation 5 times: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent
-- Practice "Je voudrais" 20 times - this is what you'll use most in restaurants
-- Remember: "Je voudrais" (I would like - polite) vs "Je veux" (I want - less polite)
-
-**If restaurant vocabulary is overwhelming:**
-- Focus on essentials: menu, je voudrais, l'addition, s'il vous plaît
-- Learn 3-5 Belgian dishes: moules-frites, gaufre, bière, frites
-- Practice ordering one complete meal: entrée, plat, dessert, boisson
-- Don't try to learn everything - focus on what you actually like to order
-
-**If pronunciation of dish names is difficult:**
-- Practice: moules-frites [mul fʁit], gaufre [gofʁ], bière [bjɛʁ]
-- Listen to audio of Belgian dish names
-- Don't worry about perfect pronunciation - servers understand even with an accent
-- Focus on being understood, not perfect pronunciation
-
-**Still stuck?** Restaurant vocabulary can be overwhelming. Focus on mastering "Je voudrais [dish], s'il vous plaît" and "L'addition, s'il vous plaît". These two phrases will get you through most restaurant situations!
-
----
-
-## Culture belge
-
-## La gastronomie belge
-
-La Belgique est réputée pour sa gastronomie. Les moules-frites sont le plat national. Les Belges sont fiers de leurs spécialités culinaires !
-
-**Comparaison culturelle / Cultural comparison:**
-
-**Dans beaucoup de pays :**
-- On peut commander rapidement sans beaucoup de politesse
-- Le service peut être rapide et informel
-- On peut demander des modifications sans problème
-
-**En Belgique :**
-- La politesse est très importante : toujours dire "Bonjour" en entrant, "Merci" en sortant
-- On dit "Bon appétit" avant de manger (c'est très apprécié !)
-- Le service est généralement plus lent et détendu
-- Les repas sont des moments sociaux - prenez votre temps !
-- Les Belges sont fiers de leur gastronomie - montrez de l'intérêt !
-
-**Pourquoi c'est important :** Respecter les codes de politesse dans les restaurants belges montre votre respect pour la culture locale et améliore votre expérience !
-
-💡 **Tip pratique :** Dans les restaurants belges, on dit "Bon appétit" avant de manger. C'est très apprécié !
-
----
-
-## Récapitulatif
-
-**Points clés :**
-- Commander au restaurant
-- Vocabulaire de la gastronomie belge
-- Verbe "vouloir"
-
-**Auto-évaluation :**
-- [ ] Je peux commander au restaurant
-- [ ] Je connais les spécialités belges
-- [ ] Je connais le verbe "vouloir"
-
-
-
-
-
----
-
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Find a Menu:** Search online for "menu restaurant Bruxelles" and try to choose what you would order.
-- **Roleplay:** Practice ordering your favorite meal in front of a mirror.
-- **Vocabulary:** Create flashcards for "entrée", "plat", "dessert", and your favorite foods.
-- **Challenge:** Next time you go to a restaurant, try to order one thing in French!
+> **Leçon 02 : Au marché bruxellois**  
+> You'll learn to shop at the market and talk about quantities!
 
 ---
 
 *Bonne continuation !*
-
-
-
-

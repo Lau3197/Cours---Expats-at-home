@@ -1,0 +1,28 @@
+[
+    {
+        "id": "travel_planning",
+        "title": "Weekend Warrior Pack",
+        "items": [
+            {
+                "id": "sncb_app",
+                "label": "Install SNCB/NMBS App",
+                "description": "Buy tickets in 3 clicks. Check real-time delays."
+            },
+            {
+                "id": "weekend_ticket",
+                "label": "Select 'Weekend Ticket'",
+                "description": "Make sure you tick the discount box."
+            },
+            {
+                "id": "ghent_trip",
+                "label": "Visit Ghent",
+                "description": "If you only do one trip, do this one."
+            },
+            {
+                "id": "sea_breeze",
+                "label": "Get Windblown at the Coast",
+                "description": "Ideally in October for the full melancholic experience."
+            }
+        ]
+    }
+]

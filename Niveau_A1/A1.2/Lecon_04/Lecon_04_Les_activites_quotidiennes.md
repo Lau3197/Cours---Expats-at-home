@@ -2,816 +2,310 @@
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre à parler de sa routine quotidienne, utiliser les verbes en -ir et -re
+**Objectifs** : Describe your daily routine, use reflexive verbs, talk about times
 
 ---
 
+## Let's Start! A typical day
 
-## Let's Start! Your Daily Routine Adventure!
+### Listen to this text
 
-## 🎲 Discovery Activity: What Do They Do Every Day?
+**Sophie describes her typical day:**
 
-**Here's a fun situation!** 🎮
-
-You're talking to a Belgian friend about their day. They say:
-
-"Le matin, je **finis** mon café, puis je **descends** prendre le métro. Le soir, je **rentre** à la maison."
-
-**Your challenge:** Can you guess what these verbs mean?
-
-**Match each verb with its meaning:**
-
-**A)** To finish  
-**B)** To go down / To take (transport)  
-**C)** To return / To go back home
-
-**Write down your guesses:**
-- finis = ?
-- descends = ?
-- rentre = ?
-
-*(Hint: Think about daily routines - what do people do in the morning and evening?)*
-
-**Don't worry if you're not sure - we'll discover the answers together!** 🤔
-
-**Ready to learn about daily activities?** Keep reading! 👇
+> Je **me réveille** à sept heures. Je **me lève** tout de suite et je **me douche**. Après, je **m'habille** et je prends mon petit-déjeuner.
+>
+> Je quitte la maison à huit heures. Je prends le métro et j'arrive au travail à huit heures trente.
+>
+> À midi, je déjeune avec mes collègues. L'après-midi, je travaille jusqu'à dix-sept heures.
+>
+> Le soir, je rentre à la maison vers dix-huit heures. Je **me repose** un peu, puis je prépare le dîner. Après le dîner, je regarde la télé ou je lis.
+>
+> Je **me couche** vers vingt-deux heures trente. Le week-end, je **me lève** plus tard !
 
 ---
 
-## 📋 Introduction
+### Comprehension
 
-**Did you guess correctly?** 🎉
+**Answer the questions:**
 
-**The answers are:**
-- **finis** = A) To finish ✅
-- **descends** = B) To go down / To take (transport) ✅
-- **rentre** = C) To return / To go back home ✅
+1. What time does Sophie wake up?
+2. How does she get to work?
+3. What time does she finish work?
+4. What does she do in the evening?
+5. What time does she go to bed?
 
-**Great job if you got them right!** Even if you didn't, you're about to learn all about daily routines in French!
+<details>
+<summary>Answers</summary>
 
-Welcome to your lesson about daily activities! 🎉
+1. At 7:00 AM
+2. By metro
+3. At 5:00 PM (17h)
+4. She relaxes, makes dinner, watches TV or reads
+5. Around 10:30 PM (22h30)
 
-Being able to talk about your daily routine is super important! Whether you're chatting with colleagues, describing your day, or making plans, this lesson will help you express yourself!
-
-**What you will learn today:**
-- How to talk about your daily routine
-- Verbs ending in -ir and -re (finir, descendre, etc.)
-- Time expressions (le matin, l'après-midi, le soir)
-- Vocabulary for daily activities
-
-**Why this matters in Belgium:**
-Belgians have specific routines - lunch break at 12 PM, work from 9 AM to 5 PM, dinner around 7-8 PM. Understanding daily routines helps you integrate and make plans with Belgians!
+</details>
 
 ---
 
-## 🎮 Warm-up Activity: Match the Activities!
+## Observation 1: Reflexive verbs
 
-**Let's play a matching game!** 🎮
+**Look at the verbs in bold:**
 
-You're learning about daily activities. Can you match each French activity with its English meaning?
+> Je **me** réveille  
+> Je **me** lève  
+> Je **me** douche  
+> Je **m'**habille
 
-**Match these activities:**
+**What did you notice?**
 
-1. **se lever** [sə ləve]
-   - A) To wake up / To get up
-   - B) To go to bed
-   - C) To have breakfast
+These verbs have "me" before them. They are called **reflexive verbs** because the action reflects back to the person doing it.
 
-2. **prendre le petit-déjeuner** [pʁɑ̃dʁ lə pəti deʒœne]
-   - A) To have lunch
-   - B) To have breakfast
-   - C) To have dinner
+### Common reflexive verbs for daily routine
 
-3. **aller au travail** [ale o tʁavaj]
-   - A) To go home
-   - B) To go to work
-   - C) To go shopping
-
-4. **rentrer à la maison** [ʁɑ̃tʁe a la mezɔ̃]
-   - A) To go to work
-   - B) To return home
-   - C) To go out
-
-5. **se coucher** [sə kuʃe]
-   - A) To wake up
-   - B) To go to bed
-   - C) To take a shower
-
-**Write down your answers: 1-?, 2-?, 3-?, 4-?, 5-?**
-
-**Ready to check?**
-- **1-A (To wake up / To get up)** ✅ - "se lever" = to get up
-- **2-B (To have breakfast)** ✅ - "petit-déjeuner" = breakfast
-- **3-B (To go to work)** ✅ - "aller au travail" = to go to work
-- **4-B (To return home)** ✅ - "rentrer à la maison" = to return home
-- **5-B (To go to bed)** ✅ - "se coucher" = to go to bed
-
-**🎉 How many did you get right?** You're discovering daily routines! 🙌
+| French | English |
+|:-------|:--------|
+| se réveiller | to wake up |
+| se lever | to get up |
+| se doucher | to shower |
+| se laver | to wash oneself |
+| s'habiller | to get dressed |
+| se brosser les dents | to brush one's teeth |
+| se maquiller | to put on makeup |
+| se raser | to shave |
+| se reposer | to rest |
+| se coucher | to go to bed |
 
 ---
 
-## French Pronunciation: Quick Reference
+## Observation 2: Reflexive verb conjugation
 
-**📚 Remember:** For complete pronunciation help, check out `Prononciation/00_Decouvrir_la_Prononciation_Francaise.md`!
+**The pattern:**
 
-**Key sounds in today's words:**
-- **finir** [finir] - Notice the final "r" is pronounced!
-- **descendre** [desɑ̃dʁ] - Nasal sound [ɑ̃] and French R [ʁ]
-- **rentrer** [ʁɑ̃tʁe] - Nasal [ɑ̃] and French R [ʁ]
+| Subject | Reflexive pronoun | Verb |
+|:--------|:------------------|:-----|
+| Je | **me** | lève |
+| Tu | **te** | lèves |
+| Il/Elle | **se** | lève |
+| Nous | **nous** | levons |
+| Vous | **vous** | levez |
+| Ils/Elles | **se** | lèvent |
 
-**💡 Practice tip:** All words in this lesson have IPA transcriptions [in brackets]. Use them to practice!
+**Note:** "me/te/se" become "m'/t'/s'" before a vowel:
+- Je m'habille (not "me habille")
 
 ---
 
-## Vocabulary: Essential Words
+## Practice 1: Conjugate reflexive verbs
 
-## Key Daily Activities
+**Complete with the correct form:**
 
-**Here are common daily activities in French!** Each one has its pronunciation in IPA! 🎤
+1. Je _____________ à 7h. (se réveiller)
+2. Tu _____________ tout de suite ? (se lever)
+3. Elle _____________ les dents. (se brosser)
+4. Nous _____________ vers 23h. (se coucher)
+5. Ils _____________ le week-end. (se reposer)
 
-| Français | IPA | English | Example / Exemple |
-|----------|-----|---------|-------------------|
-| **se lever** | [sə ləve] | to get up | Je me lève à 7 heures. |
-| **prendre le petit-déjeuner** | [pʁɑ̃dʁ lə pəti deʒœne] | to have breakfast | Je prends le petit-déjeuner à 8h. |
-| **aller au travail** | [ale o tʁavaj] | to go to work | Je vais au travail en métro. |
-| **travailler** | [tʁavaje] | to work | Je travaille de 9h à 17h. |
-| **prendre le déjeuner** | [pʁɑ̃dʁ lə deʒœne] | to have lunch | Je déjeune à midi. |
-| **rentrer à la maison** | [ʁɑ̃tʁe a la mezɔ̃] | to return home | Je rentre à 18h. |
-| **faire le dîner** | [fɛʁ lə dine] | to make dinner | Je fais le dîner le soir. |
-| **se coucher** | [sə kuʃe] | to go to bed | Je me couche à 22h. |
-| **se doucher** | [sə duʃe] | to take a shower | Je me douche le matin. |
-| **faire les courses** | [fɛʁ le kuʁs] | to go shopping | Je fais les courses le samedi. |
+<details>
+<summary>Answers</summary>
 
-**💡 Important note:** Notice verbs like "se lever" and "se coucher" - they have "se" before them! These are called "reflexive verbs" - we'll learn more about them in Leçon 11!
+1. Je **me réveille** à 7h.
+2. Tu **te lèves** tout de suite ?
+3. Elle **se brosse** les dents.
+4. Nous **nous couchons** vers 23h.
+5. Ils **se reposent** le week-end.
 
-**🎯 Try it!** Can you describe your morning routine using these words?
+</details>
 
-**🎤 Pronunciation practice:** Say each activity 3 times with correct pronunciation!
+---
 
-## Useful Expressions for Daily Life
+## Observation 3: Daily activities vocabulary
 
-**These expressions will help you talk about your routine!** 🎤
+### Morning routine
 
-- **Le matin** [lə matɛ̃] : In the morning
-- **L'après-midi** [lapʁɛmidi] : In the afternoon
-- **Le soir** [lə swaʁ] : In the evening
-- **La nuit** [la nɥi] : At night
-- **D'abord** [dabɔʁ] : First
-- **Ensuite** [ɑ̃sɥit] : Then / Next
-- **Enfin** [ɑ̃fɛ̃] : Finally
-- **Tous les jours** [tu le ʒuʁ] : Every day
-- **Le week-end** [lə wikɛnd] : The weekend
+| French | English |
+|:-------|:--------|
+| se réveiller | to wake up |
+| se lever | to get up |
+| prendre une douche | to take a shower |
+| s'habiller | to get dressed |
+| prendre le petit-déjeuner | to have breakfast |
+| quitter la maison | to leave the house |
 
-**🎯 Practice Challenge:** Create a mini-story about your day! Write 5 sentences using these time expressions!
+### Work and afternoon
 
-**Example:**
-- Le matin, je me lève à 7h.
-- Ensuite, je prends le petit-déjeuner.
-- Puis, je vais au travail.
-- Le soir, je rentre à la maison.
-- Enfin, je me couche à 22h.
+| French | English |
+|:-------|:--------|
+| arriver au travail | to arrive at work |
+| déjeuner | to have lunch |
+| travailler | to work |
+| finir le travail | to finish work |
 
-**💡 Pronunciation note:** Notice "le matin" [lə matɛ̃] - the "in" makes a nasal sound [ɛ̃]!
+### Evening
 
-## Belgian-Specific Vocabulary
+| French | English |
+|:-------|:--------|
+| rentrer à la maison | to come home |
+| préparer le dîner | to prepare dinner |
+| dîner | to have dinner |
+| regarder la télé | to watch TV |
+| se coucher | to go to bed |
 
-**These words are useful for talking about daily life in Belgium!** 🇧🇪
+---
 
-- **Le métro** [lə metʁo] : The metro (STIB in Brussels)
-- **Le tram** [lə tʁam] : The tram
-- **Le bus** [lə bys] : The bus
-- **La carte MOBIB** [la kaʁt mobib] : MOBIB card (for public transport)
-- **La pause déjeuner** [la poz deʒœne] : Lunch break (usually 12h-13h in Belgium)
-- **Le quartier** [lə kaʁtje] : Neighborhood
+## Observation 4: Time connectors
 
-**Fun fact:** In Belgium, lunch break is usually 1 hour (12 PM to 1 PM). Many people go home for lunch, especially in smaller cities!
+**Look at how Sophie connects her activities:**
 
-**🎤 Pronunciation challenge:** Try saying "carte MOBIB" [kaʁt mobib] - practice 5 times!
+> **Après**, je m'habille.  
+> **Puis**, je prépare le dîner.  
+> Je travaille **jusqu'à** 17h.  
+> Je rentre **vers** 18h.
+
+### Useful connectors
+
+| French | English |
+|:-------|:--------|
+| d'abord | first |
+| puis / ensuite | then |
+| après | after |
+| avant | before |
+| vers | around (time) |
+| jusqu'à | until |
+| pendant | during |
+
+---
+
+## Culture: Work-life balance in Belgium
+
+### Read this testimony
+
+**Marc, Belgian office worker:**
+
+> "In Belgium, we value our work-life balance. The legal workweek is 38 hours, and many companies offer flexible hours. Lunch breaks are usually one hour – people often eat together with colleagues. In the evening, Belgians cherish their family time. You'll rarely receive work emails after 18h!"
+
+### Typical Belgian schedule
+
+| Activity | Typical time |
+|:---------|:-------------|
+| Wake up | 6h30-7h30 |
+| Start work | 8h-9h |
+| Lunch break | 12h-13h |
+| End work | 17h-18h |
+| Dinner | 19h-20h |
+| Go to bed | 22h-23h |
+
+---
+
+## Practice 2: Describe your routine
+
+**Complete with your own routine:**
+
+1. Je me réveille à _______________.
+2. Je prends mon petit-déjeuner à _______________.
+3. Je commence le travail à _______________.
+4. Je déjeune à _______________.
+5. Je me couche vers _______________.
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Describe your morning
+
+**Say your morning routine:**
+
+"D'abord, je me réveille à [time]. Puis, je [activity]. Ensuite, je [activity]..."
+
+### Exercise 2: Compare weekday vs weekend
+
+**Describe the difference:**
+
+"En semaine, je me lève à... Le week-end, je me lève à..."
+
+---
+
+## Writing Practice
+
+**Write a paragraph (80-100 words) about your typical day:**
+
+Include:
+- Morning routine
+- Work/study activities
+- Evening activities
+- Times for each activity
+
+---
+
+## Grammar: Reflexive verbs - Complete conjugation
+
+### SE LEVER (to get up)
+
+| Subject | Conjugation |
+|:--------|:------------|
+| Je | me lève |
+| Tu | te lèves |
+| Il/Elle/On | se lève |
+| Nous | nous levons |
+| Vous | vous levez |
+| Ils/Elles | se lèvent |
+
+### In negative form
+
+| Affirmative | Negative |
+|:------------|:---------|
+| Je me lève | Je **ne** me lève **pas** |
+| Tu te couches | Tu **ne** te couches **pas** |
 
 ---
 
 ## Common Mistakes to Avoid
 
-**Before we dive into grammar, watch out for these common mistakes:**
+### Mistake 1: Forgetting the reflexive pronoun
 
-**Mistake 1:** Forgetting "se" in reflexive verbs: "Je lève" ❌  
-**Correct:** "Je me lève" (with "me") ✅  
-**Why:** "Se lever" (to get up) is a reflexive verb - it needs "se/me/te" before it. "Je me lève" not "Je lève".
+| Incorrect | Correct |
+|:----------|:--------|
+| Je lève à 7h | Je **me** lève à 7h |
 
-**Mistake 2:** Confusing "-ir" and "-er" verb endings ❌  
-**Correct:** "Je finis" (not "Je fini"), "Je descends" (not "Je descende") ✅  
-**Why:** -ir verbs: je finis, tu finis, il finit. -re verbs: je descends, tu descends, il descend. Don't mix them up!
+### Mistake 2: Wrong pronoun
 
-**Mistake 3:** Forgetting double "s" in "nous finissons" ❌  
-**Correct:** "Nous finissons" (with double "ss") ✅  
-**Why:** -ir verbs need double "s" in nous/vous forms: "nous finissons", "vous finissez". Don't forget the double "s"!
+| Incorrect | Correct |
+|:----------|:--------|
+| Tu me lèves | Tu **te** lèves |
+| Elle me réveille | Elle **se** réveille |
 
-**Mistake 4:** Using wrong time expressions: "dans le matin" ❌  
-**Correct:** "le matin" (in the morning), "l'après-midi" (in the afternoon), "le soir" (in the evening) ✅  
-**Why:** Use "le matin" not "dans le matin". No preposition needed before these time expressions.
+### Mistake 3: Not using elision before vowel
 
----
-
-## Grammar: Verbs Ending in -ir and -re
-
-## Verbs Ending in -ir (like "finir" - to finish)
-
-**What it is:** These are regular verbs that end in -ir. They follow a pattern, so once you learn it, you can use many verbs!
-
-**How to form it:**
-
-| Pronom | Verbe "finir" | English | IPA |
-|--------|---------------|---------|-----|
-| Je | finis | I finish | [ʒə fini] |
-| Tu | finis | You finish (informal) | [ty fini] |
-| Il/Elle | finit | He/She finishes | [il/ɛl fini] |
-| Nous | finissons | We finish | [nu finisɔ̃] |
-| Vous | finissez | You finish (formal/plural) | [vu finise] |
-| Ils/Elles | finissent | They finish | [il/ɛl fis] |
-
-**Examples you'll actually use:**
-- **Je finis mon travail à 17h.** [ʒə fini mɔ̃ tʁavaj a disɛt ɛʁ] = "I finish work at 5 PM." (Use this when talking about your schedule!)
-- **Tu finis ton café ?** [ty fini tɔ̃ kafe] = "Are you finishing your coffee?" (Great question to ask someone!)
-- **Nous finissons à midi.** [nu finisɔ̃ a midi] = "We finish at noon." (Talking about lunch break!)
-
-**⚠️ Watch out! Common mistakes:**
-- Don't forget the double "s" in "nous finissons" [nu finisɔ̃] and "vous finissez" [vu finise]!
-- The "t" in "il/elle finit" [fini] is silent - don't pronounce it!
-
-**💡 Memory trick:** Think "finir" = "to finish" - the pattern is: -is, -is, -it, -issons, -issez, -issent!
-
-**🎤 Pronunciation practice:** Say "Je finis" [ʒə fini] 10 times!
-
-## Verbs Ending in -re (like "descendre" - to go down)
-
-**What it is:** These are regular verbs that end in -re. They also follow a pattern!
-
-**How to form it:**
-
-| Pronom | Verbe "descendre" | English | IPA |
-|--------|------------------|---------|-----|
-| Je | descends | I go down | [ʒə desɑ̃] |
-| Tu | descends | You go down (informal) | [ty desɑ̃] |
-| Il/Elle | descend | He/She goes down | [il/ɛl desɑ̃] |
-| Nous | descendons | We go down | [nu desɑ̃dɔ̃] |
-| Vous | descendez | You go down (formal/plural) | [vu desɑ̃de] |
-| Ils/Elles | descendent | They go down | [il/ɛl desɑ̃d] |
-
-**Examples you'll actually use:**
-- **Je descends à la station Gare Centrale.** [ʒə desɑ̃ a la stasjɔ̃ gaʁ sɑ̃tʁal] = "I get off at Gare Centrale station." (Use this when taking the metro!)
-- **Tu descends où ?** [ty desɑ̃ u] = "Where do you get off?" (Great question on public transport!)
-- **Nous descendons ici.** [nu desɑ̃dɔ̃z isi] = "We get off here." (Useful when traveling!)
-
-**⚠️ Watch out! Common mistakes:**
-- The "d" in "je descends" [desɑ̃] is silent - don't pronounce it!
-- Don't forget the "ons" in "nous descendons" [desɑ̃dɔ̃]!
-
-**💡 Memory trick:** Think "descendre" = "to go down" - the pattern is: -s, -s, (nothing), -ons, -ez, -ent!
-
-**🎤 Pronunciation practice:** Say "Je descends" [ʒə desɑ̃] 10 times! Notice the nasal sound [ɑ̃]!
-
-## Other Common -ir and -re Verbs
-
-**Here are more verbs you'll use:**
-
-| Verbe -ir | IPA | English | Verbe -re | IPA | English |
-|-----------|-----|---------|-----------|-----|---------|
-| **choisir** | [ʃwazir] | to choose | **attendre** | [atɑ̃dʁ] | to wait |
-| **réussir** | [ʁeysir] | to succeed | **entendre** | [ɑ̃tɑ̃dʁ] | to hear |
-| **grandir** | [gʁɑ̃dir] | to grow | **perdre** | [pɛʁdʁ] | to lose |
-| **réfléchir** | [ʁefleʃir] | to think | **répondre** | [ʁepɔ̃dʁ] | to answer |
-
-**🎯 Try it!** Can you conjugate "choisir" and "attendre" using the patterns you learned?
+| Incorrect | Correct |
+|:----------|:--------|
+| Je me habille | Je **m'**habille |
 
 ---
 
-## Grammar Exercises: Let's Practice!
+## Self-Evaluation
 
-## Exercise 1: Conjugate -ir Verbs - Part 1 (Basic)
+**Check what you can do:**
 
-**Fill in the blanks with the correct form of "finir":**
-
-1. Je _______________ mon travail à 17h.
-2. Tu _______________ ton café ?
-3. Il _______________ à midi.
-4. Nous _______________ ensemble.
-5. Vous _______________ quand ?
-6. Elles _______________ tard.
-
-**💡 Tip:** Try saying the sentences out loud after completing them!
-
-**Answers:**
-1. Je **finis** mon travail à 17h.
-2. Tu **finis** ton café ?
-3. Il **finit** à midi.
-4. Nous **finissons** ensemble.
-5. Vous **finissez** quand ?
-6. Elles **finissent** tard.
-
-## Exercise 1: Conjugate -ir Verbs - Part 2 (More Practice!)
-
-**Now let's use different -ir verbs:**
-
-1. Je _______________ (choisir) mon plat.
-2. Tu _______________ (réussir) ton examen ?
-3. Elle _______________ (grandir) vite.
-4. Nous _______________ (réfléchir) à la question.
-5. Vous _______________ (finir) le projet.
-6. Ils _______________ (choisir) le restaurant.
-
-**💡 Challenge:** After completing, read all sentences out loud with correct pronunciation!
-
-**Answers:**
-1. Je **choisis** mon plat.
-2. Tu **réussis** ton examen ?
-3. Elle **grandit** vite.
-4. Nous **réfléchissons** à la question.
-5. Vous **finissez** le projet.
-6. Ils **choisissent** le restaurant.
-
-## Exercise 1: Conjugate -ir Verbs - Part 3 (Real Situations!)
-
-**Now let's use real situations you'll encounter in Belgium:**
-
-1. **At work:** "Je _______________ (finir) mon travail à 17h."
-2. **At a restaurant:** "Je _______________ (choisir) les moules-frites."
-3. **Talking about success:** "Tu _______________ (réussir) bien en français !"
-4. **Making a decision:** "Nous _______________ (réfléchir) à notre choix."
-5. **At the end of the day:** "Ils _______________ (finir) tôt aujourd'hui."
-
-**🎯 Challenge:** Write your own 3 sentences using -ir verbs about your daily routine!
-
-**Answers:**
-1. Je **finis** mon travail à 17h.
-2. Je **choisis** les moules-frites.
-3. Tu **réussis** bien en français !
-4. Nous **réfléchissons** à notre choix.
-5. Ils **finissent** tôt aujourd'hui.
-
-## Exercise 2: Conjugate -re Verbs - Part 1 (Basic)
-
-**Fill in the blanks with the correct form of "descendre":**
-
-1. Je _______________ à la station suivante.
-2. Tu _______________ où ?
-3. Il _______________ ici.
-4. Nous _______________ ensemble.
-5. Vous _______________ maintenant ?
-6. Elles _______________ au centre-ville.
-
-**💡 Tip:** Remember the nasal sound [ɑ̃] in "descends"!
-
-**Answers:**
-1. Je **descends** à la station suivante.
-2. Tu **descends** où ?
-3. Il **descend** ici.
-4. Nous **descendons** ensemble.
-5. Vous **descendez** maintenant ?
-6. Elles **descendent** au centre-ville.
-
-## Exercise 2: Conjugate -re Verbs - Part 2 (More Practice!)
-
-**Now let's use different -re verbs:**
-
-1. Je _______________ (attendre) le bus.
-2. Tu _______________ (entendre) la musique ?
-3. Elle _______________ (perdre) ses clés.
-4. Nous _______________ (répondre) à la question.
-5. Vous _______________ (attendre) longtemps ?
-6. Ils _______________ (entendre) bien.
-
-**💡 Challenge:** After completing, read all sentences out loud with correct pronunciation!
-
-**Answers:**
-1. J'**attends** le bus.
-2. Tu **entends** la musique ?
-3. Elle **perd** ses clés.
-4. Nous **répondons** à la question.
-5. Vous **attendez** longtemps ?
-6. Ils **entendent** bien.
-
-## Exercise 2: Conjugate -re Verbs - Part 3 (Real Situations!)
-
-**Now let's use real situations in Belgium:**
-
-1. **At the metro:** "Je _______________ (descendre) à la station Gare Centrale."
-2. **Waiting for transport:** "Nous _______________ (attendre) le tram."
-3. **On the phone:** "Tu _______________ (entendre) bien ?"
-4. **At work:** "Ils _______________ (répondre) aux emails."
-5. **Looking for something:** "Elle _______________ (perdre) toujours ses clés !"
-
-**🎯 Challenge:** Write your own 3 sentences using -re verbs about your daily life!
-
-**Answers:**
-1. Je **descends** à la station Gare Centrale.
-2. Nous **attendons** le tram.
-3. Tu **entends** bien ?
-4. Ils **répondent** aux emails.
-5. Elle **perd** toujours ses clés !
-
-**🎉 Amazing work!** You've just completed a full grammar workout! 💪
+- [ ] I can describe my daily routine
+- [ ] I know common reflexive verbs (se lever, se coucher)
+- [ ] I can conjugate reflexive verbs correctly
+- [ ] I can use time connectors (d'abord, puis, après)
+- [ ] I can talk about Belgian work culture
 
 ---
 
-## Listening Comprehension: A Day in Brussels
+## Extra Resources
 
-## Before You Listen
+### Additional activities
 
-**Think about it:** What does your typical day look like? Write down 3 activities you do every day. Then, let's see how it's described in French!
+- **Daily log:** Write your routine in French every day for a week
+- **Compare:** Ask someone about their routine and compare
+- **Schedule:** Create a daily schedule in French
 
-**What to listen for:**
-- Time expressions (le matin, l'après-midi, le soir)
-- Daily activities (se lever, travailler, etc.)
-- Times (à 7h, à midi, etc.)
+### Next lesson
 
-## Audio: A Typical Day
-
-**While listening:** 
-- Don't worry if you don't understand everything! Just try to catch the activities and times.
-- Listen at least twice - the first time just to get the general idea, the second time to catch details!
-
-## Transcription
-
-**Sophie :** Bonjour ! Parle-moi de ta journée typique !
-
-**Tom :** D'accord ! Le matin, je me lève à 7 heures. Je prends le petit-déjeuner à 8h, puis je vais au travail en métro. Je descends à la station Gare Centrale.
-
-**Sophie :** Et tu travailles jusqu'à quelle heure ?
-
-**Tom :** Je travaille de 9h à 17h. À midi, je prends le déjeuner. Le soir, je rentre à la maison vers 18h. Je fais le dîner, puis je me couche à 22h.
-
-**Sophie :** C'est une journée bien remplie !
-
-**New vocabulary from the audio:**
-- **La journée** [la ʒuʁne] : The day
-- **Typique** [tipik] : Typical
-- **Vers** [vɛʁ] : Around / About (for time)
-- **Bien remplie** [bjɛ̃ ʁɑ̃pli] : Well-filled / Busy
-
-**🎤 Pronunciation notes:**
-- **Journée** has that French R [ʁ] - practice it!
-- **Vers** has the French R [ʁ] too!
-
-## Comprehension Questions: Did You Catch It?
-
-1. What time does Tom get up?
-   - a) 6 AM
-   - b) 7 AM
-   - c) 8 AM
-
-2. How does Tom go to work?
-   - a) By car
-   - b) By metro
-   - c) By bus
-
-3. What time does Tom have lunch?
-   - a) 11 AM
-   - b) 12 PM (midi)
-   - c) 1 PM
-
-4. What time does Tom go to bed?
-   - a) 10 PM
-   - b) 11 PM
-   - c) 10 PM (22h)
-
-**Answers:**
-1. **b) 7 AM** - Did you hear "je me lève à 7 heures"?
-2. **b) By metro** - "je vais au travail en métro"
-3. **b) 12 PM (midi)** - "À midi, je prends le déjeuner"
-4. **c) 10 PM (22h)** - "je me couche à 22h"
-
-**🎉 How did you do?** Don't worry if you didn't get everything - listening takes practice!
+> **Leçon 05 : La météo en Belgique**  
+> You'll learn to talk about weather!
 
 ---
 
-## Reading Comprehension: A Belgian Work Day
-
-## Reading Challenge
-
-**Before reading:** What do you think a typical Belgian work day looks like? Write down 2-3 things, then let's see what the text tells us!
-
-## Text: Une journée de travail en Belgique
-
-En Belgique, la journée de travail typique commence à 9 heures du matin. Beaucoup de Belges prennent le petit-déjeuner à la maison, puis vont au travail en métro, en tram ou en bus.
-
-La pause déjeuner est généralement entre 12h et 13h. Beaucoup de Belges rentrent chez eux pour déjeuner, surtout dans les petites villes.
-
-Le travail se termine vers 17h (5 PM). Ensuite, les Belges rentrent à la maison, font le dîner vers 19h-20h, et se couchent généralement vers 22h-23h.
-
-**🎯 Reading Challenge:** Can you find these in the text?
-- The typical work start time
-- Lunch break time
-- Typical dinner time
-
-## Questions: Test Your Understanding!
-
-1. **True or False:**
-   - Le travail commence à 9h en Belgique. (True/False)
-   - La pause déjeuner est entre 11h et 12h. (True/False)
-   - Les Belges se couchent vers 22h-23h. (True/False)
-
-2. **Open questions:**
-   - À quelle heure commence le travail en Belgique ?
-   - Comment les Belges vont-ils au travail ?
-
-**Answers:**
-1. **True, False, True** - Work starts at 9 AM, lunch is 12-1 PM, bedtime is 10-11 PM!
-2. **À 9 heures** - "commence à 9 heures du matin". **En métro, en tram ou en bus** - "vont au travail en métro, en tram ou en bus"
-
----
-
-## Survival Phrases: When You Don't Understand
-
-**Essential phrases for daily life:**
-
-1. **"Je me lève tôt."** [ʒə mə lɛv to] = I get up early.
-2. **"Je suis en retard."** [ʒə sɥi ɑ̃ ʁətaʁ] = I'm late.
-3. **"Je suis fatigué(e)."** [ʒə sɥi fatige] = I'm tired.
-4. **"Je rentre à la maison."** [ʒə ʁɑ̃tʁ a la mɛzɔ̃] = I'm going home.
-5. **"À demain !"** [a dəmɛ̃] = See you tomorrow!
-
-**💡 Important:** "Métro-Boulot-Dodo" is the French expression for "Rat race" (Commute-Work-Sleep).
-
----
-
-## Speaking Practice: Your Turn!
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself describing your daily routine on your phone
-3. Listen back and check your pronunciation
-4. Focus on time expressions and daily activities
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to reflexive verbs (se lever, se coucher)
-
-**Method 3: Practice Describing Your Real Routine**
-1. Describe your actual daily routine out loud in French
-2. Practice: "Le matin, je me lève à [heure]..."
-3. Practice with different times and activities
-
----
-
-## Speaking Practice: Your Turn to Shine!
-
-## 🎭 Role Play: Describing Your Day
-
-**Scenario:** You're at a café in Brussels with a new friend. They ask you about your daily routine. This is your moment to practice!
-
-**Dialogue model:**
-
-**Person A:** Bonjour ! Parle-moi de ta journée typique !
-
-**Person B:** D'accord ! Le matin, je me lève à [heure]. Je prends le petit-déjeuner, puis je vais au travail. Je travaille de [heure] à [heure]. Le soir, je rentre à la maison et je me couche à [heure].
-
-**Person A:** C'est intéressant ! Moi, je me lève plus tôt.
-
-**Variations (other ways to say the same thing):**
-- "Qu'est-ce que tu fais dans la journée ?" (What do you do during the day?)
-- "Comment est ta routine ?" (How is your routine?)
-
-**🎯 Your turn!** 
-- Practice this dialogue with a partner, or record yourself on your phone!
-- Try changing the times and activities to make it personal
-- Don't worry about perfection - just have fun with it!
-
-## 💬 Pronunciation Masterclass: Let's Get Those Sounds Right!
-
-**Ready to sound like a real French speaker?** Let's break down each word with IPA!
-
-## Word 1: **finir** [finir]
-
-**Break it down:**
-- **fin** [fɛ̃] = Nasal sound [ɛ̃]
-- **ir** [ir] = "ir" sound
-
-**Practice steps:**
-1. Say [fɛ̃] 5 times (nasal sound!)
-2. Say [ir] 5 times
-3. Put them together: [finir] 10 times!
-
-**💡 Memory trick:** "Fee-neer" but make the "in" nasal!
-
-## Word 2: **descendre** [desɑ̃dʁ]
-
-**Break it down:**
-- **des** [de] = "de" sound
-- **cend** [sɑ̃] = Nasal "ah" sound
-- **re** [ʁ] = French R
-
-**Practice steps:**
-1. Practice [sɑ̃] 5 times (nasal!)
-2. Practice [ʁ] 5 times (French R!)
-3. Put it all together: [desɑ̃dʁ] 10 times!
-
-**💡 Memory trick:** "Deh-sahndr" but make the "ah" nasal and the "r" from your throat!
-
----
-
-## Writing Practice: Describe Your Day!
-
-## Guided Exercise: Your First French Text!
-
-**Topic:** Write a short text about your daily routine (6-8 sentences)
-
-**Don't stress!** This is just practice. Write what you can, and don't worry about being perfect!
-
-**Suggested structure:**
-1. Start with "Le matin" (In the morning)
-2. Describe your morning activities
-3. Talk about work/school
-4. Describe your evening
-5. End with bedtime
-
-**Useful vocabulary:**
-- Le matin, je...
-- L'après-midi, je...
-- Le soir, je...
-- D'abord, ensuite, enfin
-- À [heure]
-
-**💡 Writing tip:** Don't worry about perfection! Just write and express yourself. Making mistakes is how we learn!
-
-## Free Writing: Be Creative!
-
-**Topic:** Describe your ideal daily routine in Belgium. Make it personal and fun!
-
-**Evaluation criteria:**
-- Did you use -ir and -re verbs correctly?
-- Did you use time expressions?
-- Is the structure clear?
-
-## Model Answer: See How It's Done!
-
-**Example:**
-
-Le matin, je me lève à 7 heures. Je prends le petit-déjeuner à 8h, puis je vais au travail en métro. Je descends à la station Gare Centrale. Je travaille de 9h à 17h. À midi, je prends le déjeuner. Le soir, je rentre à la maison vers 18h. Je fais le dîner, puis je me couche à 22h.
-
-**What's good about this:**
-- ✅ Great use of time expressions
-- ✅ -ir and -re verbs are correct
-- ✅ Clear structure
-- ✅ Realistic Belgian routine
-
-**Now write your own version!** 🎨
-
----
-
-## Real-World Practice: Try This Today!
-
-**This week, challenge yourself to use what you've learned:**
-
-**Practice opportunities:**
-- [ ] Practice describing your daily routine in French out loud every day
-- [ ] Write down your routine in French: "Le matin, je me lève à..."
-- [ ] Practice talking about Belgian routines (lunch 12-1 PM, dinner 7-8 PM)
-- [ ] Practice using -ir and -re verbs: "Je finis", "Je descends"
-
-**Don't worry if reflexive verbs feel tricky at first - they take practice!**  
-**The most important thing is to practice describing your routine daily.**
-
-**Success tip:** Start simple - describe just your morning routine first, then gradually add afternoon and evening activities!
-
----
-
-## Troubleshooting: Having Trouble?
-
-**If you're struggling with reflexive verbs (se lever, se coucher):**
-- Remember: "Je me lève" (I get up), "Je me couche" (I go to bed)
-- Practice pattern: "Je me [verb]" - the "me" is always needed
-- Common reflexive verbs: se lever (get up), se coucher (go to bed), se doucher (shower)
-- Write them out 5 times: je me lève, tu te lèves, il/elle se lève, nous nous levons, vous vous levez
-
-**If -ir and -re verb conjugations confuse you:**
-- -ir verbs: je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent
-- -re verbs: je descends, tu descends, il descend, nous descendons, vous descendez, ils descendent
-- Practice ONE verb at a time: master "finir" first, then "descendre"
-- Write out conjugations 5 times until the pattern feels natural
-
-**If time expressions confuse you:**
-- Learn these 3: "le matin" (morning), "l'après-midi" (afternoon), "le soir" (evening)
-- Practice pattern: "Le matin, je [activity]" - no preposition needed
-- Practice: "Je me lève le matin" (I get up in the morning)
-
-**If describing your routine is overwhelming:**
-- Start with just 3 activities: morning, work, evening
-- Practice: "Le matin, je me lève. Je vais au travail. Le soir, je me couche."
-- Add more activities gradually - don't try to describe everything at once
-- Focus on activities you actually do daily
-
-**Still stuck?** Daily routine vocabulary is very practical. Focus on mastering "Je me lève", "Je vais au travail", "Je rentre", "Je me couche" first. These are the essentials!
-
----
-
-## Belgian Culture: Daily Life in Belgium
-
-## Did You Know?
-
-**Daily routines in Belgium are quite structured!** 🇧🇪
-
-**Work schedule:**
-- Most people work **Monday to Friday, 9 AM to 5 PM**
-- **Lunch break:** Usually 12 PM to 1 PM (1 hour)
-- Many people go **home for lunch** (especially in smaller cities)
-- Work-life balance is important to Belgians!
-
-**Meal times:**
-- **Breakfast:** 7-8 AM (usually at home)
-- **Lunch:** 12-1 PM (often at home!)
-- **Dinner:** 7-8 PM (at home, with family)
-
-**Evening routine:**
-- Belgians value their evening time
-- Dinner is a family moment
-- Bedtime is usually around 10-11 PM
-
-**Comparaison culturelle / Cultural comparison:**
-
-**Dans beaucoup de pays :**
-- Le déjeuner est souvent rapide (sandwich au bureau)
-- On travaille parfois plus tard (jusqu'à 18h-19h)
-- Le dîner est parfois plus tard (20h-21h)
-
-**En Belgique :**
-- Le déjeuner est important - beaucoup de Belges rentrent chez eux !
-- Le travail se termine généralement à 17h
-- Le dîner est plus tôt (19h-20h)
-- L'équilibre travail-vie privée est très important
-
-**Pourquoi c'est important :** Comprendre les routines belges vous aide à planifier vos rendez-vous et à mieux vous intégrer !
-
-## Integration Tips: Adapt to Belgian Routines!
-
-**Practical tip:** When making plans with Belgians, remember:
-- Lunch is usually 12-1 PM
-- Dinner is usually 7-8 PM
-- Don't call too late in the evening (after 9 PM)
-- Weekends are for family and relaxation!
-
-**Remember:**
-- Respect Belgian meal times
-- Understand work schedules
-- Appreciate work-life balance
-
----
-
-## Wrap-up: What You've Accomplished!
-
-## Key Points: You've Learned So Much!
-
-✅ **Vocabulary:** Daily activities (se lever, travailler, rentrer, etc.)  
-✅ **Grammar:** Verbs ending in -ir and -re (finir, descendre, etc.)  
-✅ **Skills:** Talking about your daily routine, understanding schedules
-
-**You should be proud!** 🎉 You can now describe your day in French!
-
-
-
-
-
-## Self-Evaluation: Check Your Progress!
-
-**I can now:**
-- [ ] Talk about my daily routine
-- [ ] Use verbs ending in -ir correctly
-- [ ] Use verbs ending in -re correctly
-- [ ] Understand a conversation about daily activities
-- [ ] Write a text about my day
-
-**If you're struggling:**
-- Practice conjugating -ir and -re verbs daily
-- Write your routine in French every day
-- Listen to French conversations about daily life
-- Review the time expressions
-
-**Remember:** Learning a language takes time. Be patient with yourself and celebrate small wins! 🎊
-
-## 🚀 Next Lesson: What's Coming Up!
-
-**Next up:** La météo en Belgique  
-**Theme:** Parler du temps qu'il fait  
-**Prérequis:** Connaître "Il fait"
-
-**You're ready for it!** 💪
-
----
-
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Time Yourself:** Describe your daily routine aloud. Try to do it in under 1 minute!
-- **Journaling:** Write down what you did yesterday. Even simple sentences like "J'ai mangé une pomme" count!
-- **Listening:** Search for "Daily Routine French" on YouTube to hear native speakers.
-- **Challenge:** Changze your phone's language to French for one day! (You'll see "Réglages", "Calendrier", etc.)
-
----
-
-*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉  
-*Good luck with your French learning in Belgium!*
-
+*Bonne continuation !*

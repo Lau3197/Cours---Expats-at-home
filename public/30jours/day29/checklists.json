@@ -1,0 +1,28 @@
+[
+    {
+        "id": "brussels_hacks",
+        "title": "Mastery Checklist",
+        "items": [
+            {
+                "id": "museum_pass",
+                "label": "Buy a Museum Pass",
+                "description": "Plan your first free visit."
+            },
+            {
+                "id": "tgtg",
+                "label": "Save a Meal",
+                "description": "Order a 'Too Good To Go' bag tonight."
+            },
+            {
+                "id": "water_ask",
+                "label": "The Carafe Challenge",
+                "description": "Try asking for tap water in a restaurant. Good luck."
+            },
+            {
+                "id": "hidden_toilet",
+                "label": "Find a Safe Toilet",
+                "description": "Scout the nearest hotel lobby to your workplace."
+            }
+        ]
+    }
+]

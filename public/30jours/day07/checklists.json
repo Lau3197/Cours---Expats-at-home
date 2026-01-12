@@ -1,0 +1,28 @@
+[
+    {
+        "id": "week1_review",
+        "title": "Week 1 Review",
+        "items": [
+            {
+                "id": "admin_audit",
+                "label": "Admin Audit",
+                "description": "Check if any emails from the commune or bank need a reply."
+            },
+            {
+                "id": "doorbell",
+                "label": "Name on Doorbell",
+                "description": "Essential for the police check."
+            },
+            {
+                "id": "rest",
+                "label": "Rest & Recharge",
+                "description": "Moving is exhausting. Take a nap."
+            },
+            {
+                "id": "treat",
+                "label": "Treat Yourself",
+                "description": "Buy some Belgian chocolate. It's scientifically proven to help integration."
+            }
+        ]
+    }
+]

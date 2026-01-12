@@ -1,0 +1,28 @@
+[
+    {
+        "id": "week3_review",
+        "title": "Week 3 Integration Audit",
+        "items": [
+            {
+                "id": "admin_audit",
+                "label": "Admin Drawer",
+                "description": "Do you have a physical folder for your papers? You need one."
+            },
+            {
+                "id": "weekend_plans",
+                "label": "Plan Next Weekend",
+                "description": "Book a train ticket to somewhere new."
+            },
+            {
+                "id": "market_visit",
+                "label": "Visit Gare du Midi Market",
+                "description": "Sunday morning. Go hungry. Eat everything."
+            },
+            {
+                "id": "self_care",
+                "label": "Expat Self-Care",
+                "description": "Call home. Complain about the rain. Laugh."
+            }
+        ]
+    }
+]

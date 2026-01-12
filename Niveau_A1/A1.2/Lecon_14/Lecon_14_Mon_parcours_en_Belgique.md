@@ -1,472 +1,295 @@
-# Leçon 14 : Mon parcours - Comment je suis arrivé(e) en Belgique
+# Leçon 14 : Mon parcours en Belgique
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Raconter son parcours, utiliser le passé composé avec être (verbes de mouvement)
+**Objectifs** : Talk about your journey, describe experiences, use passé composé for life events
 
 ---
 
-## Let's Start! Telling Your Story
+## Let's Start! Life stories
 
-### Discovery Activity: An Expat's Journey
+### Listen to this text
 
-**Here's a conversation you might hear:**
+**Tom shares his experience as an expat:**
 
-Two expats are talking at a networking event in Brussels:
-
-**"Alors, comment tu es arrivé en Belgique ?"**
-
-**"Je suis arrivé en 2023. D'abord, je suis parti de Paris, puis je suis allé à Bruxelles pour le travail. Ma femme est venue me rejoindre six mois plus tard."**
-
-**Your challenge:** Look at these verbs and try to understand:
-
-- **tu es arrivé** - What do you think this means?
-- **je suis parti** - What about this?
-- **je suis allé** - And this one?
-- **elle est venue** - And this?
-
-**Write down your guesses!**
+> **Je suis arrivé** en Belgique il y a six mois. Au début, c'était difficile. **Je ne parlais pas** français et **je ne connaissais** personne.
+>
+> Les premiers mois, **j'ai cherché** un appartement. **J'ai eu** beaucoup de difficultés avec l'administration. **J'ai dû** aller plusieurs fois à la commune.
+>
+> Petit à petit, **j'ai appris** le français. **J'ai rencontré** des gens sympas au travail. **J'ai découvert** les bières belges et les frites !
+>
+> Maintenant, **je me sens** bien ici. **J'ai fait** des amis. **Je comprends** mieux la culture belge. La Belgique, c'est devenu ma deuxième maison.
 
 ---
 
-## Introduction
+### Comprehension
 
-**Did you guess?** Let's see:
+**Answer the questions:**
 
-- **tu es arrivé** = you arrived
-- **je suis parti** = I left
-- **je suis allé** = I went
-- **elle est venue** = she came
+1. When did Tom arrive in Belgium?
+2. What were his first difficulties?
+3. What problems did he have with administration?
+4. What did he discover about Belgium?
+5. How does he feel now?
 
-In this lesson, you'll learn the passé composé with **être** - used for verbs of movement and change!
+<details>
+<summary>Answers</summary>
 
-**What you will learn today:**
-- The passé composé with être (not avoir!)
-- The "DR. & MRS. VANDERTRAMP" verbs
-- Agreement of past participles with être
-- How to tell your story as an expat
+1. 6 months ago
+2. Didn't speak French, didn't know anyone
+3. Had to go to the commune multiple times
+4. Belgian beers and fries
+5. He feels good, like home
 
-**Belgian context:** Belgians love hearing expat stories! "Comment es-tu arrivé en Belgique ?" is a classic conversation starter. Being able to share your journey helps build connections.
-
----
-
-## French Pronunciation: Key Sounds for This Lesson
-
-**Before we start, here are the key sounds you'll need:**
-
-### The auxiliary "être" sounds
-
-- **je suis** [ʒə sɥi]
-- **tu es** [ty ɛ]
-- **il/elle est** [il/ɛl ɛ]
-- **on est** [ɔ̃n ɛ]
-
-### Past participle endings
-
-- **arrivé** [aʁive]
-- **parti** [paʁti]
-- **allé** [ale]
-- **venu** [vəny]
-
-**Quick Practice:** Say these 3 times each:
-- Je suis arrivé [ʒə sɥi aʁive]
-- Elle est partie [ɛl ɛ paʁti]
-- Nous sommes allés [nu sɔm ale]
+</details>
 
 ---
 
-## Listening Comprehension: An Expat's Story
+## Observation 1: Talking about arrival
 
-**Listen to this conversation:**
+**Look at these expressions:**
 
-**Marie :** Alors Tom, raconte-moi ! Comment tu **es arrivé** en Belgique ?
+> **Je suis arrivé** en Belgique.  
+> **Il y a** six mois.  
+> **Au début**, c'était difficile.
 
-**Tom :** C'est une longue histoire ! Je **suis parti** de Londres en 2022. D'abord, je **suis allé** à Paris pour un stage.
+### Arrival expressions
 
-**Marie :** Et après ?
-
-**Tom :** Après le stage, je **suis venu** à Bruxelles pour un poste dans une entreprise européenne. Je **suis arrivé** en janvier 2023.
-
-**Marie :** Ta famille **est venue** aussi ?
-
-**Tom :** Ma femme **est arrivée** trois mois plus tard. Mes parents **sont venus** nous voir l'été dernier. Ils **sont restés** deux semaines.
-
-**Marie :** C'est super ! Et tu **es retourné** en Angleterre depuis ?
-
-**Tom :** Oui, je **suis retourné** à Londres pour Noël. Je **suis revenu** début janvier.
-
-**Marie :** Tu **es bien tombé** ici ! Bruxelles est une super ville pour les expats !
-
-**Comprehension Questions:**
-
-1. Where did Tom leave from?
-2. When did Tom arrive in Brussels?
-3. When did his wife arrive?
-4. How long did his parents stay?
-
-**Answers:**
-1. London (Londres)
-2. January 2023
-3. Three months later
-4. Two weeks
+| French | English |
+|:-------|:--------|
+| Je suis arrivé(e) en... | I arrived in... |
+| Il y a [time] | [time] ago |
+| Au début | At the beginning |
+| Les premiers jours/mois | The first days/months |
+| À mon arrivée | Upon my arrival |
 
 ---
 
-## Vocabulary: Movement and Travel
+## Observation 2: Describing difficulties
 
-**You just heard these words. Let's learn them:**
+**Look at these expressions:**
 
-### Movement Verbs (with être!)
+> C'était **difficile**.  
+> **J'ai eu** des difficultés.  
+> **J'ai dû** aller plusieurs fois.
 
-| Français | IPA | English | Passé Composé |
-|----------|-----|---------|---------------|
-| arriver | [aʁive] | to arrive | je suis arrivé(e) |
-| partir | [paʁtiʁ] | to leave | je suis parti(e) |
-| aller | [ale] | to go | je suis allé(e) |
-| venir | [vəniʁ] | to come | je suis venu(e) |
-| rester | [ʁɛste] | to stay | je suis resté(e) |
-| retourner | [ʁətuʁne] | to return | je suis retourné(e) |
-| revenir | [ʁəvəniʁ] | to come back | je suis revenu(e) |
-| entrer | [ɑ̃tʁe] | to enter | je suis entré(e) |
-| sortir | [sɔʁtiʁ] | to go out | je suis sorti(e) |
-| monter | [mɔ̃te] | to go up | je suis monté(e) |
-| descendre | [desɑ̃dʁ] | to go down | je suis descendu(e) |
-| tomber | [tɔ̃be] | to fall | je suis tombé(e) |
-| naître | [nɛtʁ] | to be born | je suis né(e) |
-| mourir | [muʁiʁ] | to die | il/elle est mort(e) |
+### Expressing challenges
 
-### Useful Expressions
-
-| Français | IPA | English |
-|----------|-----|---------|
-| Comment tu es arrivé(e) en Belgique ? | [kɔmɑ̃ ty ɛ aʁive ɑ̃ bɛlʒik] | How did you come to Belgium? |
-| Je suis venu(e) pour le travail | [ʒə sɥi vəny puʁ lə tʁavaj] | I came for work |
-| Je suis parti(e) de... | [ʒə sɥi paʁti də] | I left from... |
-| Je suis arrivé(e) en... | [ʒə sɥi aʁive ɑ̃] | I arrived in... |
-| Ça fait combien de temps ? | [sa fɛ kɔ̃bjɛ̃ də tɑ̃] | How long has it been? |
-
-> **🗣️ Real Life French**
-> 
-> **"Je suis là depuis..."** : Pour dire combien de temps vous êtes en Belgique. "Je suis là depuis deux ans" = I've been here for two years.
-> 
-> **"T'es arrivé quand ?"** : Version courante à l'oral de "Tu es arrivé quand ?"
+| French | English |
+|:-------|:--------|
+| C'était difficile | It was difficult |
+| J'ai eu des problèmes avec... | I had problems with... |
+| J'ai dû + infinitive | I had to... |
+| Je ne comprenais pas | I didn't understand |
+| Je ne connaissais personne | I didn't know anyone |
+| J'étais perdu(e) | I was lost |
+| C'était compliqué | It was complicated |
 
 ---
 
-## Grammar: The Passé Composé with Être
+## Observation 3: Describing progress
 
-**Remember what you heard?**
+**Look at how Tom describes improvement:**
 
-- "Je **suis parti** de Londres"
-- "Je **suis arrivé** en janvier"
-- "Ma femme **est arrivée** trois mois plus tard"
-- "Ils **sont venus** nous voir"
+> **Petit à petit**, j'ai appris.  
+> **J'ai rencontré** des gens.  
+> **J'ai découvert** les bières.
 
-**What did you notice?** Some verbs use **être** (not avoir!) in the passé composé!
+### Progress expressions
 
-### The "DR. & MRS. VANDERTRAMP" Verbs
-
-**How to remember which verbs use être?** Use this mnemonic:
-
-| Letter | Verb | Translation | Past Participle |
-|:-------|:-----|:------------|:----------------|
-| **D** | Devenir | to become | devenu |
-| **R** | Revenir | to come back | revenu |
-| **M** | Monter | to go up | monté |
-| **R** | Rester | to stay | resté |
-| **S** | Sortir | to go out | sorti |
-| **V** | Venir | to come | venu |
-| **A** | Aller | to go | allé |
-| **N** | Naître | to be born | né |
-| **D** | Descendre | to go down | descendu |
-| **E** | Entrer | to enter | entré |
-| **R** | Retourner | to return | retourné |
-| **T** | Tomber | to fall | tombé |
-| **R** | Rentrer | to go home | rentré |
-| **A** | Arriver | to arrive | arrivé |
-| **M** | Mourir | to die | mort |
-| **P** | Partir | to leave | parti |
-
-**💡 Tip:** These are mostly verbs of **movement** or **change of state**!
-
-### How to Form It
-
-**Structure:** Subject + **être** (conjugated) + **past participle**
-
-| Pronom | Être | + Participe | Example |
-|:-------|:-----|:------------|:--------|
-| Je | **suis** | arrivé(e) | Je **suis arrivé(e)** |
-| Tu | **es** | parti(e) | Tu **es parti(e)** |
-| Il | **est** | allé | Il **est allé** |
-| Elle | **est** | allée | Elle **est allée** |
-| On | **est** | venu(s) | On **est venu(s)** |
-| Nous | **sommes** | restés | Nous **sommes restés** |
-| Vous | **êtes** | venus | Vous **êtes venus** |
-| Ils | **sont** | partis | Ils **sont partis** |
-| Elles | **sont** | parties | Elles **sont parties** |
-
-### IMPORTANT: Agreement with the Subject!
-
-**With être, the past participle agrees with the subject!**
-
-| Subject | Agreement | Example |
-|:--------|:----------|:--------|
-| Masculine singular | (nothing) | Il **est arrivé** |
-| Feminine singular | **+e** | Elle **est arrivée** |
-| Masculine plural | **+s** | Ils **sont arrivés** |
-| Feminine plural | **+es** | Elles **sont arrivées** |
-
-**Examples:**
-- Tom **est arrivé** en 2023. (masculine)
-- Marie **est arrivée** en 2022. (feminine = +e)
-- Tom et Pierre **sont arrivés** ensemble. (masc. plural = +s)
-- Marie et Sophie **sont arrivées** ensemble. (fem. plural = +es)
-
-### The Negative Form
-
-**Structure:** Subject + **ne** + être + **pas** + participe passé
-
-| Affirmative | Negative |
-|:------------|:---------|
-| Je **suis arrivé** | Je **ne suis pas** arrivé |
-| Elle **est partie** | Elle **n'est pas** partie |
-| Ils **sont venus** | Ils **ne sont pas** venus |
+| French | English |
+|:-------|:--------|
+| Petit à petit | Little by little |
+| Au fur et à mesure | Gradually |
+| J'ai appris à | I learned to |
+| J'ai commencé à | I started to |
+| J'ai rencontré | I met |
+| J'ai découvert | I discovered |
+| J'ai compris | I understood |
+| Ça s'est amélioré | It improved |
 
 ---
 
-## Grammar Exercises: Practice the Passé Composé with Être
+## Practice 1: Your timeline
 
-**Exercise 1: Choose avoir or être**
+**Complete with YOUR experience:**
 
-1. Je _______________ (avoir/être) mangé au restaurant.
-2. Elle _______________ (avoir/être) arrivée hier.
-3. Nous _______________ (avoir/être) visité Bruges.
-4. Ils _______________ (avoir/être) partis ce matin.
-5. Tu _______________ (avoir/être) vu ce film ?
-6. Je _______________ (avoir/être) allé à Paris.
-
-**Answers:**
-1. J'**ai** mangé (avoir - no movement)
-2. Elle **est** arrivée (être - arriver = movement)
-3. Nous **avons** visité (avoir - no movement)
-4. Ils **sont** partis (être - partir = movement)
-5. Tu **as** vu (avoir - no movement)
-6. Je **suis** allé (être - aller = movement)
-
-**Exercise 2: Add the correct agreement**
-
-1. Marie est arrivé_____ hier.
-2. Tom et Pierre sont parti_____ ce matin.
-3. Sophie est allé_____ à Bruxelles.
-4. Elles sont venu_____ nous voir.
-5. Je suis resté_____ à la maison. (female speaker)
-
-**Answers:**
-1. arrivé**e** (feminine)
-2. parti**s** (masculine plural)
-3. allé**e** (feminine)
-4. venu**es** (feminine plural)
-5. resté**e** (feminine)
-
-**Exercise 3: Conjugate in passé composé (with être)**
-
-1. Je (arriver) _______________ en Belgique en 2023.
-2. Elle (partir) _______________ de Paris hier.
-3. Nous (aller) _______________ à Bruges.
-4. Ils (venir) _______________ nous voir.
-5. Tu (rester) _______________ combien de temps ?
-
-**Answers:**
-1. Je **suis arrivé(e)** en Belgique en 2023.
-2. Elle **est partie** de Paris hier.
-3. Nous **sommes allé(e)s** à Bruges.
-4. Ils **sont venus** nous voir.
-5. Tu **es resté(e)** combien de temps ?
+1. Je suis arrivé(e) en Belgique il y a _____________.
+2. Au début, c'était _____________.
+3. J'ai eu des difficultés avec _____________.
+4. J'ai appris à _____________.
+5. Maintenant, je _____________.
 
 ---
 
-## Reading Comprehension: Expat Stories
+## Observation 4: Expressing feelings about the experience
 
-**Read this text:**
+**Look at these expressions:**
 
-**L'histoire de Maria**
+> **Je me sens** bien ici.  
+> C'est devenu ma **deuxième maison**.
 
-Bonjour ! Je m'appelle Maria et je suis italienne. Je suis arrivée en Belgique en 2021.
+### Feelings about expat life
 
-D'abord, je suis partie de Rome pour un stage à l'Union européenne. Je suis venue à Bruxelles avec seulement deux valises ! Les premiers mois, je suis restée dans un petit appartement près de Schuman.
-
-En 2022, mon mari Marco est venu me rejoindre. Ensemble, nous sommes allés chercher un appartement plus grand. Nous sommes tombés amoureux du quartier d'Ixelles !
-
-L'année dernière, mes parents sont venus nous rendre visite. Ils sont restés deux semaines. Nous sommes allés à Bruges et à Gand ensemble. Ils sont repartis enchantés de la Belgique !
-
-**Comprehension Questions:**
-
-1. De quel pays est Maria partie ?
-2. Pourquoi est-elle venue en Belgique ?
-3. Quand est-ce que Marco est arrivé ?
-4. Combien de temps les parents sont-ils restés ?
-
-**Answers:**
-1. D'Italie (de Rome)
-2. Pour un stage à l'Union européenne
-3. En 2022
-4. Deux semaines
+| French | English |
+|:-------|:--------|
+| Je me sens bien | I feel good |
+| Je me sens chez moi | I feel at home |
+| Je suis content(e) d'être ici | I'm happy to be here |
+| C'est devenu ma maison | It became my home |
+| J'aime vivre ici | I like living here |
+| Il me manque... | I miss... |
+| La France me manque | I miss France |
+| Ma famille me manque | I miss my family |
 
 ---
 
-## Speaking Practice: Tell Your Story
+## Culture: The expat experience in Belgium
 
-**Model Dialogue:**
+### Read this testimony
 
-**Person:** Alors, comment tu es arrivé(e) en Belgique ?
+**Sarah, American expat, 3 years in Brussels:**
 
-**You:** Je suis parti(e) de [country/city] en [year]. D'abord, je suis allé(e) à [place], puis je suis venu(e) à Bruxelles.
+> "The first year was the hardest. Finding an apartment, understanding the administration, making friends – everything was new. The cultural differences surprised me: Belgians are more reserved at first, but once you're friends, they're very loyal. Learning French opened so many doors. My advice: join activities, learn the language, and be patient. After three years, I can't imagine living anywhere else!"
 
-**Person:** Tu es venu(e) pour le travail ?
+### Common expat challenges
 
-**You:** Oui / Non, je suis venu(e) pour [reason].
+| Challenge | French |
+|:----------|:-------|
+| Administration | Les démarches administratives |
+| Finding housing | Trouver un logement |
+| Making friends | Se faire des amis |
+| Language barrier | La barrière de la langue |
+| Cultural differences | Les différences culturelles |
+| Missing home | Le mal du pays |
 
-**Person:** Et ta famille ?
+### Tips from expats
 
-**You:** [Family member] est arrivé(e) [when].
-
-**Your Turn:**
-
-Practice telling your story:
-- Where you left from
-- When you arrived in Belgium
-- Why you came
-- Who came with you or who joined you later
+| Tip | Conseil |
+|:---|:--------|
+| Join groups | Rejoindre des groupes |
+| Learn local habits | Apprendre les habitudes locales |
+| Be patient | Être patient(e) |
+| Explore the country | Explorer le pays |
+| Learn the language | Apprendre la langue |
 
 ---
 
-## Writing Practice: Your Journey to Belgium
+## Speaking Practice
 
-**Exercise: Write your story (10-12 sentences)**
+### Exercise 1: Share your story
 
-**Structure:**
-1. Where you're from originally
-2. When and why you left your country
-3. Where you went first
-4. When you arrived in Belgium
-5. Who came with you or who joined you
-6. Where you've visited in Belgium
+**Tell your story using this structure:**
 
-**Example:**
+1. When you arrived
+2. First difficulties
+3. How you improved
+4. How you feel now
 
-Je m'appelle Tom et je suis anglais. Je suis né à Londres en 1990.
+### Exercise 2: Interview
 
-En 2022, je suis parti de Londres pour chercher de nouvelles opportunités. D'abord, je suis allé à Paris pour un stage de six mois. C'était une super expérience !
+**Answer these questions:**
 
-Ensuite, je suis venu à Bruxelles pour un poste dans une entreprise européenne. Je suis arrivé en janvier 2023. Les premières semaines, je suis resté dans un Airbnb.
+1. Quand es-tu arrivé(e) en Belgique ?
+2. Qu'est-ce qui était difficile au début ?
+3. Qu'est-ce que tu as appris ?
+4. Comment tu te sens maintenant ?
 
-Ma femme Sarah est venue me rejoindre trois mois plus tard. Elle est arrivée en avril. Ensemble, nous sommes allés visiter Bruges, Gand et Anvers. Nous sommes tombés amoureux de la Belgique !
+---
 
-L'année dernière, mes parents sont venus nous voir. Ils sont restés deux semaines et ils sont repartis enchantés.
+## Writing Practice
 
-**Now write YOUR story!**
+**Write about your journey (100-120 words):**
+
+Include:
+- When you arrived
+- Initial challenges
+- Progress made
+- Discoveries
+- Current feelings
+
+---
+
+## Grammar: Imparfait for descriptions
+
+### Look at these sentences:
+
+> **C'était** difficile.  
+> **Je ne parlais pas** français.  
+> **Je ne connaissais** personne.
+
+### Imparfait (imperfect) for background
+
+The imparfait describes:
+- States/situations in the past
+- Background context
+- Ongoing conditions
+
+| Present | Imparfait |
+|:--------|:----------|
+| je parle | je parlais |
+| c'est | c'était |
+| je connais | je connaissais |
+| je comprends | je comprenais |
+
+### Passé composé vs Imparfait
+
+| Passé composé | Imparfait |
+|:--------------|:----------|
+| Action/event | Description/state |
+| J'ai trouvé un appartement | C'était difficile |
+| J'ai rencontré des amis | Je ne connaissais personne |
 
 ---
 
 ## Common Mistakes to Avoid
 
-### Mistake 1: Using avoir instead of être for movement verbs
+### Mistake 1: Using présent for past events
 
-**Wrong:** "J'**ai** arrivé en Belgique"  
-**Correct:** "Je **suis** arrivé(e) en Belgique" ✅
+| Incorrect | Correct |
+|:----------|:--------|
+| Je suis en Belgique depuis 6 mois | Je suis **arrivé** il y a 6 mois |
 
-**Why:** Verbs of movement (arriver, partir, aller, venir...) use être, not avoir!
+### Mistake 2: Confusing "il y a" and "depuis"
 
-### Mistake 2: Forgetting agreement with the subject
+| Structure | Use | Example |
+|:----------|:----|:--------|
+| Il y a | ago | Il y a 6 mois (6 months ago) |
+| Depuis | for/since | Depuis 6 mois (for 6 months) |
 
-**Wrong:** "Elle est arrivé" or "Elles sont parti"  
-**Correct:** "Elle est arrivé**e**" / "Elles sont parti**es**" ✅
+### Mistake 3: Wrong "manquer" structure
 
-**Why:** With être, the past participle agrees with the subject (add -e for feminine, -s for plural, -es for feminine plural).
-
-### Mistake 3: Mixing up aller and être
-
-**Wrong:** "Je vais arrivé hier"  
-**Correct:** "Je **suis** arrivé(e) hier" ✅
-
-**Why:** "Je vais + infinitif" = future. "Je suis + participe" = past (passé composé).
-
-### Mistake 4: Using partir with à instead of de
-
-**Wrong:** "Je suis parti à Paris" (to mean "I left Paris")  
-**Correct:** "Je suis parti **de** Paris" ✅
-
-**Why:** "Partir de" = to leave (from). "Partir pour/à" = to leave for (destination).
+| English | French |
+|:--------|:-------|
+| I miss France | **La France me** manque (NOT: Je manque la France) |
 
 ---
 
-## Survival Phrases: Talking About Your Journey
+## Self-Evaluation
 
-**Essential phrases:**
+**Check what you can do:**
 
-- **Je suis là depuis...** [ʒə sɥi la dəpɥi] = I've been here since/for...
-- **Ça fait deux ans que je suis ici** [sa fɛ dø zɑ̃ kə ʒə sɥi isi] = I've been here for two years
-- **Je suis venu(e) pour le travail** [ʒə sɥi vəny puʁ lə tʁavaj] = I came for work
-- **J'ai quitté mon pays en...** [ʒe kite mɔ̃ pei ɑ̃] = I left my country in...
-- **Je me suis installé(e) à Bruxelles** [ʒə mə sɥi ɛ̃stale a bʁyksɛl] = I settled in Brussels
-
----
-
-## Belgian Culture: The Expat Community
-
-**Did you know?**
-
-- **Expat capital:** Brussels has one of the largest expat populations in Europe!
-- **Networking events:** There are many expat meetups and events. Great for practicing French!
-- **Common question:** "D'où viens-tu ?" or "Comment es-tu arrivé(e) ici ?" are classic conversation starters.
-- **Sharing stories:** Belgians genuinely enjoy hearing about expat journeys. Don't be shy!
-
-**Practical tip:** Prepare your "elevator pitch" about your journey in French. It's a great way to connect with people at networking events!
+- [ ] I can talk about when I arrived
+- [ ] I can describe initial difficulties
+- [ ] I can express progress over time
+- [ ] I can describe how I feel now
+- [ ] I understand "il y a" vs "depuis"
 
 ---
 
-## Wrap-up: What You've Accomplished!
+## Extra Resources
 
-**Congratulations!** You've learned:
+### Additional activities
 
-✅ The passé composé with être (not avoir!)  
-✅ The DR. & MRS. VANDERTRAMP verbs  
-✅ Agreement of past participles with être  
-✅ How to tell your expat story  
-✅ Vocabulary for movement and travel
+- **Write:** Your expat story for a blog
+- **Share:** Exchange stories with other expats
+- **Reflect:** What have you learned about yourself?
 
-**You can now share your journey in French!** 🎉
+### Next lesson
 
----
-
-## Self-Evaluation: Check What You Know!
-
-**Can you...**
-- [ ] Identify which verbs use être in passé composé?
-- [ ] Conjugate être for all pronouns?
-- [ ] Make past participles agree with the subject?
-- [ ] Tell the story of how you came to Belgium?
-- [ ] Use "partir de" and "arriver à" correctly?
-- [ ] Form negative sentences with être?
-- [ ] Distinguish between avoir and être verbs?
-
-**How many can you do?**
-- **7 checked:** Excellent! You've mastered this lesson! 🎉
-- **5-6 checked:** Good progress! Review the être verbs.
-- **Less than 5:** Don't worry! Practice the DR. & MRS. VANDERTRAMP!
+> **Leçon 15 : Les démarches administratives**  
+> You'll learn to handle Belgian administration!
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Life Map:** Draw a simple timeline of your life events using "Je suis né", "Je suis parti", "Je suis arrivé".
-- **Interview:** Ask a friend "Tu es allé où en vacances l'année dernière ?" in French.
-- **Dr. Mrs. Vandertramp:** Make a funny drawing or write a song to remember the movement verbs (Aller, Venir, Arriver, Partir...).
-- **Storytelling:** Practice telling your "arrival story" ("Je suis arrivé en Belgique en...") until it feels natural.
-
----
-
-*Bonne continuation dans votre apprentissage du français en Belgique !*
-*Good luck with your French learning in Belgium!*
+*Bonne continuation !*

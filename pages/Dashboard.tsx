@@ -1,9 +1,9 @@
 
 import React, { useEffect, useState } from 'react';
-import { 
-  Trophy, 
-  GraduationCap, 
-  Clock, 
+import {
+  Trophy,
+  GraduationCap,
+  Clock,
   TrendingUp,
   ExternalLink,
   ChevronRight,
@@ -11,15 +11,15 @@ import {
   Star,
   Loader2
 } from 'lucide-react';
-import { 
-  BarChart, 
-  Bar, 
-  XAxis, 
-  YAxis, 
-  CartesianGrid, 
-  Tooltip, 
+import {
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
   ResponsiveContainer,
-  Cell 
+  Cell
 } from 'recharts';
 import { useAuth } from '../context/AuthContext';
 import { db } from '../services/firebase';
@@ -34,7 +34,11 @@ interface UserProgress {
   weeklyActivity: { [day: string]: number };
 }
 
-const Dashboard: React.FC = () => {
+interface DashboardProps {
+  onNavigate?: (page: string) => void;
+}
+
+const Dashboard: React.FC<DashboardProps> = ({ onNavigate }) => {
   const { user } = useAuth();
   const [totalProgress, setTotalProgress] = useState(0);
   const [completedCount, setCompletedCount] = useState(0);
@@ -67,7 +71,7 @@ const Dashboard: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       if (!user) return;
-      
+
       setLoading(true);
       try {
         // Récupérer les cours depuis Firebase
@@ -82,11 +86,11 @@ const Dashboard: React.FC = () => {
         // Récupérer ou créer la progression de l'utilisateur
         const progressRef = doc(db, 'userProgress', user.uid);
         const progressSnap = await getDoc(progressRef);
-        
+
         let userProgress: UserProgress;
         if (progressSnap.exists()) {
           userProgress = progressSnap.data() as UserProgress;
-          
+
           // Migrer depuis localStorage si nécessaire (pour compatibilité)
           let needsUpdate = false;
           fetchedCourses.forEach(pkg => {
@@ -102,7 +106,7 @@ const Dashboard: React.FC = () => {
               });
             }
           });
-          
+
           if (needsUpdate) {
             await updateDoc(progressRef, {
               completedLessons: userProgress.completedLessons
@@ -112,16 +116,16 @@ const Dashboard: React.FC = () => {
           // Migrer depuis localStorage si disponible
           const completedLessons: string[] = [];
           const courseProgress: { [courseId: string]: { completed: number; total: number } } = {};
-          
+
           fetchedCourses.forEach(pkg => {
             const saved = localStorage.getItem(`progress_${pkg.id}`);
             const completed = saved ? JSON.parse(saved) : [];
             const total = pkg.sections.reduce((acc, s) => acc + s.lessons.length, 0);
-            
+
             completed.forEach((lessonId: string) => {
               completedLessons.push(`${pkg.id}_${lessonId}`);
             });
-            
+
             courseProgress[pkg.id] = {
               completed: completed.length,
               total
@@ -135,10 +139,10 @@ const Dashboard: React.FC = () => {
             lastActivity: null,
             weeklyActivity: {}
           };
-          
+
           await setDoc(progressRef, userProgress);
         }
-        
+
         setUserProgress(userProgress);
 
         // Calculer les statistiques
@@ -161,7 +165,7 @@ const Dashboard: React.FC = () => {
               }
             });
           });
-          
+
           totalCompleted += courseCompleted;
         });
 
@@ -220,6 +224,25 @@ const Dashboard: React.FC = () => {
             </div>
           </div>
         ))}
+
+        {/* My Notes Link */}
+        <div
+          onClick={() => onNavigate && onNavigate('carnet')}
+          className="bg-white p-8 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm flex flex-col gap-4 cursor-pointer hover:shadow-md hover:scale-[1.02] transition-all group md:col-span-2 lg:col-span-4"
+        >
+          <div className="flex items-center gap-4">
+            <div className="w-12 h-12 rounded-2xl flex items-center justify-center bg-amber-50 text-amber-500 group-hover:bg-amber-100 transition-colors">
+              <BookOpen className="w-6 h-6" />
+            </div>
+            <div>
+              <div className="text-xl font-black text-[#5A6B70] serif-display italic">Mon Carnet de Notes</div>
+              <div className="text-[10px] font-black sans-geometric uppercase tracking-[0.2em] text-[#5A6B70]/40">Accéder à toutes vos notes</div>
+            </div>
+            <div className="ml-auto">
+              <ChevronRight className="w-6 h-6 text-[#dd8b8b]/40 group-hover:text-[#dd8b8b] transition-colors" />
+            </div>
+          </div>
+        </div>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
@@ -236,9 +259,9 @@ const Dashboard: React.FC = () => {
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={chartData}>
                 <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#F9F7F2" />
-                <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fill: '#5A6B70', fontSize: 10, fontWeight: 800}} dy={10} />
-                <YAxis axisLine={false} tickLine={false} tick={{fill: '#5A6B70', fontSize: 10, fontWeight: 800}} />
-                <Tooltip cursor={{fill: '#F9F7F2'}} contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 20px 25px -5px rgb(0 0 0 / 0.1)' }} />
+                <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fill: '#5A6B70', fontSize: 10, fontWeight: 800 }} dy={10} />
+                <YAxis axisLine={false} tickLine={false} tick={{ fill: '#5A6B70', fontSize: 10, fontWeight: 800 }} />
+                <Tooltip cursor={{ fill: '#F9F7F2' }} contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 20px 25px -5px rgb(0 0 0 / 0.1)' }} />
                 <Bar dataKey="hours" radius={[12, 12, 0, 0]}>
                   {chartData.map((entry, index) => (
                     <Cell key={`cell-${index}`} fill={index === 3 ? '#dd8b8b' : '#E8C586'} />
@@ -273,8 +296,8 @@ const Dashboard: React.FC = () => {
               }
               const prog = totalLessons > 0 ? Math.round((completedLessons / totalLessons) * 100) : 0;
               return (
-                <div 
-                  key={pkg.id} 
+                <div
+                  key={pkg.id}
                   className="group cursor-pointer"
                   onClick={() => {
                     // Naviguer vers le cours
@@ -295,7 +318,7 @@ const Dashboard: React.FC = () => {
               <p className="text-sm opacity-60 italic">Aucun cours disponible. Chargez les cours depuis l'admin.</p>
             )}
           </div>
-          <button 
+          <button
             onClick={() => window.location.hash = 'library'}
             className="mt-12 w-full py-4 bg-white text-[#5A6B70] font-black sans-geometric uppercase tracking-widest text-xs rounded-2xl hover:scale-[1.02] transition-all shadow-xl shadow-black/20 flex items-center justify-center gap-3"
           >

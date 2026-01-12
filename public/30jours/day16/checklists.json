@@ -1,0 +1,28 @@
+[
+    {
+        "id": "tax_prep",
+        "title": "Tax Preparedness",
+        "items": [
+            {
+                "id": "itsme",
+                "label": "Activate 'Itsme' App",
+                "description": "You cannot survive Belgian admin without this app. Do it today."
+            },
+            {
+                "id": "myminfin",
+                "label": "Login to MyMinfin.be",
+                "description": "Just take a look. See where your documents are stored."
+            },
+            {
+                "id": "cleaner",
+                "label": "Consider 'Titres-Services'",
+                "description": "Need a cleaner? It's legal, cheap, and tax-deductible."
+            },
+            {
+                "id": "accountant",
+                "label": "Find an Accountant?",
+                "description": "If you are Freelance/Self-Employed, this is mandatory."
+            }
+        ]
+    }
+]

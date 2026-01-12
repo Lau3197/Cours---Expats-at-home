@@ -1,0 +1,28 @@
+[
+    {
+        "id": "week2_review",
+        "title": "Week 2 Review",
+        "items": [
+            {
+                "id": "reflection",
+                "label": "Self-Reflection",
+                "description": "Do you feel more at home than last week?"
+            },
+            {
+                "id": "budget_check",
+                "label": "Budget Check",
+                "description": "Brussels can be expensive. Check your spending."
+            },
+            {
+                "id": "fritkot",
+                "label": "The Fry Ritual",
+                "description": "Visit Maison Antoine (Jourdan) or Flagey for the classic experience."
+            },
+            {
+                "id": "rest_sunday",
+                "label": "Sunday Rest",
+                "description": "Remember, shops are closed on Sunday. Relax."
+            }
+        ]
+    }
+]

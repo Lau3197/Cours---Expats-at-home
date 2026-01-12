@@ -1,0 +1,28 @@
+[
+    {
+        "id": "dating_scene",
+        "title": "Putting Yourself Out There",
+        "items": [
+            {
+                "id": "profile_check",
+                "label": "Update Your App Profile",
+                "description": "Mention you are new in Brussels. It's a great conversation starter."
+            },
+            {
+                "id": "activity_date",
+                "label": "Plan an Activity Date",
+                "description": "Market walk > Awkward dinner."
+            },
+            {
+                "id": "language_date",
+                "label": "Try a 'Language Exchange' Date",
+                "description": " teach them your language, learn French. Efficient."
+            },
+            {
+                "id": "say_yes",
+                "label": "Say Yes to Invitations",
+                "description": "Even if you're tired. Go to the party."
+            }
+        ]
+    }
+]

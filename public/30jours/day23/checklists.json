@@ -1,0 +1,28 @@
+[
+    {
+        "id": "mental_health",
+        "title": "Emotional First Aid Kit",
+        "items": [
+            {
+                "id": "vitamind",
+                "label": "Buy Vitamin D",
+                "description": "If it's winter, this is non-negotiable in Belgium."
+            },
+            {
+                "id": "comfort_meal",
+                "label": "Cook a Home Meal",
+                "description": "Make the dish your grandma used to make."
+            },
+            {
+                "id": "helpline",
+                "label": "Save the CHS Number",
+                "description": "02 648 40 14. Just in case."
+            },
+            {
+                "id": "walk",
+                "label": "Go for a Walk (Even in Rain)",
+                "description": "Moving your body unlocks your stuck emotions."
+            }
+        ]
+    }
+]

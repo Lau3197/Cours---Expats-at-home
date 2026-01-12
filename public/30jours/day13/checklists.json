@@ -1,0 +1,28 @@
+[
+    {
+        "id": "exploration",
+        "title": "Urban Explorer Methodology",
+        "items": [
+            {
+                "id": "marolles",
+                "label": "Dig in the Marolles",
+                "description": "Buy something for €1 at the Jeu de Balle flea market."
+            },
+            {
+                "id": "view",
+                "label": "Sunset at Mont des Arts",
+                "description": "Take the photo. It's a cliché for a reason."
+            },
+            {
+                "id": "comic",
+                "label": "Find a Comic Mural",
+                "description": "Spot at least 3 comic book walls."
+            },
+            {
+                "id": "waffle",
+                "label": "Eat a Waffle on the Street",
+                "description": "Liege Waffle (sticky/round) > Brussels Waffle (rectangular/airy). Fight me."
+            }
+        ]
+    }
+]

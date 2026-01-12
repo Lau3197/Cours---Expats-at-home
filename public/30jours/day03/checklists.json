@@ -1,0 +1,33 @@
+[
+    {
+        "id": "health_setup",
+        "title": "Health Insurance Setup",
+        "items": [
+            {
+                "id": "choose_mutuelle",
+                "label": "Choose a Mutuelle",
+                "description": "Partenamut, MC, Solidaris, etc."
+            },
+            {
+                "id": "register_mutuelle",
+                "label": "Register Online or In-Person",
+                "description": "You need your ID/Annex and proof of address."
+            },
+            {
+                "id": "hospitalization",
+                "label": "Check Hospitalization Coverage",
+                "description": "Does your employer offer it? If not, buy it privately."
+            },
+            {
+                "id": "doctor_find",
+                "label": "Find a Local General Practitioner (GP)",
+                "description": "Use DoctorAnytime.be to find an English speaker near you."
+            },
+            {
+                "id": "stickers",
+                "label": "Order 'Vignettes'",
+                "description": "Stickers with your barcode. You need to stick these on every document you send to your mutuelle."
+            }
+        ]
+    }
+]

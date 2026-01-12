@@ -1,0 +1,28 @@
+[
+    {
+        "id": "transport_setup",
+        "title": "Public Transport Mastery",
+        "items": [
+            {
+                "id": "get_mobib",
+                "label": "Buy a Personal MOBIB Card",
+                "description": "Go to a KIOSK at a major station."
+            },
+            {
+                "id": "subscription",
+                "label": "Load Subscription",
+                "description": "Monthly or Yearly. Don't forget to validate every trip!"
+            },
+            {
+                "id": "apps",
+                "label": "Install Transport Apps",
+                "description": "STIB Mobile, SNCB (for trains), and Citymapper."
+            },
+            {
+                "id": "airport",
+                "label": "Learn Airport Trick",
+                "description": "Bus 12 is cheaper than the train to the airport, but requires a special ticket from the machine."
+            }
+        ]
+    }
+]

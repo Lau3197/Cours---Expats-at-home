@@ -1,0 +1,28 @@
+[
+    {
+        "id": "career_growth",
+        "title": "Career Audit",
+        "items": [
+            {
+                "id": "training_ask",
+                "label": "Ask for Training",
+                "description": "Email your boss/HR: 'What is my training budget for this year?'"
+            },
+            {
+                "id": "linkedin_update",
+                "label": "Refresh LinkedIn",
+                "description": "Set your location to 'Brussels'. Add 'Open to Work' if needed."
+            },
+            {
+                "id": "lunch_date",
+                "label": "Book a Lunch",
+                "description": "Invite a colleague from a different department."
+            },
+            {
+                "id": "salary_check",
+                "label": "Check the Market",
+                "description": "Use a tool like 'Salaries in Belgium' to see if you are underpaid."
+            }
+        ]
+    }
+]

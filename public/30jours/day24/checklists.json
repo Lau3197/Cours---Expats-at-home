@@ -1,0 +1,28 @@
+[
+    {
+        "id": "inner_circle",
+        "title": "Tribe Building",
+        "items": [
+            {
+                "id": "host_dinner",
+                "label": "Host a Micro-Dinner",
+                "description": "Invite 2 people. Cook something simple. Do it this week."
+            },
+            {
+                "id": "whatsapp_group",
+                "label": "Start a Specialist Group",
+                "description": "'Brussels Hikers', 'Sunday Brunch Club'. Be the admin."
+            },
+            {
+                "id": "say_no",
+                "label": "Audit Your Time",
+                "description": "Stop hanging out with people who drain your energy just because you are lonely."
+            },
+            {
+                "id": "follow_up",
+                "label": "The Follow Up",
+                "description": "Met someone cool? Text them the next day. 'Great meeting you, let's grab coffee.'"
+            }
+        ]
+    }
+]

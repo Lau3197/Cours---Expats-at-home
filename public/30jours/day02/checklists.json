@@ -1,0 +1,33 @@
+[
+    {
+        "id": "bank_opening",
+        "title": "Bank Account Opening Checklist",
+        "items": [
+            {
+                "id": "id_proof",
+                "label": "Passport or National ID",
+                "description": "Ensure it is valid for at least 6 months."
+            },
+            {
+                "id": "address_proof",
+                "label": "Proof of Address",
+                "description": "Utility bill, rental contract, or 'Annex' document from the commune."
+            },
+            {
+                "id": "tin",
+                "label": "Tax Identification Number (TIN)",
+                "description": "From your home country (required for tax reporting)."
+            },
+            {
+                "id": "app_download",
+                "label": "Download Banking App",
+                "description": "KBC Mobile, ING Banking, etc."
+            },
+            {
+                "id": "payconiq",
+                "label": "Install Payconiq by Bancontact",
+                "description": "Link it to your new account once active."
+            }
+        ]
+    }
+]

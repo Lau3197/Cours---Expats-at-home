@@ -1,282 +1,367 @@
 # Leçon 16 : Révision et évaluation A1.2
 
 **Niveau** : A1.2  
-**Durée estimée** : 3-4 heures  
-**Objectifs** : Review all A1.2 content and prepare for A2 level.
+**Durée estimée** : 2-3 heures  
+**Objectifs** : Review all A1.2 content, self-assessment, prepare for A2
 
 ---
 
-## Introduction: Ready for A2?
+## Congratulations!
 
-Congratulations! You have completed the entire A1.2 level.
-In this final lesson, there are no new rules. We will **mix** the past, present, and future to verify that you can tell your story and make plans in Belgium.
+**You've completed A1.2!**
 
-**The Program:**
-- **Daily Life** (Restaurant, market, weather, routine)
-- **Telling Your Story** (Passé Composé with Avoir and Être)
-- **Making Plans** (Futur Proche)
-- **Navigating Administration** (Pouvoir, Vouloir, Devoir)
-
-Let's go for the Grand Mix! 🇧🇪
+This final lesson is a comprehensive revision of everything you've learned. Use it to:
+- Check what you remember
+- Identify areas to practice more
+- Prepare for A2
 
 ---
 
-## Part 1: Vocabulary Review - The Grand Mix
+## A1.2 Summary
 
-### 1. Social Life & Going Out
-*Leçons 1, 8, 12, 13*
+### What you learned in A1.2
 
-- **At the Restaurant/Café:**
-  - Verbs: Commander, payer, boire, manger.
-  - Phrases: "Je voudrais...", "L'addition s'il vous plaît", "Santé !".
-  - Drinks: Une bière (blonde/brune), un verre de vin, de l'eau.
-- **Activities:** Aller au cinéma, voir une expo, boire un verre, faire la fête, organiser une sortie.
-- **Proposing:** "Ça te dit ?", "On va où ?", "Rendez-vous à 20h".
-
-### 2. Daily Life & Habits
-*Leçons 2, 4, 11, 10*
-
-- **Routine (Reflexive Verbs):** Se lever, se doucher, se brosser les dents, s'habiller, se coucher.
-- **Shopping:**
-  - Market: Un kilo de..., une livre de..., des légumes, des fruits.
-  - Money: C'est cher, c'est pas cher, ça coûte combien ?
-- **Time:**
-  - Questions: "À quelle heure ?", "Quelle heure est-il ?".
-  - Answers: "Vers 18h", "À midi", "Tôt", "Tard".
-
-### 3. Culture & Environment
-*Leçons 3, 5, 6, 7*
-
-- **Weather:** Il fait beau, il pleut (often!), il fait froid, il fait chaud, il neige.
-- **Gastronomy:** Gaufres (Bruxelles/Liège), chocolat (praline), chicons, moules-frites, carbonnade.
-- **Hobbies:** Faire du sport, voyager, lire, écouter de la musique.
-
-### 4. Admin & Expat Journey
-*Leçons 14, 15*
-
-- **Journey:** Arriver, partir, venir, rester, retourner (Dr. & Mrs. Vandertramp verbs).
-- **Admin:**
-  - Documents: Papiers, formulaire, preuve de domicile.
-  - Actions: S'inscrire, renouveler, signer.
-  - Phrases: "Il faut...", "Je peux...?", "Je dois...".
+| Lesson | Topic | Key skills |
+|:-------|:------|:-----------|
+| 01 | Restaurant | Ordering food, menu vocabulary |
+| 02 | Market | Shopping, quantities |
+| 03 | Time | Telling time, schedules |
+| 04 | Daily routine | Reflexive verbs basics |
+| 05 | Weather | Weather expressions |
+| 06 | Clothes | Clothing vocabulary, seasons |
+| 07 | Hobbies | Faire de, jouer à/de |
+| 08 | Belgian beer | Drink vocabulary, opinions |
+| 09 | Preferences | Comparatives |
+| 10 | Gastronomy | Food vocabulary, descriptions |
+| 11 | Reflexive verbs | Complete conjugation |
+| 12 | Planning | Making arrangements |
+| 13 | Weekend | Passé composé |
+| 14 | Journey | Talking about experiences |
+| 15 | Administration | Forms, procedures |
 
 ---
 
-## Part 2: Global Grammar Review
+## Revision Section 1: Daily Life
 
-### 1. The Time Machine (Past - Present - Future)
+### Exercise 1: Daily routine
 
-This is the key to A1.2: you must be able to switch between tenses!
+**Complete with reflexive verbs:**
 
-| Tense | Construction | Example | When to use? |
-|:---|:---|:---|:---|
-| **Passé Composé** | Avoir/Être + Past Participle | *J'ai mangé* / *Je suis parti* | Yesterday, last weekend |
-| **Présent** | Conjugated Verb | *Je mange* / *Je pars* | Now, usually |
-| **Futur Proche** | Aller + Infinitive | *Je vais manger* / *Je vais partir* | Tomorrow, tonight, soon |
+1. Le matin, je _____________ à 7h. (se lever)
+2. Ensuite, je _____________ . (se doucher)
+3. Je _____________ les dents. (se brosser)
+4. Je _____________ et je pars au travail. (s'habiller)
 
-**Special Reminder: Passé Composé**
-- Most verbs use **AVOIR** (*J'ai fait, J'ai vu, J'ai pris*)
-- Movement verbs (Dr & Mrs Vandertramp) use **ÊTRE** (*Je suis allé, Je suis venu, Il est tombé*)
-  - ⚠️ Agreement with Être: *Elle est parti**e***.
+<details>
+<summary>Answers</summary>
 
-### 2. The Modals (Nuance)
+1. me lève
+2. me douche
+3. me brosse
+4. m'habille
 
-- **POUVOIR** (Ability/Permission): *Je peux payer par carte ?*
-- **VOULOIR** (Desire): *Je veux partir.* (Polite form: *Je voudrais*)
-- **DEVOIR** (Obligation): *Je dois travailler.*
+</details>
 
-### 3. Reflexive Verbs (Routine)
-- *Je **me** lève*
-- *Tu **te** douches*
-- *Il **se** couche*
-- ⚠️ In Passé Composé: *Je **me suis** levé(e)* (Always uses Être!)
+### Exercise 2: Time
+
+**Write these times in French:**
+
+1. 8:30 AM → _______________
+2. 2:15 PM (formal) → _______________
+3. 6:45 PM → _______________
+
+<details>
+<summary>Answers</summary>
+
+1. huit heures et demie
+2. quatorze heures quinze
+3. sept heures moins le quart / dix-huit heures quarante-cinq
+
+</details>
 
 ---
 
-## Part 3: Mixed Exercises (Comprehensive Training)
+## Revision Section 2: Food and Drinks
 
-⚠️ **Challenge Mode:** These exercises mix everything (Past, Present, Future, Modals).
+### Exercise 3: At the restaurant
 
-### Exercise 1: The Time Juggler (Tense Transformation)
-**Conjugate the verb in the correct tense.**
+**Complete the dialogue:**
 
-1. (MANGER - Yesterday) J'____________________ au restaurant avec Marc.
-2. (FAIRE - Now) Je ____________________ les courses.
-3. (ALLER - Tomorrow) Je ____________________ à Anvers.
-4. (VOIR - Last week) Nous ____________________ un film super.
-5. (PARTIR - Now) Le train ____________________ dans 5 minutes.
-6. (VISITER - Next year) Ils ____________________ le Japon.
+**Serveur :** Vous avez _____________ ? (chosen)
 
-**Answer Key:**
-1. ai mangé
-2. fais
-3. vais aller
-4. avons vu
-5. part
-6. vont visiter
+**You :** Oui. Comme entrée, je _____________ la soupe. (would like)
 
-### Exercise 2: Avoir or Être? (The tricky auxiliary)
-**Choose the correct auxiliary verb (Avoir or Être) for the Passé Composé.**
+**Serveur :** Et comme plat principal ?
 
-1. Elle __________ (être/a) visité le musée.
-2. Elle __________ (est/a) allée au musée.
-3. Nous __________ (sommes/avons) bu une bière.
-4. Nous __________ (sommes/avons) venus en train.
-5. Tu __________ (es/as) pris le bus ?
-6. Ils __________ (sont/ont) restés à la maison.
-7. J'__________ (suis/ai) fait du sport.
-8. Je __________ (suis/ai) partie tôt.
+**You :** Je _____________ le steak-frites. (will take)
 
-**Answer Key:**
-1. a (visiter -> avoir)
-2. est (aller -> être)
-3. avons (boire -> avoir)
-4. sommes (venir -> être)
-5. as (prendre -> avoir)
-6. sont (rester -> être)
-7. ai (faire -> avoir)
-8. suis (partir -> être)
+<details>
+<summary>Answers</summary>
 
-### Exercise 3: Modal Master (Devez, Pouvez, Voulez)
-**Complete the sentences with the correct Modal Verb.**
-
-1. (Obligation) Tu ____________________ valider ton titre de transport.
-2. (Polite Desire) Je ____________________ une gaufre, s'il vous plaît.
-3. (Ability) Vous ____________________ parler plus lentement ?
-4. (Desire) Il ____________________ aller au cinéma ce soir.
-5. (Permission) Je ____________________ entrer ?
-6. (Obligation) Nous ____________________ partir maintenant.
-
-**Answer Key:**
-1. dois
+1. choisi
 2. voudrais
-3. pouvez
-4. veut
-5. peux
-6. devons
+3. prends
 
-### Exercise 4: Rewrite the Story (Present -> Past)
-**Rewrite these sentences in Passé Composé.**
+</details>
 
-1. Je **mange** une frite. → Hier, j'______________________________.
-2. Elle **part** à 18h. → Hier, elle ______________________________.
-3. Nous **faisons** la fête. → Hier, nous ______________________________.
-4. Tu **bois** de l'eau. → Hier, tu ______________________________.
-5. Ils **arrivent** en retard. → Hier, ils ______________________________.
+### Exercise 4: Shopping
 
-**Answer Key:**
-1. ai mangé une frite.
-2. est partie à 18h.
-3. avons fait la fête.
-4. as bu de l'eau.
-5. sont arrivés en retard.
+**Order these items with quantities:**
 
-### Exercise 5: Dialogue "Plans & Obligations"
-**Fill in the blanks with: vais / dois / peux / ai / as.**
+1. 1 kg apples → _______________
+2. 500g cheese → _______________
+3. 1 bottle water → _______________
 
-- "Salut ! Tu __________ (can) venir au cinéma ce soir ?"
-- "Non, je ne __________ (can) pas. Je __________ (must) travailler tard."
-- "Ah dommage. Qu'est-ce que tu __________ (did - auxiliary) fait hier ?"
-- "Hier, j'_____ (did - auxiliary) fini à 22h ! J'étais fatigué."
-- "Courage ! Demain, on __________ (going to) boire un verre ?"
+<details>
+<summary>Answers</summary>
 
-**Answer Key:**
-peux / peux / dois / as / ai / va.
+1. un kilo de pommes
+2. 500 grammes de fromage
+3. une bouteille d'eau
 
-### Exercise 6: Find the Mistakes
-**Find and correct the 4 grammar mistakes in this text.**
-
-> "Samedi dernier, je suis mangé au resto avec des amis.
-> Après, nous avons allé au cinéma pour voir un film.
-> Dimanche, je vais dormir jusqu'à midi parce que j'étais fatigué.
-> Lundi matin, je me ai levé tard."
-
-**Correction:**
-1. *J'ai* mangé (not "suis mangé").
-2. Nous *sommes* allés (Aller uses Être).
-3. J'ai dormi (Past context, not future "vais dormir").
-4. Je *me suis* levé (Reflexive in past uses Être).
+</details>
 
 ---
 
-## Part 4: Global Comprehension
+## Revision Section 3: Hobbies and Preferences
 
-**Read Sarah's story. It mixes past, present, and future.**
+### Exercise 5: Hobbies
 
-> **Sarah's Story:**
->
-> "Je suis arrivée en Belgique il y a deux ans. Au début, c'était difficile, mais maintenant, j'adore ma vie ici.
->
-> Le week-end dernier, mes parents sont venus me voir. Nous sommes allés à Bruges. Nous avons mangé des moules-frites et nous avons marché toute la journée. Ils ont adoré !
->
-> D'habitude, le lundi, je suis fatiguée. Mais aujourd'hui, je me lève tôt parce que je dois aller à la commune pour renouveler ma carte d'identité.
->
-> Ce soir, je vais me reposer. Je vais regarder une série et je ne vais pas sortir."
+**Complete with faire de, jouer à, or jouer de:**
 
-**Questions:**
+1. Je _____________ tennis.
+2. Je _____________ piano.
+3. Je _____________ natation.
+4. Je _____________ vélo.
 
-1. **Past:** What did Sarah do last weekend?
-2. **Present:** Why is she getting up early today?
-3. **Future:** What is she going to do tonight?
-4. **Grammar:** Why does she say "mes parents **sont** venus" ?
+<details>
+<summary>Answers</summary>
 
-**Answer Key:**
-1. She went to Bruges with her parents, ate mussels, walked.
-2. She has to go to the commune (town hall).
-3. She is going to rest and watch a series.
-4. Because "Venir" is a movement verb (Dr & Mrs Vandertramp) → uses Auxiliary Être.
+1. joue au
+2. joue du
+3. fais de la
+4. fais du
 
----
+</details>
 
-## Part 5: Final Writing Mission
+### Exercise 6: Comparatives
 
-**Write a text with 3 paragraphs (Past, Present, Future).**
+**Complete:**
 
-1. **Past:** Briefly tell how you arrived in Belgium OR describe your last weekend.
-2. **Present:** What you usually like to do today.
-3. **Future:** What you are going to do next weekend.
+1. Le métro est _____________ rapide _____________ le bus. (faster)
+2. Ce restaurant est _____________ cher _____________ l'autre. (less expensive)
+3. La pizza ici est _____________ bonne _____________ en Italie. (as good)
 
-*Example:*
-"Je suis arrivé en Belgique en 2022. J'ai pris le train depuis Paris.
-Aujourd'hui, j'aime me promener dans les parcs et j'adore les gaufres.
-Samedi prochain, je vais aller à Anvers avec des amis."
+<details>
+<summary>Answers</summary>
 
-**Your Turn:**
-_________________________________________________________________________
-_________________________________________________________________________
-_________________________________________________________________________
+1. plus... que
+2. moins... que
+3. aussi... que
+
+</details>
 
 ---
 
-## A1.2 Self-Evaluation Checklist
+## Revision Section 4: Past Events
 
-**Are you ready for Level A2?**
-Check if you can do these things:
+### Exercise 7: Passé composé
 
-- [ ] **Past:** I can tell a past event (J'ai fait, Je suis allé).
-- [ ] **Future:** I can make plans (Je vais faire...).
-- [ ] **Modals:** I can express obligation (Je dois) and want (Je veux).
-- [ ] **Routine:** I can describe my day (Je me lève...).
-- [ ] **Interaction:** I can order at a restaurant and shop at a market.
-- [ ] **Social:** I can propose an outing and accept/refuse.
+**Conjugate in passé composé:**
 
-**If you checked everything: CONGRATULATIONS!** 🎉
-You have validated Level A1 (A1.1 + A1.2). You are a confirmed beginner French speaker!
-Level A2 awaits you to go further in conversation.
+1. Hier, je _____________ au cinéma. (aller)
+2. J' _____________ un bon film. (voir)
+3. Après, je _____________ avec des amis. (sortir)
+4. Nous _____________ dans un restaurant. (manger)
+
+<details>
+<summary>Answers</summary>
+
+1. suis allé(e)
+2. ai vu
+3. suis sorti(e)
+4. avons mangé
+
+</details>
+
+### Exercise 8: Avoir or Être?
+
+**Choose the correct auxiliary:**
+
+1. Elle _____________ mangé au restaurant. (avoir/être)
+2. Ils _____________ partis à 20h. (avoir/être)
+3. Nous _____________ visité Bruges. (avoir/être)
+4. Je _____________ resté(e) à la maison. (avoir/être)
+
+<details>
+<summary>Answers</summary>
+
+1. a (avoir)
+2. sont (être)
+3. avons (avoir)
+4. suis (être)
+
+</details>
 
 ---
 
-*Well done on all your hard work. Belgium opens its doors to you!*
+## Revision Section 5: Practical Life
+
+### Exercise 9: Making plans
+
+**Write a proposal for each situation:**
+
+1. Invite someone to the cinema → _______________
+2. Accept an invitation → _______________
+3. Refuse politely → _______________
+
+<details>
+<summary>Suggested answers</summary>
+
+1. Ça te dit d'aller au cinéma ?
+2. Oui, avec plaisir ! / Bonne idée !
+3. Désolé(e), je suis déjà pris(e).
+
+</details>
+
+### Exercise 10: Administration
+
+**What documents do you need for:**
+
+1. Registration at commune → _______________
+2. Proving your address → _______________
+
+<details>
+<summary>Answers</summary>
+
+1. Passeport, carte d'identité, contrat de bail
+2. Facture d'électricité, facture de gaz, attestation de domicile
+
+</details>
 
 ---
 
-## Extra Resources: Ready for Level A2?
+## Grammar Review
 
-**Celebrate your success!**
+### Key verbs you learned
 
-- **Celebration:** Treat yourself to a Belgian specialty (gaufre/frites) to celebrate finishing A1!
-- **French Media:** Watch a movie in French with French subtitles (e.g., "L'Auberge Espagnole" or a Belgian film like "Dikkenek" - warning: strong accent!).
-- **Goal Setting:** Write down one big goal for Level A2 (e.g., "Have a 5-minute conversation with a neighbor").
-- **Review:** Read through your notes from Lessons 1-15 one last time.
+| Verb | Je | Tu | Il/Elle | Nous | Vous |
+|:-----|:---|:---|:--------|:-----|:-----|
+| prendre | prends | prends | prend | prenons | prenez |
+| devoir | dois | dois | doit | devons | devez |
+| se lever | me lève | te lèves | se lève | nous levons | vous levez |
 
-**See you in Level A2!** 🚀
+### Key structures
+
+| Structure | Example |
+|:----------|:--------|
+| Passé composé (avoir) | J'ai mangé |
+| Passé composé (être) | Je suis allé(e) |
+| Comparatives | plus/moins/aussi...que |
+| Reflexive verbs | Je me lève |
+| Faire de + activity | Je fais du sport |
+| Jouer à + game/sport | Je joue au tennis |
+| Jouer de + instrument | Je joue de la guitare |
+
+---
+
+## Self-Evaluation Checklist
+
+### I can...
+
+**Daily life**
+- [ ] Describe my daily routine with reflexive verbs
+- [ ] Tell time in French
+- [ ] Talk about the weather
+- [ ] Describe what I'm wearing
+
+**Food and drink**
+- [ ] Order at a restaurant
+- [ ] Shop at a market with quantities
+- [ ] Describe food and drinks
+- [ ] Express opinions about taste
+
+**Hobbies and preferences**
+- [ ] Talk about sports and hobbies
+- [ ] Use "faire de," "jouer à," "jouer de" correctly
+- [ ] Compare things with plus/moins/aussi
+- [ ] Express preferences
+
+**Past events**
+- [ ] Use passé composé with avoir
+- [ ] Use passé composé with être
+- [ ] Talk about my weekend
+- [ ] Describe my journey in Belgium
+
+**Practical life**
+- [ ] Make plans and invitations
+- [ ] Accept and refuse politely
+- [ ] Fill in administrative forms
+- [ ] Handle basic administration
+
+---
+
+## Final Challenge
+
+**Write about yourself (150-200 words):**
+
+Include:
+- Your daily routine
+- Your hobbies
+- Something you did last weekend
+- Your experience in Belgium
+- Your preferences
+
+---
+
+## What's Next: A2.1
+
+**In A2.1, you will learn:**
+
+| Topic | Skills |
+|:------|:-------|
+| Imparfait | Describing past habits and situations |
+| Imparfait vs Passé Composé | Distinguishing when to use each |
+| Futur simple | Talking about the future |
+| Pronoms COD/COI | Object pronouns (le, la, les, lui, leur) |
+| Comparatifs/Superlatifs | More advanced comparisons |
+| Logement | Housing vocabulary |
+| Santé | Doctor visits, health |
+
+---
+
+## Congratulations!
+
+**You've completed A1!**
+
+You now have solid foundations in French. You can:
+- Handle daily situations in French
+- Talk about your life, hobbies, and experiences
+- Navigate Belgian culture and administration
+- Describe past events using passé composé
+
+**Continue to A2 to expand your skills!**
+
+---
+
+## Extra Resources
+
+### Continued practice
+
+- **Daily journal:** Write in French every day
+- **Conversation:** Find a language exchange partner
+- **Media:** Watch French shows with subtitles
+- **Reading:** Start reading simple French articles
+
+### Useful apps
+
+| App | Purpose |
+|:----|:--------|
+| Duolingo | Daily vocabulary practice |
+| TV5Monde | Free exercises |
+| RFI Savoirs | Listening practice |
+| Tandem | Language exchange |
+
+---
+
+*Félicitations et bonne continuation vers le niveau A2 !*

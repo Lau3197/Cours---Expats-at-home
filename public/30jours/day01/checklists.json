@@ -1,0 +1,72 @@
+[
+    {
+        "id": "eu_docs",
+        "title": "EU Citizen Documents Checklist",
+        "items": [
+            {
+                "id": "passport",
+                "label": "Valid Passport or National ID Card"
+            },
+            {
+                "id": "lease",
+                "label": "Rental Contract (Registered)",
+                "description": "Signed by both parties. Some communes require it to be registered."
+            },
+            {
+                "id": "photos",
+                "label": "3-4 Passport-sized Photos",
+                "description": "Standard ICAO format, white background."
+            },
+            {
+                "id": "insurance",
+                "label": "Proof of Health Insurance",
+                "description": "European Health Insurance Card (EHIC) or private insurance."
+            },
+            {
+                "id": "work",
+                "label": "Work Contract or Proof of Status",
+                "description": "Employment contract, proof of self-employment, or student enrollment."
+            },
+            {
+                "id": "money",
+                "label": "Cash/Card for Fee (€25 approx)",
+                "description": "Communes often prefer Bancontact (debit cards)."
+            }
+        ]
+    },
+    {
+        "id": "noneu_docs",
+        "title": "Non-EU Citizen Documents Checklist",
+        "items": [
+            {
+                "id": "ne_passport",
+                "label": "Valid Passport with D-Visa",
+                "description": "Original passport + copies of ID page and Visa page."
+            },
+            {
+                "id": "ne_lease",
+                "label": "Rental Contract",
+                "description": "Signed lease agreement."
+            },
+            {
+                "id": "ne_photos",
+                "label": "3-4 Passport-sized Photos"
+            },
+            {
+                "id": "ne_goodconduct",
+                "label": "Certificate of Good Conduct",
+                "description": "If requested (Casier Judiciaire)."
+            },
+            {
+                "id": "ne_medical",
+                "label": "Medical Certificate",
+                "description": "If requested."
+            },
+            {
+                "id": "ne_fee",
+                "label": "Administrative Fee Payment Proof",
+                "description": "Proof of payment for the federal contribution tax if applicable."
+            }
+        ]
+    }
+]

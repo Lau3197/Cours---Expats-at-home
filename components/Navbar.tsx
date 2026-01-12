@@ -6,13 +6,14 @@ import { db } from '../services/firebase';
 import { collection, getDocs } from 'firebase/firestore';
 import { getSearchSuggestions, fuzzySearchCourses, fuzzySearchLessons } from '../services/search';
 import SearchSuggestions from './SearchSuggestions';
+import NotificationCenter from './NotificationCenter';
 
 interface NavbarProps {
   onNavigate: (page: string) => void;
   currentPage: string;
   user: UserProfile;
   onSearch: (term: string) => void;
-  onSelectCourse?: (course: CoursePackage) => void;
+  onSelectCourse?: (course: CoursePackage, lessonId?: string) => void;
 }
 
 const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch, onSelectCourse }) => {
@@ -141,6 +142,13 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
                 {currentPage === 'grammaire' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
               <button
+                onClick={() => onNavigate('carnet')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'carnet' ? 'text-[#dd8b8b]' : ''}`}
+              >
+                Mon Carnet
+                {currentPage === 'carnet' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+              </button>
+              <button
                 onClick={() => onNavigate('30jours')}
                 className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === '30jours' ? 'text-[#dd8b8b]' : ''}`}
               >
@@ -199,13 +207,14 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
           </div>
 
           <div className="flex items-center gap-4">
-            <button
-              className="relative p-3 text-[#5A6B70]/40 hover:text-[#dd8b8b] transition-all bg-[#F9F7F2] rounded-2xl group"
-              title="Notifications"
-            >
-              <Bell className="w-5 h-5" />
-              <span className="absolute top-2 right-2 w-2 h-2 bg-[#E8C586] rounded-full border border-white"></span>
-            </button>
+            {/* Notification Center */}
+            <NotificationCenter
+              user={user}
+              courses={courses}
+              onNavigate={onNavigate}
+              onSelectCourse={onSelectCourse}
+            />
+            {/* End Notification Center */}
             <button
               onClick={() => onNavigate('logout')}
               className="relative p-3 text-[#5A6B70]/40 hover:text-[#dd8b8b] transition-all bg-[#F9F7F2] rounded-2xl group"
@@ -228,7 +237,7 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
           </div>
         </div>
       </div>
-    </nav>
+    </nav >
   );
 };
 

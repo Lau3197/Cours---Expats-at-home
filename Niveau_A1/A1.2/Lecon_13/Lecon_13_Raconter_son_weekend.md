@@ -1,458 +1,330 @@
-# Leçon 13 : Raconter son week-end
+# Leçon 13 : Raconter son weekend
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre à raconter des événements passés, utiliser le passé composé avec avoir
+**Objectifs** : Talk about past events, use passé composé, narrate weekend activities
 
 ---
 
-## Let's Start! Telling Stories About Your Weekend
+## Let's Start! What did you do?
 
-### Discovery Activity: Monday Morning Conversation
+### Listen to this dialogue
 
-**Here's a real situation you'll face:**
+**It's Monday. Sophie asks Tom about his weekend:**
 
-It's Monday morning at the office. Your colleague asks:
-
-**"Salut ! Tu as passé un bon week-end ? Qu'est-ce que tu as fait ?"**
-
-You answer: **"J'ai visité Bruges avec des amis. On a mangé des gaufres et on a bu de la bière !"**
-
-**Your challenge:** Look at these verbs and try to understand:
-
-- **tu as passé** - What do you think this means?
-- **tu as fait** - What about this?
-- **j'ai visité** - And this one?
-- **on a mangé** - And this?
-
-**Write down your guesses!**
-
----
-
-## Introduction
-
-**Did you guess?** Let's see:
-
-- **tu as passé** = you spent / you had (a weekend)
-- **tu as fait** = you did
-- **j'ai visité** = I visited
-- **on a mangé** = we ate
-
-In this lesson, you'll learn how to talk about past events - essential for everyday conversation!
-
-**What you will learn today:**
-- The passé composé with avoir
-- How to form past participles
-- Common verbs in the past tense
-- How to describe your weekend
-
-**Belgian context:** Belgians love asking "Tu as passé un bon week-end ?" on Monday mornings. Being able to answer is a great way to connect with colleagues!
-
----
-
-## French Pronunciation: Key Sounds for This Lesson
-
-**Before we start, here are the key sounds you'll need:**
-
-### The auxiliary "avoir" sounds
-
-- **j'ai** [ʒe]
-- **tu as** [ty a]
-- **il/elle a** [il/ɛl a]
-- **on a** [ɔ̃n a]
-
-### Past participle endings
-
-- **-é** (for -er verbs): mangé [mɑ̃ʒe], visité [vizite]
-- **-i** (for -ir verbs): fini [fini], choisi [ʃwazi]
-- **-u** (many irregulars): vu [vy], bu [by]
-
-**Quick Practice:** Say these 3 times each:
-- J'ai mangé [ʒe mɑ̃ʒe]
-- Tu as visité [ty a vizite]
-- On a bu [ɔ̃n a by]
-
----
-
-## Listening Comprehension: Monday Morning at the Office
-
-**Listen to this conversation:**
-
-**Marie :** Salut Tom ! Tu **as passé** un bon week-end ?
-
-**Tom :** Salut Marie ! Oui, super ! J'**ai visité** Bruges samedi.
-
-**Marie :** Ah génial ! Tu **as fait** quoi là-bas ?
-
-**Tom :** On **a marché** dans le centre historique, on **a visité** le musée du chocolat, et on **a mangé** des gaufres. C'était délicieux !
-
-**Marie :** Et dimanche ?
-
-**Tom :** Dimanche, j'**ai regardé** un film à la maison et j'**ai cuisiné** un bon repas. Et toi, tu **as fait** quoi ?
-
-**Marie :** Moi, j'**ai travaillé** un peu samedi matin, puis j'**ai vu** des amis le soir. On **a bu** des bières dans un bar sympa. Dimanche, j'**ai fait** du sport et j'**ai lu** un livre.
-
-**Tom :** Cool ! On **a bien profité** du week-end alors !
-
-**Comprehension Questions:**
-
-1. Where did Tom go on Saturday?
-2. What did Tom do in Bruges?
-3. What did Marie do Saturday evening?
-4. What did Marie do on Sunday?
-
-**Answers:**
-1. He visited Bruges
-2. He walked in the historic center, visited the chocolate museum, and ate waffles
-3. She saw friends and drank beers in a bar
-4. She did sports and read a book
-
----
-
-## Vocabulary: Weekend Activities
-
-**You just heard these words. Let's learn them:**
-
-### Common Weekend Activities
-
-| Français | IPA | English | Passé Composé |
-|----------|-----|---------|---------------|
-| visiter | [vizite] | to visit | j'ai visité |
-| manger | [mɑ̃ʒe] | to eat | j'ai mangé |
-| regarder | [ʁəgaʁde] | to watch | j'ai regardé |
-| marcher | [maʁʃe] | to walk | j'ai marché |
-| cuisiner | [kɥizine] | to cook | j'ai cuisiné |
-| travailler | [tʁavaje] | to work | j'ai travaillé |
-| voir | [vwaʁ] | to see | j'ai vu |
-| lire | [liʁ] | to read | j'ai lu |
-| boire | [bwaʁ] | to drink | j'ai bu |
-| faire | [fɛʁ] | to do/make | j'ai fait |
-
-### Useful Expressions
-
-| Français | IPA | English |
-|----------|-----|---------|
-| Tu as passé un bon week-end ? | [ty a pase œ̃ bɔ̃ wikɛnd] | Did you have a good weekend? |
-| Qu'est-ce que tu as fait ? | [kɛs kə ty a fɛ] | What did you do? |
-| J'ai passé un bon/super week-end | [ʒe pase œ̃ bɔ̃/sypɛʁ wikɛnd] | I had a good/great weekend |
-| C'était super/génial ! | [setɛ sypɛʁ/ʒenjal] | It was great! |
-| On a bien profité | [ɔ̃n a bjɛ̃ pʁɔfite] | We enjoyed it / We made the most of it |
-
-> **🗣️ Real Life French**
+> **Sophie :** Salut Tom ! Tu as passé un bon weekend ?
 > 
-> **"T'as fait quoi ?"** : Version courante de "Tu as fait quoi ?". Le "u" de "tu" disparaît souvent à l'oral.
+> **Tom :** Oui, super ! Samedi matin, **j'ai fait** les courses au marché. Après, **j'ai préparé** un bon repas.
 > 
-> **"C'était..."** : Pour décrire comment c'était. "C'était super !", "C'était bien", "C'était nul" (it was bad).
-
----
-
-## Grammar: The Passé Composé with Avoir
-
-**Remember what you heard?**
-
-- "J'**ai visité** Bruges"
-- "On **a mangé** des gaufres"
-- "J'**ai fait** du sport"
-- "J'**ai lu** un livre"
-
-**What did you notice?** The passé composé uses **avoir + past participle**!
-
-### How to Form the Passé Composé
-
-**Structure:** Subject + **avoir** (conjugated) + **past participle**
-
-| Pronom | Avoir | + Participe passé | Example |
-|:-------|:------|:------------------|:--------|
-| J' | **ai** | mangé | J'**ai mangé** |
-| Tu | **as** | visité | Tu **as visité** |
-| Il/Elle/On | **a** | regardé | Il **a regardé** |
-| Nous | **avons** | travaillé | Nous **avons travaillé** |
-| Vous | **avez** | fait | Vous **avez fait** |
-| Ils/Elles | **ont** | vu | Ils **ont vu** |
-
-### How to Form Past Participles
-
-**1. Regular -ER verbs → -É**
-
-| Infinitif | Participe passé | Example |
-|:----------|:----------------|:--------|
-| manger | mang**é** | J'ai mangé |
-| visiter | visit**é** | J'ai visité |
-| regarder | regard**é** | J'ai regardé |
-| travailler | travaill**é** | J'ai travaillé |
-| marcher | march**é** | J'ai marché |
-
-**2. Regular -IR verbs → -I**
-
-| Infinitif | Participe passé | Example |
-|:----------|:----------------|:--------|
-| finir | fin**i** | J'ai fini |
-| choisir | chois**i** | J'ai choisi |
-| réussir | réuss**i** | J'ai réussi |
-
-**3. Irregular verbs (to memorize!)**
-
-| Infinitif | Participe passé | Example |
-|:----------|:----------------|:--------|
-| **faire** | **fait** | J'ai **fait** du sport |
-| **voir** | **vu** | J'ai **vu** un film |
-| **lire** | **lu** | J'ai **lu** un livre |
-| **boire** | **bu** | J'ai **bu** une bière |
-| **avoir** | **eu** | J'ai **eu** un problème |
-| **être** | **été** | J'ai **été** malade |
-| **prendre** | **pris** | J'ai **pris** le métro |
-| **mettre** | **mis** | J'ai **mis** mon manteau |
-
-### The Negative Form
-
-**Structure:** Subject + **ne** + avoir + **pas** + participe passé
-
-| Affirmative | Negative |
-|:------------|:---------|
-| J'**ai mangé** | Je **n'ai pas** mangé |
-| Tu **as vu** | Tu **n'as pas** vu |
-| On **a fait** | On **n'a pas** fait |
-| Nous **avons travaillé** | Nous **n'avons pas** travaillé |
-
-> **🗣️ Real Life French**
+> **Sophie :** Et l'après-midi ?
 > 
-> À l'oral, le "ne" disparaît souvent :
-> - "J'**ai pas** mangé" au lieu de "Je **n'**ai pas mangé"
-> - "On **a pas** vu" au lieu de "On **n'**a pas vu"
+> **Tom :** **Je suis allé** au musée Magritte avec des amis. Ensuite, on **a pris** un verre Place Saint-Géry.
+> 
+> **Sophie :** Et dimanche ?
+> 
+> **Tom :** **Je suis resté** à la maison. **J'ai regardé** un film et **j'ai lu** un livre. Et toi, qu'est-ce que tu as fait ?
+> 
+> **Sophie :** Moi, **je suis partie** à Bruges avec ma famille. On **a visité** la ville et **on a mangé** des gaufres !
 
 ---
 
-## Grammar Exercises: Practice the Passé Composé
+### Comprehension
 
-**Exercise 1: Conjugate in the passé composé**
+**Answer the questions:**
 
-1. Je _______________ (manger) au restaurant.
-2. Tu _______________ (visiter) Bruges ?
-3. Elle _______________ (regarder) un film.
-4. Nous _______________ (travailler) samedi.
-5. Vous _______________ (faire) quoi ?
-6. Ils _______________ (voir) leurs amis.
+1. What did Tom do Saturday morning?
+2. Where did he go Saturday afternoon?
+3. What did he do Sunday?
+4. Where did Sophie go?
+5. What did Sophie eat in Bruges?
 
-**Answers:**
-1. J'**ai mangé** au restaurant.
-2. Tu **as visité** Bruges ?
-3. Elle **a regardé** un film.
-4. Nous **avons travaillé** samedi.
-5. Vous **avez fait** quoi ?
-6. Ils **ont vu** leurs amis.
+<details>
+<summary>Answers</summary>
 
-**Exercise 2: Choose the correct past participle**
+1. He went shopping at the market and prepared a meal
+2. To the Magritte museum
+3. He stayed home, watched a film, read a book
+4. To Bruges with her family
+5. Waffles (gaufres)
 
-1. J'ai _______________ (manger/mangé/mangez) des gaufres.
-2. Tu as _______________ (vu/voir/vois) ce film ?
-3. On a _______________ (bu/boire/buvons) une bière.
-4. Elle a _______________ (fait/faire/fais) du sport.
-5. Nous avons _______________ (lu/lire/lisons) le journal.
-
-**Answers:**
-1. mangé
-2. vu
-3. bu
-4. fait
-5. lu
-
-**Exercise 3: Transform to passé composé**
-
-1. Je mange au resto. → Hier, je _______________.
-2. Tu regardes un film. → Samedi, tu _______________.
-3. Elle fait du sport. → Dimanche, elle _______________.
-4. On boit une bière. → Hier soir, on _______________.
-
-**Answers:**
-1. Hier, j'**ai mangé** au resto.
-2. Samedi, tu **as regardé** un film.
-3. Dimanche, elle **a fait** du sport.
-4. Hier soir, on **a bu** une bière.
-
-**Exercise 4: Transform to negative**
-
-1. J'ai mangé au resto. → Je _______________.
-2. Tu as visité Bruges. → Tu _______________.
-3. On a vu ce film. → On _______________.
-
-**Answers:**
-1. Je **n'ai pas mangé** au resto.
-2. Tu **n'as pas visité** Bruges.
-3. On **n'a pas vu** ce film.
+</details>
 
 ---
 
-## Reading Comprehension: Belgian Weekend Activities
+## Observation 1: Passé composé with AVOIR
 
-**Read this text:**
+**Look at these sentences:**
 
-Le week-end dernier, j'ai passé deux jours fantastiques en Belgique ! Samedi matin, j'ai pris le train pour Bruges. J'ai marché dans les rues médiévales et j'ai visité le Beffroi. À midi, j'ai mangé des moules-frites dans un restaurant typique.
+> **J'ai fait** les courses.  
+> **J'ai préparé** un repas.  
+> **J'ai regardé** un film.
 
-L'après-midi, j'ai fait un tour en bateau sur les canaux. C'était magnifique ! Le soir, j'ai bu une bière belge dans un café ancien.
+### Pattern: Avoir + past participle
 
-Dimanche, j'ai visité Gand. J'ai vu le fameux retable des frères Van Eyck et j'ai pris beaucoup de photos. J'ai vraiment adoré ce week-end !
+| Subject | Avoir | Past participle |
+|:--------|:------|:----------------|
+| J' | ai | fait/mangé/vu |
+| Tu | as | préparé/regardé |
+| Il/Elle | a | lu/pris |
+| Nous | avons | travaillé |
+| Vous | avez | acheté |
+| Ils/Elles | ont | visité |
 
-**Comprehension Questions:**
+### Common past participles
 
-1. Où a-t-il/elle voyagé samedi ?
-2. Qu'est-ce qu'il/elle a mangé à midi ?
-3. Qu'est-ce qu'il/elle a fait l'après-midi ?
-4. Quelle ville a-t-il/elle visitée dimanche ?
-
-**Answers:**
-1. À Bruges
-2. Des moules-frites
-3. Un tour en bateau sur les canaux
-4. Gand
-
----
-
-## Speaking Practice: Describe Your Weekend
-
-**Model Dialogue:**
-
-**Colleague:** Salut ! Tu as passé un bon week-end ?
-
-**You:** Oui, super ! J'ai [activity 1] et j'ai [activity 2].
-
-**Colleague:** Ah génial ! C'était comment ?
-
-**You:** C'était vraiment bien ! Et toi, tu as fait quoi ?
-
-**Colleague:** Moi, j'ai [activity] avec [person].
-
-**Your Turn:**
-
-Describe these weekends:
-- A cultural weekend (museum, concert, exhibition)
-- A relaxing weekend (read, cook, watch TV)
-- An active weekend (sport, walk, bike)
+| Infinitive | Past participle | Example |
+|:-----------|:----------------|:--------|
+| manger | mangé | J'ai mangé |
+| regarder | regardé | J'ai regardé |
+| travailler | travaillé | J'ai travaillé |
+| faire | fait | J'ai fait |
+| prendre | pris | J'ai pris |
+| lire | lu | J'ai lu |
+| voir | vu | J'ai vu |
 
 ---
 
-## Writing Practice: Your Last Weekend
+## Observation 2: Passé composé with ÊTRE
 
-**Exercise: Write about your last weekend (8-10 sentences)**
+**Look at these sentences:**
 
-**Structure:**
-1. What you did Saturday morning
-2. What you did Saturday afternoon/evening
-3. What you did Sunday
-4. How it was (c'était...)
-5. One negative sentence (something you didn't do)
+> **Je suis allé** au musée.  
+> **Je suis resté** à la maison.  
+> **Je suis partie** à Bruges.
 
-**Example:**
+### Pattern: Être + past participle
 
-Le week-end dernier, j'ai passé deux jours très agréables.
+| Subject | Être | Past participle |
+|:--------|:-----|:----------------|
+| Je | suis | allé(e) |
+| Tu | es | parti(e) |
+| Il | est | resté |
+| Elle | est | restée |
+| Nous | sommes | allé(e)s |
+| Ils | sont | partis |
+| Elles | sont | parties |
 
-Samedi matin, j'ai fait les courses au marché. J'ai acheté des fruits et des légumes. L'après-midi, j'ai visité le musée Magritte avec mon ami Pierre. C'était vraiment intéressant ! Le soir, on a mangé dans un restaurant italien.
+### Important: Agreement!
 
-Dimanche, j'ai lu le journal et j'ai regardé un film à la maison. L'après-midi, j'ai fait une promenade dans le parc du Cinquantenaire. Je n'ai pas travaillé du tout ce week-end !
+With être, the past participle agrees with the subject:
+- Masculine: Je suis allé
+- Feminine: Je suis allée
+- Masculine plural: Ils sont allés
+- Feminine plural: Elles sont allées
 
-**Now write about YOUR last weekend!**
+---
+
+## Observation 3: Verbs that use ÊTRE
+
+**The "house of être" - movement verbs:**
+
+| French | English |
+|:-------|:--------|
+| aller | to go |
+| venir | to come |
+| arriver | to arrive |
+| partir | to leave |
+| entrer | to enter |
+| sortir | to go out |
+| monter | to go up |
+| descendre | to go down |
+| rester | to stay |
+| tomber | to fall |
+| naître | to be born |
+| mourir | to die |
+| retourner | to return |
+
+**Plus all reflexive verbs!**
+
+---
+
+## Practice 1: Avoir or Être?
+
+**Complete with the correct auxiliary:**
+
+1. J'_____________ mangé au restaurant. (avoir/être)
+2. Il _____________ allé au cinéma. (avoir/être)
+3. Elle _____________ travaillé samedi. (avoir/être)
+4. Nous _____________ partis à 10h. (avoir/être)
+5. Ils _____________ vu un film. (avoir/être)
+
+<details>
+<summary>Answers</summary>
+
+1. J'**ai** mangé
+2. Il **est** allé
+3. Elle **a** travaillé
+4. Nous **sommes** partis
+5. Ils **ont** vu
+
+</details>
+
+---
+
+## Observation 4: Time markers
+
+**Look at how time is expressed:**
+
+> **Samedi matin**, j'ai fait les courses.  
+> **Après**, j'ai préparé un repas.  
+> **L'après-midi**, je suis allé au musée.
+> **Ensuite**, on a pris un verre.
+
+### Useful time expressions
+
+| French | English |
+|:-------|:--------|
+| ce weekend | this weekend |
+| samedi/dimanche | Saturday/Sunday |
+| le matin | in the morning |
+| l'après-midi | in the afternoon |
+| le soir | in the evening |
+| d'abord | first |
+| puis/ensuite | then |
+| après | after |
+| finalement | finally |
+
+---
+
+## Culture: Belgian weekends
+
+### Read this testimony
+
+**Jean, Belgian native:**
+
+> "Belgian weekends often involve family activities. Sunday is traditionally a day for family lunches – grandparents, parents, children all together. Many people also go to the coast (La Panne, Knokke, Ostende) for a day trip. In Bruges or Ghent, you'll see lots of Belgian tourists enjoying their own country. Markets are popular on Sunday mornings, and many bakeries open early for fresh croissants!"
+
+### Typical Belgian weekend activities
+
+| Saturday | Sunday |
+|:---------|:-------|
+| Shopping | Family lunch |
+| Sports | Day trips |
+| Going out with friends | Markets |
+| Café terraces | Rest at home |
+
+---
+
+## Practice 2: Describe your weekend
+
+**Write about YOUR last weekend using these prompts:**
+
+1. Samedi matin, j'ai...
+2. L'après-midi, je suis...
+3. Le soir, j'ai...
+4. Dimanche, je...
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Qu'est-ce que tu as fait?
+
+**Answer these questions:**
+
+1. Qu'est-ce que tu as fait ce weekend ?
+2. Tu es sorti(e) ?
+3. Tu as vu des amis ?
+4. Tu as bien mangé ?
+
+### Exercise 2: Weekend comparison
+
+**Compare your weekend with a partner:**
+
+"Moi, j'ai fait... Et toi ?"
+
+---
+
+## Writing Practice
+
+**Write about an ideal weekend (80-100 words):**
+
+Include:
+- Saturday activities
+- Sunday activities
+- Use at least 6 passé composé verbs
+- Use time markers
+
+---
+
+## Grammar: Passé composé summary
+
+### With AVOIR (most verbs)
+
+| -ER verbs | -IR verbs | -RE verbs | Irregular |
+|:----------|:----------|:----------|:----------|
+| mangé | fini | vendu | fait |
+| regardé | choisi | attendu | vu |
+| travaillé | dormi | perdu | pris |
+
+### With ÊTRE (movement + reflexive)
+
+| Movement | Example |
+|:---------|:--------|
+| aller | Je suis allé(e) |
+| venir | Je suis venu(e) |
+| partir | Je suis parti(e) |
+| rester | Je suis resté(e) |
+
+### Reflexive verbs
+
+| Verb | Example |
+|:-----|:--------|
+| se lever | Je me suis levé(e) |
+| se coucher | Je me suis couché(e) |
 
 ---
 
 ## Common Mistakes to Avoid
 
-### Mistake 1: Using the infinitive instead of past participle
+### Mistake 1: Wrong auxiliary
 
-**Wrong:** "J'ai manger"  
-**Correct:** "J'ai mang**é**" ✅
+| Incorrect | Correct |
+|:----------|:--------|
+| J'ai allé | Je **suis** allé |
+| Je suis mangé | J'**ai** mangé |
 
-**Why:** After "avoir", you need the past participle, not the infinitive.
+### Mistake 2: Forgetting agreement with être
 
-### Mistake 2: Wrong past participle for irregular verbs
+| Incorrect | Correct |
+|:----------|:--------|
+| Elle est allé | Elle est allé**e** |
+| Ils sont parti | Ils sont parti**s** |
 
-**Wrong:** "J'ai faisé" or "J'ai voiré"  
-**Correct:** "J'ai **fait**" / "J'ai **vu**" ✅
+### Mistake 3: Wrong past participle
 
-**Why:** Irregular verbs have irregular past participles. Memorize them!
-
-### Mistake 3: Conjugating the past participle
-
-**Wrong:** "J'ai mangés" or "Elle a mangée"  
-**Correct:** "J'ai mangé" / "Elle a mangé" ✅
-
-**Why:** With avoir, the past participle usually doesn't change! (There's an exception with direct objects, but don't worry about that yet!)
-
-### Mistake 4: Wrong place for negation
-
-**Wrong:** "J'ai pas mangé" (in writing)  
-**Correct:** "Je **n'**ai pas mangé" ✅
-
-**Why:** In written French, you need both "ne" and "pas" around "avoir".
+| Incorrect | Correct |
+|:----------|:--------|
+| J'ai faisé | J'ai **fait** |
+| J'ai prendu | J'ai **pris** |
 
 ---
 
-## Survival Phrases: Talking About the Past
+## Self-Evaluation
 
-**Essential phrases:**
+**Check what you can do:**
 
-- **Hier** [jɛʁ] = Yesterday
-- **Le week-end dernier** [lə wikɛnd dɛʁnje] = Last weekend
-- **La semaine dernière** [la səmɛn dɛʁnjɛʁ] = Last week
-- **Il y a deux jours** [il j a dø ʒuʁ] = Two days ago
-- **C'était super !** [setɛ sypɛʁ] = It was great!
-- **J'ai adoré !** [ʒe adɔʁe] = I loved it!
-
----
-
-## Belgian Culture: Weekend Traditions
-
-**Did you know?**
-
-- **Sunday brunch** : Très populaire en Belgique ! Les Belges aiment bruncher le dimanche matin.
-- **Day trip culture** : Bruges, Gand, Anvers... Les Belges adorent les excursions d'une journée.
-- **Café culture** : Passer du temps dans un café avec des amis est une tradition importante.
-- **Sunday rest** : Beaucoup de magasins sont fermés le dimanche. C'est un jour de repos !
-
-**Practical tip:** When colleagues ask "Tu as passé un bon week-end ?", they really want to hear about it! Share 2-3 activities - it's a great way to connect.
+- [ ] I can use passé composé with avoir
+- [ ] I can use passé composé with être
+- [ ] I know which verbs use être
+- [ ] I can talk about my weekend
+- [ ] I can use time markers (d'abord, puis, après)
 
 ---
 
-## Wrap-up: What You've Accomplished!
+## Extra Resources
 
-**Congratulations!** You've learned:
+### Additional activities
 
-✅ The passé composé with avoir  
-✅ How to form past participles (-é, -i, irregular)  
-✅ How to talk about past events  
-✅ How to describe your weekend  
-✅ Common weekend vocabulary
+- **Weekly diary:** Write about your weekend every Monday
+- **Interview:** Ask a French speaker about their weekend
+- **Podcast:** Listen to French podcasts about daily life
 
-**You can now talk about what you did!** 🎉
+### Next lesson
 
----
-
-## Self-Evaluation: Check What You Know!
-
-**Can you...**
-- [ ] Conjugate "avoir" for all pronouns?
-- [ ] Form past participles for -er verbs?
-- [ ] Form past participles for -ir verbs?
-- [ ] Use irregular past participles (fait, vu, lu, bu)?
-- [ ] Form negative sentences in passé composé?
-- [ ] Ask "What did you do?"
-- [ ] Describe your weekend in the past tense?
-
-**How many can you do?**
-- **7 checked:** Excellent! You've mastered this lesson! 🎉
-- **5-6 checked:** Good progress! Review irregular participles.
-- **Less than 5:** Don't worry! Practice the exercises again.
+> **Leçon 14 : Mon parcours en Belgique**  
+> You'll learn to talk about your journey so far!
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Monday Ritual:** Every Monday morning, record yourself on your phone answering "Qu'est-ce que tu as fait ce week-end ?".
-- **Photo Story:** Pick a photo from your phone gallery and describe what you *did* in that photo ("J'ai mangé...", "J'ai vu...").
-- **Gratitude:** Write 3 things you *did* yesterday that were positive ("J'ai bu un bon café", "J'ai parlé avec un ami").
-- **Irregular Verbs:** Write the 4 most important irregular past participles (fait, vu, lu, bu) on a sticky note and put it on your mirror.
-
----
-
-*Bonne continuation dans votre apprentissage du français en Belgique !*
-*Good luck with your French learning in Belgium!*
+*Bonne continuation !*

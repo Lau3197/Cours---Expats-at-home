@@ -1,0 +1,28 @@
+[
+    {
+        "id": "community_join",
+        "title": "Community Action Plan",
+        "items": [
+            {
+                "id": "fb_groups",
+                "label": "Join 'Expats in Brussels' on FB",
+                "description": "Use the search bar before asking questions!"
+            },
+            {
+                "id": "volunteer",
+                "label": "Check 'Serve the City'",
+                "description": "Sign up for one shift this month."
+            },
+            {
+                "id": "hobby",
+                "label": "Search for YOUR hobby",
+                "description": "Type 'Brussels + [Hobby]' into Google. It exists."
+            },
+            {
+                "id": "newsletter",
+                "label": "Subscribe to 'The Bulletin'",
+                "description": "English-language news and events in Belgium."
+            }
+        ]
+    }
+]

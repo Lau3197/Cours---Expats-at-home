@@ -1,0 +1,28 @@
+[
+    {
+        "id": "driving_check",
+        "title": "Road Readiness",
+        "items": [
+            {
+                "id": "license_check",
+                "label": "Check License Expiry/Exchange",
+                "description": "If Non-EU, book appointment at Commune immediately."
+            },
+            {
+                "id": "disc",
+                "label": "Buy a Parking Disc",
+                "description": "Cost €2 at any petrol station. Saves you €25 fines."
+            },
+            {
+                "id": "priority",
+                "label": "Spot the Priority Sign",
+                "description": "Look for the Yellow Diamond (You have priority) vs X sign (Priority to Right)."
+            },
+            {
+                "id": "car_sharing",
+                "label": "Consider Car Sharing",
+                "description": "Apps like Cambio or Poppy might be cheaper than owning a car."
+            }
+        ]
+    }
+]

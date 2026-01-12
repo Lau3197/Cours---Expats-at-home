@@ -1,0 +1,28 @@
+[
+    {
+        "id": "business_french",
+        "title": "Office Survival Kit",
+        "items": [
+            {
+                "id": "email_sig",
+                "label": "Fix Email Signature",
+                "description": "Ensure it says 'Bien à vous' before your name."
+            },
+            {
+                "id": "meeting_phrase",
+                "label": "Use 'C'est noté'",
+                "description": "Say it in a meeting. Nod wisely."
+            },
+            {
+                "id": "voicemail",
+                "label": "Record Voicemail",
+                "description": "Update your phone greeting to be bilingual (FR/EN)."
+            },
+            {
+                "id": "ooo",
+                "label": "Draft OOO Message",
+                "description": "Have a template ready for your next holiday."
+            }
+        ]
+    }
+]

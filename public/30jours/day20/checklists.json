@@ -1,0 +1,28 @@
+[
+    {
+        "id": "french_boost",
+        "title": "Confidence Builder",
+        "items": [
+            {
+                "id": "filler",
+                "label": "Use 'Du coup' today",
+                "description": "Try to slip it into a sentence. You will feel 100% more local."
+            },
+            {
+                "id": "shadowing",
+                "label": "Shadow a TV Character",
+                "description": "Repeat 5 lines from a show exactly as they say them."
+            },
+            {
+                "id": "question",
+                "label": "Ask a Shopkeeper",
+                "description": "Ask where something is, even if you see it."
+            },
+            {
+                "id": "tandem",
+                "label": "Look for a Tandem",
+                "description": "Check 'Conversation Exchange' or Facebook groups."
+            }
+        ]
+    }
+]

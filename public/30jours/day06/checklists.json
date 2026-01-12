@@ -1,0 +1,28 @@
+[
+    {
+        "id": "french_practice",
+        "title": "Daily French Challenges",
+        "items": [
+            {
+                "id": "bakery",
+                "label": "Order Bread in French",
+                "description": "'Je voudrais un pain gris, s'il vous plaît.'"
+            },
+            {
+                "id": "numbers",
+                "label": "Use 'Septante' correctly",
+                "description": "Say it with pride!"
+            },
+            {
+                "id": "greeting",
+                "label": "Greet a Shopkeeper",
+                "description": "Always say 'Bonjour' when entering and 'Au revoir' when leaving. It's rude not to."
+            },
+            {
+                "id": "apps",
+                "label": "Download Duolingo or Babbel",
+                "description": "15 minutes a day goes a long way."
+            }
+        ]
+    }
+]

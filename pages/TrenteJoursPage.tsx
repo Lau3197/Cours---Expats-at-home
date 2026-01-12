@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { Calendar, Play, Pause, FileText, Download, ChevronRight, ChevronDown, Home, Heart, Users, Briefcase, Star } from 'lucide-react';
+import { Calendar, Play, Pause, FileText, Download, ChevronRight, ChevronDown, Home, Heart, Users, Briefcase, Star, CheckSquare } from 'lucide-react';
+import { motion } from 'framer-motion';
 import StyledMarkdown from '../components/StyledMarkdown';
+import FakeVideoPlayer from '../components/FakeVideoPlayer';
+import InteractiveChecklist from '../components/InteractiveChecklist';
 
 interface Phrase {
     id: number;
@@ -9,11 +12,25 @@ interface Phrase {
     context: string;
 }
 
+interface ChecklistItem {
+    id: string;
+    label: string;
+    description?: string;
+}
+
+interface Checklist {
+    id: string;
+    title: string;
+    items: ChecklistItem[];
+}
+
 interface DayContent {
     dayNumber: number;
     title: string;
     phase: string;
-    research: string;
+    content: string; // Main body content
+    script: string; // Video script
+    checklists: Checklist[];
     phrases: Phrase[];
     images: string[];
     audios: string[];
@@ -80,46 +97,64 @@ const TrenteJoursPage: React.FC = () => {
         const basePath = `/30jours/${dayFolder}`;
 
         try {
-            // Load research.md
-            let research = '';
+            // Load content.md (Main Body)
+            let content = '';
             try {
-                const researchRes = await fetch(`${basePath}/research.md`);
-                if (researchRes.ok) {
-                    research = await researchRes.text();
+                const contentRes = await fetch(`${basePath}/content.md`);
+                if (contentRes.ok) content = await contentRes.text();
+                else {
+                    // Fallback to research.md if content.md doesn't exist yet
+                    // But maybe strip the metadata headers?
+                    const researchRes = await fetch(`${basePath}/research.md`);
+                    if (researchRes.ok) content = await researchRes.text();
                 }
             } catch (e) {
-                console.log('No research.md found');
+                console.log('No content found');
+            }
+
+            // Load script.md (Video Script)
+            let script = '';
+            try {
+                const scriptRes = await fetch(`${basePath}/script.md`);
+                if (scriptRes.ok) script = await scriptRes.text();
+            } catch (e) {
+                console.log('No script found');
             }
 
             // Load phrases.json
             let phrases: Phrase[] = [];
             try {
                 const phrasesRes = await fetch(`${basePath}/phrases.json`);
-                if (phrasesRes.ok) {
-                    phrases = await phrasesRes.json();
-                }
+                if (phrasesRes.ok) phrases = await phrasesRes.json();
             } catch (e) {
-                console.log('No phrases.json found');
+                console.log('No phrases found');
             }
 
-            // Attempt to list files (we'll use known patterns)
+            // Load checklists.json
+            let checklists: Checklist[] = [];
+            try {
+                const checklistsRes = await fetch(`${basePath}/checklists.json`);
+                if (checklistsRes.ok) checklists = await checklistsRes.json();
+            } catch (e) {
+                console.log('No checklists found');
+            }
+
+            // Assets
             const images: string[] = [];
             const audios: string[] = [];
             const pdfs: string[] = [];
 
-            // Common image patterns
-            for (let i = 1; i <= 10; i++) {
-                images.push(`${basePath}/images/graphic_${String(i).padStart(2, '0')}.prompt.png`);
-            }
+            // Images
             images.push(`${basePath}/images/${dayFolder}_thumbnail.prompt.png`);
 
-            // Audio files based on phrases
+            // Audio
             phrases.forEach((phrase, idx) => {
-                const audioFile = `${basePath}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
+                const audioFile = `${basePath}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
                 audios.push(audioFile);
             });
 
-            // Common PDF patterns
+            // PDFs
+            // We can try to guess or just list common ones
             pdfs.push(`${basePath}/pdfs/${dayFolder}_guide.pdf`);
             pdfs.push(`${basePath}/pdfs/commune_checklist.pdf`);
 
@@ -127,7 +162,9 @@ const TrenteJoursPage: React.FC = () => {
                 dayNumber: dayNum,
                 title: DAY_TITLES[dayNum] || `Day ${dayNum}`,
                 phase: getPhaseForDay(dayNum),
-                research,
+                content,
+                script,
+                checklists,
                 phrases,
                 images,
                 audios,
@@ -153,7 +190,6 @@ const TrenteJoursPage: React.FC = () => {
     };
 
     const playAudio = async (audioSrc: string) => {
-        // Stop current audio if playing
         if (playingAudio && audioElements[playingAudio]) {
             audioElements[playingAudio].pause();
             audioElements[playingAudio].currentTime = 0;
@@ -232,8 +268,8 @@ const TrenteJoursPage: React.FC = () => {
                                                         key={day}
                                                         onClick={() => setSelectedDay(day)}
                                                         className={`w-full text-left px-4 py-2.5 rounded-lg transition-all text-sm ${selectedDay === day
-                                                                ? 'bg-[#dd8b8b] text-white font-bold'
-                                                                : 'hover:bg-[#F9F7F2] text-[#5A6B70]'
+                                                            ? 'bg-[#dd8b8b] text-white font-bold'
+                                                            : 'hover:bg-[#F9F7F2] text-[#5A6B70]'
                                                             }`}
                                                     >
                                                         <span className="font-bold">Day {day}</span>
@@ -256,11 +292,15 @@ const TrenteJoursPage: React.FC = () => {
                             <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-[#dd8b8b]"></div>
                         </div>
                     ) : dayContent ? (
-                        <div className="max-w-4xl mx-auto">
+                        <div className="max-w-4xl mx-auto space-y-12">
                             {/* Header */}
-                            <div className="mb-8">
+                            <motion.div
+                                initial={{ opacity: 0, y: 20 }}
+                                animate={{ opacity: 1, y: 0 }}
+                                className="text-center"
+                            >
                                 <div
-                                    className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-bold mb-4"
+                                    className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-bold mb-6"
                                     style={{
                                         backgroundColor: `${currentPhase?.color}20`,
                                         color: currentPhase?.color,
@@ -269,91 +309,131 @@ const TrenteJoursPage: React.FC = () => {
                                     {currentPhase && <currentPhase.icon className="w-4 h-4" />}
                                     {dayContent.phase} Phase
                                 </div>
-                                <h1 className="text-4xl font-black text-[#5A6B70] mb-2">
-                                    Day {dayContent.dayNumber}: {dayContent.title}
+                                <h1 className="text-5xl font-black text-[#5A6B70] mb-4">
+                                    {dayContent.title}
                                 </h1>
-                            </div>
+                                <p className="text-xl text-[#5A6B70]/60 font-medium">Day {dayContent.dayNumber}</p>
+                            </motion.div>
 
-                            {/* Thumbnail */}
-                            <div className="mb-8 rounded-2xl overflow-hidden shadow-lg">
-                                <img
-                                    src={`/30jours/day${String(selectedDay).padStart(2, '0')}/images/day${String(selectedDay).padStart(2, '0')}_thumbnail.prompt.png`}
-                                    alt={dayContent.title}
-                                    className="w-full h-64 object-cover"
-                                    onError={(e) => {
-                                        (e.target as HTMLImageElement).style.display = 'none';
-                                    }}
-                                />
-                            </div>
+                            {/* Video Player */}
+                            {dayContent.script && (
+                                <motion.div
+                                    initial={{ opacity: 0, scale: 0.95 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    transition={{ delay: 0.2 }}
+                                >
+                                    <FakeVideoPlayer
+                                        script={dayContent.script}
+                                        title={dayContent.title}
+                                        poster={dayContent.images[0]}
+                                    />
+                                </motion.div>
+                            )}
 
-                            {/* French Phrases */}
-                            {dayContent.phrases.length > 0 && (
-                                <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10 mb-8">
-                                    <h2 className="text-xl font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-3">
-                                        <Play className="w-5 h-5 text-[#dd8b8b]" />
-                                        Phrases du Jour
-                                    </h2>
-                                    <div className="space-y-3">
-                                        {dayContent.phrases.map((phrase, idx) => {
-                                            const audioPath = `/30jours/day${String(selectedDay).padStart(2, '0')}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
-                                            const isPlaying = playingAudio === audioPath;
+                            {/* Main Content Body */}
+                            <motion.div
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                transition={{ delay: 0.4 }}
+                                className="grid md:grid-cols-3 gap-8"
+                            >
+                                {/* Left Column: Content */}
+                                <div className="md:col-span-2 space-y-8">
+                                    <div className="bg-white rounded-2xl p-8 shadow-sm border border-[#dd8b8b]/10">
+                                        <div className="prose prose-lg max-w-none prose-headings:font-black prose-headings:text-[#5A6B70] prose-p:text-[#5A6B70]/80">
+                                            <StyledMarkdown content={dayContent.content} />
+                                        </div>
+                                    </div>
 
-                                            return (
-                                                <div
-                                                    key={phrase.id}
-                                                    className="flex items-center gap-4 p-4 bg-[#F9F7F2] rounded-xl"
-                                                >
-                                                    <button
-                                                        onClick={() => playAudio(audioPath)}
-                                                        className={`w-10 h-10 rounded-full flex items-center justify-center transition-all ${isPlaying
-                                                                ? 'bg-[#dd8b8b] text-white'
-                                                                : 'bg-white text-[#dd8b8b] hover:bg-[#dd8b8b] hover:text-white'
-                                                            }`}
-                                                    >
-                                                        {isPlaying ? <Pause className="w-4 h-4" /> : <Play className="w-4 h-4 ml-0.5" />}
-                                                    </button>
-                                                    <div>
-                                                        <p className="font-bold text-[#5A6B70]">{phrase.french}</p>
-                                                        {phrase.english && (
-                                                            <p className="text-sm text-[#5A6B70]/60">{phrase.english}</p>
-                                                        )}
-                                                    </div>
+                                    {/* Embedded Checklists */}
+                                    {dayContent.checklists.length > 0 && (
+                                        <div className="space-y-6">
+                                            {dayContent.checklists.map(checklist => (
+                                                <InteractiveChecklist
+                                                    key={checklist.id}
+                                                    title={checklist.title}
+                                                    items={checklist.items}
+                                                    color={currentPhase?.color}
+                                                />
+                                            ))}
+                                        </div>
+                                    )}
+                                </div>
+
+                                {/* Right Column: Phrases & Resources */}
+                                <div className="space-y-6">
+                                    {/* Audio/Phrases */}
+                                    {dayContent.phrases.length > 0 && (
+                                        <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10 sticky top-32">
+                                            <h2 className="text-lg font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-2">
+                                                <Play className="w-5 h-5 text-[#dd8b8b]" />
+                                                Phrases du Jour
+                                            </h2>
+                                            <div className="space-y-3">
+                                                {dayContent.phrases.map((phrase, idx) => {
+                                                    const audioPath = `/30jours/day${String(selectedDay).padStart(2, '0')}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
+                                                    const isPlaying = playingAudio === audioPath;
+
+                                                    return (
+                                                        <div
+                                                            key={phrase.id}
+                                                            className="flex items-start gap-3 p-3 bg-[#F9F7F2] rounded-xl group hover:bg-[#dd8b8b]/5 transition-colors"
+                                                        >
+                                                            <button
+                                                                onClick={() => playAudio(audioPath)}
+                                                                className={`mt-1 min-w-[2rem] w-8 h-8 rounded-full flex items-center justify-center transition-all ${isPlaying
+                                                                    ? 'bg-[#dd8b8b] text-white'
+                                                                    : 'bg-white text-[#dd8b8b] border border-[#dd8b8b]/20 hover:bg-[#dd8b8b] hover:text-white'
+                                                                    }`}
+                                                            >
+                                                                {isPlaying ? <Pause className="w-3 h-3" /> : <Play className="w-3 h-3 ml-0.5" />}
+                                                            </button>
+                                                            <div>
+                                                                <p className="font-bold text-[#5A6B70] text-sm leading-tight mb-1">{phrase.french}</p>
+                                                                {phrase.english && (
+                                                                    <p className="text-xs text-[#5A6B70]/60 italic">{phrase.english}</p>
+                                                                )}
+                                                            </div>
+                                                        </div>
+                                                    );
+                                                })}
+                                            </div>
+                                        </div>
+                                    )}
+
+                                    {/* Resources */}
+                                    <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10">
+                                        <h2 className="text-lg font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-2">
+                                            <FileText className="w-5 h-5 text-[#dd8b8b]" />
+                                            Downloads
+                                        </h2>
+                                        <div className="space-y-2">
+                                            <a
+                                                href={`/30jours/day${String(selectedDay).padStart(2, '0')}/pdfs/day${String(selectedDay).padStart(2, '0')}_guide.pdf`}
+                                                download
+                                                className="flex items-center gap-3 p-3 bg-[#F9F7F2] hover:bg-[#dd8b8b] hover:text-white rounded-xl transition-all group"
+                                            >
+                                                <div className="w-8 h-8 rounded-lg bg-white group-hover:bg-white/20 flex items-center justify-center text-[#dd8b8b] group-hover:text-white transition-colors">
+                                                    <Download className="w-4 h-4" />
                                                 </div>
-                                            );
-                                        })}
+                                                <span className="font-bold text-sm">Day Guide (PDF)</span>
+                                            </a>
+                                            {selectedDay === 1 && (
+                                                <a
+                                                    href={`/30jours/day01/pdfs/commune_checklist.pdf`}
+                                                    download
+                                                    className="flex items-center gap-3 p-3 bg-[#F9F7F2] hover:bg-[#dd8b8b] hover:text-white rounded-xl transition-all group"
+                                                >
+                                                    <div className="w-8 h-8 rounded-lg bg-white group-hover:bg-white/20 flex items-center justify-center text-[#dd8b8b] group-hover:text-white transition-colors">
+                                                        <CheckSquare className="w-4 h-4" />
+                                                    </div>
+                                                    <span className="font-bold text-sm">Commune Checklist</span>
+                                                </a>
+                                            )}
+                                        </div>
                                     </div>
                                 </div>
-                            )}
-
-                            {/* PDFs */}
-                            <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10 mb-8">
-                                <h2 className="text-xl font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-3">
-                                    <FileText className="w-5 h-5 text-[#dd8b8b]" />
-                                    Resources
-                                </h2>
-                                <div className="flex flex-wrap gap-3">
-                                    <a
-                                        href={`/30jours/day${String(selectedDay).padStart(2, '0')}/pdfs/day${String(selectedDay).padStart(2, '0')}_guide.pdf`}
-                                        download
-                                        className="inline-flex items-center gap-2 px-4 py-3 bg-[#F9F7F2] hover:bg-[#dd8b8b] hover:text-white rounded-xl transition-all font-bold text-[#5A6B70]"
-                                    >
-                                        <Download className="w-4 h-4" />
-                                        Day {selectedDay} Guide (PDF)
-                                    </a>
-                                </div>
-                            </div>
-
-                            {/* Research Content */}
-                            {dayContent.research && (
-                                <div className="bg-white rounded-2xl p-8 shadow-sm border border-[#dd8b8b]/10">
-                                    <h2 className="text-xl font-black text-[#5A6B70] uppercase tracking-wider mb-6">
-                                        Research & Details
-                                    </h2>
-                                    <div className="prose prose-lg max-w-none">
-                                        <StyledMarkdown content={dayContent.research} />
-                                    </div>
-                                </div>
-                            )}
+                            </motion.div>
                         </div>
                     ) : (
                         <div className="text-center py-16 text-[#5A6B70]/60">

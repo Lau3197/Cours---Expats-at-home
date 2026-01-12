@@ -1,0 +1,28 @@
+[
+    {
+        "id": "work_culture",
+        "title": "Office Integration",
+        "items": [
+            {
+                "id": "lunch",
+                "label": "Join Colleagues for Lunch",
+                "description": "Don't eat alone at your desk."
+            },
+            {
+                "id": "shake",
+                "label": "Morning Greetings",
+                "description": "Say hello to everyone when you arrive. Don't sneak in."
+            },
+            {
+                "id": "payslip",
+                "label": "Analyze your Payslip",
+                "description": "Understand where the taxes go and check your meal vouchers."
+            },
+            {
+                "id": "holidays",
+                "label": "Plan Your Holidays",
+                "description": "You likely have 20+ days. Belgians plan summer holidays in January. Do the same."
+            }
+        ]
+    }
+]

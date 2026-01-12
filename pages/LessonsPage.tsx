@@ -28,9 +28,14 @@ const LessonsPage: React.FC = () => {
     const [selectedLesson, setSelectedLesson] = useState<Lesson | null>(null);
     const [loading, setLoading] = useState(false);
 
-    // Global loader for all Niveau_A1 lesson files
+    // Global loader for all lesson files across all levels (A1, A2, B1)
     // We look for the main lesson file in each Lecon_XX folder
-    const allModules = import.meta.glob('../Niveau_A1/**/Lecon_*/*.md', { query: '?raw', import: 'default' });
+    const a1Modules = import.meta.glob('../Niveau_A1/**/Lecon_*/*.md', { query: '?raw', import: 'default' });
+    const a2Modules = import.meta.glob('../Niveau_A2/**/Lecon_*/*.md', { query: '?raw', import: 'default' });
+    const b1Modules = import.meta.glob('../Niveau_B1/**/Lecon_*/*.md', { query: '?raw', import: 'default' });
+
+    // Combine all modules
+    const allModules = { ...a1Modules, ...a2Modules, ...b1Modules };
 
     // Parse all available lessons
     const allLessons = useMemo(() => {
@@ -40,9 +45,10 @@ const LessonsPage: React.FC = () => {
             if (path.includes('_OLD')) continue;
             // Prefer NEW_STRUCTURE if available, otherwise take the main file
             if (path.includes('_NEW_STRUCTURE') || !path.includes('_NEW_STRUCTURE')) {
-                // Path format: ../Niveau_A1/A1.X/Lecon_XX/filename.md
+                // Path format: ../Niveau_XX/XX.X/Lecon_XX/filename.md
                 const parts = path.split('/');
-                const subLevel = parts.find(p => p.startsWith('A1.')) || '';
+                // Find sub-level (A1.1, A1.2, A2.1, A2.2, B1.1, B1.2)
+                const subLevel = parts.find(p => /^[AB]\d\.\d$/.test(p)) || '';
                 const fileName = parts[parts.length - 1];
 
                 // Skip if we already have a NEW_STRUCTURE version
@@ -226,7 +232,7 @@ const LessonsPage: React.FC = () => {
 
                             <div>
                                 <div className="inline-block px-3 py-1 bg-[#E8C586]/20 text-[#E8C586] text-[10px] font-black rounded-full uppercase tracking-widest mb-3">
-                                    Niveau A1
+                                    Niveau {subLevel.substring(0, 2)}
                                 </div>
                                 <h3 className="text-3xl font-bold text-[#5A6B70] serif-display italic group-hover:text-[#dd8b8b] transition-colors">
                                     Module {subLevel}

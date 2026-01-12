@@ -1,542 +1,334 @@
-# Leçon 15 : Les démarches administratives en Belgique
+# Leçon 15 : Les démarches administratives
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Naviguer l'administration belge, utiliser les verbes modaux (pouvoir, vouloir, devoir)
+**Objectifs** : Handle administrative procedures, understand official documents, fill in forms
 
 ---
 
-## Let's Start! Navigating Belgian Administration
+## Let's Start! At the administration
 
-### Discovery Activity: At the Bank
+### Listen to this dialogue
 
-**Here's a real situation you'll face:**
+**Tom needs to renew his registration:**
 
-You're at the bank trying to open an account. You hear:
-
-**"Vous devez fournir une preuve d'adresse. Vous pouvez utiliser votre contrat de bail. Si vous voulez, vous pouvez aussi apporter une facture d'électricité."**
-
-**Your challenge:** Look at these verbs and try to understand:
-
-- **vous devez** - What do you think this means?
-- **vous pouvez** - What about this?
-- **si vous voulez** - And this one?
-
-**Write down your guesses!**
-
----
-
-## Introduction
-
-**Did you guess?** Let's see:
-
-- **vous devez** = you must / you have to
-- **vous pouvez** = you can
-- **si vous voulez** = if you want
-
-In this lesson, you'll learn the modal verbs - essential for navigating Belgian administration!
-
-**What you will learn today:**
-- The verbs pouvoir (can), vouloir (want), devoir (must)
-- How to express ability, desire, and obligation
-- Administrative vocabulary
-- How to handle common administrative tasks
-
-**Belgian context:** Belgium has a lot of administrative procedures - at the commune, the bank, the mutuelle (health insurance)... Knowing how to express what you can, want, and must do is essential!
-
----
-
-## French Pronunciation: Key Sounds for This Lesson
-
-**Before we start, here are the key sounds you'll need:**
-
-### The verb sounds
-
-- **je peux** [ʒə pø]
-- **je veux** [ʒə vø]
-- **je dois** [ʒə dwa]
-
-### Important differences
-
-- **peux** [pø] vs **veux** [vø] - listen for the difference!
-- **peut** [pø] vs **veut** [vø] - similar sounds, different meanings!
-
-**Quick Practice:** Say these 3 times each:
-- Je peux [ʒə pø]
-- Je veux [ʒə vø]
-- Je dois [ʒə dwa]
-
----
-
-## Listening Comprehension: At the Commune
-
-**Listen to this conversation:**
-
-**Tom :** Bonjour, je **voudrais** m'inscrire à la commune.
-
-**Employée :** Bonjour. Vous **devez** d'abord prendre rendez-vous en ligne.
-
-**Tom :** D'accord. Qu'est-ce que je **dois** apporter ?
-
-**Employée :** Vous **devez** apporter votre passeport, une preuve d'adresse, et deux photos d'identité.
-
-**Tom :** Est-ce que je **peux** utiliser un permis de conduire ?
-
-**Employée :** Non, vous ne **pouvez** pas. Il faut un passeport valide.
-
-**Tom :** Et si je **veux** changer mon adresse, c'est comment ?
-
-**Employée :** Pour un changement d'adresse, vous **pouvez** le faire en ligne ou prendre rendez-vous.
-
-**Tom :** Est-ce que mon conjoint **doit** venir aussi ?
-
-**Employée :** S'il **veut** s'inscrire, oui, il **doit** venir avec ses documents.
-
-**Tom :** D'accord, merci beaucoup !
-
-**Comprehension Questions:**
-
-1. What must Tom do first?
-2. What documents must he bring?
-3. Can he use a driver's license instead of a passport?
-4. How can he change his address?
-
-**Answers:**
-1. Make an appointment online
-2. Passport, proof of address, and two ID photos
-3. No, he can't
-4. Online or by making an appointment
-
----
-
-## Vocabulary: Administration
-
-**You just heard these words. Let's learn them:**
-
-### Administrative Places
-
-| Français | IPA | English |
-|----------|-----|---------|
-| la commune | [la kɔmyn] | town hall |
-| la banque | [la bɑ̃k] | the bank |
-| la mutuelle | [la mytɥɛl] | health insurance company |
-| la préfecture | [la pʁefɛktyʁ] | prefecture |
-| le consulat | [lə kɔ̃syla] | the consulate |
-| l'ambassade | [lɑ̃basad] | the embassy |
-
-### Administrative Actions
-
-| Français | IPA | English |
-|----------|-----|---------|
-| s'inscrire | [sɛ̃skʁiʁ] | to register |
-| ouvrir un compte | [uvʁiʁ œ̃ kɔ̃t] | to open an account |
-| prendre rendez-vous | [pʁɑ̃dʁ ʁɑ̃devu] | to make an appointment |
-| remplir un formulaire | [ʁɑ̃pliʁ œ̃ fɔʁmylɛʁ] | to fill out a form |
-| fournir des documents | [fuʁniʁ de dɔkymɑ̃] | to provide documents |
-| signer | [siɲe] | to sign |
-
-### Useful Expressions
-
-| Français | IPA | English |
-|----------|-----|---------|
-| Je voudrais... | [ʒə vudʁɛ] | I would like... |
-| Est-ce que je peux...? | [ɛs kə ʒə pø] | Can I...? |
-| Je dois... | [ʒə dwa] | I must / I have to... |
-| Qu'est-ce qu'il faut ? | [kɛs kil fo] | What is needed? |
-| C'est obligatoire ? | [sɛt ɔbligatwaʁ] | Is it mandatory? |
-
-> **🗣️ Real Life French**
+> **Employée :** Bonjour monsieur. C'est pour quoi ?
 > 
-> **"Je voudrais"** vs **"Je veux"** : "Je voudrais" est plus poli. À l'administration, utilisez toujours "Je voudrais" !
+> **Tom :** Bonjour. Je viens pour renouveler mon attestation d'immatriculation.
 > 
-> **"Il faut"** : Expression très utile ! "Il faut un passeport" = You need a passport / A passport is required.
+> **Employée :** D'accord. Vous avez votre carte d'identité et une preuve de domicile ?
+> 
+> **Tom :** Oui, voilà ma carte et une facture d'électricité.
+> 
+> **Employée :** Parfait. Il faut aussi remplir ce formulaire.
+> 
+> **Tom :** D'accord. Je dois mettre quoi à "état civil" ?
+> 
+> **Employée :** Votre situation : célibataire, marié, divorcé...
+> 
+> **Tom :** Je suis célibataire. Et pour "profession" ?
+> 
+> **Employée :** Écrivez votre métier. Signez en bas de la page.
+> 
+> **Tom :** Voilà. C'est tout ?
+> 
+> **Employée :** Oui. Vous recevrez le document par courrier dans deux semaines.
 
 ---
 
-## Grammar: The Verb "Pouvoir" (Can / To Be Able To)
+### Comprehension
 
-**Remember what you heard?**
+**Answer the questions:**
 
-- "Est-ce que je **peux** utiliser un permis ?"
-- "Non, vous ne **pouvez** pas."
-- "Vous **pouvez** le faire en ligne."
+1. What does Tom need to do?
+2. What documents does he bring?
+3. What form does he need to fill in?
+4. What does "état civil" mean?
+5. How will he receive the document?
 
-### Conjugation of "Pouvoir"
+<details>
+<summary>Answers</summary>
 
-| Pronom | Pouvoir | IPA | English |
-|:-------|:--------|:----|:--------|
-| Je | **peux** | [ʒə pø] | I can |
-| Tu | **peux** | [ty pø] | You can |
-| Il/Elle/On | **peut** | [il/ɛl pø] | He/She/One can |
-| Nous | **pouvons** | [nu puvɔ̃] | We can |
-| Vous | **pouvez** | [vu puve] | You can (formal) |
-| Ils/Elles | **peuvent** | [il/ɛl pœv] | They can |
+1. Renew his registration certificate
+2. ID card and electricity bill (proof of address)
+3. A form
+4. Marital status
+5. By mail in two weeks
 
-**Structure:** Pouvoir + infinitif
+</details>
+
+---
+
+## Observation 1: Administrative vocabulary
+
+### Types of documents
 
 | French | English |
 |:-------|:--------|
-| Je **peux** venir. | I can come. |
-| Tu **peux** m'aider ? | Can you help me? |
-| On **peut** faire ça ? | Can we do that? |
-| Vous **pouvez** signer ici. | You can sign here. |
+| la carte d'identité | ID card |
+| le passeport | passport |
+| l'attestation d'immatriculation | registration certificate |
+| le permis de séjour | residence permit |
+| le permis de travail | work permit |
+| la carte SIS | health insurance card |
+| l'acte de naissance | birth certificate |
+| le contrat de bail | rental contract |
 
-**Negative form:**
-- Je **ne peux pas** venir. = I can't come.
-- Vous **ne pouvez pas** utiliser ça. = You can't use that.
-
----
-
-## Grammar: The Verb "Vouloir" (Want / To Want)
-
-**Remember what you heard?**
-
-- "Si vous **voulez**, vous pouvez..."
-- "S'il **veut** s'inscrire..."
-- "Je **voudrais** m'inscrire."
-
-### Conjugation of "Vouloir"
-
-| Pronom | Vouloir | IPA | English |
-|:-------|:--------|:----|:--------|
-| Je | **veux** | [ʒə vø] | I want |
-| Tu | **veux** | [ty vø] | You want |
-| Il/Elle/On | **veut** | [il/ɛl vø] | He/She/One wants |
-| Nous | **voulons** | [nu vulɔ̃] | We want |
-| Vous | **voulez** | [vu vule] | You want (formal) |
-| Ils/Elles | **veulent** | [il/ɛl vœl] | They want |
-
-**Structure:** Vouloir + infinitif
+### Types of procedures
 
 | French | English |
 |:-------|:--------|
-| Je **veux** partir. | I want to leave. |
-| Tu **veux** venir ? | Do you want to come? |
-| Elle **veut** ouvrir un compte. | She wants to open an account. |
-| Nous **voulons** nous inscrire. | We want to register. |
-
-**Polite form: "Je voudrais" (conditional)**
-- Je **voudrais** un café. = I would like a coffee. (more polite than "Je veux")
-- Je **voudrais** prendre rendez-vous. = I would like to make an appointment.
+| une demande de | application for |
+| un renouvellement | renewal |
+| un changement d'adresse | address change |
+| une inscription | registration |
+| une déclaration | declaration |
 
 ---
 
-## Grammar: The Verb "Devoir" (Must / To Have To)
+## Observation 2: Form vocabulary
 
-**Remember what you heard?**
-
-- "Vous **devez** prendre rendez-vous."
-- "Il **doit** venir avec ses documents."
-- "Qu'est-ce que je **dois** apporter ?"
-
-### Conjugation of "Devoir"
-
-| Pronom | Devoir | IPA | English |
-|:-------|:-------|:----|:--------|
-| Je | **dois** | [ʒə dwa] | I must |
-| Tu | **dois** | [ty dwa] | You must |
-| Il/Elle/On | **doit** | [il/ɛl dwa] | He/She/One must |
-| Nous | **devons** | [nu dəvɔ̃] | We must |
-| Vous | **devez** | [vu dəve] | You must (formal) |
-| Ils/Elles | **doivent** | [il/ɛl dwav] | They must |
-
-**Structure:** Devoir + infinitif
+**Common form fields:**
 
 | French | English |
 |:-------|:--------|
-| Je **dois** partir. | I must leave. |
-| Tu **dois** apporter ton passeport. | You must bring your passport. |
-| On **doit** s'inscrire. | We have to register. |
-| Vous **devez** signer ici. | You must sign here. |
+| Nom (de famille) | Last name |
+| Prénom | First name |
+| Date de naissance | Date of birth |
+| Lieu de naissance | Place of birth |
+| Adresse | Address |
+| Code postal | Postal code |
+| Commune | Municipality |
+| Numéro de téléphone | Phone number |
+| Adresse email | Email address |
+| État civil | Marital status |
+| Profession | Occupation |
+| Nationalité | Nationality |
+| Signature | Signature |
+| Date | Date |
 
-**Negative form:**
-- Je **ne dois pas** oublier. = I must not forget.
-- Vous **ne devez pas** être en retard. = You must not be late.
+### Marital status options
 
----
-
-## Grammar Summary: The Three Modal Verbs
-
-| Verb | Meaning | Example |
-|:-----|:--------|:--------|
-| **Pouvoir** | Ability/Permission | Je **peux** venir. (I can come.) |
-| **Vouloir** | Desire/Wish | Je **veux** partir. (I want to leave.) |
-| **Devoir** | Obligation/Necessity | Je **dois** travailler. (I must work.) |
-
-**All three are followed by an infinitive:**
-- Je **peux** + **manger** = I can eat
-- Je **veux** + **manger** = I want to eat
-- Je **dois** + **manger** = I must eat
-
----
-
-## Grammar Exercises: Practice the Modal Verbs
-
-**Exercise 1: Complete with pouvoir**
-
-1. Je _______________ venir demain.
-2. Tu _______________ m'aider ?
-3. Elle _______________ partir maintenant.
-4. Nous _______________ entrer ?
-5. Vous _______________ signer ici.
-6. Ils _______________ venir aussi.
-
-**Answers:**
-1. peux
-2. peux
-3. peut
-4. pouvons
-5. pouvez
-6. peuvent
-
-**Exercise 2: Complete with vouloir**
-
-1. Je _______________ ouvrir un compte.
-2. Tu _______________ venir avec moi ?
-3. Il _______________ s'inscrire.
-4. Nous _______________ prendre rendez-vous.
-5. Vous _______________ un café ?
-6. Elles _______________ partir.
-
-**Answers:**
-1. veux (or voudrais)
-2. veux
-3. veut
-4. voulons
-5. voulez
-6. veulent
-
-**Exercise 3: Complete with devoir**
-
-1. Je _______________ apporter mon passeport.
-2. Tu _______________ remplir ce formulaire.
-3. On _______________ prendre rendez-vous.
-4. Nous _______________ partir avant 18h.
-5. Vous _______________ signer ici.
-6. Ils _______________ s'inscrire.
-
-**Answers:**
-1. dois
-2. dois
-3. doit
-4. devons
-5. devez
-6. doivent
-
-**Exercise 4: Choose the correct verb (pouvoir/vouloir/devoir)**
-
-1. Vous _______________ (must) apporter un passeport.
-2. Je _______________ (would like) ouvrir un compte.
-3. Est-ce que je _______________ (can) utiliser ma carte ?
-4. Tu _______________ (want) venir avec moi ?
-5. On _______________ (must) s'inscrire avant la fin du mois.
-
-**Answers:**
-1. devez
-2. voudrais
-3. peux
-4. veux
-5. doit
+| French | English |
+|:-------|:--------|
+| célibataire | single |
+| marié(e) | married |
+| divorcé(e) | divorced |
+| veuf/veuve | widowed |
+| pacsé(e) | civil partnership |
 
 ---
 
-## Reading Comprehension: Administrative Guide
+## Observation 3: Asking for help
 
-**Read this text:**
+**Look at how Tom asks:**
 
-**Guide pratique : S'installer en Belgique**
+> Je dois mettre quoi à "état civil" ?
 
-Quand vous arrivez en Belgique, vous devez faire plusieurs démarches :
+### Asking questions about forms
 
-**1. La commune**
-Vous devez vous inscrire dans les 8 jours. Vous devez apporter : passeport, preuve d'adresse, photos. Vous pouvez prendre rendez-vous en ligne.
-
-**2. La banque**
-Si vous voulez ouvrir un compte, vous devez fournir : passeport, preuve d'adresse, attestation de travail. Vous pouvez choisir entre plusieurs banques : BNP Paribas Fortis, ING, KBC, Belfius...
-
-**3. La mutuelle**
-En Belgique, vous devez vous inscrire à une mutuelle pour l'assurance maladie. Vous pouvez choisir : Partenamut, Solidaris, Mutualité chrétienne...
-
-**Conseil :** Vous pouvez faire beaucoup de démarches en ligne maintenant !
-
-**Comprehension Questions:**
-
-1. En combien de jours devez-vous vous inscrire à la commune ?
-2. Qu'est-ce que vous devez apporter à la banque ?
-3. Pourquoi devez-vous vous inscrire à une mutuelle ?
-4. Est-ce que vous pouvez faire des démarches en ligne ?
-
-**Answers:**
-1. Dans les 8 jours
-2. Passeport, preuve d'adresse, attestation de travail
-3. Pour l'assurance maladie
-4. Oui
+| French | English |
+|:-------|:--------|
+| Je dois mettre quoi ici ? | What should I put here? |
+| C'est obligatoire ? | Is it mandatory? |
+| Je ne comprends pas cette question | I don't understand this question |
+| Pouvez-vous m'expliquer ? | Can you explain? |
+| Où est-ce que je signe ? | Where do I sign? |
+| Il faut quels documents ? | What documents are needed? |
 
 ---
 
-## Speaking Practice: At the Administration
+## Practice 1: Fill in a form
 
-**Model Dialogue:**
+**Complete with YOUR information:**
 
-**You:** Bonjour, je voudrais [procedure].
-
-**Employee:** Bonjour. Est-ce que vous avez pris rendez-vous ?
-
-**You:** Oui / Non. Est-ce que je peux le faire maintenant ?
-
-**Employee:** Vous devez apporter [documents]. Est-ce que vous les avez ?
-
-**You:** Oui, j'ai tout. / Non, je dois revenir avec [document].
-
-**Employee:** Parfait. Vous devez remplir ce formulaire et signer ici.
-
-**Your Turn:**
-
-Practice these scenarios:
-- Opening a bank account
-- Registering at the commune
-- Signing up for a mutuelle
+| Champ | Votre réponse |
+|:------|:--------------|
+| Nom | _______________ |
+| Prénom | _______________ |
+| Date de naissance | _______________ |
+| Nationalité | _______________ |
+| État civil | _______________ |
+| Profession | _______________ |
+| Adresse | _______________ |
 
 ---
 
-## Writing Practice: Your To-Do List in Belgium
+## Culture: Belgian administration
 
-**Exercise: Write a list of things you must, can, and want to do (10-12 sentences)**
+### Read this testimony
 
-**Structure:**
-1. Things you MUST do (devoir)
-2. Things you CAN do (pouvoir)
-3. Things you WANT to do (vouloir)
+**Marie, expat advisor:**
 
-**Example:**
+> "Belgian administration can seem complicated at first! There are many levels: federal, regional (Flemish, Walloon, Brussels), and communal. For most daily tasks, you go to your commune (maison communale). Make appointments online when possible – it saves time. Always bring more documents than you think you need! And be patient – some procedures take weeks."
 
-**Mes démarches en Belgique**
+### Key administrative offices
 
-**Ce que je dois faire :**
-- Je dois m'inscrire à la commune avant la fin du mois.
-- Je dois ouvrir un compte bancaire.
-- Je dois m'inscrire à une mutuelle.
-- Je dois trouver un médecin traitant.
+| Office | Purpose |
+|:-------|:--------|
+| Commune (maison communale) | Registration, ID cards |
+| Service des étrangers | Immigration, permits |
+| CPAS | Social assistance |
+| ONEM/VDAB/Actiris | Unemployment |
+| Mutuelle | Health insurance |
+| SPF Finances | Taxes |
 
-**Ce que je peux faire :**
-- Je peux prendre rendez-vous en ligne pour la commune.
-- Je peux utiliser l'application de ma banque.
-- Je peux choisir ma mutuelle librement.
+### Tips for administration
 
-**Ce que je veux faire :**
-- Je voudrais visiter la Grand-Place.
-- Je voudrais goûter tous les chocolats belges !
-- Je voudrais apprendre le néerlandais aussi.
-- Je voudrais faire des amis belges.
+| Tip |
+|:----|
+| Make an appointment online |
+| Arrive early with all documents |
+| Bring copies of everything |
+| Take a ticket number if needed |
+| Be patient and polite |
 
-**Now write YOUR list!**
+---
+
+## Observation 4: Useful expressions
+
+### Explaining your purpose
+
+| French | English |
+|:-------|:--------|
+| Je viens pour... | I'm here to... |
+| Je voudrais... | I would like to... |
+| Je dois... | I need to... |
+| Est-ce que je peux...? | Can I...? |
+
+### Understanding responses
+
+| French | English |
+|:-------|:--------|
+| Il faut + infinitive | You need to... |
+| Vous devez + infinitive | You must... |
+| Ce n'est pas possible | It's not possible |
+| Revenez avec... | Come back with... |
+| Vous recevrez... | You will receive... |
+
+---
+
+## Speaking Practice
+
+### Exercise 1: At the commune
+
+**Role-play this dialogue:**
+
+- You need to register a change of address
+- Employee asks for documents
+- You have questions about the form
+- Employee explains the process
+
+### Exercise 2: Explain your situation
+
+**Practice saying:**
+
+1. What you need to do
+2. What documents you have
+3. Questions about the procedure
+
+---
+
+## Writing Practice
+
+**Write an email requesting an appointment (60-80 words):**
+
+Include:
+- Subject line
+- Greeting
+- Purpose of appointment
+- Your contact information
+- Polite closing
+
+---
+
+## Grammar: Devoir and Il faut
+
+### The verb DEVOIR (must/to have to)
+
+| Subject | Conjugation |
+|:--------|:------------|
+| Je | dois |
+| Tu | dois |
+| Il/Elle | doit |
+| Nous | devons |
+| Vous | devez |
+| Ils/Elles | doivent |
+
+### IL FAUT (it is necessary)
+
+| Structure | Example |
+|:----------|:--------|
+| Il faut + noun | Il faut un passeport |
+| Il faut + infinitive | Il faut remplir le formulaire |
+
+### Comparison
+
+| Devoir | Il faut |
+|:-------|:--------|
+| Personal (je dois) | Impersonal |
+| "I must" | "It's necessary" / "One must" |
 
 ---
 
 ## Common Mistakes to Avoid
 
-### Mistake 1: Forgetting the infinitive after modal verbs
+### Mistake 1: Wrong word for "office"
 
-**Wrong:** "Je peux" (alone) or "Je dois viens"  
-**Correct:** "Je peux **venir**" / "Je dois **venir**" ✅
+| Incorrect | Correct |
+|:----------|:--------|
+| bureau commune | **maison communale** or **commune** |
 
-**Why:** Modal verbs must be followed by an infinitive (not conjugated).
+### Mistake 2: Forgetting formal register
 
-### Mistake 2: Confusing "peux" [pø] and "veux" [vø]
+At administration, use VOUS, not TU:
 
-**Wrong:** "Je peux un café" (I can a coffee?)  
-**Correct:** "Je **veux** un café" (I want a coffee) ✅
+| Incorrect | Correct |
+|:----------|:--------|
+| Tu peux m'aider ? | **Vous pouvez** m'aider ? |
 
-**Why:** "Pouvoir" = can/ability. "Vouloir" = want/desire. They sound similar but mean different things!
+### Mistake 3: Wrong preposition
 
-### Mistake 3: Using "Je veux" in formal situations
-
-**Wrong:** "Je veux ouvrir un compte" (too direct)  
-**Correct:** "Je **voudrais** ouvrir un compte" ✅
-
-**Why:** "Je voudrais" (conditional) is more polite than "Je veux". Always use "voudrais" in formal situations!
-
-### Mistake 4: Wrong negation placement
-
-**Wrong:** "Je peux pas venir" (in writing) or "Je ne peux venir pas"  
-**Correct:** "Je **ne peux pas** venir" ✅
-
-**Why:** Negation goes around the conjugated verb (ne + verb + pas), before the infinitive.
+| Incorrect | Correct |
+|:----------|:--------|
+| à la commune | **à** la commune (correct!) |
+| dans le formulaire | **sur** le formulaire |
 
 ---
 
-## Survival Phrases: At the Administration
+## Self-Evaluation
 
-**Essential phrases:**
+**Check what you can do:**
 
-- **C'est obligatoire ?** [sɛt ɔbligatwaʁ] = Is it mandatory?
-- **Il faut combien de temps ?** [il fo kɔ̃bjɛ̃ də tɑ̃] = How long does it take?
-- **Je dois revenir ?** [ʒə dwa ʁəvəniʁ] = Do I have to come back?
-- **Je peux payer par carte ?** [ʒə pø peje paʁ kaʁt] = Can I pay by card?
-- **Où dois-je signer ?** [u dwa ʒə siɲe] = Where should I sign?
-- **Quand est-ce que je peux récupérer...?** [kɑ̃t ɛs kə ʒə pø ʁekypeʁe] = When can I pick up...?
-
----
-
-## Belgian Culture: The Administrative Maze
-
-**Did you know?**
-
-- **Patience is key:** Belgian administration can be slow. Plan ahead!
-- **19 communes in Brussels:** Each commune has its own town hall. Make sure you go to the right one!
-- **Online first:** Many procedures can now be started online. Check before going!
-- **French, Dutch, or both:** In Brussels, you can use either language at the commune.
-- **The famous "attestation":** Belgians love official documents! Prepare to collect many "attestations".
-
-**Practical tips:**
-- Always bring more documents than you think you'll need
-- Take a number and be patient
-- "Je voudrais" is your magic phrase!
+- [ ] I know key administrative vocabulary
+- [ ] I can understand form fields
+- [ ] I can ask for help with a form
+- [ ] I know the verb "devoir" and "il faut"
+- [ ] I understand Belgian administrative structure
 
 ---
 
-## Wrap-up: What You've Accomplished!
+## Extra Resources
 
-**Congratulations!** You've learned:
+### Useful websites
 
-✅ The verb "pouvoir" (can) - ability and permission  
-✅ The verb "vouloir" (want) - desire  
-✅ The verb "devoir" (must) - obligation  
-✅ How to navigate Belgian administration  
-✅ Essential administrative vocabulary
+| Site | Purpose |
+|:-----|:--------|
+| belgium.be | Official portal |
+| ibz.be | IRB/Belgium Immigration |
+| Your commune website | Local services |
 
-**You're now ready to conquer Belgian paperwork!** 📋
+### Additional activities
 
----
+- **Practice:** Fill out a form in French
+- **Research:** Find your commune's website
+- **Vocabulary:** Learn your personal details in French
 
-## Self-Evaluation: Check What You Know!
+### Next lesson
 
-**Can you...**
-- [ ] Conjugate "pouvoir" for all pronouns?
-- [ ] Conjugate "vouloir" for all pronouns?
-- [ ] Conjugate "devoir" for all pronouns?
-- [ ] Ask "Can I...?" politely?
-- [ ] Say "I would like to..." (politely)?
-- [ ] Express what you must do?
-- [ ] Handle a basic administrative conversation?
-
-**How many can you do?**
-- **7 checked:** Excellent! You've mastered this lesson! 🎉
-- **5-6 checked:** Good progress! Review the modal verbs.
-- **Less than 5:** Don't worry! Practice the exercises again.
+> **Leçon 16 : Révision et évaluation A1.2**  
+> Final revision of all A1.2 content!
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
-
-**Want to practice more?**
-
-- **Website Hunt:** Go to `ibz.be` (Office des Étrangers) or your local commune's website and find the page for "Inscription".
-- **Mock Form:** Find a PDF form online (e.g., "Demande de carte de stationnement") and try to understand the fields "Nom", "Prénom", "Adresse".
-- **Email Draft:** Draft a short email to the municipality asking "Quelles sont les heures d'ouverture ?" (even if you don't send it).
-- **Politeness Challenge:** Use "Je voudrais" instead of "Je veux" for one whole day!
-
----
-
-*Bonne continuation dans votre apprentissage du français en Belgique !*
-*Good luck with your French learning in Belgium!*
+*Bonne continuation !*

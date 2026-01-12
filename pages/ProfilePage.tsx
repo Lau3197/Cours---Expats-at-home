@@ -8,6 +8,7 @@ import { doc, updateDoc } from 'firebase/firestore';
 import { uploadImageToImgBB } from '../services/imgbb';
 import { updatePassword, reauthenticateWithCredential, EmailAuthProvider } from 'firebase/auth';
 import { auth } from '../services/firebase';
+import { sendNotification } from '../services/notifications';
 
 interface ProfilePageProps {
   user: UserProfile;
@@ -51,12 +52,12 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
       setEmail(authUser.email);
       setBio(authUser.bio || '');
       setAvatar(authUser.avatar);
-      
+
       // Charger les préférences de notifications
-      if ((authUser as any).notifications) {
-        setEmailNotifications((authUser as any).notifications.email !== false);
-        setCourseUpdates((authUser as any).notifications.courseUpdates !== false);
-        setWeeklyReports((authUser as any).notifications.weeklyReports === true);
+      if (authUser.notifications) {
+        setEmailNotifications(authUser.notifications.email !== false);
+        setCourseUpdates(authUser.notifications.courseUpdates !== false);
+        setWeeklyReports(authUser.notifications.weeklyReports === true);
       }
     }
   }, [authUser]);
@@ -86,7 +87,7 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
     setUploading(true);
     setAvatarError('');
     setAvatarSuccess('');
-    
+
     try {
       const imageUrl = await uploadImageToImgBB(file);
       setAvatar(imageUrl);
@@ -121,10 +122,10 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
       setSuccess('Profil mis à jour avec succès !');
       setAvatarSuccess('');
       setAvatarError('');
-      
+
       // Rafraîchir le profil utilisateur
       await refreshUser();
-      
+
       setTimeout(() => setSuccess(''), 3000);
     } catch (error: any) {
       setError(error.message || 'Erreur lors de la sauvegarde');
@@ -170,7 +171,14 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
       setCurrentPassword('');
       setNewPassword('');
       setConfirmPassword('');
-      
+
+      // Send security notification
+      await sendNotification(authUser.uid, {
+        title: 'Security Alert',
+        message: 'Your password was successfully changed.',
+        type: 'info'
+      });
+
       setTimeout(() => setPasswordSuccess(''), 3000);
     } catch (error: any) {
       if (error.code === 'auth/wrong-password') {
@@ -227,7 +235,7 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
                   <img src={avatar} className="w-full h-full object-cover" alt="Profile" />
                 )}
               </div>
-              <button 
+              <button
                 onClick={handleAvatarClick}
                 disabled={uploading}
                 className="absolute -bottom-2 -right-2 p-2.5 bg-[#E8C586] text-white rounded-2xl shadow-lg hover:scale-110 active:scale-95 transition-all disabled:opacity-50"
@@ -266,9 +274,8 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
           <div className="bg-white p-10 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm">
             <h3 className="text-xl font-bold text-[#5A6B70] serif-display italic mb-8">Détails Personnels</h3>
             {(error || success) && (
-              <div className={`mb-6 p-4 rounded-2xl text-sm font-bold ${
-                error ? 'bg-red-50 text-red-500 border border-red-100' : 'bg-green-50 text-green-500 border border-green-100'
-              }`}>
+              <div className={`mb-6 p-4 rounded-2xl text-sm font-bold ${error ? 'bg-red-50 text-red-500 border border-red-100' : 'bg-green-50 text-green-500 border border-green-100'
+                }`}>
                 {error || success}
               </div>
             )}
@@ -276,35 +283,35 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
               <div className="grid grid-cols-2 gap-6">
                 <div>
                   <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Nom Complet</label>
-                  <input 
-                    type="text" 
+                  <input
+                    type="text"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
-                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70] outline-none transition-all" 
+                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70] outline-none transition-all"
                   />
                 </div>
                 <div>
                   <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Adresse Email</label>
-                  <input 
-                    type="email" 
+                  <input
+                    type="email"
                     value={email}
                     disabled
-                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70]/50 outline-none transition-all cursor-not-allowed" 
+                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70]/50 outline-none transition-all cursor-not-allowed"
                   />
                   <p className="text-[9px] text-[#5A6B70]/40 mt-1 italic">L'email ne peut pas être modifié</p>
                 </div>
               </div>
               <div>
                 <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Biographie</label>
-                <textarea 
+                <textarea
                   value={bio}
                   onChange={(e) => setBio(e.target.value)}
                   placeholder="Parlez-nous de vous..."
-                  className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70] outline-none transition-all min-h-[120px] resize-none" 
+                  className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 text-sm font-bold text-[#5A6B70] outline-none transition-all min-h-[120px] resize-none"
                 />
               </div>
               <div className="pt-4 flex gap-4">
-                <button 
+                <button
                   onClick={handleSave}
                   disabled={saving || uploading}
                   className="flex items-center gap-3 bg-[#dd8b8b] text-white px-8 py-4 rounded-2xl font-bold hover:bg-[#c97a7a] transition-all sans-geometric uppercase tracking-widest text-xs shadow-xl shadow-[#dd8b8b]/20 disabled:opacity-50 disabled:cursor-not-allowed"
@@ -319,7 +326,7 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
                     </>
                   )}
                 </button>
-                <button 
+                <button
                   onClick={() => {
                     if (authUser) {
                       setName(authUser.name);
@@ -367,11 +374,11 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
               <div>
                 <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Mot de passe actuel</label>
                 <div className="relative">
-                  <input 
+                  <input
                     type={showCurrentPassword ? "text" : "password"}
                     value={currentPassword}
                     onChange={(e) => setCurrentPassword(e.target.value)}
-                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all" 
+                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all"
                     placeholder="Entrez votre mot de passe actuel"
                   />
                   <button
@@ -387,11 +394,11 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
               <div>
                 <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Nouveau mot de passe</label>
                 <div className="relative">
-                  <input 
+                  <input
                     type={showNewPassword ? "text" : "password"}
                     value={newPassword}
                     onChange={(e) => setNewPassword(e.target.value)}
-                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all" 
+                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all"
                     placeholder="Au moins 6 caractères"
                   />
                   <button
@@ -407,11 +414,11 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
               <div>
                 <label className="block text-[10px] font-black sans-geometric uppercase tracking-widest text-[#5A6B70]/40 mb-2">Confirmer le nouveau mot de passe</label>
                 <div className="relative">
-                  <input 
+                  <input
                     type={showConfirmPassword ? "text" : "password"}
                     value={confirmPassword}
                     onChange={(e) => setConfirmPassword(e.target.value)}
-                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all" 
+                    className="w-full bg-[#F9F7F2] border-2 border-transparent focus:border-[#dd8b8b]/20 rounded-2xl p-4 pr-12 text-sm font-bold text-[#5A6B70] outline-none transition-all"
                     placeholder="Confirmez votre nouveau mot de passe"
                   />
                   <button
@@ -424,7 +431,7 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
                 </div>
               </div>
 
-              <button 
+              <button
                 onClick={handleChangePassword}
                 disabled={changingPassword || !currentPassword || !newPassword || !confirmPassword}
                 className="flex items-center gap-3 bg-[#dd8b8b] text-white px-8 py-4 rounded-2xl font-bold hover:bg-[#c97a7a] transition-all sans-geometric uppercase tracking-widest text-xs shadow-xl shadow-[#dd8b8b]/20 disabled:opacity-50 disabled:cursor-not-allowed"
@@ -501,7 +508,7 @@ const ProfilePage: React.FC<ProfilePageProps> = ({ user: initialUser }) => {
                 </label>
               </div>
 
-              <button 
+              <button
                 onClick={handleSaveNotifications}
                 disabled={savingNotifications}
                 className="flex items-center gap-3 bg-[#dd8b8b] text-white px-8 py-4 rounded-2xl font-bold hover:bg-[#c97a7a] transition-all sans-geometric uppercase tracking-widest text-xs shadow-xl shadow-[#dd8b8b]/20 disabled:opacity-50 disabled:cursor-not-allowed"

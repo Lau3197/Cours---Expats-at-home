@@ -76,6 +76,24 @@ export interface Course {
   progress: number;
 }
 
+export interface NotificationPreferences {
+  email: boolean;
+  courseUpdates: boolean;
+  weeklyReports: boolean;
+}
+
+export interface AppNotification {
+  id: string;
+  userId?: string; // If null, it's a global/course notification
+  title: string;
+  message: string;
+  date: string;
+  read: boolean;
+  type: 'info' | 'success' | 'warning' | 'error' | 'course_update';
+  link?: string;
+  courseId?: string;
+}
+
 export interface UserProfile {
   uid: string;
   name: string;
@@ -85,4 +103,5 @@ export interface UserProfile {
   bio: string;
   levelGoal?: FrenchLevel;
   hasFullAccess: boolean;
+  notifications?: NotificationPreferences;
 }

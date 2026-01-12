@@ -1,0 +1,33 @@
+[
+    {
+        "id": "house_hunting",
+        "title": "Apartment Hunting & Moving In",
+        "items": [
+            {
+                "id": "immoweb",
+                "label": "Search on Immoweb.be",
+                "description": "The biggest property site in Belgium."
+            },
+            {
+                "id": "visits",
+                "label": "Schedule Visits Immediately",
+                "description": "Good places go in 24 hours. Call, don't just email."
+            },
+            {
+                "id": "insurance_fire",
+                "label": "Get Fire Insurance (Assurance Incendie)",
+                "description": "Mandatory for tenants. You cannot get keys without it."
+            },
+            {
+                "id": "contract_reg",
+                "label": "Check Lease Registration",
+                "description": "Landlord must register lease within 2 months. If not, you can leave without notice."
+            },
+            {
+                "id": "meters",
+                "label": "Read the Meters",
+                "description": "Take photos of water, gas, electricity meters on day 1."
+            }
+        ]
+    }
+]

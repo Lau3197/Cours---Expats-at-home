@@ -1,0 +1,28 @@
+[
+    {
+        "id": "routine_builder",
+        "title": "Establishing Habits",
+        "items": [
+            {
+                "id": "cafe_test",
+                "label": "The Café Test",
+                "description": "Go to the same cafe 3 times this week."
+            },
+            {
+                "id": "market_schedule",
+                "label": "Find Your Market",
+                "description": "Every commune has a weekly market. Find yours."
+            },
+            {
+                "id": "sport_signup",
+                "label": "Sign up for a Recurring Class",
+                "description": "Yoga, French, Pottery. Anything weekly."
+            },
+            {
+                "id": "apero_thurs",
+                "label": "Respect the Jeudi Apero",
+                "description": "Go for a drink on Thursday. Even if you don't drink alcohol."
+            }
+        ]
+    }
+]

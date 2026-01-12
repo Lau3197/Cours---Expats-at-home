@@ -10,6 +10,7 @@ import Dashboard from './pages/Dashboard';
 import InstructorDashboard from './pages/InstructorDashboard';
 import ProfilePage from './pages/ProfilePage';
 import AuthPage from './pages/AuthPage';
+import CarnetPage from './pages/CarnetPage';
 import { useAuth } from './context/AuthContext';
 import { CoursePackage } from './types';
 
@@ -89,7 +90,7 @@ const App: React.FC = () => {
         )}
 
         {currentPage === 'dashboard' && (
-          <Dashboard />
+          <Dashboard onNavigate={handleNavigate} />
         )}
 
         {currentPage === 'instructor' && (
@@ -98,6 +99,10 @@ const App: React.FC = () => {
 
         {currentPage === 'profile' && (
           <ProfilePage user={user} />
+        )}
+
+        {currentPage === 'carnet' && (
+          <CarnetPage onBack={() => handleNavigate('library')} />
         )}
 
         {currentPage === 'player' && selectedCourse && (

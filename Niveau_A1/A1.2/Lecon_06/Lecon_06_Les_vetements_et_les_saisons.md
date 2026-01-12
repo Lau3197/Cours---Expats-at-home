@@ -2,566 +2,291 @@
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre le vocabulaire des vêtements, parler des saisons et des vêtements appropriés
+**Objectifs** : Learn clothing vocabulary, talk about seasons, describe what you wear
 
 ---
 
+## Let's Start! What to wear
 
-## Let's Start! Your Fashion Adventure!
+### Listen to this dialogue
 
-## 🎲 Discovery Activity: What Should You Wear?
+**Sophie helps Tom prepare for Belgian weather:**
 
-**Here's a fun situation!** 🎮
-
-You're planning what to wear in Belgium. Your Belgian friend says:
-
-"En **hiver**, il fait froid. Il faut porter un **manteau** et un **chapeau**. En **été**, il fait chaud. On porte un **t-shirt** et un **short**."
-
-**Your challenge:** Can you guess what these words mean?
-
-**Match each word with its meaning:**
-
-**A)** Winter  
-**B)** Coat  
-**C)** Hat  
-**D)** Summer  
-**E)** T-shirt  
-**F)** Shorts
-
-**Write down your guesses:**
-- hiver = ?
-- manteau = ?
-- chapeau = ?
-- été = ?
-- t-shirt = ?
-- short = ?
-
-*(Hint: Think about what you wear in different seasons!)*
-
-**Don't worry if you're not sure - we'll discover the answers together!** 🤔
-
-**Ready to learn about clothes and seasons?** Keep reading! 👇
+> **Tom :** Sophie, il fait froid aujourd'hui. Qu'est-ce que je mets ?
+> 
+> **Sophie :** Tu as besoin d'**un manteau** chaud et d'**une écharpe**. Il fait 5 degrés !
+> 
+> **Tom :** Et **des gants** ?
+> 
+> **Sophie :** Oui, bonne idée. Et n'oublie pas **un bonnet** !
+> 
+> **Tom :** En Californie, je portais **un t-shirt** et **un short** toute l'année. Ici, je porte **un pull**, **un pantalon**, et parfois **des bottes** !
+> 
+> **Sophie :** Bienvenue en Belgique ! En hiver, il faut bien se couvrir. Au printemps, tu auras besoin d'**un imperméable**. En été, tu pourras enfin porter **une chemise légère**.
 
 ---
 
-## 📋 Introduction
+### Comprehension
 
-**Did you guess correctly?** 🎉
+**Answer the questions:**
 
-**The answers are:**
-- **hiver** = A) Winter ✅
-- **manteau** = B) Coat ✅
-- **chapeau** = C) Hat ✅
-- **été** = D) Summer ✅
-- **t-shirt** = E) T-shirt ✅
-- **short** = F) Shorts ✅
+1. What is the weather like today?
+2. What does Tom need to wear?
+3. What did Tom wear in California?
+4. What will Tom need in spring?
+5. What can he wear in summer?
 
-**Great job if you got them right!** Even if you didn't, you're about to learn all about clothes and seasons in French!
+<details>
+<summary>Answers</summary>
 
-Welcome to your lesson about clothes and seasons! 🎉
+1. Cold, 5 degrees
+2. A warm coat, scarf, gloves, hat
+3. T-shirt and shorts
+4. A raincoat (imperméable)
+5. A light shirt
 
-Being able to talk about what to wear is super important! Whether you're shopping, planning your outfit, or talking about the weather, this lesson will help you express yourself!
-
-**What you will learn today:**
-- Vocabulary for clothes
-- How to talk about what to wear
-- Seasons and appropriate clothing
-- Adjectives to describe clothes
-
-**Why this matters in Belgium:**
-Belgium has four distinct seasons, and the weather changes a lot! You'll need different clothes for each season. Plus, Belgians dress appropriately for the weather - this lesson will help you fit in!
+</details>
 
 ---
 
-## 🎮 Warm-up Activity: Match the Clothes!
+## Observation 1: Clothing vocabulary
 
-**Let's play a matching game!** 🎮
+**Look at the clothing items mentioned:**
 
-**Match these clothes:**
+> un manteau, une écharpe, des gants, un bonnet  
+> un t-shirt, un short, un pull, un pantalon, des bottes
 
-1. **un manteau** [œ̃ mɑ̃to]
-   - A) Coat
-   - B) Jacket
-   - C) Sweater
+### Basic clothing
 
-2. **un chapeau** [œ̃ ʃapo]
-   - A) Scarf
-   - B) Hat
-   - C) Gloves
+| French | English | Gender |
+|:-------|:--------|:-------|
+| un t-shirt | t-shirt | M |
+| une chemise | shirt | F |
+| un pull / un pullover | sweater | M |
+| un pantalon | pants | M |
+| une jupe | skirt | F |
+| une robe | dress | F |
+| un short | shorts | M |
+| un jean | jeans | M |
 
-3. **un pull** [œ̃ pyl]
-   - A) Shirt
-   - B) Sweater
-   - C) Jacket
+### Winter clothing
 
-4. **des chaussures** [de ʃosyʁ]
-   - A) Socks
-   - B) Shoes
-   - C) Boots
+| French | English | Gender |
+|:-------|:--------|:-------|
+| un manteau | coat | M |
+| une veste | jacket | F |
+| une écharpe | scarf | F |
+| des gants | gloves | M pl |
+| un bonnet | winter hat | M |
+| des bottes | boots | F pl |
 
-5. **un pantalon** [œ̃ pɑ̃talɔ̃]
-   - A) Shorts
-   - B) Pants/Trousers
-   - C) Jeans
+### Rain gear
 
-**Ready to check?**
-- **1-A (Coat)** ✅
-- **2-B (Hat)** ✅
-- **3-B (Sweater)** ✅
-- **4-B (Shoes)** ✅
-- **5-B (Pants/Trousers)** ✅
-
-**🎉 How many did you get right?** You're discovering clothes vocabulary! 🙌
-
----
-
-## French Pronunciation: Quick Reference
-
-**📚 Remember:** For complete pronunciation help, check out `Prononciation/00_Decouvrir_la_Prononciation_Francaise.md`!
-
-**Key sounds in today's words:**
-- **manteau** [mɑ̃to] - Nasal sound [ɑ̃]
-- **chapeau** [ʃapo] - The "ch" [ʃ] sounds like "sh"
-- **chaussures** [ʃosyʁ] - French R [ʁ] at the end
-
-**💡 Practice tip:** All words in this lesson have IPA transcriptions [in brackets]. Use them to practice!
+| French | English |
+|:-------|:--------|
+| un imperméable | raincoat |
+| un parapluie | umbrella |
+| des bottes de pluie | rain boots |
 
 ---
 
-## Vocabulary: Essential Words
+## Observation 2: The verb "porter" (to wear)
 
-## Key Clothes Vocabulary
+**Look at these sentences:**
 
-**Here are common clothes in French!** Each one has its pronunciation in IPA! 🎤
+> Je **porte** un pull.  
+> Je **portais** un t-shirt en Californie.
 
-| Français | IPA | English | Example / Exemple |
-|----------|-----|---------|-------------------|
-| **un manteau** | [œ̃ mɑ̃to] | a coat | Je porte un manteau en hiver. |
-| **un pull** | [œ̃ pyl] | a sweater | J'ai besoin d'un pull. |
-| **un t-shirt** | [œ̃ ti ʃœʁt] | a t-shirt | Je porte un t-shirt en été. |
-| **une chemise** | [yn ʃəmiz] | a shirt | Il porte une chemise. |
-| **un pantalon** | [œ̃ pɑ̃talɔ̃] | pants/trousers | J'ai un pantalon bleu. |
-| **un short** | [œ̃ ʃɔʁt] | shorts | Je porte un short en été. |
-| **une jupe** | [yn ʒyp] | a skirt | Elle porte une jupe. |
-| **une robe** | [yn ʁɔb] | a dress | J'aime cette robe. |
-| **des chaussures** | [de ʃosyʁ] | shoes | J'ai besoin de nouvelles chaussures. |
-| **un chapeau** | [œ̃ ʃapo] | a hat | Je porte un chapeau. |
-| **des gants** | [de gɑ̃] | gloves | Il fait froid, j'ai besoin de gants. |
-| **une écharpe** | [yn eʃaʁp] | a scarf | Je porte une écharpe en hiver. |
+### Conjugation: Porter (to wear)
 
-**💡 Important note:** Notice "un" for masculine, "une" for feminine, "des" for plural!
-
-**🎯 Try it!** Can you describe what you're wearing using these words?
-
-**🎤 Pronunciation practice:** Say each word 3 times with correct pronunciation!
-
-## Useful Expressions for Daily Life
-
-**These expressions will help you talk about clothes!** 🎤
-
-- **Porter** [pɔʁte] : to wear
-- **Je porte...** [ʒə pɔʁt] : I'm wearing...
-- **Qu'est-ce que tu portes ?** [kɛs kə ty pɔʁt] : What are you wearing?
-- **J'ai besoin de...** [ʒe bəzwɛ̃ də] : I need...
-- **C'est pour quelle saison ?** [sɛ puʁ kɛl sezɔ̃] : What season is it for?
-- **Il fait froid, je porte...** [il fɛ fʁwa ʒə pɔʁt] : It's cold, I'm wearing...
-
-**🎯 Practice Challenge:** Create sentences about what to wear in different seasons!
-
-**Example:**
-- En hiver, je porte un manteau.
-- En été, je porte un t-shirt.
-- Il fait froid, j'ai besoin d'un pull.
-
-## Belgian-Specific Vocabulary
-
-**These words are useful for talking about clothes in Belgium!** 🇧🇪
-
-- **Un parapluie** [œ̃ paʁaplɥi] : An umbrella (very useful in Belgium!)
-- **Des bottes** [de bɔt] : Boots (for rainy days!)
-- **Un imperméable** [œ̃ ɛ̃pɛʁmeabl] : A raincoat
-
-**Fun fact:** Belgium is known for its rain! You'll definitely need an umbrella and raincoat! ☔
-
-**🎤 Pronunciation challenge:** Try saying "parapluie" [paʁaplɥi] - practice 5 times!
+| Subject | Present |
+|:--------|:--------|
+| Je | porte |
+| Tu | portes |
+| Il/Elle | porte |
+| Nous | portons |
+| Vous | portez |
+| Ils/Elles | portent |
 
 ---
 
-## Common Mistakes to Avoid
+## Practice 1: What are you wearing?
 
-**Before we dive into grammar, watch out for these common mistakes:**
+**Describe what you're wearing right now:**
 
-**Mistake 1:** Forgetting articles with clothes: "Je porte manteau" ❌  
-**Correct:** "Je porte un manteau" (I'm wearing a coat) ✅  
-**Why:** In French, you need an article (un/une) before nouns. Always use "un/une" with clothes after "porter".
+"Aujourd'hui, je porte..."
 
-**Mistake 2:** Confusing "porter" (to wear) with "mettre" (to put on) ❌  
-**Correct:** Use "porter" for what you're currently wearing, "mettre" for the action of putting on ✅  
-**Why:** "Je porte un manteau" = "I'm wearing a coat" (current state). "Je mets un manteau" = "I'm putting on a coat" (action).
-
-**Mistake 3:** Using wrong gender with clothes: "une pantalon" ❌  
-**Correct:** "un pantalon" (masculine) ✅  
-**Why:** Most clothes have a fixed gender. Learn them: un pantalon (m), une jupe (f), un manteau (m), une robe (f).
-
-**Mistake 4:** Forgetting adjective agreement: "Je porte une robe rouge" (if describing feminine noun) ✅  
-**Wrong:** "Je porte une robe rouge" (no change needed here, but be careful with plural) ❌  
-**Correct:** "Je porte des robes rouges" (plural agreement) ✅  
-**Why:** Adjectives must agree with the noun they describe (masculine/feminine, singular/plural).
+Write 3-4 items of clothing.
 
 ---
 
-## Grammar: Talking About Clothes
+## Observation 3: The seasons
 
-## The Verb "Porter" (To Wear)
+### Les quatre saisons
 
-**What it is:** This is how you say "to wear" in French! It's a regular -er verb.
+| French | English | Months |
+|:-------|:--------|:-------|
+| le printemps | spring | mars, avril, mai |
+| l'été (m) | summer | juin, juillet, août |
+| l'automne (m) | fall/autumn | septembre, octobre, novembre |
+| l'hiver (m) | winter | décembre, janvier, février |
 
-**How to form it:**
+### Prepositions with seasons
 
-| Pronom | Verbe "porter" | English | IPA |
-|--------|---------------|---------|-----|
-| Je | porte | I wear | [ʒə pɔʁt] |
-| Tu | portes | You wear (informal) | [ty pɔʁt] |
-| Il/Elle | porte | He/She wears | [il/ɛl pɔʁt] |
-| Nous | portons | We wear | [nu pɔʁtɔ̃] |
-| Vous | portez | You wear (formal/plural) | [vu pɔʁte] |
-| Ils/Elles | portent | They wear | [il/ɛl pɔʁt] |
-
-**Examples you'll actually use:**
-- **Je porte un manteau.** [ʒə pɔʁt œ̃ mɑ̃to] = "I'm wearing a coat." (Use this when describing what you're wearing!)
-- **Tu portes quoi ?** [ty pɔʁt kwa] = "What are you wearing?" (Great question to ask someone!)
-- **Il porte un pull.** [il pɔʁt œ̃ pyl] = "He's wearing a sweater." (Describing someone else!)
-
-**⚠️ Watch out! Common mistakes:**
-- "Je porte" (not "Je port") - don't forget the "e"!
-- After "porter", use "un/une" for singular: "Je porte un manteau" (not "Je porte manteau")
-
-**💡 Memory trick:** Think "porter" = "to wear" - it sounds a bit like "port-ay"!
-
-**🎤 Pronunciation practice:** Say "Je porte" [ʒə pɔʁt] 10 times!
-
-## Adjectives with Clothes
-
-**In French, adjectives usually come AFTER the noun:**
-
-- **Un manteau noir** [œ̃ mɑ̃to nwaʁ] = A black coat
-- **Une robe bleue** [yn ʁɔb blø] = A blue dress
-- **Des chaussures rouges** [de ʃosyʁ ʁuʒ] = Red shoes
-
-**⚠️ Common mistake:** Don't say "un noir manteau" - the adjective comes AFTER!
+| Season | Preposition | Example |
+|:-------|:------------|:--------|
+| le printemps | **au** | au printemps |
+| l'été | **en** | en été |
+| l'automne | **en** | en automne |
+| l'hiver | **en** | en hiver |
 
 ---
 
-## Grammar Exercises: Let's Practice!
+## Observation 4: Clothing by season
 
-## Exercise 1: Conjugate "Porter" - Part 1 (Basic)
+**What to wear in each season:**
+
+| Season | Typical clothing |
+|:-------|:-----------------|
+| Hiver | un manteau, une écharpe, des gants, un bonnet |
+| Printemps | un imperméable, un pull léger, un jean |
+| Été | un t-shirt, un short, une robe, des sandales |
+| Automne | une veste, un pull, un pantalon, des bottes |
+
+---
+
+## Culture: Belgian fashion
+
+### Read this testimony
+
+**Marie, Belgian fashion blogger:**
+
+> "Belgians dress practically for the weather. We love dark colors in winter – black, gray, navy blue. But we're also known for being stylish! Brussels has great vintage shops in the Marolles and designer boutiques on Avenue Louise. For rain, every Belgian owns a good raincoat. For the office, smart casual is the norm."
+
+### Shopping in Brussels
+
+| Store type | Examples |
+|:-----------|:---------|
+| Department stores | Inno, Galeria |
+| Fashion chains | H&M, Zara, Uniqlo |
+| Belgian designers | Dries Van Noten, Maison Margiela |
+| Second-hand | Les Enfants d'Édouard, Épisode |
+| Markets | Place du Jeu de Balle (vintage) |
+
+---
+
+## Practice 2: Complete the sentences
 
 **Fill in the blanks:**
 
-1. Je _______________ un manteau en hiver.
-2. Tu _______________ quoi aujourd'hui ?
-3. Il _______________ un pull.
-4. Nous _______________ des chaussures.
-5. Vous _______________ un chapeau ?
-6. Elles _______________ des robes.
-
-**Answers:**
-1. Je **porte** un manteau en hiver.
-2. Tu **portes** quoi aujourd'hui ?
-3. Il **porte** un pull.
-4. Nous **portons** des chaussures.
-5. Vous **portez** un chapeau ?
-6. Elles **portent** des robes.
-
-## Exercise 2: Describe Clothes - Part 2 (More Practice!)
-
-**Create sentences describing clothes:**
-
-1. A black coat: _______________
-2. A blue sweater: _______________
-3. Red shoes: _______________
-4. A white shirt: _______________
-
-**Example answers:**
-1. Un manteau noir
-2. Un pull bleu
-3. Des chaussures rouges
-4. Une chemise blanche
-
-## Exercise 3: Seasons and Clothes - Part 3 (Real Situations!)
-
-**Complete with appropriate clothes for each season:**
-
-1. En hiver, je porte _______________.
-2. En été, je porte _______________.
-3. En automne, j'ai besoin de _______________.
-4. Au printemps, je porte _______________.
-
-**🎯 Challenge:** Write your own 3 sentences about what you wear in different seasons!
+1. En hiver, je porte _____________ et _____________.
+2. En été, je porte _____________ et _____________.
+3. Aujourd'hui il pleut, j'ai besoin de _____________.
+4. Pour aller au bureau, je porte _____________.
 
 ---
 
-## Listening Comprehension: Shopping for Clothes
+## Speaking Practice
 
-## Audio: At a Clothing Store
+### Exercise 1: Describe your wardrobe
 
-**Transcription:**
+**Talk about what you wear in each season:**
 
-**Vendeuse :** Bonjour ! Vous cherchez quelque chose ?
+"Au printemps, je porte généralement... En été, j'aime porter... En automne... En hiver..."
 
-**Client :** Bonjour ! Oui, je cherche un manteau pour l'hiver.
+### Exercise 2: Shopping role-play
 
-**Vendeuse :** D'accord. Quelle taille ?
+**Practice this dialogue:**
 
-**Client :** Taille M, s'il vous plaît. Et de quelle couleur ?
-
-**Vendeuse :** Nous avons des manteaux noirs, bleus et gris.
-
-**Client :** Je préfère le noir. Combien ça coûte ?
-
-**Vendeuse :** 80 euros.
-
-**Client :** D'accord, je le prends.
-
-## Comprehension Questions
-
-1. What is the client looking for?
-2. What color does the client prefer?
-3. How much does it cost?
-
-**Answers:**
-1. A winter coat (un manteau pour l'hiver)
-2. Black (le noir)
-3. 80 euros
-
----
-
-## Reading Comprehension: Dressing for Belgian Weather
-
-## Text: S'habiller selon les saisons en Belgique
-
-En Belgique, il faut s'habiller selon les saisons. En hiver, il fait froid et il pleut souvent. Il faut porter un manteau, un pull, des gants et une écharpe. En été, il fait chaud mais il peut pleuvoir. Il faut avoir un parapluie ! Au printemps et en automne, le temps est variable. Il faut porter des vêtements adaptés.
-
-**Questions:**
-1. What should you wear in winter?
-2. What do you need in summer?
-
-**Answers:**
-1. Un manteau, un pull, des gants et une écharpe
-2. Un parapluie (because it can rain!)
-
----
-
-## Survival Phrases: When You Don't Understand
-
-**Essential phrases for shopping clothes:**
-
-1. **"C'est ma taille."** [sɛ ma taj] = It's my size.
-2. **"Je peux essayer ?"** [ʒə pø esɛje] = Can I try it on?
-3. **"C'est trop grand."** [sɛ tʁo gʁɑ̃] = It's too big.
-4. **"Il fait froid."** [il fɛ fʁwa] = It's cold.
-5. **"J'aime ce pull."** [ʒɛm sə pyl] = I like this sweater.
-
-**💡 Important:** "Les soldes" (sales) happen in January and July in Belgium!
-
----
-
-## Speaking Practice: Role Play
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself saying the "Vous" lines on your phone
-3. Listen back and compare with the video/audio
-4. Try to match the pronunciation and rhythm
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the intonation and speed
-4. Focus on natural conversation flow
-
-**Method 3: Practice Both Roles**
-1. Read the entire dialogue out loud, playing both roles
-2. This helps you practice both questions and answers
-3. Try different variations (different clothes, colors, sizes)
-
-## Situation: Shopping for Clothes
-
-**Dialogue:**
-
-**Vous :** Bonjour ! Je cherche un pull pour l'hiver.
-
-**Vendeur :** Bonjour ! Quelle taille ?
-
-**Vous :** Taille M, s'il vous plaît.
-
-**Vendeur :** De quelle couleur ?
-
-**Vous :** Bleu ou gris.
-
-**🎯 Your turn!** Practice this dialogue with different clothes!
+**Vendeur :** Bonjour ! Je peux vous aider ?  
+**You :** Je cherche [clothing item].  
+**Vendeur :** Vous faites quelle taille ?  
+**You :** Je fais du [size].
 
 ---
 
 ## Writing Practice
 
-**Exercice :** Écrivez un texte sur les vêtements que vous portez selon les saisons (5-6 phrases)
+**Write about your favorite outfit (60-80 words):**
 
-**Structure suggérée:**
-1. En hiver, je porte...
-2. En été, je porte...
-3. Au printemps...
-4. En automne...
-
----
-
-## Speaking Practice: Your Turn!
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself describing what you're wearing on your phone
-3. Listen back and check your pronunciation
-4. Focus on using "Je porte [clothing]" correctly
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to clothes vocabulary
-
-**Method 3: Practice Describing Your Clothes**
-1. Describe what you're wearing right now out loud in French
-2. Practice: "Je porte [clothing] en [season]"
-3. Practice with different seasons and appropriate clothing
+Include:
+- What you wear
+- What season it's for
+- Why you like it
 
 ---
 
-## Real-World Practice: Try This Today!
+## Grammar: Colors with clothing
 
-**This week, challenge yourself to use what you've learned:**
+### Agreement reminder
 
-**Practice opportunities:**
-- [ ] Practice describing what you're wearing in French out loud every day
-- [ ] Write down what you wear for each season: "En hiver, je porte..."
-- [ ] Practice talking about appropriate clothing for Belgian weather
-- [ ] Practice using "porter" with different clothing items
+Colors agree with the noun they describe:
 
-**Don't worry if you make mistakes - practice makes perfect!**  
-**The most important thing is to practice describing clothes daily.**
+| Masculine | Feminine | Plural |
+|:----------|:---------|:-------|
+| un pull **bleu** | une robe **bleue** | des chaussures **bleues** |
+| un pantalon **noir** | une jupe **noire** | des gants **noirs** |
 
-**Success tip:** Start simple - describe just what you're wearing today first, then gradually add seasonal vocabulary!
+### Invariable colors
 
----
+Some colors don't change: orange, marron
 
-## Troubleshooting: Having Trouble?
-
-**If you're struggling with "porter" conjugation:**
-- Remember: je porte, tu portes, il/elle porte, nous portons, vous portez, ils/elles portent
-- Practice pattern: "Je porte [un/une + clothing]" - always use article
-- Common clothes: un manteau (coat), une veste (jacket), un pantalon (pants), une jupe (skirt)
-- Write them out 5 times: je porte un manteau, tu portes une veste, il porte un pantalon
-
-**If you confuse clothing gender (un/une):**
-- Masculine: un manteau, un pantalon, un pull, un t-shirt, un chapeau
-- Feminine: une veste, une jupe, une robe, une chemise, une cravate
-- Practice: "Je porte un manteau" (m), "Je porte une veste" (f)
-- Tip: Most clothing ending in -eau or -on are masculine, most ending in -e are feminine (but check!)
-
-**If adjective agreement confuses you:**
-- Adjectives must match the noun: "une robe rouge" (f), "un manteau rouge" (m)
-- Plural: "des robes rouges" (f pl), "des manteaux rouges" (m pl)
-- Practice: "Je porte une robe rouge" → "Je porte des robes rouges"
-- Focus on common adjectives: rouge (red), bleu (blue), noir (black), blanc (white)
-
-**If seasonal vocabulary is overwhelming:**
-- Learn these 4 seasons: printemps (spring), été (summer), automne (fall), hiver (winter)
-- Practice pattern: "En [season], je porte [clothing]"
-- Start with one season at a time: "En hiver, je porte un manteau"
-- Focus on appropriate clothing for Belgian weather (rainy, variable!)
-
-**Still stuck?** Clothes vocabulary is very practical for daily life. Focus on mastering "Je porte" and 5-6 essential clothing items (manteau, veste, pantalon, chaussures, pull) first. These are the essentials!
+| Example |
+|:--------|
+| une veste **marron** (not marronne) |
+| des chaussures **orange** (not oranges) |
 
 ---
 
-## Culture belge
+## Common Mistakes to Avoid
 
-## S'habiller en Belgique
+### Mistake 1: Wrong gender
 
-En Belgique, les gens s'habillent selon les saisons et le temps. Il pleut souvent, donc un parapluie est essentiel ! Les Belges apprécient les vêtements pratiques et confortables.
+| Incorrect | Correct |
+|:----------|:--------|
+| un chemise | **une** chemise |
+| une pantalon | **un** pantalon |
 
-**Comparaison culturelle / Cultural comparison:**
+### Mistake 2: Wrong preposition with seasons
 
-**Dans beaucoup de pays :**
-- On peut porter des vêtements légers toute l'année
-- La pluie est rare
-- Le style est parfois plus formel
+| Incorrect | Correct |
+|:----------|:--------|
+| dans l'été | **en** été |
+| en printemps | **au** printemps |
 
-**En Belgique :**
-- Il faut s'adapter aux saisons - le temps change beaucoup !
-- La pluie est fréquente - un parapluie est indispensable
-- Le style est souvent pratique et confortable
-- Les Belges s'habillent de manière appropriée pour le temps
+### Mistake 3: Forgetting agreement
 
-**Pourquoi c'est important :** S'habiller selon le temps belge vous aide à être confortable et à vous intégrer !
-
-💡 **Tip pratique :** Achetez un bon parapluie et un imperméable dès votre arrivée en Belgique ! Vous en aurez besoin !
-
----
-
-## Wrap-up: What You've Accomplished!
-
-## Key Points: You've Learned So Much!
-
-✅ **Vocabulary:** Clothes (manteau, veste, pantalon, etc.)  
-✅ **Grammar:** The verb "porter" (to wear)  
-✅ **Skills:** Talking about what you wear, describing clothes for different seasons
-
-**You should be proud!** 🎉 You can now talk about clothes and what to wear in different seasons!
-
-
-
-
-
-## Self-Evaluation: Check Your Progress!
-
-**I can now:**
-- [ ] Name clothing items in French
-- [ ] Use "porter" correctly
-- [ ] Talk about what I'm wearing
-- [ ] Describe appropriate clothing for each season
-
-**If you're struggling:**
-- Practice conjugating "porter" daily
-- Write about what you wear in French
-- Review clothing vocabulary with pictures
-- Practice seasonal clothing vocabulary
-
-**Remember:** Learning a language takes time. Be patient with yourself! 🎊
+| Incorrect | Correct |
+|:----------|:--------|
+| une robe bleu | une robe **bleue** |
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
+## Self-Evaluation
 
-**Want to practice more?**
+**Check what you can do:**
 
-- **Wardrobe Check:** Open your closet and name 5 items in French.
-- **Online Shopping:** Visit a French clothing site (e.g., Zalando.be in FR) and filter by "couleur" or "taille".
-- **Weather Prep:** Check the weather forecast for tomorrow and describe what you will wear.
-- **People Watching:** Sit in a park (or look out the window) and describe what people are wearing.
-
----
-
-*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+- [ ] I know basic clothing vocabulary
+- [ ] I can describe what I'm wearing
+- [ ] I know the four seasons in French
+- [ ] I can say what to wear in each season
+- [ ] I can use colors correctly with clothing
 
 ---
 
-## Prochaine leçon
+## Extra Resources
 
-**Leçon suivante :** Les loisirs et les hobbies  
-**Thème :** Parler de ce qu'on aime faire  
-**Prérequis :** Verbe aimer
+### Additional activities
 
+- **Wardrobe inventory:** List your clothes in French
+- **Weather check:** Look at the forecast and plan your outfit in French
+- **Shopping:** Visit a Belgian shop and practice vocabulary
+
+### Next lesson
+
+> **Leçon 07 : Les loisirs et les hobbies**  
+> You'll learn to talk about free time activities!
+
+---
+
+*Bonne continuation !*

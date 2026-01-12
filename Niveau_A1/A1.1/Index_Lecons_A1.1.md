@@ -1,6 +1,6 @@
 # Index des leçons - Niveau A1.1
 
-## Liste des 15 leçons
+## Liste des 17 leçons
 
 1. **Leçon 01** : Se présenter en Belgique ✅
 2. **Leçon 02** : Les salutations et formules de politesse ✅
@@ -17,6 +17,9 @@
 13. **Leçon 13** : Faire les courses à Delhaize 🆕
 14. **Leçon 14** : À la commune - Les démarches 🆕
 15. **Leçon 15** : Révision et évaluation A1.1 ✅
+16. **Leçon 16** : Expression écrite A1.1 (Consolidation) 🎓
+17. **Leçon 17** : Compréhension orale A1.1 (Consolidation) 🎓
+
 
 ## Thèmes grammaticaux couverts
 

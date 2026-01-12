@@ -1,0 +1,28 @@
+[
+    {
+        "id": "recycling_setup",
+        "title": "Waste Management Setup",
+        "items": [
+            {
+                "id": "schedule",
+                "label": "Download 'Recycle!' App",
+                "description": "It tells you exactly when to put out which bag."
+            },
+            {
+                "id": "buy_bags",
+                "label": "Buy Blue, Yellow, and White Bags",
+                "description": "They are at the checkout counter in supermarkets."
+            },
+            {
+                "id": "glass_loc",
+                "label": "Locate nearest Glass Bubble",
+                "description": "Ideally one that is not right under your own window."
+            },
+            {
+                "id": "fox_proof",
+                "label": "Fox-Proof Your Strategy",
+                "description": "If you live on the ground floor, consider a hard bin."
+            }
+        ]
+    }
+]

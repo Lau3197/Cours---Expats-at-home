@@ -1,0 +1,28 @@
+[
+    {
+        "id": "social_life",
+        "title": "Social Integration",
+        "items": [
+            {
+                "id": "meetup",
+                "label": "Join a Meetup Group",
+                "description": "Check Meetup.com for hobbies you love."
+            },
+            {
+                "id": "plux",
+                "label": "Visit 'Place Lux' on Thursday",
+                "description": "Experience the absolute chaos of the Expat Afterwork. Do it once."
+            },
+            {
+                "id": "sport",
+                "label": "Find a Sport Activity",
+                "description": "Climbing, Yoga, Football. Whatever moves you."
+            },
+            {
+                "id": "neighbor",
+                "label": "Say Hello to a Neighbor",
+                "description": "A simple 'Bonjour' in the hallway changes everything."
+            }
+        ]
+    }
+]

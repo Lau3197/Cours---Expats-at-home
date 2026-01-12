@@ -1,0 +1,28 @@
+[
+    {
+        "id": "giving_back",
+        "title": "Volunteer Plan",
+        "items": [
+            {
+                "id": "serve_app",
+                "label": "Download 'ServeNow' App",
+                "description": "Browse the upcoming projects."
+            },
+            {
+                "id": "closet_clean",
+                "label": "Clean Your Closet",
+                "description": "Donate clothes to 'Les Petits Riens' (Yellow bins)."
+            },
+            {
+                "id": "blood_donor",
+                "label": "Check Blood Eligibility",
+                "description": "If you can give blood, book an appointment."
+            },
+            {
+                "id": "smile",
+                "label": "The Smile Challenge",
+                "description": "Smile at 3 strangers today. Brussels needs it."
+            }
+        ]
+    }
+]

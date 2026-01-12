@@ -1,0 +1,28 @@
+[
+    {
+        "id": "citizenship_prep",
+        "title": "The 5-Year Plan",
+        "items": [
+            {
+                "id": "digital_folder",
+                "label": "Create 'Belgian Nationality' Folder",
+                "description": "Start scanning documents today."
+            },
+            {
+                "id": "language_goal",
+                "label": "Set A2 Goal",
+                "description": "If you aren't A2 yet, sign up for a class."
+            },
+            {
+                "id": "work_days",
+                "label": "Track Work Days",
+                "description": "Keep an eye on that 468-day target."
+            },
+            {
+                "id": "commune_check",
+                "label": "Check Residence Card Expiry",
+                "description": "Set a calendar alert 3 months before it expires."
+            }
+        ]
+    }
+]

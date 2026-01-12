@@ -2,434 +2,317 @@
 
 **Niveau** : A1.2  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Apprendre à dire l'heure, comprendre les horaires en Belgique
+**Objectifs** : Tell time, understand schedules, make appointments
 
 ---
 
+## Let's Start! What time is it?
 
-## Let's Start! Your Time Adventure!
+### Listen to this dialogue
 
-## 🎲 Discovery Activity: What Time Is It?
+**Tom calls to make a doctor's appointment:**
 
-**Here's a fun situation!** 🎮
-
-You're asking about the time in French. Someone says:
-
-"Il est **neuf heures** du matin. Le rendez-vous est à **quinze heures**."
-
-**Your challenge:** Can you guess what these times are?
-
-**Match each time with its meaning:**
-
-**A)** 9 AM  
-**B)** 3 PM  
-**C)** 9 PM
-
-**Write down your guesses:**
-- neuf heures = ?
-- quinze heures = ?
-
-*(Hint: Think about the 24-hour format!)*
-
-**Don't worry if you're not sure - we'll discover the answers together!** 🤔
-
-**Ready to learn about time?** Keep reading! 👇
+> **Secrétaire :** Cabinet médical du Dr Martin, bonjour !
+> 
+> **Tom :** Bonjour, je voudrais prendre rendez-vous, s'il vous plaît.
+> 
+> **Secrétaire :** Bien sûr. C'est pour quand ?
+> 
+> **Tom :** C'est possible demain ?
+> 
+> **Secrétaire :** Demain... J'ai une place à **dix heures** ou à **quatorze heures trente**. Qu'est-ce qui vous convient ?
+> 
+> **Tom :** **Dix heures**, c'est parfait.
+> 
+> **Secrétaire :** Très bien. C'est à quelle nom ?
+> 
+> **Tom :** Tom Smith.
+> 
+> **Secrétaire :** D'accord. Donc demain à dix heures. Le cabinet ouvre à **huit heures** et ferme à **dix-huit heures**. N'hésitez pas à arriver **cinq minutes** avant.
+> 
+> **Tom :** Merci beaucoup. Au revoir !
 
 ---
 
-## 📋 Introduction
+### Comprehension
 
-**Did you guess correctly?** 🎉
+**Answer the questions:**
 
-**The answers are:**
-- **neuf heures** = A) 9 AM ✅
-- **quinze heures** = B) 3 PM ✅ (15:00 in 24-hour format)
+1. What time options does the secretary offer?
+2. Which time does Tom choose?
+3. What time does the office open?
+4. What time does the office close?
+5. When should Tom arrive?
 
-**Great job if you got them right!** Even if you didn't, you're about to learn all about telling time in French!
+<details>
+<summary>Answers</summary>
 
-Welcome to your lesson about time and schedules! 🎉
+1. 10h or 14h30
+2. 10h
+3. 8h
+4. 18h
+5. 5 minutes before
 
-Being able to tell time and understand schedules is essential! Whether you're making appointments, catching transport, or planning meetings, this lesson will help you!
-
-**What you will learn today:**
-- How to tell time in French
-- 12-hour and 24-hour formats
-- Time expressions
-- Understanding schedules
-
-**Why this matters in Belgium:**
-Belgium uses both 12-hour and 24-hour formats. Understanding time is crucial for appointments, transport schedules, and daily life!
+</details>
 
 ---
 
-## 🎮 Warm-up Activity: Match the Times!
+## Observation 1: Telling time (formal)
 
-**Match these times:**
+**Look at how time is expressed:**
 
-1. **neuf heures** [nœf œʁ]
-   - A) 9 AM
-   - B) 9 PM
-   - C) 19:00
+> **Dix heures** (10h)  
+> **Quatorze heures trente** (14h30)  
+> **Huit heures** (8h)  
+> **Dix-huit heures** (18h)
 
-2. **quinze heures** [kɛ̃z œʁ]
-   - A) 3 PM
-   - B) 5 PM
-   - C) 15:00
+### The 24-hour clock (formal)
 
-3. **vingt heures** [vɛ̃t œʁ]
-   - A) 8 PM
-   - B) 20:00
-   - C) 8 AM
+In French, the 24-hour clock is used for schedules, appointments, and official settings.
 
-**Ready to check?**
-- **1-A (9 AM)** ✅
-- **2-A/C (3 PM / 15:00)** ✅
-- **3-A/B (8 PM / 20:00)** ✅
-
-**🎉 How many did you get right?** You're discovering time! 🙌
+| 24h | Spoken French | English |
+|:----|:--------------|:--------|
+| 8h00 | huit heures | 8:00 AM |
+| 12h00 | douze heures | 12:00 PM |
+| 14h30 | quatorze heures trente | 2:30 PM |
+| 18h00 | dix-huit heures | 6:00 PM |
+| 20h45 | vingt heures quarante-cinq | 8:45 PM |
 
 ---
 
-## French Pronunciation: Quick Reference
+## Observation 2: Telling time (informal)
 
-**Key sounds:**
-- **heures** [œʁ] - The "eu" [ø] sound and French R [ʁ]
-- **matin** [matɛ̃] - Nasal sound [ɛ̃]
+**In everyday conversation, the 12-hour clock is common:**
 
----
+| Formal (24h) | Informal (12h) | English |
+|:-------------|:---------------|:--------|
+| 14h00 | deux heures (de l'après-midi) | 2:00 PM |
+| 19h00 | sept heures (du soir) | 7:00 PM |
+| 8h00 | huit heures (du matin) | 8:00 AM |
 
-## Vocabulary: Essential Words
+### Time expressions
 
-## Key Time Vocabulary
-
-| Français | IPA | English | Example |
-|----------|-----|---------|---------|
-| **Quelle heure est-il ?** | [kɛl œʁ ɛtil] | What time is it? | Quelle heure est-il ? |
-| **Il est... heures** | [il ɛ ... œʁ] | It is... o'clock | Il est neuf heures. |
-| **Du matin** | [dy matɛ̃] | In the morning | Il est 9h du matin. |
-| **De l'après-midi** | [də lapʁɛmidi] | In the afternoon | Il est 15h de l'après-midi. |
-| **Du soir** | [dy swaʁ] | In the evening | Il est 20h du soir. |
-| **À** | [a] | At (for time) | Le rendez-vous est à 14h. |
-| **Vers** | [vɛʁ] | Around / About | Je viens vers 18h. |
-| **À quelle heure ?** | [a kɛl œʁ] | At what time? | À quelle heure est le rendez-vous ? |
-| **Je suis en retard.** | [ʒə sɥi ɑ̃ ʁətaʁ] | I'm late. | Oh non, je suis en retard ! |
-| **C'est ouvert ?** | [sɛt uvɛʁ] | Is it open? | C'est ouvert le dimanche ? |
-| **C'est fermé.** | [sɛ fɛʁme] | It's closed. | Le magasin est fermé. |
-
-## Useful Expressions
-
-- **À quelle heure est... ?** [a kɛl œʁ ɛ] : What time is...?
-- **Il est midi.** [il ɛ midi] : It's noon (12:00)
-- **Il est minuit.** [il ɛ minɥi] : It's midnight (00:00)
-- **Et quart** [e kaʁ] : Quarter past
-- **Et demie** [e dəmi] : Half past
-- **Moins le quart** [mwɛ̃ lə kaʁ] : Quarter to
-
-## Belgian-Specific Vocabulary
-
-- **Les horaires** [le ɔʁɛʁ] : Schedules / Opening hours
-- **Les heures d'ouverture** [lez œʁ duvɛʁtyʁ] : Opening hours
-- **Les heures de fermeture** [lez œʁ də fɛʁmətyʁ] : Closing hours
-
-**Fun fact:** In Belgium, shops usually close around 6-7 PM on weekdays, and many are closed on Sundays!
+| French | English |
+|:-------|:--------|
+| du matin | in the morning |
+| de l'après-midi | in the afternoon |
+| du soir | in the evening |
 
 ---
 
-## Common Mistakes to Avoid
+## Observation 3: Expressing minutes
 
-**Before we dive into grammar, watch out for these common mistakes:**
+**Look at these examples:**
 
-**Mistake 1:** Saying "Il est un heure" ❌  
-**Correct:** "Il est une heure" (It is one o'clock) ✅  
-**Why:** "Heure" is feminine, so use "une heure" (not "un heure"). Also, "une" is used for 1, "deux", "trois", etc. for other numbers.
+| Time | French |
+|:-----|:-------|
+| 10h15 | dix heures **et quart** |
+| 10h30 | dix heures **et demie** |
+| 10h45 | onze heures **moins le quart** |
+| 10h20 | dix heures **vingt** |
+| 10h50 | onze heures **moins dix** |
 
-**Mistake 2:** Using "Il est [number]" without "heure" ❌  
-**Correct:** "Il est [number] heure(s)" ✅  
-**Why:** Always include "heure" (hour) when telling time. Pattern: "Il est [number] heure(s)".
+### Key expressions
 
-**Mistake 3:** Confusing 12-hour and 24-hour formats: "Il est 15 heures" vs "Il est 3 heures de l'après-midi" ❌  
-**Correct:** Both are correct! "15 heures" (24-hour format) = "3 heures de l'après-midi" (12-hour format) ✅  
-**Why:** Belgium uses both formats. "15 heures" is 3 PM. Learn both: "15h" (24h) = "3h de l'après-midi" (12h).
-
-**Mistake 4:** Wrong structure for "half past": "Il est demi [heure]" ❌  
-**Correct:** "Il est [heure] et demie" (feminine) ✅  
-**Why:** For "half past", use "[heure] et demie". "Demie" agrees with "heure" (feminine). Example: "Il est deux heures et demie" (2:30).
-
----
-
-## Grammar: Telling Time
-
-## Basic Time Structure
-
-**Il est + number + heures**
-
-**Examples:**
-- **Il est neuf heures.** [il ɛ nœf œʁ] = "It's 9 o'clock."
-- **Il est quinze heures.** [il ɛ kɛ̃z œʁ] = "It's 3 PM / 15:00."
-
-## 12-Hour vs 24-Hour Format
-
-**12-hour format (with context):**
-- **Il est neuf heures du matin.** = "It's 9 AM."
-- **Il est neuf heures du soir.** = "It's 9 PM."
-
-**24-hour format (official):**
-- **Il est neuf heures.** (9:00) = 9 AM
-- **Il est vingt et une heures.** (21:00) = 9 PM
-
-## Minutes
-
-**Examples:**
-- **Il est neuf heures et quart.** = "It's 9:15."
-- **Il est neuf heures et demie.** = "It's 9:30."
-- **Il est dix heures moins le quart.** = "It's 9:45."
+| French | English |
+|:-------|:--------|
+| et quart | quarter past |
+| et demie | half past |
+| moins le quart | quarter to |
+| moins [minutes] | [minutes] to |
 
 ---
 
-## Grammar Exercises
+## Practice 1: Write the time
 
-## Exercise 1: Tell the Time
+**Write these times in French:**
 
-**Write the time in French:**
+1. 9:00 AM → _______________
+2. 3:30 PM (formal) → _______________
+3. 6:15 PM (informal) → _______________
+4. 7:45 AM → _______________
+5. 12:00 PM → _______________
 
-1. 9:00 AM: _______________
-2. 3:00 PM: _______________
-3. 8:30 PM: _______________
-4. 10:15 AM: _______________
+<details>
+<summary>Answers</summary>
 
-**Answers:**
-1. Il est neuf heures du matin.
-2. Il est quinze heures. / Il est trois heures de l'après-midi.
-3. Il est vingt heures trente. / Il est huit heures et demie du soir.
-4. Il est dix heures et quart du matin.
+1. Neuf heures (du matin)
+2. Quinze heures trente
+3. Six heures et quart (du soir)
+4. Huit heures moins le quart
+5. Midi / Douze heures
 
----
-
-## Listening Comprehension
-
-## Audio: Asking About Time
-
-**Transcription:**
-
-**Tom :** Excusez-moi, quelle heure est-il ?
-
-**Passant :** Il est quatorze heures trente.
-
-**Tom :** Merci ! Et à quelle heure ferme le magasin ?
-
-**Passant :** Il ferme à dix-neuf heures.
-
-**Questions:**
-1. What time is it?
-2. What time does the shop close?
-
-**Answers:**
-1. 14:30 (2:30 PM)
-2. 19:00 (7 PM)
+</details>
 
 ---
 
-## Reading Comprehension
+## Observation 4: Asking about time
 
-## Text: Les horaires en Belgique
+### Questions about time
 
-En Belgique, les magasins ouvrent généralement à 9h et ferment à 18h ou 19h. Le déjeuner est souvent entre 12h et 13h. Beaucoup de magasins sont fermés le dimanche. Les restaurants servent le dîner vers 19h-20h.
+| French | English |
+|:-------|:--------|
+| Quelle heure est-il ? | What time is it? |
+| Il est quelle heure ? | What time is it? (informal) |
+| À quelle heure... ? | At what time...? |
+| Le magasin ouvre à quelle heure ? | What time does the store open? |
+| C'est à quelle heure ? | What time is it (the event)? |
 
-**Questions:**
-1. What are typical shop hours?
-2. When do restaurants serve dinner?
+### Answers
 
-**Answers:**
-1. 9h-18h ou 19h (9 AM to 6-7 PM)
-2. Vers 19h-20h (around 7-8 PM)
-
----
-
-**💡 Important:** "Midi" (noon) and "Minuit" (midnight) are used more often than 12h or 24h!
-
----
-
-## Speaking Practice: Your Turn!
-
-## Solo Speaking Practice (If you're studying alone)
-
-**Method 1: Record Yourself**
-1. Read the dialogue model below
-2. Record yourself asking and telling time on your phone
-3. Listen back and check your pronunciation
-4. Focus on using "Quelle heure est-il ?" and "Il est [heure]" correctly
-
-**Method 2: Shadowing Technique**
-1. Play the video/audio of the dialogue
-2. Repeat immediately after each line (shadowing)
-3. Try to match the rhythm and pronunciation
-4. Pay attention to time expressions
-
-**Method 3: Practice Both Roles**
-1. Read the entire dialogue out loud, playing both roles
-2. This helps you practice both asking and answering about time
-3. Try different variations (different times, schedules)
-
-## Role Play: Asking About Time
-
-**Dialogue:**
-
-**Vous :** Excusez-moi, quelle heure est-il ?
-
-**Passant :** Il est [heure].
-
-**Vous :** Merci ! Et à quelle heure ouvre le magasin ?
-
-**Passant :** Il ouvre à [heure].
+| French | English |
+|:-------|:--------|
+| Il est dix heures. | It's 10 o'clock. |
+| Le magasin ouvre à 9h. | The store opens at 9. |
+| Le film commence à 20h30. | The movie starts at 8:30 PM. |
 
 ---
 
-## Real-World Practice: Try This Today!
+## Practice 2: Complete the dialogue
 
-**This week, challenge yourself to use what you've learned:**
+**Fill in the blanks:**
 
-**Practice opportunities:**
-- [ ] Practice telling time in French out loud every day
-- [ ] Write down different times: "Il est [heure]"
-- [ ] Practice asking: "Quelle heure est-il ?"
-- [ ] Practice with appointments: "À quelle heure est le rendez-vous ?"
+**You :** Pardon, _____________ heure est-il ?
 
-**Don't worry if you make mistakes - practice makes perfect!**  
-**The most important thing is to practice telling time daily.**
+**Stranger :** Il _____________ trois heures.
 
-**Success tip:** Start simple - practice just the hours first ("Il est deux heures"), then gradually add minutes!
+**You :** Et le musée ferme _____________ quelle heure ?
+
+**Stranger :** Il ferme _____________ dix-sept heures.
+
+<details>
+<summary>Answers</summary>
+
+1. Quelle
+2. est
+3. à
+4. à
+
+</details>
 
 ---
 
-## Troubleshooting: Having Trouble?
+## Culture: Time in Belgium
 
-**If you're struggling with "Il est [heure]":**
-- Remember: "Il est" (It is) + [number] + "heure(s)"
-- Pattern: "Il est une heure" (1 o'clock), "Il est deux heures" (2 o'clock)
-- Don't forget "heure" - it's always needed!
-- Practice: "Il est une heure", "Il est deux heures", "Il est trois heures"
+### Read this testimony
 
-**If "une" vs "un" confuses you:**
-- "une heure" (one o'clock) - "heure" is feminine, so use "une"
-- For other numbers, use the number directly: "deux heures", "trois heures", "quatre heures"
-- Only "une" (1) needs the feminine form because "heure" is feminine
-- Practice: "une heure" (1h), "deux heures" (2h), "trois heures" (3h)
+**Marc, Belgian businessman:**
 
-**If 24-hour format confuses you:**
-- 24-hour format: "15 heures" = 3 PM, "20 heures" = 8 PM
-- Pattern: add 12 to PM times (3 PM = 15h, 8 PM = 20h)
-- Belgium uses both formats - learn both!
-- Practice: "15 heures" (3 PM), "20 heures" (8 PM)
+> "Belgians are quite punctual for professional meetings – arrive on time or even 5 minutes early. For social events, it's acceptable to be 10-15 minutes late. Opening hours can vary: most shops close around 18h, but some small shops close for lunch between 12h and 14h. Sunday is generally a quiet day – many shops are closed."
 
-**If "et demie" (half past) confuses you:**
-- Pattern: "[heure] et demie" (half past [hour])
-- "Demie" is feminine (agrees with "heure")
-- Example: "Il est deux heures et demie" (2:30)
-- Practice: "une heure et demie" (1:30), "deux heures et demie" (2:30)
+### Business hours in Belgium
 
-**Still stuck?** Telling time is essential for daily life. Focus on mastering "Il est [heure]" and "Quelle heure est-il ?" first. These are the essentials!
+| Establishment | Typical hours |
+|:--------------|:--------------|
+| Offices | 9h-17h or 8h30-17h30 |
+| Banks | 9h-16h (some close 12h-13h30) |
+| Shops | 10h-18h or 10h-19h |
+| Supermarkets | 8h-20h (some open earlier/later) |
+| Post offices | 9h-17h |
+| Pharmacies | 9h-18h30 (with duty pharmacies at night) |
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Tell the time
+
+**Say these times out loud:**
+
+1. Your current time
+2. 8:30 AM
+3. 2:15 PM
+4. 6:45 PM
+5. Midnight
+
+### Exercise 2: Make an appointment
+
+**Call to make an appointment using this structure:**
+
+1. Greeting
+2. "Je voudrais prendre rendez-vous"
+3. Choose a time slot
+4. Confirm
 
 ---
 
 ## Writing Practice
 
-**Exercice :** Écrivez votre emploi du temps typique avec les heures (6-7 phrases)
+**Write a dialogue making an appointment (8-10 lines):**
+
+Include:
+- Calling and requesting an appointment
+- Being offered time options
+- Choosing a time
+- Confirming details
 
 ---
 
-## Culture belge
+## Grammar: Prepositions of time
 
-## Les horaires en Belgique
+### Key prepositions
 
-En Belgique, les horaires sont assez réguliers. Les magasins ferment généralement tôt (18h-19h), et beaucoup sont fermés le dimanche. Le déjeuner est important - souvent entre 12h et 13h.
-
-**Comparaison culturelle / Cultural comparison:**
-
-**Dans beaucoup de pays :**
-- Les magasins peuvent être ouverts tard (jusqu'à 22h-23h)
-- On peut faire ses courses le dimanche
-- Le déjeuner est parfois rapide
-
-**En Belgique :**
-- Les magasins ferment tôt (18h-19h généralement)
-- Beaucoup de magasins sont fermés le dimanche
-- Le déjeuner est important - souvent 1 heure (12h-13h)
-- Les restaurants servent le dîner plus tôt (19h-20h)
-
-**Pourquoi c'est important :** Comprendre les horaires belges vous aide à planifier vos journées et à ne pas être surpris par les fermetures !
-
-💡 **Tip pratique :** Faites vos courses avant 18h en semaine ! Et vérifiez les horaires d'ouverture le dimanche - beaucoup de magasins sont fermés !
+| Preposition | Use | Example |
+|:------------|:----|:--------|
+| à | specific time | à 10 heures |
+| de...à | from...to | de 9h à 17h |
+| vers | around | vers 15h |
+| jusqu'à | until | jusqu'à midi |
+| avant | before | avant 8h |
+| après | after | après 18h |
 
 ---
 
-## Wrap-up: What You've Accomplished!
+## Common Mistakes to Avoid
 
-## Key Points: You've Learned So Much!
+### Mistake 1: Using "12h" incorrectly
 
-✅ **Vocabulary:** Time expressions (heure, minutes, etc.)  
-✅ **Grammar:** Telling time ("Il est [heure]")  
-✅ **Skills:** Telling time, asking about time, understanding schedules
+| Time | Correct |
+|:-----|:--------|
+| 12:00 PM | **Midi** (not "douze heures" in conversation) |
+| 12:00 AM | **Minuit** (not "zéro heure") |
 
-**You should be proud!** 🎉 You can now tell time and understand schedules in French!
+### Mistake 2: Forgetting "heures"
 
+| Incorrect | Correct |
+|:----------|:--------|
+| Il est dix | Il est dix **heures** |
 
+### Mistake 3: Mixing systems
 
-## Self-Evaluation: Check Your Progress!
+| Confusing | Clear |
+|:----------|:------|
+| 14 heures du soir | 14 heures **or** 2 heures du soir |
 
-**I can now:**
-- [ ] Tell time using "Il est [heure]"
-- [ ] Ask "Quelle heure est-il ?"
-- [ ] Understand 12-hour and 24-hour formats
-- [ ] Use time expressions in conversations
-
-**If you're struggling:**
-- Practice "Il est [heure]" daily
-- Review numbers (1-24)
-- Practice telling time out loud
-- Review time expressions
-
-**Remember:** Learning a language takes time. Be patient with yourself! 🎊
+**Don't mix 24h clock with du matin/du soir!**
 
 ---
 
-## Récapitulatif (Summary)
+## Self-Evaluation
 
-**Points clés :**
-- Dire l'heure
-- Comprendre les horaires
-- Formats 12h et 24h
+**Check what you can do:**
 
-**Auto-évaluation:**
-- [ ] Je peux dire l'heure
-- [ ] Je comprends les horaires belges
-- [ ] Je connais les formats 12h et 24h
-
-
+- [ ] I can ask what time it is
+- [ ] I can tell time using formal (24h) and informal (12h) systems
+- [ ] I can use expressions like "et demie" and "moins le quart"
+- [ ] I can ask about and understand opening hours
+- [ ] I can make an appointment
 
 ---
 
-## Extra Resources: Keep the Momentum Going!
+## Extra Resources
 
-**Want to practice more?**
+### Additional activities
 
-- **Practice Watch:** Look at a clock and say the time in French every hour.
-- **Schedule:** Write down your daily schedule with times (e.g., "9h00: Réunion").
-- **Station:** Go to a train station (Gare du Midi) or check the SNCB app and read the arrival/departure times.
-- **Challenge:** Set your alarm clock and say "Je me lève à [heure]" out loud.
+- **Clock practice:** Throughout the day, say the current time in French
+- **Schedules:** Look up the opening hours of local shops in French
+- **Appointments:** Make a real appointment in French
 
----
+### Next lesson
 
-*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
-
----
-
-*Keep going! You're doing great! / Continuez ! Vous y arrivez !* 🎉
+> **Leçon 04 : Les activités quotidiennes**  
+> You'll learn to describe your daily routine!
 
 ---
 
-## Prochaine leçon
-
-**Leçon suivante :** Les activités quotidiennes  
-**Thème :** Parler de sa routine quotidienne  
-**Prérequis :** Connaître l'heure
-
+*Bonne continuation !*
