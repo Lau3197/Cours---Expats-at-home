@@ -24,6 +24,34 @@ const courseStructure = {
 
 // Configuration for manual module grouping (optional overrides)
 const moduleOverrides = {
+    'A1.1': [
+        { title: "Module 1 : Bases et Identité", lessons: [1, 2, 3, 4] },
+        { title: "Module 2 : Vie Sociale & Environnement", lessons: [5, 6, 7, 8] },
+        { title: "Module 3 : Le Temps et les Goûts", lessons: [9, 10, 11, 12] },
+        { title: "Module 4 : Vie Quotidienne", lessons: [13, 14, 15] },
+        { title: "Module 5 : Compétences & Bilan", lessons: [16, 17] }
+    ],
+    'A1.2': [
+        { title: "Module 1 : Sorties et Loisirs", lessons: [1, 2, 3, 4] },
+        { title: "Module 2 : Vie Quotidienne", lessons: [5, 6, 7, 8] },
+        { title: "Module 3 : Voyage et Déplacement", lessons: [9, 10, 11, 12] },
+        { title: "Module 4 : Santé et Services", lessons: [13, 14, 15, 16] },
+        { title: "Module 5 : Compétences & Bilan", lessons: [17, 18] }
+    ],
+    'A2.1': [
+        { title: "Module 1 : Souvenirs et Passé", lessons: [1, 2, 3, 4] },
+        { title: "Module 2 : Raconter une histoire", lessons: [5, 6, 7, 8] },
+        { title: "Module 3 : Projets et Futur", lessons: [9, 10, 11, 12] },
+        { title: "Module 4 : Vie Professionnelle", lessons: [13, 14, 15, 16] },
+        { title: "Module 5 : Société et Actualité", lessons: [17, 18, 19, 20] },
+        { title: "Module 6 : Compétences & Bilan", lessons: [21, 22] }
+    ],
+    'a1-global': [
+        { title: "Mission d'Infiltration", lessons: [19, 20, 21] }
+    ],
+    'a2-global': [
+        { title: "Enquêtes & Mystères", lessons: [21, 22, 23] }
+    ],
     'B1.1': [
         { title: "Module 1", lessons: [1, 2, 3] },
         { title: "Module 2", lessons: [4, 5] },
@@ -35,7 +63,24 @@ const moduleOverrides = {
         { title: "Module 8", lessons: [22, 23] },
         { title: "Module 9", lessons: [24, 25] },
         { title: "Module 10", lessons: [26, 27, 28] },
-        { title: "Module 11", lessons: [29, 30, 31, 32] }
+        { title: "Module 11", lessons: [29, 30, 31, 32] },
+        { title: "Module 12 : Compétences & Bilan", lessons: [33, 34] }
+    ],
+    'B1.2': [
+        // Using Module X naming or just auto-grouping by default if linear
+        // But since we have many lessons, explicit is safer if gaps exist
+        { title: "Module 1", lessons: [1, 2, 3, 4] },
+        { title: "Module 2", lessons: [5, 6, 7, 8] },
+        { title: "Module 3", lessons: [9, 10, 11, 12] },
+        { title: "Module 4", lessons: [13, 14, 15, 16] },
+        { title: "Module 5", lessons: [17, 18, 19, 20] },
+        { title: "Module 6", lessons: [21, 22, 23, 24] },
+        { title: "Module 7", lessons: [25, 26, 27, 28] },
+        { title: "Module 8", lessons: [29, 30, 31, 32] },
+        { title: "Module 9 : Compétences & Bilan", lessons: [33] }
+    ],
+    'b1-global': [
+        { title: "Débats & Négociations", lessons: [34, 35, 36] }
     ]
 };
 
@@ -75,12 +120,12 @@ function findLessonFiles() {
     const lessons = [];
     const courseDirs = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'B2.1', 'B2.2'];
 
+    // 1. Standard Courses
     for (const courseDir of courseDirs) {
         const levelPrefix = courseDir[0] + courseDir[1];
         const coursePath = join(rootDir, 'Niveau_' + levelPrefix, courseDir);
 
         if (!existsSync(coursePath)) {
-            // console.log(`⚠️  Directory not found: ${coursePath}`);
             continue;
         }
 
@@ -96,7 +141,7 @@ function findLessonFiles() {
         for (const lessonDir of lessonDirs) {
             const lessonPath = join(coursePath, lessonDir);
             const files = readdirSync(lessonPath)
-                .filter(f => f.endsWith('.md') && !f.includes('-Laurine')) // Exclude Laurine's copies if any
+                .filter(f => f.endsWith('.md') && !f.includes('-Laurine'))
                 .sort();
 
             if (files.length > 0) {
@@ -115,6 +160,63 @@ function findLessonFiles() {
                         content,
                         ...metadata
                     });
+                }
+            }
+        }
+    }
+
+    // 2. Global Modules
+    const globalModules = [
+        { dir: 'Module_Global_A1', level: 'A1', id: 'a1-global', title: 'Module Global A1 : Mission Agent Secret', description: 'Une mission secrète immersive pour réviser tout le niveau A1 de manière ludique !' },
+        { dir: 'Module_Global_A2', level: 'A2', id: 'a2-global', title: 'Module Global A2 : Le Voyage Temporel', description: 'Enquêtez sur un vol et voyagez dans le temps pour consolider vos acquis A2.' },
+        { dir: 'Module_Global_B1', level: 'B1', id: 'b1-global', title: 'Module Global B1 : Sommet Francophone', description: 'Prenez la tête d\'un magazine et participez à un sommet international. Argumentez et convainquez !' }
+    ];
+
+    for (const mod of globalModules) {
+        const coursePath = join(rootDir, `Niveau_${mod.level}`, mod.dir);
+
+        if (existsSync(coursePath)) {
+            // Register course in structure if missing
+            if (!courseStructure[mod.dir]) {
+                courseStructure[mod.dir] = {
+                    level: mod.level,
+                    title: mod.title,
+                    description: mod.description
+                };
+            }
+
+            const lessonDirs = readdirSync(coursePath, { withFileTypes: true })
+                .filter(dirent => dirent.isDirectory() && dirent.name.startsWith('Lecon_'))
+                .map(dirent => dirent.name)
+                .sort((a, b) => {
+                    const numA = parseInt(a.match(/\d+/)?.[0] || '0');
+                    const numB = parseInt(b.match(/\d+/)?.[0] || '0');
+                    return numA - numB;
+                });
+
+            for (const lessonDir of lessonDirs) {
+                const lessonPath = join(coursePath, lessonDir);
+                const files = readdirSync(lessonPath)
+                    .filter(f => f.endsWith('.md') && !f.includes('-Laurine'))
+                    .sort();
+
+                if (files.length > 0) {
+                    const filePath = join(lessonPath, files[0]);
+                    const content = readMarkdownFile(filePath);
+
+                    if (content) {
+                        const metadata = extractMetadata(content);
+                        const lessonNumber = lessonDir.match(/\d+/)?.[0] || '0';
+
+                        lessons.push({
+                            courseId: mod.id,
+                            courseDir: mod.dir, // Use directory as key for structure lookup
+                            lessonNumber: parseInt(lessonNumber),
+                            lessonId: `l${lessonNumber.padStart(2, '0')}`,
+                            content,
+                            ...metadata
+                        });
+                    }
                 }
             }
         }

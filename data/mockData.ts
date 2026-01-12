@@ -430,6 +430,141 @@ export const masterCurriculum: CoursePackage[] = [
         ]
       }
     ]
+  },
+  {
+    id: 'a1-global',
+    title: 'Module Global A1 : Préparation DELF',
+    level: 'A1',
+    description: 'A comprehensive review of the A1 level with focused preparation for the DELF A1 exam.',
+    resources: [],
+    sections: [
+      {
+        id: 'section-1',
+        title: 'Préparation & Examen Blanc',
+        lessons: [
+          {
+            id: 'l19',
+            title: 'Leçon 19 : Expression écrite Globale A1 (DELF A1)',
+            duration: '3-4 heures',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 19 : Expression écrite Globale A1\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l20',
+            title: 'Leçon 20 : Compréhension orale Globale A1 (DELF A1)',
+            duration: '3-4 heures',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 20 : Compréhension orale Globale A1\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l21',
+            title: 'Leçon 21 : Examen Final A1 (DELF A1 Simulation)',
+            duration: '15:00',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 21 : Examen Final A1\n\nContenu chargé dynamiquement.'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'a2-global',
+    title: 'Module Global A2 : Préparation DELF',
+    level: 'A2',
+    description: 'Consolidation of A2 skills and detailed preparation for the DELF A2 exam.',
+    resources: [],
+    sections: [
+      {
+        id: 'section-1',
+        title: 'Préparation & Examen Blanc',
+        lessons: [
+          {
+            id: 'l21',
+            title: 'Leçon 21 : Expression écrite Globale A2',
+            duration: '2h30',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 21 : Expression écrite Globale A2\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l22',
+            title: 'Leçon 22 : Compréhension orale Globale A2',
+            duration: '2h30',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 22 : Compréhension orale Globale A2\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l23',
+            title: 'Leçon 23 : Examen Final A2 (Simulation DELF)',
+            duration: '3h00',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 23 : Examen Final A2\n\nContenu chargé dynamiquement.'
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'b1-global',
+    title: 'Module Global B1 : Préparation DELF',
+    level: 'B1',
+    description: 'Advanced preparation for the DELF B1 exam with essay writing and complex listening tasks.',
+    resources: [],
+    sections: [
+      {
+        id: 'section-1',
+        title: 'Préparation & Examen Blanc',
+        lessons: [
+          {
+            id: 'l34',
+            title: 'Leçon 34 : Expression écrite Globale B1 - Préparation DELF',
+            duration: '3h00',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 34 : Expression écrite Globale B1\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l35',
+            title: 'Leçon 35 : Compréhension orale Globale B1 - Préparation DELF',
+            duration: '2h30',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 35 : Compréhension orale Globale B1\n\nContenu chargé dynamiquement.'
+          },
+          {
+            id: 'l36',
+            title: 'Leçon 36 : Examen Blanc DELF B1',
+            duration: '4h00',
+            type: 'text',
+            completed: false,
+            vocabulary: [],
+            comments: [],
+            content: '# Leçon 36 : Examen Blanc DELF B1\n\nContenu chargé dynamiquement.'
+          }
+        ]
+      }
+    ]
   }
 ];
 
