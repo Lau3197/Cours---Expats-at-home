@@ -11,6 +11,7 @@ import InstructorDashboard from './pages/InstructorDashboard';
 import ProfilePage from './pages/ProfilePage';
 import AuthPage from './pages/AuthPage';
 import CarnetPage from './pages/CarnetPage';
+import ProgrammePage from './pages/ProgrammePage';
 import { useAuth } from './context/AuthContext';
 import { CoursePackage } from './types';
 
@@ -59,8 +60,24 @@ const App: React.FC = () => {
     }
   };
 
+  const { isImpersonating, stopImpersonation } = useAuth();
+
   return (
     <div className="min-h-screen flex flex-col">
+      {isImpersonating && (
+        <div className="bg-red-500 text-white px-4 py-2 text-center text-sm font-bold flex justify-center items-center gap-4 sticky top-0 z-50 shadow-lg">
+          <span>👁️ Mode: Vue en tant que {user.name}</span>
+          <button
+            onClick={() => {
+              stopImpersonation();
+              handleNavigate('dashboard');
+            }}
+            className="bg-white text-red-500 px-3 py-1 rounded-full text-xs hover:bg-red-50 uppercase tracking-wider"
+          >
+            Quitter le mode
+          </button>
+        </div>
+      )}
       <Navbar
         onNavigate={handleNavigate}
         currentPage={currentPage}
@@ -81,6 +98,10 @@ const App: React.FC = () => {
           <GrammairePage key={grammarKey} />
         )}
 
+        {currentPage === 'programme' && (
+          <ProgrammePage />
+        )}
+
         {currentPage === 'lessons' && (
           <LessonsPage key={lessonsKey} />
         )}
@@ -94,7 +115,7 @@ const App: React.FC = () => {
         )}
 
         {currentPage === 'instructor' && (
-          <InstructorDashboard courses={[]} />
+          <InstructorDashboard />
         )}
 
         {currentPage === 'profile' && (

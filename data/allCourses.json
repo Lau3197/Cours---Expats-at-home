@@ -7,7 +7,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Module 1",
+        "title": "Module 1 : Bases et Identité",
         "lessons": [
           {
             "id": "l01",
@@ -53,7 +53,7 @@
       },
       {
         "id": "section-2",
-        "title": "Module 2",
+        "title": "Module 2 : Vie Sociale & Environnement",
         "lessons": [
           {
             "id": "l05",
@@ -99,7 +99,7 @@
       },
       {
         "id": "section-3",
-        "title": "Module 3",
+        "title": "Module 3 : Le Temps et les Goûts",
         "lessons": [
           {
             "id": "l09",
@@ -145,7 +145,7 @@
       },
       {
         "id": "section-4",
-        "title": "Module 4",
+        "title": "Module 4 : Vie Quotidienne",
         "lessons": [
           {
             "id": "l13",
@@ -176,7 +176,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-5",
+        "title": "Module 5 : Compétences & Bilan",
+        "lessons": [
           {
             "id": "l16",
             "title": "Leçon 16 : Expression écrite A1.1 (Consolidation)",
@@ -186,13 +192,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-5",
-        "title": "Module 5",
-        "lessons": [
+          },
           {
             "id": "l17",
             "title": "Leçon 17 : Compréhension orale A1.1 (Consolidation)",
@@ -216,7 +216,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Module 1",
+        "title": "Module 1 : Sorties et Loisirs",
         "lessons": [
           {
             "id": "l01",
@@ -262,7 +262,7 @@
       },
       {
         "id": "section-2",
-        "title": "Module 2",
+        "title": "Module 2 : Vie Quotidienne",
         "lessons": [
           {
             "id": "l05",
@@ -308,7 +308,7 @@
       },
       {
         "id": "section-3",
-        "title": "Module 3",
+        "title": "Module 3 : Voyage et Déplacement",
         "lessons": [
           {
             "id": "l09",
@@ -354,7 +354,7 @@
       },
       {
         "id": "section-4",
-        "title": "Module 4",
+        "title": "Module 4 : Santé et Services",
         "lessons": [
           {
             "id": "l13",
@@ -400,7 +400,7 @@
       },
       {
         "id": "section-5",
-        "title": "Module 5",
+        "title": "Module 5 : Compétences & Bilan",
         "lessons": [
           {
             "id": "l17",
@@ -435,7 +435,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Module 1",
+        "title": "Module 1 : Souvenirs et Passé",
         "lessons": [
           {
             "id": "l01",
@@ -481,7 +481,7 @@
       },
       {
         "id": "section-2",
-        "title": "Module 2",
+        "title": "Module 2 : Raconter une histoire",
         "lessons": [
           {
             "id": "l05",
@@ -527,7 +527,7 @@
       },
       {
         "id": "section-3",
-        "title": "Module 3",
+        "title": "Module 3 : Projets et Futur",
         "lessons": [
           {
             "id": "l09",
@@ -573,7 +573,7 @@
       },
       {
         "id": "section-4",
-        "title": "Module 4",
+        "title": "Module 4 : Vie Professionnelle",
         "lessons": [
           {
             "id": "l13",
@@ -619,7 +619,7 @@
       },
       {
         "id": "section-5",
-        "title": "Module 5",
+        "title": "Module 5 : Société et Actualité",
         "lessons": [
           {
             "id": "l17",
@@ -665,7 +665,7 @@
       },
       {
         "id": "section-6",
-        "title": "Module 6",
+        "title": "Module 6 : Compétences & Bilan",
         "lessons": [
           {
             "id": "l21",
@@ -970,7 +970,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "Module 2",
+        "lessons": [
           {
             "id": "l04",
             "title": "Leçon 04 : Quand j'aurai terminé",
@@ -980,13 +986,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-2",
-        "title": "Module 2",
-        "lessons": [
+          },
           {
             "id": "l05",
             "title": "Leçon 05 : Temps composés du passé/futur (Consolidation)",
@@ -996,7 +996,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Module 3",
+        "lessons": [
           {
             "id": "l06",
             "title": "Leçon 06 : J'aurais dû partir",
@@ -1026,13 +1032,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-3",
-        "title": "Module 3",
-        "lessons": [
+          },
           {
             "id": "l09",
             "title": "Leçon 09 : Hypothèses au passé (Consolidation)",
@@ -1042,7 +1042,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-4",
+        "title": "Module 4",
+        "lessons": [
           {
             "id": "l10",
             "title": "Leçon 10 : Il m'a dit que...",
@@ -1076,8 +1082,8 @@
         ]
       },
       {
-        "id": "section-4",
-        "title": "Module 4",
+        "id": "section-5",
+        "title": "Module 5",
         "lessons": [
           {
             "id": "l13",
@@ -1108,7 +1114,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-6",
+        "title": "Module 6",
+        "lessons": [
           {
             "id": "l16",
             "title": "Leçon 16 : Il faut que tu viennes",
@@ -1118,13 +1130,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-5",
-        "title": "Module 5",
-        "lessons": [
+          },
           {
             "id": "l17",
             "title": "Leçon 17 : Je veux que tu comprennes",
@@ -1144,7 +1150,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-7",
+        "title": "Module 7",
+        "lessons": [
           {
             "id": "l19",
             "title": "Leçon 19 : Je doute qu'il vienne",
@@ -1164,13 +1176,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-6",
-        "title": "Module 6",
-        "lessons": [
+          },
           {
             "id": "l21",
             "title": "Leçon 21 : Subjonctif doute/émotion (Consolidation)",
@@ -1180,7 +1186,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-8",
+        "title": "Module 8",
+        "lessons": [
           {
             "id": "l22",
             "title": "Leçon 22 : Bien qu'il soit fatigué",
@@ -1200,7 +1212,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-9",
+        "title": "Module 9",
+        "lessons": [
           {
             "id": "l24",
             "title": "Leçon 24 : Le projet a été validé",
@@ -1210,13 +1228,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-7",
-        "title": "Module 7",
-        "lessons": [
+          },
           {
             "id": "l25",
             "title": "Leçon 25 : Voix passive en contexte (Consolidation)",
@@ -1226,7 +1238,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "Module 10",
+        "lessons": [
           {
             "id": "l26",
             "title": "Leçon 26 : Écrire un email formel",
@@ -1260,8 +1278,8 @@
         ]
       },
       {
-        "id": "section-8",
-        "title": "Module 8",
+        "id": "section-11",
+        "title": "Module 11",
         "lessons": [
           {
             "id": "l29",
@@ -1306,8 +1324,8 @@
         ]
       },
       {
-        "id": "section-9",
-        "title": "Module 9",
+        "id": "section-12",
+        "title": "Module 12 : Compétences & Bilan",
         "lessons": [
           {
             "id": "l33",
@@ -1710,7 +1728,7 @@
       },
       {
         "id": "section-9",
-        "title": "Module 9",
+        "title": "Module 9 : Compétences & Bilan",
         "lessons": [
           {
             "id": "l33",
@@ -1735,7 +1753,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Mission d'Infiltration",
+        "title": "Module 1 : Mission Agent Secret",
         "lessons": [
           {
             "id": "l19",
@@ -1746,7 +1764,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "Module 2 : Les Commères du Quartier",
+        "lessons": [
           {
             "id": "l20",
             "title": "Leçon 20 : Compréhension orale Globale A1 - Les Commères du Quartier",
@@ -1756,7 +1780,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Module 3 : Escape Game Le Manoir",
+        "lessons": [
           {
             "id": "l21",
             "title": "Leçon 21 : Examen Final A1 - Escape Game \"Le Manoir\"",
@@ -1780,7 +1810,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Enquêtes & Mystères",
+        "title": "Module 1 : Le Voyageur Temporel",
         "lessons": [
           {
             "id": "l21",
@@ -1791,7 +1821,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "Module 2 : Enquête à l'Hôtel Royal",
+        "lessons": [
           {
             "id": "l22",
             "title": "Leçon 22 : Compréhension orale Globale A2 - Enquête à l'Hôtel Royal",
@@ -1801,7 +1837,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Module 3 : Le Mystère de l'Orient Express",
+        "lessons": [
           {
             "id": "l23",
             "title": "Leçon 23 : Examen Final A2 - Le Mystère de l'Orient Express",
@@ -1825,7 +1867,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Débats & Négociations",
+        "title": "Module 1 : Le Rédacteur en Chef",
         "lessons": [
           {
             "id": "l34",
@@ -1836,7 +1878,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "Module 2 : Radio Libre",
+        "lessons": [
           {
             "id": "l35",
             "title": "Leçon 35 : Compréhension orale Globale B1 - Radio Libre B1",
@@ -1846,7 +1894,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Module 3 : Le Grand Sommet Francophone",
+        "lessons": [
           {
             "id": "l36",
             "title": "Leçon 36 : Examen Final B1 - Le Grand Sommet Francophone",

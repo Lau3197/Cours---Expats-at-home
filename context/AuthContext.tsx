@@ -1,9 +1,9 @@
 import React, { createContext, useContext, useEffect, useState } from 'react';
-import { 
-  onAuthStateChanged, 
-  User, 
-  signInWithPopup, 
-  GoogleAuthProvider, 
+import {
+  onAuthStateChanged,
+  User,
+  signInWithPopup,
+  GoogleAuthProvider,
   signOut,
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword
@@ -20,12 +20,16 @@ interface AuthContextType {
   signUpWithEmail: (email: string, pass: string, name: string) => Promise<void>;
   logout: () => Promise<void>;
   refreshUser: () => Promise<void>;
+  impersonateUser: (uid: string) => Promise<void>;
+  stopImpersonation: () => void;
+  isImpersonating: boolean;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [user, setUser] = useState<UserProfile | null>(null);
+  const [originalUser, setOriginalUser] = useState<UserProfile | null>(null);
   const [loading, setLoading] = useState(true);
 
   const syncUserProfile = async (firebaseUser: User, name?: string) => {
@@ -52,16 +56,17 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
-      if (firebaseUser) {
+      // Only sync if we are NOT impersonating
+      if (firebaseUser && !originalUser) {
         await syncUserProfile(firebaseUser);
-      } else {
+      } else if (!firebaseUser && !originalUser) {
         setUser(null);
       }
       setLoading(false);
     });
 
     return () => unsubscribe();
-  }, []);
+  }, [originalUser]);
 
   const signInWithGoogle = async () => {
     try {
@@ -93,6 +98,10 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const logout = async () => {
     try {
+      if (originalUser) {
+        stopImpersonation();
+        return;
+      }
       await signOut(auth);
     } catch (error) {
       console.error("Error signing out", error);
@@ -101,13 +110,56 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const refreshUser = async () => {
     const firebaseUser = auth.currentUser;
-    if (firebaseUser) {
+    if (firebaseUser && !originalUser) {
       await syncUserProfile(firebaseUser);
     }
   };
 
+  const impersonateUser = async (uid: string) => {
+    if (!user) return;
+
+    // Store current admin if not already stored
+    if (!originalUser) {
+      setOriginalUser(user);
+    }
+
+    setLoading(true);
+    try {
+      const targetUserRef = doc(db, 'users', uid);
+      const targetUserSnap = await getDoc(targetUserRef);
+      if (targetUserSnap.exists()) {
+        setUser(targetUserSnap.data() as UserProfile);
+      } else {
+        alert("Impossible de trouver le profil utilisateur cible.");
+        if (!originalUser) setOriginalUser(null);
+      }
+    } catch (e) {
+      console.error("Impersonation failed", e);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const stopImpersonation = () => {
+    if (originalUser) {
+      setUser(originalUser);
+      setOriginalUser(null);
+    }
+  };
+
   return (
-    <AuthContext.Provider value={{ user, loading, signInWithGoogle, signInWithEmail, signUpWithEmail, logout, refreshUser }}>
+    <AuthContext.Provider value={{
+      user,
+      loading,
+      signInWithGoogle,
+      signInWithEmail,
+      signUpWithEmail,
+      logout,
+      refreshUser,
+      impersonateUser,
+      stopImpersonation,
+      isImpersonating: !!originalUser
+    }}>
       {children}
     </AuthContext.Provider>
   );

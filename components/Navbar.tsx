@@ -142,12 +142,13 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
                 {currentPage === 'grammaire' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
               <button
-                onClick={() => onNavigate('carnet')}
-                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'carnet' ? 'text-[#dd8b8b]' : ''}`}
+                onClick={() => onNavigate('programme')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'programme' ? 'text-[#dd8b8b]' : ''}`}
               >
-                Mon Carnet
-                {currentPage === 'carnet' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+                Le Programme
+                {currentPage === 'programme' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
+
               <button
                 onClick={() => onNavigate('30jours')}
                 className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === '30jours' ? 'text-[#dd8b8b]' : ''}`}

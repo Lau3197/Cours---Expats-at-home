@@ -24,21 +24,21 @@ const courseStructure = {
 
 // Configuration for manual module grouping (optional overrides)
 const moduleOverrides = {
-    'A1.1': [
+    'a1-1': [
         { title: "Module 1 : Bases et Identité", lessons: [1, 2, 3, 4] },
         { title: "Module 2 : Vie Sociale & Environnement", lessons: [5, 6, 7, 8] },
         { title: "Module 3 : Le Temps et les Goûts", lessons: [9, 10, 11, 12] },
         { title: "Module 4 : Vie Quotidienne", lessons: [13, 14, 15] },
         { title: "Module 5 : Compétences & Bilan", lessons: [16, 17] }
     ],
-    'A1.2': [
+    'a1-2': [
         { title: "Module 1 : Sorties et Loisirs", lessons: [1, 2, 3, 4] },
         { title: "Module 2 : Vie Quotidienne", lessons: [5, 6, 7, 8] },
         { title: "Module 3 : Voyage et Déplacement", lessons: [9, 10, 11, 12] },
         { title: "Module 4 : Santé et Services", lessons: [13, 14, 15, 16] },
         { title: "Module 5 : Compétences & Bilan", lessons: [17, 18] }
     ],
-    'A2.1': [
+    'a2-1': [
         { title: "Module 1 : Souvenirs et Passé", lessons: [1, 2, 3, 4] },
         { title: "Module 2 : Raconter une histoire", lessons: [5, 6, 7, 8] },
         { title: "Module 3 : Projets et Futur", lessons: [9, 10, 11, 12] },
@@ -47,12 +47,16 @@ const moduleOverrides = {
         { title: "Module 6 : Compétences & Bilan", lessons: [21, 22] }
     ],
     'a1-global': [
-        { title: "Mission d'Infiltration", lessons: [19, 20, 21] }
+        { title: "Module 1 : Mission Agent Secret", lessons: [19] },
+        { title: "Module 2 : Les Commères du Quartier", lessons: [20] },
+        { title: "Module 3 : Escape Game Le Manoir", lessons: [21] }
     ],
     'a2-global': [
-        { title: "Enquêtes & Mystères", lessons: [21, 22, 23] }
+        { title: "Module 1 : Le Voyageur Temporel", lessons: [21] },
+        { title: "Module 2 : Enquête à l'Hôtel Royal", lessons: [22] },
+        { title: "Module 3 : Le Mystère de l'Orient Express", lessons: [23] }
     ],
-    'B1.1': [
+    'b1-1': [
         { title: "Module 1", lessons: [1, 2, 3] },
         { title: "Module 2", lessons: [4, 5] },
         { title: "Module 3", lessons: [6, 7, 8, 9] },
@@ -66,7 +70,7 @@ const moduleOverrides = {
         { title: "Module 11", lessons: [29, 30, 31, 32] },
         { title: "Module 12 : Compétences & Bilan", lessons: [33, 34] }
     ],
-    'B1.2': [
+    'b1-2': [
         // Using Module X naming or just auto-grouping by default if linear
         // But since we have many lessons, explicit is safer if gaps exist
         { title: "Module 1", lessons: [1, 2, 3, 4] },
@@ -80,7 +84,9 @@ const moduleOverrides = {
         { title: "Module 9 : Compétences & Bilan", lessons: [33] }
     ],
     'b1-global': [
-        { title: "Débats & Négociations", lessons: [34, 35, 36] }
+        { title: "Module 1 : Le Rédacteur en Chef", lessons: [34] },
+        { title: "Module 2 : Radio Libre", lessons: [35] },
+        { title: "Module 3 : Le Grand Sommet Francophone", lessons: [36] }
     ]
 };
 

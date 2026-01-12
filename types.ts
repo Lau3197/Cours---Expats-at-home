@@ -105,3 +105,34 @@ export interface UserProfile {
   hasFullAccess: boolean;
   notifications?: NotificationPreferences;
 }
+
+export interface Session {
+  id: string;
+  title: string;
+  date: string; // ISO string 2026-01-15T19:00:00
+  createdAt: string;
+  teamsLink?: string;
+  type: 'exchange' | 'culture';
+  status: 'upcoming' | 'past' | 'archived';
+  description?: string;
+}
+
+export interface ListeningLesson {
+  id: string;
+  number: number;
+  title: string;
+  focus: string; // e.g. "Grammar", "Vocabulary"
+  youtuber: string;
+  videoLink: string;
+  docLink: string;
+  createdAt: string;
+}
+
+export interface UserProgress {
+  userId?: string; // stored in document ID usually, but handy here
+  completedLessons: string[];
+  courseProgress: { [courseId: string]: { completed: number; total: number } };
+  learningHours: number;
+  lastActivity: string | null;
+  weeklyActivity: { [day: string]: number };
+}
