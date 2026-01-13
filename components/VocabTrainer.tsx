@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Volume2, Trophy, PartyPopper, Check, X, RotateCcw, BarChart2 } from 'lucide-react';
 import { VocabItem } from '../types';
 
@@ -11,7 +11,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
   const [mode, setMode] = useState<'cards' | 'game'>('cards');
   const [isFlipped, setIsFlipped] = useState(false);
   const [score, setScore] = useState(0);
-  
+
   // Learning states
   const [learningQueue, setLearningQueue] = useState<number[]>([]);
   const [masteredIds, setMasteredIds] = useState<Set<string>>(new Set());
@@ -56,11 +56,11 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
     if (!item) return;
 
     setCardTransition(isKnown ? 'right' : 'left');
-    
+
     setTimeout(() => {
       setCardTransition(null);
       setIsFlipped(false);
-      
+
       if (isKnown) {
         const newMastered = new Set(masteredIds);
         newMastered.add(item.id);
@@ -68,7 +68,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
 
         const newQueue = [...learningQueue];
         newQueue.splice(currentIndex, 1);
-        
+
         if (newQueue.length === 0) {
           setIsFinished(true);
         } else {
@@ -81,7 +81,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
         newQueue.push(failingItem);
         setLearningQueue(newQueue);
       }
-    }, 400); 
+    }, 400);
   };
 
   const handleQuizChoice = (selectedId: string) => {
@@ -114,7 +114,21 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
     }
   };
 
-  const progressPercentage = (masteredIds.size / vocab.length) * 100;
+  const activeItemIndex = mode === 'cards' ? learningQueue[currentIndex] : quizQueue[quizIndex];
+  const activeItem = (activeItemIndex !== undefined && activeItemIndex !== null && vocab && vocab[activeItemIndex]) ? vocab[activeItemIndex] : null;
+
+  const currentOptions = useMemo(() => {
+    if (mode !== 'game' || !activeItem || !vocab) return [];
+
+    // Get all other items as potential distractors
+    const others = vocab.filter(v => v.id !== activeItem.id);
+    // Shuffle distractors and take 3
+    const distractors = others.sort(() => Math.random() - 0.5).slice(0, 3);
+    // Combine with correct answer and shuffle again
+    return [activeItem, ...distractors].sort(() => Math.random() - 0.5);
+  }, [activeItem, mode, vocab]);
+
+  const progressPercentage = (masteredIds.size / (vocab?.length || 1)) * 100;
 
   if (!vocab || vocab.length === 0) {
     return (
@@ -136,7 +150,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
         <p className="text-[#5A6B70]/60 sans-handwritten text-xl mb-10 italic">
           Bravo ! You've mastered all {vocab.length} words today.
         </p>
-        <button 
+        <button
           onClick={() => { setIsFinished(false); setMasteredIds(new Set()); setCurrentIndex(0); setMode('cards'); setIsFlipped(false); }}
           className="px-12 py-5 bg-[#C87A7A] text-white rounded-2xl font-black sans-geometric uppercase tracking-widest text-xs shadow-xl hover:scale-110 active:scale-95 transition-all duration-300"
         >
@@ -146,28 +160,25 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
     );
   }
 
-  const activeItemIndex = mode === 'cards' ? learningQueue[currentIndex] : quizQueue[quizIndex];
-  const activeItem = (activeItemIndex !== undefined && activeItemIndex !== null) ? vocab[activeItemIndex] : null;
-
   if (!activeItem) return null;
+
+  /* Options memoized at top level */
 
   return (
     <div className="space-y-8 max-w-2xl mx-auto">
       {/* Mode Toggle */}
       <div className="flex justify-center gap-4 p-1.5 bg-[#F9F7F2] rounded-full w-fit mx-auto border border-[#C87A7A]/5">
-        <button 
+        <button
           onClick={() => setMode('cards')}
-          className={`px-10 py-3 rounded-full text-[10px] font-black sans-geometric uppercase tracking-[0.2em] transition-all duration-500 ${
-            mode === 'cards' ? 'bg-[#C87A7A] text-white shadow-xl scale-105' : 'bg-transparent text-[#5A6B70]/60 hover:text-[#C87A7A]'
-          }`}
+          className={`px-10 py-3 rounded-full text-[10px] font-black sans-geometric uppercase tracking-[0.2em] transition-all duration-500 ${mode === 'cards' ? 'bg-[#C87A7A] text-white shadow-xl scale-105' : 'bg-transparent text-[#5A6B70]/60 hover:text-[#C87A7A]'
+            }`}
         >
           Flashcards
         </button>
-        <button 
+        <button
           onClick={() => setMode('game')}
-          className={`px-10 py-3 rounded-full text-[10px] font-black sans-geometric uppercase tracking-[0.2em] transition-all duration-500 ${
-            mode === 'game' ? 'bg-[#C87A7A] text-white shadow-xl scale-105' : 'bg-transparent text-[#5A6B70]/60 hover:text-[#C87A7A]'
-          }`}
+          className={`px-10 py-3 rounded-full text-[10px] font-black sans-geometric uppercase tracking-[0.2em] transition-all duration-500 ${mode === 'game' ? 'bg-[#C87A7A] text-white shadow-xl scale-105' : 'bg-transparent text-[#5A6B70]/60 hover:text-[#C87A7A]'
+            }`}
         >
           Quiz Game
         </button>
@@ -177,27 +188,27 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
         <div className="relative px-4 pb-2 animate-in fade-in slide-in-from-bottom-8 duration-700">
           <div className="mb-8 space-y-3">
             <div className="flex justify-between items-center px-1">
-               <div className="text-[9px] font-black text-[#5A6B70]/60 uppercase tracking-[0.3em] sans-geometric flex items-center gap-2">
-                  <BarChart2 className="w-3 h-3 text-[#C87A7A]" />
-                  {masteredIds.size} / {vocab.length} Mastered
-               </div>
-               <div className="text-[9px] font-black text-[#E8C586] uppercase tracking-[0.3em]">
-                  {Math.round(progressPercentage)}%
-               </div>
+              <div className="text-[9px] font-black text-[#5A6B70]/60 uppercase tracking-[0.3em] sans-geometric flex items-center gap-2">
+                <BarChart2 className="w-3 h-3 text-[#C87A7A]" />
+                {masteredIds.size} / {vocab.length} Mastered
+              </div>
+              <div className="text-[9px] font-black text-[#E8C586] uppercase tracking-[0.3em]">
+                {Math.round(progressPercentage)}%
+              </div>
             </div>
             <div className="h-2 bg-[#5A6B70]/5 rounded-full overflow-hidden">
-              <div 
+              <div
                 className="h-full bg-gradient-to-r from-[#C87A7A] to-[#E8C586] transition-all duration-1000 ease-out"
                 style={{ width: `${progressPercentage}%` }}
               />
             </div>
           </div>
 
-          <div 
+          <div
             className="relative w-full aspect-[16/9] cursor-pointer group [perspective:1200px]"
             onClick={() => setIsFlipped(!isFlipped)}
           >
-            <div 
+            <div
               className={`w-full h-full relative transition-all duration-700 [transform-style:preserve-3d] 
                 ${isFlipped ? '[transform:rotateY(180deg)]' : ''}
                 ${cardTransition === 'right' ? 'translate-x-[120%] rotate-12 opacity-0' : cardTransition === 'left' ? '-translate-x-[120%] -rotate-12 opacity-0' : ''}
@@ -223,7 +234,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
                   </button>
                 </div>
                 <div className="absolute bottom-6 right-8 text-[9px] font-black text-[#5A6B70]/20 uppercase tracking-[0.3em] flex items-center gap-2">
-                   Reveal Translation <RotateCcw className="w-3 h-3" />
+                  Reveal Translation <RotateCcw className="w-3 h-3" />
                 </div>
               </div>
 
@@ -242,14 +253,14 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
                   )}
                 </div>
                 <div className="absolute bottom-6 right-8 text-[9px] font-black text-white/40 uppercase tracking-[0.3em]">
-                   Click to flip back
+                  Click to flip back
                 </div>
               </div>
             </div>
           </div>
 
           <div className="grid grid-cols-2 gap-6 mt-10">
-            <button 
+            <button
               onClick={() => handleMastery(false)}
               className="group flex flex-col items-center gap-3 p-6 bg-white rounded-[28px] border border-[#C87A7A]/10 text-[#5A6B70]/40 hover:bg-red-50 hover:text-red-500 transition-all shadow-sm active:scale-95"
             >
@@ -258,7 +269,7 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
               </div>
               <span className="text-[9px] font-black uppercase tracking-[0.3em]">Still Learning</span>
             </button>
-            <button 
+            <button
               onClick={() => handleMastery(true)}
               className="group flex flex-col items-center gap-3 p-6 bg-white rounded-[28px] border border-[#C87A7A]/10 text-[#5A6B70]/40 hover:bg-green-50 hover:text-green-500 transition-all shadow-sm active:scale-95"
             >
@@ -278,25 +289,25 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
             </div>
           </div>
           <div className="relative h-40 flex flex-col items-center justify-center mb-12">
-             <div className={`transition-all duration-700 ${feedback ? 'opacity-0 scale-75' : 'opacity-100 scale-100'}`}>
-                <div className="text-[10px] font-black text-[#C87A7A] uppercase tracking-[0.4em] mb-4">Translate this:</div>
-                <h4 className="text-5xl md:text-6xl font-bold text-[#5A6B70] serif-display italic leading-tight">{activeItem.french}</h4>
-             </div>
-             {feedback === 'correct' && (
-                <div className="absolute inset-0 flex flex-col items-center justify-center animate-in zoom-in duration-500">
-                   <div className="w-24 h-24 bg-green-500 rounded-full flex items-center justify-center shadow-xl mb-4"><Check className="w-12 h-12 text-white" /></div>
-                   <span className="text-green-600 font-black text-[10px] uppercase tracking-widest">Bravo !</span>
-                </div>
-             )}
-             {feedback === 'wrong' && (
-                <div className="absolute inset-0 flex flex-col items-center justify-center animate-in zoom-in duration-500">
-                   <div className="w-24 h-24 bg-red-500 rounded-full flex items-center justify-center shadow-xl mb-4"><X className="w-12 h-12 text-white" /></div>
-                   <span className="text-red-600 font-black text-[10px] uppercase tracking-widest">Encore !</span>
-                </div>
-             )}
+            <div className={`transition-all duration-700 ${feedback ? 'opacity-0 scale-75' : 'opacity-100 scale-100'}`}>
+              <div className="text-[10px] font-black text-[#C87A7A] uppercase tracking-[0.4em] mb-4">Translate this:</div>
+              <h4 className="text-5xl md:text-6xl font-bold text-[#5A6B70] serif-display italic leading-tight">{activeItem.french}</h4>
+            </div>
+            {feedback === 'correct' && (
+              <div className="absolute inset-0 flex flex-col items-center justify-center animate-in zoom-in duration-500">
+                <div className="w-24 h-24 bg-green-500 rounded-full flex items-center justify-center shadow-xl mb-4"><Check className="w-12 h-12 text-white" /></div>
+                <span className="text-green-600 font-black text-[10px] uppercase tracking-widest">Bravo !</span>
+              </div>
+            )}
+            {feedback === 'wrong' && (
+              <div className="absolute inset-0 flex flex-col items-center justify-center animate-in zoom-in duration-500">
+                <div className="w-24 h-24 bg-red-500 rounded-full flex items-center justify-center shadow-xl mb-4"><X className="w-12 h-12 text-white" /></div>
+                <span className="text-red-600 font-black text-[10px] uppercase tracking-widest">Encore !</span>
+              </div>
+            )}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {vocab.slice(0, 4).sort(() => Math.random() - 0.5).map((v, idx) => (
+            {currentOptions.map((v, idx) => (
               <button key={v.id} onClick={() => handleQuizChoice(v.id)} disabled={!!feedback} className="p-6 bg-[#F9F7F2] rounded-[24px] text-[#5A6B70] font-bold border-2 border-transparent hover:border-[#C87A7A]/30 hover:bg-white hover:text-[#C87A7A] transition-all text-lg shadow-sm active:scale-95">
                 {v.translation}
               </button>

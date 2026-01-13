@@ -12,11 +12,12 @@ import ProfilePage from './pages/ProfilePage';
 import AuthPage from './pages/AuthPage';
 import CarnetPage from './pages/CarnetPage';
 import ProgrammePage from './pages/ProgrammePage';
+import CoachingSpace from './components/CoachingSpace';
 import { useAuth } from './context/AuthContext';
 import { CoursePackage } from './types';
 
 const App: React.FC = () => {
-  const { user, loading, logout } = useAuth();
+  const { user, loading, logout, isImpersonating, stopImpersonation } = useAuth();
   const [currentPage, setCurrentPage] = useState<string>('library');
   const [selectedCourse, setSelectedCourse] = useState<CoursePackage | null>(null);
   const [selectedLessonId, setSelectedLessonId] = useState<string | undefined>(undefined);
@@ -60,7 +61,6 @@ const App: React.FC = () => {
     }
   };
 
-  const { isImpersonating, stopImpersonation } = useAuth();
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -125,6 +125,7 @@ const App: React.FC = () => {
         {currentPage === 'carnet' && (
           <CarnetPage onBack={() => handleNavigate('library')} />
         )}
+
 
         {currentPage === 'player' && selectedCourse && (
           <CoursePlayer

@@ -47,7 +47,8 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         avatar: firebaseUser.photoURL || `https://ui-avatars.com/api/?name=${name || firebaseUser.displayName || 'User'}`,
         role: firebaseUser.email === 'jacqueslaurine@live.be' ? 'superadmin' : 'student',
         bio: '',
-        hasFullAccess: firebaseUser.email === 'jacqueslaurine@live.be' // Superadmin has full access
+        hasFullAccess: firebaseUser.email === 'jacqueslaurine@live.be', // Superadmin has full access
+        plan: 'autonomy'
       };
       await setDoc(userRef, newProfile);
       setUser(newProfile);

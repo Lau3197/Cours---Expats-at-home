@@ -102,8 +102,36 @@ function readMarkdownFile(filePath) {
     }
 }
 
+// Helper to extract vocabulary from markdown tables
+function extractVocabulary(content) {
+    const vocabMatch = content.match(/## Vocabulary List\s+([\s\S]*?)(?=\n\s*---|\n##|$)/);
+    if (!vocabMatch) return [];
+
+    const tableContent = vocabMatch[1];
+    const rows = tableContent.split('\n').filter(line => line.trim().startsWith('|') && !line.includes('---')); // Sketchy standard table check
+
+    // Assume format: | French | English | Pronunciation (optional) |
+    // skip header row if it contains "French" or "Français"
+    const vocabData = [];
+
+    for (const row of rows) {
+        if (row.toLowerCase().includes('---') || (row.toLowerCase().includes('french') && row.toLowerCase().includes('english'))) continue;
+
+        const cells = row.split('|').map(c => c.trim()).filter(c => c);
+        if (cells.length >= 2) {
+            vocabData.push({
+                id: `v-${Math.random().toString(36).substr(2, 9)}`,
+                french: cells[0],
+                translation: cells[1],
+                pronunciation: cells[2] || ''
+            });
+        }
+    }
+    return vocabData;
+}
+
 function extractMetadata(content) {
-    if (!content) return { title: '', duration: '15:00', type: 'text' };
+    if (!content) return { title: '', duration: '15:00', type: 'text', vocabulary: [] };
 
     const titleMatch = content.match(/^# (.+)$/m);
     const durationMatch = content.match(/\*\*Durée (totale )?estimée\*\* : (.+)/);
@@ -111,15 +139,12 @@ function extractMetadata(content) {
     let title = titleMatch ? titleMatch[1].trim() : '';
     let duration = durationMatch ? durationMatch[2].trim() : '15:00';
 
-    // Normalize duration format if needed
-    if (duration.includes('heure') || duration.includes('h')) {
-        // Keep as text string for now or parse if specific format needed
-    }
-
     const hasVideo = content.includes('youtube.com') || content.includes('youtu.be') || content.includes('.mp4');
     const type = hasVideo ? 'video' : 'text';
 
-    return { title, duration, type };
+    const vocabulary = extractVocabulary(content);
+
+    return { title, duration, type, vocabulary };
 }
 
 function findLessonFiles() {
@@ -174,7 +199,7 @@ function findLessonFiles() {
     // 2. Global Modules
     const globalModules = [
         { dir: 'Module_Global_A1', level: 'A1', id: 'a1-global', title: 'Module Global A1 : Mission Agent Secret', description: 'Une mission secrète immersive pour réviser tout le niveau A1 de manière ludique !' },
-        { dir: 'Module_Global_A2', level: 'A2', id: 'a2-global', title: 'Module Global A2 : Le Voyage Temporel', description: 'Enquêtez sur un vol et voyagez dans le temps pour consolider vos acquis A2.' },
+        { dir: 'Module_Global_A2', level: 'A2', id: 'a2-global', title: 'Module Global A2 : Le Voyage Temporel', description: 'Enquêtez sur un voyage dans le temps pour consolider vos acquis A2.' },
         { dir: 'Module_Global_B1', level: 'B1', id: 'b1-global', title: 'Module Global B1 : Sommet Francophone', description: 'Prenez la tête d\'un magazine et participez à un sommet international. Argumentez et convainquez !' }
     ];
 
@@ -262,8 +287,6 @@ function organizeLessonsIntoCourses(lessons) {
                     break;
                 }
             }
-            // If not found in override, it defaults to first module or we could handle differently
-            // For now, let's assume all lessons are covered if an override exists, or push to end
             if (!found) {
                 // Fallback for lessons not in the manual list: put them in a "Extra" module at the end
                 sectionIndex = overrides.length;
@@ -278,10 +301,6 @@ function organizeLessonsIntoCourses(lessons) {
         // Create sections if they don't exist
         while (courses[lesson.courseId].sections.length <= sectionIndex) {
             const idx = courses[lesson.courseId].sections.length;
-            // naming logic needs to be consistent
-            // If we are filling gaps, we might not have titles for intermediate empty sections
-            // but the loop ensures sequential creation.
-            // If using manual overrides, we should trust the index order.
 
             let titleToUse = `Module ${idx + 1}`;
             if (moduleOverrides[lesson.courseId] && idx < moduleOverrides[lesson.courseId].length) {
@@ -305,7 +324,7 @@ function organizeLessonsIntoCourses(lessons) {
             duration: lesson.duration,
             type: lesson.type,
             completed: false,
-            vocabulary: [],
+            vocabulary: lesson.vocabulary || [], // Use extracted vocabulary
             comments: []
         });
     }

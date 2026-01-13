@@ -1,6 +1,6 @@
 import { db } from './firebase';
-import { collection, getDocs, getDoc, doc, query, where, orderBy } from 'firebase/firestore';
-import { UserProfile, UserProgress } from '../types';
+import { collection, getDocs, getDoc, doc, query, where, orderBy, updateDoc } from 'firebase/firestore';
+import { UserProfile, UserProgress, Plan } from '../types';
 
 export interface StudentData extends UserProfile {
     progress?: UserProgress;
@@ -118,5 +118,15 @@ export const getAnalyticsData = async (): Promise<AnalyticsData> => {
     } catch (error) {
         console.error("Error fetching analytics:", error);
         return { globalWeeklyActivity: [], popularLessons: [], lessonCompletions: {} };
+    }
+};
+
+export const updateStudentPlan = async (uid: string, plan: Plan): Promise<void> => {
+    try {
+        const userRef = doc(db, 'users', uid);
+        await updateDoc(userRef, { plan });
+    } catch (error) {
+        console.error("Error updating student plan:", error);
+        throw error;
     }
 };

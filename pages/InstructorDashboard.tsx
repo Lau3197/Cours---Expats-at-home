@@ -4,12 +4,13 @@ import ListeningKeysManager from '../components/ListeningKeysManager';
 import StudentManager from '../components/StudentManager';
 import AnalyticsDashboard from '../components/AnalyticsDashboard';
 import ResourceManager from '../components/ResourceManager';
+import CorrectionsManager from '../components/CorrectionsManager';
 import { CoursePackage } from '../types';
 import { collection, getDocs } from 'firebase/firestore';
 import { db } from '../services/firebase';
 
 const InstructorDashboard: React.FC = () => {
-  const [dashboardTab, setDashboardTab] = useState<'sessions' | 'listening' | 'students' | 'analytics' | 'resources'>('sessions');
+  const [dashboardTab, setDashboardTab] = useState<'sessions' | 'listening' | 'students' | 'analytics' | 'resources' | 'coaching'>('coaching');
   const [courses, setCourses] = useState<CoursePackage[]>([]);
 
   useEffect(() => {
@@ -39,6 +40,15 @@ const InstructorDashboard: React.FC = () => {
 
         {/* Main Dashboard Tabs */}
         <div className="flex bg-[#F9F7F2] p-2 rounded-full border border-[#dd8b8b]/10 overflow-x-auto max-w-full">
+          <button
+            onClick={() => setDashboardTab('coaching')}
+            className={`px-6 py-3 rounded-full font-bold text-sm transition-all whitespace-nowrap ${dashboardTab === 'coaching'
+              ? 'bg-white text-[#dd8b8b] shadow-sm'
+              : 'text-[#5A6B70]/60 hover:text-[#5A6B70]'
+              }`}
+          >
+            Coaching
+          </button>
           <button
             onClick={() => setDashboardTab('sessions')}
             className={`px-6 py-3 rounded-full font-bold text-sm transition-all whitespace-nowrap ${dashboardTab === 'sessions'
@@ -87,6 +97,7 @@ const InstructorDashboard: React.FC = () => {
         </div>
       </div>
 
+      {dashboardTab === 'coaching' && <CorrectionsManager />}
       {dashboardTab === 'sessions' && <SessionManager />}
       {dashboardTab === 'listening' && <ListeningKeysManager />}
       {dashboardTab === 'students' && <StudentManager courses={courses} />}

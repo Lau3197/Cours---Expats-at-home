@@ -1,16 +1,16 @@
 # Leçon 01 : Se présenter en Belgique
 
-**Niveau** : A1.1  
-**Durée estimée** : 2-3 heures  
-**Objectifs** : Dire bonjour, se présenter (nom, nationalité, ville)
+**Level**: A1.1  
+**Estimated duration**: 2-3 hours  
+**Objectives**: Say hello, introduce yourself (name, nationality, city)
 
 ---
 
-## 🎧 Let's Start! Première rencontre
+## Let's Start! First Meeting
 
-### Écoutez ce dialogue
+### Listen to this dialogue
 
-**Tom arrive à Bruxelles. Il rencontre Sophie au café :**
+**Tom arrives in Brussels. He meets Sophie at the café:**
 
 > **Sophie :** Bonjour !
 > 
@@ -32,65 +32,90 @@
 > 
 > **Tom :** Enchanté, Sophie !
 
----
-
-### 🔍 Compréhension
-
-**Répondez aux questions :**
-
-1. Comment s'appelle l'homme ?
-2. Comment s'appelle la femme ?
-3. Tom est belge ?
-4. Sophie est américaine ?
-5. Où habite Tom ?
-
 <details>
-<summary>📝 Réponses</summary>
+<summary>English Translation</summary>
 
-1. Il s'appelle **Tom**
-2. Elle s'appelle **Sophie**
-3. Non, il est **américain**
-4. Non, elle est **belge**
-5. Il habite à **Bruxelles**
+> **Sophie:** Hello!
+> 
+> **Tom:** Hello!
+> 
+> **Sophie:** I am Sophie. And you?
+> 
+> **Tom:** I am Tom.
+> 
+> **Sophie:** Are you Belgian?
+> 
+> **Tom:** No, I am American. And you?
+> 
+> **Sophie:** I am Belgian. Where do you live?
+> 
+> **Tom:** I live in Brussels.
+> 
+> **Sophie:** Me too! Nice to meet you, Tom!
+> 
+> **Tom:** Nice to meet you, Sophie!
 
 </details>
 
 ---
 
-## 🔍 Observation 1 : Les salutations
+### 🔍 Comprehension
 
-**Regardez le début du dialogue :**
+**Answer the questions:**
+
+1. What is the woman's name? *(Comment s'appelle la femme ?)*
+2. What is the man's name? *(Comment s'appelle l'homme ?)*
+3. What is Tom's nationality? *(Quelle est la nationalité de Tom ?)*
+4. Where does Sophie live? *(Où habite Sophie ?)*
+5. Where does Tom live? *(Où habite Tom ?)*
+
+<details>
+<summary>📝 Answers</summary>
+
+1. His name is **Tom** (Il s'appelle Tom)
+2. Her name is **Sophie** (Elle s'appelle Sophie)
+3. No, he is **American** (Non, il est américain)
+4. No, she is **Belgian** (Non, elle est belge)
+5. He lives in **Brussels** (Il habite à Bruxelles)
+
+</details>
+
+---
+
+## Observation 1: Greetings
+
+**Look at the beginning of the dialogue:**
 
 > **Sophie :** Bonjour !  
 > **Tom :** Bonjour !
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
-- Les deux personnes disent "**Bonjour**"
-- C'est le mot pour dire "Hello" en français
+- Both people say "**Bonjour**"
+- It's the word for "Hello" in French
 
-### Vocabulaire : Salutations
+### Vocabulary: Greetings
 
-| Français | Prononciation | English | Quand ? |
+| French | Pronunciation | English | When? |
 |:---------|:--------------|:--------|:--------|
-| Bonjour | [bɔ̃ʒuʁ] | Hello / Good morning | Le matin, l'après-midi |
-| Bonsoir | [bɔ̃swaʁ] | Good evening | Le soir (après 18h) |
-| Au revoir | [o ʁəvwaʁ] | Goodbye | Quand on part |
+| Bonjour | [bɔ̃ʒuʁ] | Hello / Good morning | In the morning, in the afternoon |
+| Bonsoir | [bɔ̃swaʁ] | Good evening | In the evening (after 6pm) |
+| Au revoir | [o ʁəvwaʁ] | Goodbye | When leaving |
 
-**🎤 Prononcez :** Dites "Bonjour" 5 fois à voix haute !
+**🎤 Pronounce:** Say "Bonjour" 5 times out loud!
 
 ---
 
-## ✏️ Practice 1 : Quelle salutation ?
+### Practice 1: Which greeting?
 
-**Choisissez la bonne salutation :**
+**Choose the right greeting:**
 
-1. Vous entrez dans une boulangerie à 9h → ___________
-2. Vous arrivez au restaurant à 20h → ___________
-3. Vous quittez le bureau → ___________
+1. You enter a bakery at 9am → ___________
+2. You arrive at a restaurant at 8pm → ___________
+3. You leave the office → ___________
 
 <details>
-<summary>📝 Réponses</summary>
+<summary>📝 Answers</summary>
 
 1. **Bonjour**
 2. **Bonsoir**
@@ -100,43 +125,43 @@
 
 ---
 
-## 🔍 Observation 2 : Dire son nom
+## Observation 2: Saying your name
 
-**Regardez cette partie du dialogue :**
+**Look at this part of the dialogue:**
 
 > **Sophie :** **Je suis** Sophie.  
 > **Tom :** **Je suis** Tom.
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
-- Pour dire son nom, on utilise "**Je suis**" + [nom]
-- "Je suis" = "I am" en anglais
+- To say your name, we use "**Je suis**" + [name]
+- "Je suis" = "I am" in English
 
-### Essayez maintenant !
+### Try it now!
 
-**Dites votre nom :** "Je suis [votre nom]"
+**Say your name:** "Je suis [your name]"
 
-Répétez 3 fois à voix haute !
+Repeat 3 times out loud!
 
 ---
 
-## 🔍 Observation 3 : Dire sa nationalité
+## Observation 3: Saying your nationality
 
-**Regardez cette partie du dialogue :**
+**Look at this part of the dialogue:**
 
 > **Sophie :** Vous êtes belge ?  
 > **Tom :** Non, **je suis américain**.  
 > **Sophie :** **Je suis belge**.
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
-- On utilise aussi "**Je suis**" + [nationalité]
+- We also use "**Je suis**" + [nationality]
 - "Je suis américain" = "I am American"
 - "Je suis belge" = "I am Belgian"
 
-### Vocabulaire : Nationalités courantes
+### Vocabulary: Common Nationalities
 
-| Masculin | Féminin | English |
+| Masculine | Feminine | English |
 |:---------|:--------|:--------|
 | américain | américaine | American |
 | anglais | anglaise | English |
@@ -145,44 +170,44 @@ Répétez 3 fois à voix haute !
 | espagnol | espagnole | Spanish |
 | allemand | allemande | German |
 
-**💡 Remarquez :** Pour beaucoup de nationalités, on ajoute un "e" pour le féminin !
+**💡 Notice:** For many nationalities, we add an "e" for the feminine form!
 
-### Essayez maintenant !
+### Try it now!
 
-**Dites votre nationalité :** "Je suis [nationalité]"
-
----
-
-## ✏️ Practice 2 : Je suis...
-
-**Complétez avec votre information :**
-
-1. Je suis _____________. (votre nom)
-2. Je suis _____________. (votre nationalité)
-
-**Maintenant, combinez :**
-
-"Bonjour ! Je suis [nom]. Je suis [nationalité]."
-
-Dites-le 3 fois à voix haute !
+**Say your nationality:** "Je suis [nationality]"
 
 ---
 
-## 🔍 Observation 4 : Dire où on habite
+### Practice 2: Je suis...
 
-**Regardez cette partie du dialogue :**
+**Complete with your information:**
+
+1. Je suis _____________. (your name)
+2. Je suis _____________. (your nationality)
+
+**Now, combine them:**
+
+"Bonjour ! Je suis [name]. Je suis [nationality]."
+
+Say it 3 times out loud!
+
+---
+
+## Observation 4: Saying where you live
+
+**Look at this part of the dialogue:**
 
 > **Sophie :** Vous habitez où ?  
 > **Tom :** **J'habite à** Bruxelles.
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
-- Pour dire où on habite : "**J'habite à**" + [ville]
+- To say where you live: "**J'habite à**" + [city]
 - "J'habite à Bruxelles" = "I live in Brussels"
 
-### Vocabulaire : Villes belges
+### Vocabulary: Belgian Cities
 
-| Français | English |
+| French | English |
 |:---------|:--------|
 | Bruxelles | Brussels |
 | Anvers | Antwerp |
@@ -190,110 +215,117 @@ Dites-le 3 fois à voix haute !
 | Liège | Liège |
 | Bruges | Bruges |
 
-### Essayez maintenant !
+### Try it now!
 
-**Dites où vous habitez :** "J'habite à [ville]"
+**Say where you live:** "J'habite à [city]"
 
 ---
 
-## 🔍 Observation 5 : Enchanté(e)
+## Observation 5: Enchanté(e)
 
-**Regardez la fin du dialogue :**
+**Look at the end of the dialogue:**
 
 > **Sophie :** Enchantée, Tom !  
 > **Tom :** Enchanté, Sophie !
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
 - "Enchanté" = "Nice to meet you"
-- Sophie dit "Enchant**ée**" (avec un "e")
-- Tom dit "Enchanté" (sans "e")
+- Sophie says "Enchant**ée**" (with an "e")
+- Tom says "Enchanté" (without an "e")
 
-**Pourquoi ?**
-- Homme → Enchanté
-- Femme → Enchantée
+**Why?**
+- Man → Enchanté
+- Woman → Enchantée
 
 ---
 
-## ✏️ Practice 3 : Présentez-vous !
+### Practice 3: Introduce yourself!
 
-**Créez votre présentation complète :**
+**Create your full introduction:**
 
 1. Bonjour !
-2. Je suis [votre nom].
-3. Je suis [nationalité].
-4. J'habite à [ville].
+2. Je suis [your name].
+3. Je suis [nationality].
+4. J'habite à [city].
 5. Enchanté(e) !
 
-**Dites-le à voix haute 3 fois !**
+**Say it out loud 3 times!**
 
 ---
 
-## 🇧🇪 Culture : Les salutations en Belgique
+## Culture: Greetings in Belgium
 
-### Ce que vous devez savoir
+### What you need to know
 
-**En Belgique, il est TRÈS important de dire "Bonjour" !**
+**In Belgium, it is VERY important to say "Bonjour"!**
 
-> **Marc, 42 ans, Bruxelles :**
-> "En Belgique, on dit toujours 'Bonjour' quand on entre dans un magasin, une boulangerie, un café... C'est impoli de ne pas le faire !"
+**Marc, 42 years old, Brussels:**
 
-### Les règles de politesse
+> **En français**
+>
+> "En Belgique, on dit toujours 'Bonjour' quand on entre dans un magasin, une boulangerie, un café... C'est malpoli de ne pas le faire !"
 
-| ❌ Impoli | ✅ Poli |
+> **In English**
+>
+> "In Belgium, we always say 'Bonjour' when entering a store, a bakery, a café... It's rude not to do so!"
+
+### Politeness Rules
+
+| ❌ Rude | ✅ Polite |
 |:----------|:--------|
-| Entrer dans un magasin sans rien dire | "Bonjour !" en entrant |
-| Demander directement "Où est...?" | "Bonjour, où est...?" |
-| Partir sans rien dire | "Au revoir !" ou "Bonne journée !" |
+| Entering a store without saying anything | "Bonjour !" when entering |
+| Asking directly "Where is...?" | "Bonjour, where is...?" |
+| Leaving without saying anything | "Au revoir !" or "Bonne journée !" |
 
-**💡 Astuce :** En Belgique, dites TOUJOURS "Bonjour" quand vous entrez quelque part !
-
----
-
-## 🗣️ Speaking Practice
-
-### Exercice 1 : Se présenter
-
-**Entraînez-vous à vous présenter :**
-
-"Bonjour ! Je suis [nom]. Je suis [nationalité]. J'habite à [ville]. Enchanté(e) !"
-
-**💡 Astuce :** Enregistrez-vous sur votre téléphone et réécoutez !
-
-### Exercice 2 : Dialogue avec un partenaire imaginaire
-
-**Jouez les deux rôles :**
-
-**Vous :** Bonjour !  
-**Partenaire :** Bonjour !  
-**Vous :** Je suis [votre nom]. Et vous ?  
-**Partenaire :** Je suis Marie.  
-**Vous :** Enchanté(e) !
+**💡 Tip:** In Belgium, ALWAYS say "Bonjour" when you enter somewhere!
 
 ---
 
-## ✍️ Writing Practice
+## Speaking Practice
 
-**Écrivez votre présentation (3-4 phrases) :**
+### Exercise 1: Introducing yourself
 
-Incluez :
+**Practice introducing yourself:**
+
+"Bonjour ! Je suis [name]. Je suis [nationality]. J'habite à [city]. Enchanté(e)!"
+
+**💡 Tip:** Record yourself on your phone and listen to it!
+
+### Exercise 2: Dialogue with an imaginary partner
+
+**Play both roles:**
+
+**You:** Bonjour !  
+**Partner:** Bonjour !  
+**You:** Je suis [your name]. Et vous ?  
+**Partner:** Je suis Marie.  
+**You:** Enchanté(e) !
+
+---
+
+## Writing Practice
+
+**Write your introduction (3-4 sentences):**
+
+Include:
 - Bonjour
-- Votre nom
-- Votre nationalité
-- Où vous habitez
+- Your name
+- Your nationality
+- Where you live
 
-**Exemple :**
+**Example:**
 > Bonjour ! Je suis Tom. Je suis américain. J'habite à Bruxelles. Enchanté !
 
 ---
 
-## 📖 Grammar : Le verbe ÊTRE (to be)
+## Grammar: The verb ÊTRE (to be)
 
-### Récapitulatif
+### Recap
 
-**"Je suis" vient du verbe "être" (to be) :**
+**"Je suis" comes from the verb "être" (to be):**
 
-| Français | English |
+| French | English |
 |:---------|:--------|
 | Je suis | I am |
 | Tu es | You are (informal) |
@@ -302,48 +334,48 @@ Incluez :
 | Vous êtes | You are (formal/plural) |
 | Ils/Elles sont | They are |
 
-### Usage avec "Je suis"
+### Usage with "Je suis"
 
-**"Je suis" s'utilise pour :**
+**"Je suis" is used for:**
 
-| Usage | Exemple |
+| Usage | Example |
 |:------|:--------|
-| **Nom** | Je suis Tom. |
-| **Nationalité** | Je suis américain. |
+| **Name** | Je suis Tom. |
+| **Nationality** | Je suis américain. |
 | **Profession** | Je suis professeur. |
-| **État** | Je suis fatigué. |
+| **State** | Je suis fatigué. |
 
 ### "J'habite à" = "I live in"
 
-| Français | English |
+| French | English |
 |:---------|:--------|
 | J'habite | I live |
 | Tu habites | You live |
 | Il/Elle habite | He/She lives |
 
-**⚠️ Toujours avec "à" devant une ville :** J'habite **à** Bruxelles.
+**⚠️ Always with "à" before a city:** J'habite **à** Bruxelles.
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
-### Erreur 1 : Oublier "Bonjour"
+### Mistake 1: Forgetting "Bonjour"
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
 | "Où est la gare ?" | "**Bonjour**, où est la gare ?" |
 
-**En Belgique, c'est impoli de ne pas dire "Bonjour" !**
+**In Belgium, it's rude not to say "Bonjour"!**
 
-### Erreur 2 : "Je suis" vs "J'habite"
+### Mistake 2: "Je suis" vs "J'habite"
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
-| "Je suis à Bruxelles" (pour habiter) | "J'**habite** à Bruxelles" |
+| "Je suis à Bruxelles" (for living) | "J'**habite** à Bruxelles" |
 
 **"Je suis" = I am. "J'habite" = I live.**
 
-### Erreur 3 : Oublier "à" devant la ville
+### Mistake 3: Forgetting "à" before the city
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
@@ -351,32 +383,58 @@ Incluez :
 
 ---
 
-## ✅ Self-Evaluation
+## Self-Evaluation
 
-**Cochez ce que vous savez faire :**
+**Check what you can do:**
 
-- ☐ Je sais dire "Bonjour" et "Au revoir"
-- ☐ Je sais dire mon nom : "Je suis [nom]"
-- ☐ Je sais dire ma nationalité : "Je suis [nationalité]"
-- ☐ Je sais dire où j'habite : "J'habite à [ville]"
-- ☐ Je sais dire "Enchanté(e)"
-- ☐ Je comprends pourquoi "Bonjour" est important en Belgique
-
----
-
-## 📚 Extra Resources
-
-### Activités supplémentaires
-
-- **Miroir :** Présentez-vous devant un miroir 3 fois par jour
-- **Enregistrement :** Enregistrez votre présentation et réécoutez
-- **Dans la rue :** Dites "Bonjour" à chaque commerçant cette semaine
-
-### Prochaine leçon
-
-> **Leçon 02 : Les salutations et formules de politesse**  
-> Vous apprendrez à demander "Comment ça va ?" et les formules de politesse essentielles.
+- ☐ I can say "Bonjour" and "Au revoir"
+- ☐ I can say my name: "Je suis [name]"
+- ☐ I can say my nationality: "Je suis [nationality]"
+- ☐ I can say where I live: "J'habite à [city]"
+- ☐ I can say "Enchanté(e)"
+- ☐ I understand why "Bonjour" is important in Belgium
 
 ---
 
-*Bonne continuation ! 🎉*
+## Extra Resources
+
+### Additional Activities
+
+- **Mirror:** Introduce yourself in front of a mirror 3 times a day
+- **Recording:** Record your introduction and listen to it
+- **In the street:** Say "Bonjour" to every shopkeeper this week
+
+### Next Lesson
+
+> **Lesson 02: Greetings and Politeness Formulas**  
+> You will learn how to ask "How are you?" and essential politeness formulas.
+
+---
+
+### Vocabulary List
+
+| French | English | Pronunciation |
+|:-------|:--------|:--------------|
+| Bonjour | Hello | |
+| Et vous ? | And you? | |
+| américain | American (m) | |
+| belge | Belgian | |
+| habiter | to live | |
+| où | where | |
+| Vous habitez où ? | Where do you live? | |
+| J'habite à Bruxelles | I live in Brussels | |
+| Moi aussi | Me too | |
+| Enchanté(e) | Nice to meet you | |
+| Bonsoir | Good evening | |
+| Au revoir | Goodbye | |
+| anglais | English (m) | |
+| français | French (m) | |
+| espagnol | Spanish (m) | |
+| allemand | German (m) | |
+| Bruxelles | Brussels | |
+| Anvers | Antwerp | |
+| Gand | Ghent | |
+| Liège | Liège | |
+| Bruges | Bruges | |
+
+

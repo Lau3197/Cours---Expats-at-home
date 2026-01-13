@@ -19,8 +19,10 @@ import {
   Book,
   Volume2,
   Pause,
-  Maximize
+  Maximize,
+  Calendar
 } from 'lucide-react';
+import { addPlannedLesson } from '../services/planner';
 import StyledMarkdown from '../components/StyledMarkdown';
 import { CoursePackage, Lesson } from '../types';
 import { getTutorHelp } from '../services/gemini';
@@ -106,25 +108,13 @@ const extractTOC = (content: string): TOCItem[] => {
   const toc: TOCItem[] = [];
 
   lines.forEach(line => {
-    // Match # headers. Note: we skip h1 (# ) as that's usually the title
-    const match = line.match(/^(#{2,3})\s+(.+)$/);
+    // Match ## headers only (H2 level)
+    const match = line.match(/^(#{2})\s+(.+)$/);
     if (match) {
       const level = match[1].length;
       const text = match[2].trim();
       const id = slugify(text);
-
-      // Filter to only show main sections based on user request ("Parts", "Practice", "Review")
-      // matches "Part 1", "Partie 1", "Practice", "Common Mistakes" (for Review), "Self-Evaluation"
-      if (
-        /^(Part|Partie)\s+\d+/i.test(text) ||
-        /^Practice/i.test(text) ||
-        /^Common Mistakes/i.test(text) ||
-        /^Review/i.test(text) ||
-        /^Self-Evaluation/i.test(text) ||
-        /^Wrap-up/i.test(text)
-      ) {
-        toc.push({ id, text, level });
-      }
+      toc.push({ id, text, level });
     }
   });
 
@@ -874,6 +864,29 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   const [streakDays, setStreakDays] = useState(0);
   const [isNotesOpen, setIsNotesOpen] = useState(false);
 
+  // Planning State
+  const [planningLesson, setPlanningLesson] = useState<Lesson | null>(null);
+  const [planningDate, setPlanningDate] = useState('');
+
+  const handlePlanLesson = async () => {
+    if (!planningLesson || !planningDate || !user) return;
+    try {
+      await addPlannedLesson(
+        user.uid,
+        planningDate,
+        course.id,
+        planningLesson.id,
+        planningLesson.title
+      );
+      alert(`Leçon "${planningLesson.title}" planifiée pour le ${new Date(planningDate).toLocaleDateString()} !`);
+      setPlanningLesson(null);
+      setPlanningDate('');
+    } catch (err) {
+      console.error(err);
+      alert("Erreur lors de la planification.");
+    }
+  };
+
   // --- Gamification: Streak Logic ---
   useEffect(() => {
     const today = new Date().toDateString();
@@ -1095,6 +1108,16 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             <button
               onClick={(e) => {
                 e.stopPropagation();
+                setPlanningLesson(lesson);
+              }}
+              className="p-1 text-gray-300 hover:text-[#dd8b8b] transition-colors"
+              title="Planifier cette leçon"
+            >
+              <Calendar className="w-4 h-4" />
+            </button>
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
                 toggleFavorite(lesson.id);
               }}
               className={`p-1 transition-colors ${isFavorite ? 'text-yellow-400' : 'text-gray-300 hover:text-yellow-400'}`}
@@ -1158,6 +1181,16 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             {hasNotes && <span className="text-amber-500 text-base" title="Notes">📝</span>}
           </div>
           <div className="flex items-center gap-2">
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                setPlanningLesson(lesson);
+              }}
+              className="p-1.5 rounded-full text-[#5A6B70]/20 hover:text-[#dd8b8b] hover:bg-[#dd8b8b]/10 transition-colors"
+              title="Planifier cette leçon"
+            >
+              <Calendar className="w-4 h-4" />
+            </button>
             <button
               onClick={(e) => {
                 e.stopPropagation();
@@ -1323,6 +1356,41 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             )}
           </div>
         </div>
+        {/* Planning Modal (Shared) */}
+        {
+          planningLesson && (
+            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
+              <div className="bg-white rounded-3xl p-8 max-w-sm w-full shadow-2xl animate-in zoom-in-95">
+                <h3 className="text-xl font-bold text-[#5A6B70] mb-4">Planifier : {planningLesson.title}</h3>
+                <p className="text-sm text-[#5A6B70]/60 mb-6">Choisissez une date pour ajouter cette leçon à votre agenda.</p>
+
+                <input
+                  type="date"
+                  className="w-full p-3 rounded-xl border border-gray-200 bg-gray-50 mb-6 font-bold text-[#5A6B70]"
+                  min={new Date().toISOString().split('T')[0]}
+                  value={planningDate}
+                  onChange={(e) => setPlanningDate(e.target.value)}
+                />
+
+                <div className="flex gap-3">
+                  <button
+                    onClick={() => setPlanningLesson(null)}
+                    className="flex-1 py-3 rounded-xl border border-gray-200 font-bold text-[#5A6B70]"
+                  >
+                    Annuler
+                  </button>
+                  <button
+                    onClick={handlePlanLesson}
+                    disabled={!planningDate}
+                    className="flex-1 py-3 rounded-xl bg-[#dd8b8b] text-white font-bold disabled:opacity-50"
+                  >
+                    Valider
+                  </button>
+                </div>
+              </div>
+            </div>
+          )
+        }
       </div>
     );
   }
@@ -1661,6 +1729,40 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           </div>
         </div>
       </div>
+
+      {/* Planning Modal */}
+      {planningLesson && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
+          <div className="bg-white rounded-3xl p-8 max-w-sm w-full shadow-2xl animate-in zoom-in-95">
+            <h3 className="text-xl font-bold text-[#5A6B70] mb-4">Planifier : {planningLesson.title}</h3>
+            <p className="text-sm text-[#5A6B70]/60 mb-6">Choisissez une date pour ajouter cette leçon à votre agenda.</p>
+
+            <input
+              type="date"
+              className="w-full p-3 rounded-xl border border-gray-200 bg-gray-50 mb-6 font-bold text-[#5A6B70]"
+              min={new Date().toISOString().split('T')[0]}
+              value={planningDate}
+              onChange={(e) => setPlanningDate(e.target.value)}
+            />
+
+            <div className="flex gap-3">
+              <button
+                onClick={() => setPlanningLesson(null)}
+                className="flex-1 py-3 rounded-xl border border-gray-200 font-bold text-[#5A6B70]"
+              >
+                Annuler
+              </button>
+              <button
+                onClick={handlePlanLesson}
+                disabled={!planningDate}
+                className="flex-1 py-3 rounded-xl bg-[#dd8b8b] text-white font-bold disabled:opacity-50"
+              >
+                Valider
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Floating Action Button for Notes */}
       {activeLesson && (

@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { Search, Bell, LogOut } from 'lucide-react';
+import { Search, Bell, LogOut, MessageSquare } from 'lucide-react';
 import { UserProfile, CoursePackage } from '../types';
 import { db } from '../services/firebase';
 import { collection, getDocs } from 'firebase/firestore';
@@ -141,13 +141,19 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
                 Grammaire
                 {currentPage === 'grammaire' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
-              <button
-                onClick={() => onNavigate('programme')}
-                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'programme' ? 'text-[#dd8b8b]' : ''}`}
-              >
-                Le Programme
-                {currentPage === 'programme' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
-              </button>
+
+              {/* Le Programme (Access Control) */}
+              {(user.role === 'admin' || user.role === 'superadmin' || user.role === 'instructor' || user.plan === 'integration' || user.plan === 'booster') && (
+                <button
+                  onClick={() => onNavigate('programme')}
+                  className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'programme' ? 'text-[#dd8b8b]' : ''}`}
+                >
+                  Le Programme
+                  {currentPage === 'programme' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+                </button>
+              )}
+
+              {/* Coaching (Booster Only) */}
 
               <button
                 onClick={() => onNavigate('30jours')}

@@ -1,12 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import { MessageCircle, Headphones, Globe, ArrowLeft, Star, ChevronRight, Loader2 } from 'lucide-react';
+import { MessageCircle, Headphones, Globe, ArrowLeft, Star, ChevronRight, Loader2, MessageSquare } from 'lucide-react';
 import { Session } from '../types';
 import { getSessions } from '../services/sessions';
 import SessionCalendar from '../components/SessionCalendar';
+import CoachingSpace from '../components/CoachingSpace';
+import { useAuth } from '../context/AuthContext';
 
 type ViewState = 'menu' | 'exchange' | 'listening' | 'culture';
 
 const ProgrammePage: React.FC = () => {
+    const { user } = useAuth();
     const [view, setView] = useState<ViewState>('menu');
     const [sessions, setSessions] = useState<Session[]>([]);
     const [loading, setLoading] = useState(true);
@@ -267,6 +270,34 @@ const ProgrammePage: React.FC = () => {
                     '#E8C586'
                 )}
             </div>
+
+            {/* Coaching Section for Booster Plan */}
+            {user && (user.plan === 'booster' || user.role === 'admin' || user.role === 'superadmin') && (
+                <div className="mt-16 animate-in fade-in slide-in-from-bottom-8 duration-700">
+                    <div className="text-center mb-8">
+                        <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-[#E8C586]/10 text-[#E8C586] text-[10px] font-black rounded-full uppercase tracking-widest border border-[#E8C586]/20">
+                            <Star className="w-3 h-3 fill-current" /> VIP Access
+                        </div>
+                    </div>
+
+                    <div className="bg-white rounded-[40px] border border-[#dd8b8b]/10 shadow-lg overflow-hidden">
+                        <div className="bg-[#F9F7F2]/50 p-8 border-b border-[#dd8b8b]/10 flex flex-col md:flex-row justify-between items-center gap-4">
+                            <div>
+                                <h2 className="text-3xl font-black text-[#5A6B70] serif-display italic flex items-center gap-3">
+                                    <MessageSquare className="w-8 h-8 text-[#E8C586]" />
+                                    Votre Espace Coaching
+                                </h2>
+                                <p className="text-[#5A6B70]/60 sans-handwritten text-lg mt-2">
+                                    Un espace dédié pour échanger avec votre professeur et recevoir vos corrections.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="p-8">
+                            <CoachingSpace />
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 };

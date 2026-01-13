@@ -1,62 +1,79 @@
-# Leçon 03 : Les nombres et l'âge
+# Lesson 03: Numbers and Age
 
-**Niveau** : A1.1  
-**Durée estimée** : 2-3 heures  
-**Objectifs** : Compter de 0 à 100, dire son âge, comprendre les prix
+**Level**: A1.1  
+**Estimated duration**: 2-3 hours  
+**Objectives**: Count from 0 to 100, say your age, understand prices
 
 ---
 
-## 🎧 Let's Start! Au marché
+## Let's Start! At the Market
 
-### Écoutez ce dialogue
+### Listen to this dialogue
 
-**Sophie et Tom sont au marché à Bruxelles :**
+**Sophie and Tom are at the market in Brussels:**
 
 > **Vendeur :** Bonjour ! Vous désirez ?
 > 
 > **Sophie :** Bonjour ! Je voudrais **trois** pommes et **deux** bananes, s'il vous plaît.
 > 
-> **Vendeur :** Voilà ! C'est **deux euros cinquante**.
+> **Vendeur :** Voilà ! **Ça fera deux euros cinquante**.
 > 
 > **Sophie :** Voilà **cinq** euros.
 > 
-> **Vendeur :** Et voilà **deux euros cinquante** de monnaie. Merci !
+> **Vendeur :** Et voilà **2 euros 50 de retour**. Merci !
 > 
 > **Sophie :** Merci, bonne journée !
 
----
-
-### 🔍 Compréhension
-
-**Répondez aux questions :**
-
-1. Sophie veut combien de pommes ?
-2. Sophie veut combien de bananes ?
-3. Ça coûte combien ?
-4. Sophie donne combien d'euros ?
-
 <details>
-<summary>📝 Réponses</summary>
+<summary>English Translation</summary>
 
-1. **Trois** pommes
-2. **Deux** bananes
-3. **Deux euros cinquante**
-4. **Cinq** euros
+> **Vendor:** Hello! Can I help you?
+> 
+> **Sophie:** Hello! I would like three apples and two bananas, please.
+> 
+> **Vendor:** Here you go! That will be two euros fifty.
+> 
+> **Sophie:** Here is five euros.
+> 
+> **Vendor:** And here is 2 euros 50 change. Thank you!
+> 
+> **Sophie:** Thank you, have a nice day!
 
 </details>
 
 ---
 
-## 🔍 Observation 1 : Les nombres 0-10
+### Comprehension
 
-**Dans le dialogue, vous avez entendu :**
+**Answer the questions:**
+
+1. How many apples does Sophie want? *(Combien de pommes veut Sophie ?)*
+2. How many bananas does Sophie want? *(Combien de bananes veut Sophie ?)*
+3. How much does it cost? *(Combien ça coûte ?)*
+4. How many euros does Sophie give? *(Combien d'euros donne Sophie ?)*
+
+<details>
+<summary>📝 Answers</summary>
+
+1. **Three** apples (Trois pommes)
+2. **Two** bananas (Deux bananes)
+3. **Two euros fifty** (Deux euros cinquante)
+4. **Five** euros (Cinq euros)
+
+</details>
+
+---
+
+## Observation 1: Numbers 0-10
+
+**In the dialogue, you heard:**
 - **deux** (2)
 - **trois** (3)
 - **cinq** (5)
 
-### Vocabulaire : Nombres 0-10
+### Vocabulary: Numbers 0-10
 
-| Nombre | Français | Prononciation |
+| Number | French | Pronunciation |
 |:-------|:---------|:--------------|
 | 0 | zéro | [zeʁo] |
 | 1 | un | [œ̃] |
@@ -70,13 +87,13 @@
 | 9 | neuf | [nœf] |
 | 10 | dix | [dis] |
 
-**🎤 Comptez de 0 à 10 à voix haute 3 fois !**
+**Count from 0 to 10 out loud 3 times!**
 
 ---
 
-## ✏️ Practice 1 : Comptez !
+## Practice 1: Count!
 
-**Écrivez les nombres en français :**
+**Write the numbers in French:**
 
 1. 3 → ___________
 2. 7 → ___________
@@ -85,7 +102,7 @@
 5. 2 → ___________
 
 <details>
-<summary>📝 Réponses</summary>
+<summary>📝 Answers</summary>
 
 1. trois
 2. sept
@@ -97,19 +114,19 @@
 
 ---
 
-## 🔍 Observation 2 : Les nombres 11-20
+## Observation 2: Numbers 11-20
 
-### Écoutez Sophie dire son numéro de téléphone
+### Listen to Sophie say her phone number
 
 > **Tom :** C'est quoi ton numéro ?
 > 
-> **Sophie :** C'est le 04 72 **15** **18** **14**.
+> **Sophie :** C'est le 04 12 **15** **18** **14**.
 > 
 > **Tom :** **Quinze**, **dix-huit**, **quatorze**. D'accord !
 
-### Vocabulaire : Nombres 11-20
+### Vocabulary: Numbers 11-20
 
-| Nombre | Français | Prononciation |
+| Number | French | Pronunciation |
 |:-------|:---------|:--------------|
 | 11 | onze | [ɔ̃z] |
 | 12 | douze | [duz] |
@@ -122,23 +139,23 @@
 | 19 | dix-neuf | [diz.nœf] |
 | 20 | vingt | [vɛ̃] |
 
-**💡 Remarquez :** À partir de 17, c'est logique : dix-sept (10+7), dix-huit (10+8), dix-neuf (10+9) !
+**Note:** From 17 onwards, it's logical: dix-sept (10+7), dix-huit (10+8), dix-neuf (10+9)!
 
 ---
 
-## ✏️ Practice 2 : Numéros de téléphone
+## Practice 2: Phone numbers
 
-**Dites ces numéros à voix haute :**
+**Say these numbers out loud:**
 
-1. 04 72 15 18 14
+1. 04 12 15 18 14
 2. 02 13 16 19 11
 3. 06 17 12 20 14
 
 ---
 
-## 🔍 Observation 3 : Les dizaines (20, 30, 40...)
+## Observation 3: The tens (20, 30, 40...)
 
-### Le système belge (plus simple !)
+### The Belgian system (simpler!)
 
 > **Vendeur :** C'est **trente** euros.
 > 
@@ -150,9 +167,9 @@
 > 
 > **Vendeur :** C'est **nonante** euros.
 
-### Vocabulaire : Les dizaines en Belgique 🇧🇪
+### Vocabulary: Tens in Belgium 🇧🇪
 
-| Nombre | Belgique 🇧🇪 | France 🇫🇷 |
+| Number | Belgium 🇧🇪 | France 🇫🇷 |
 |:-------|:------------|:----------|
 | 20 | vingt | vingt |
 | 30 | trente | trente |
@@ -164,13 +181,13 @@
 | 90 | **nonante** | quatre-vingt-dix |
 | 100 | cent | cent |
 
-**💡 Bonne nouvelle :** En Belgique, 70 et 90 sont plus simples : **septante** (70) et **nonante** (90) !
+**Note:** In Belgium, 70 is **septante** and 90 is **nonante**. This is different from France where they say **soixante-dix** (60+10) for 70 and **quatre-vingt-dix** (4x20+10) for 90. If you watch French movies, you will hear the French version!
 
 ---
 
-## ✏️ Practice 3 : Les dizaines
+## Practice 3: The tens
 
-**Écrivez en français (version belge) :**
+**Write in French (Belgian version):**
 
 1. 30 → ___________
 2. 70 → ___________
@@ -179,7 +196,7 @@
 5. 80 → ___________
 
 <details>
-<summary>📝 Réponses</summary>
+<summary>📝 Answers</summary>
 
 1. trente
 2. **septante**
@@ -191,9 +208,9 @@
 
 ---
 
-## 🔍 Observation 4 : Combiner les nombres
+## Observation 4: Combining numbers
 
-### Comment faire 21, 35, 47... ?
+### How to make 21, 35, 47...?
 
 > **Prix :** C'est **vingt-trois** euros.
 > 
@@ -201,9 +218,9 @@
 > 
 > **Prix :** C'est **septante-huit** euros.
 
-**La règle :** dizaine + unité (avec un tiret)
+**The rule:** ten + unit (with a hyphen)
 
-| Nombre | Français |
+| Number | French |
 |:-------|:---------|
 | 21 | vingt-**et-un** |
 | 22 | vingt-deux |
@@ -212,32 +229,38 @@
 | 78 | septante-huit |
 | 93 | nonante-trois |
 
-**💡 Exception :** 21, 31, 41... ont "et" : vingt-**et**-un, trente-**et**-un...
+**Exception:** 21, 31, 41... have "et": vingt-**et**-un, trente-**et**-un...
 
 ---
 
-## 🇧🇪 Culture : Les prix en Belgique
+## Culture: Prices in Belgium
 
-### Lisez ce témoignage
+### Read this testimonial
 
-**Marc, serveur à Bruxelles :**
+**Marc, waiter in Brussels:**
 
+> **En français**
+>
 > "Beaucoup de touristes ne comprennent pas quand je dis 'septante' ou 'nonante'. En France, ils disent 'soixante-dix' et 'quatre-vingt-dix'. Mais en Belgique et en Suisse, c'est plus logique !"
 
-### Les prix au quotidien
+> **In English**
+>
+> "Many tourists don't understand when I say 'septante' or 'nonante'. In France, they say 'soixante-dix' and 'quatre-vingt-dix'. But in Belgium and Switzerland, it's more logical!"
 
-| Article | Prix typique |
+### Daily prices
+
+| Item | Typical price |
 |:--------|:-------------|
-| Un café | 2,50€ (deux euros cinquante) |
-| Une baguette | 1,20€ (un euro vingt) |
-| Un ticket de métro | 2,40€ (deux euros quarante) |
-| Un menu du jour | 15€ (quinze euros) |
+| A coffee (Un café) | 2,50€ (deux euros cinquante) |
+| A bread (Un pain) | 2,20€ (deux euros vingt) |
+| A metro ticket (Un ticket de métro) | 2,40€ (deux euros quarante) |
+| A daily menu (Un plat du jour) | 15€ (quinze euros) |
 
 ---
 
-## 🔍 Observation 5 : Dire son âge
+## Observation 5: Saying your age
 
-### Écoutez ce dialogue
+### Listen to this dialogue
 
 > **Sophie :** Tu as quel âge ?
 > 
@@ -245,26 +268,26 @@
 > 
 > **Sophie :** **J'ai vingt-huit ans**.
 
-**Que remarquez-vous ?**
+**What do you notice?**
 
-- Pour dire son âge : **J'ai** + [nombre] + **ans**
-- On utilise le verbe "avoir" (j'ai), pas "être" (je suis) !
+- To say your age: **J'ai** + [number] + **ans**
+- We use the verb "avoir" (to have), not "être" (to be)!
 
-### Exemples
+### Examples
 
-| Français | English |
+| French | English |
 |:---------|:--------|
 | J'ai 25 ans. | I am 25 years old. |
 | Tu as quel âge ? | How old are you? |
 | Il a 40 ans. | He is 40 years old. |
 
-**⚠️ Attention :** On dit "J'**ai** 30 ans", pas "Je suis 30 ans" !
+**Warning:** We say "J'**ai** 30 ans", not "Je suis 30 ans"!
 
 ---
 
-## ✏️ Practice 4 : L'âge
+## Practice 4: Age
 
-**Complétez :**
+**Complete:**
 
 1. J'___ 28 ans. (avoir)
 2. Tu ___ quel âge ? (avoir)
@@ -272,7 +295,7 @@
 4. Nous ___ 40 ans. (avoir)
 
 <details>
-<summary>📝 Réponses</summary>
+<summary>📝 Answers</summary>
 
 1. J'**ai** 28 ans.
 2. Tu **as** quel âge ?
@@ -283,42 +306,42 @@
 
 ---
 
-## 🗣️ Speaking Practice
+## Speaking Practice
 
-### Exercice 1 : Votre âge
+### Exercise 1: Your age
 
-**Dites votre âge :**
+**Say your age:**
 
-"J'ai [nombre] ans."
+"J'ai [number] ans."
 
-**Répétez 3 fois !**
+**Repeat 3 times!**
 
-### Exercice 2 : Dialogue sur l'âge
+### Exercise 2: Dialogue about age
 
-**Jouez ce dialogue :**
+**Roleplay this dialogue:**
 
 **A :** Tu as quel âge ?  
-**B :** J'ai [votre âge] ans. Et toi ?  
-**A :** J'ai [âge imaginaire] ans.
+**B :** J'ai [your age] ans. Et toi ?  
+**A :** J'ai [imaginary age] ans.
 
 ---
 
-## ✍️ Writing Practice
+## Writing Practice
 
-**Écrivez les nombres en lettres :**
+**Write the numbers in letters:**
 
-1. Votre âge : ___________
-2. L'âge de vos parents : ___________
-3. Votre numéro de rue : ___________
-4. Un prix typique de café (ex: 2,50€) : ___________
+1. Your age: ___________
+2. Your parents' age: ___________
+3. Your street number: ___________
+4. A typical coffee price (e.g. 2,50€): ___________
 
 ---
 
-## 📖 Grammar : Récapitulatif
+## Grammar: Summary
 
-### Les nombres - Système complet
+### Numbers - Complete system
 
-| 0-10 | 11-20 | Dizaines |
+| 0-10 | 11-20 | Tens |
 |:-----|:------|:---------|
 | zéro | onze | vingt (20) |
 | un | douze | trente (30) |
@@ -332,16 +355,16 @@
 | neuf | vingt | |
 | dix | | |
 
-### Former les nombres composés
+### Forming compound numbers
 
-| Règle | Exemple |
+| Rule | Example |
 |:------|:--------|
-| dizaine + unité | vingt-deux (22) |
-| Exception : 21, 31, 41... | vingt-et-un, trente-et-un |
+| ten + unit | vingt-deux (22) |
+| Exception: 21, 31, 41... | vingt-et-un, trente-et-un |
 
-### Le verbe AVOIR avec l'âge
+### The verb AVOIR with age
 
-| Français | English |
+| French | English |
 |:---------|:--------|
 | J'ai [nombre] ans | I am [number] years old |
 | Tu as quel âge ? | How old are you? |
@@ -349,62 +372,60 @@
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
-### Erreur 1 : "Je suis" pour l'âge
+### Mistake 1: "Je suis" for age
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
 | Je suis 30 ans | J'**ai** 30 ans |
 
-**En français, on "a" un âge, on ne "l'est" pas !**
+**In French, we "have" an age, we are not it!**
 
-### Erreur 2 : Oublier "ans"
+### Mistake 2: Forgetting "ans"
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
 | J'ai 30. | J'ai 30 **ans**. |
 
-**Toujours ajouter "ans" après le nombre !**
+**Always add "ans" after the number!**
 
-### Erreur 3 : Dire "soixante-dix" en Belgique
+### Mistake 3: Saying "soixante-dix" in Belgium
 
-| 🇫🇷 France | 🇧🇪 Belgique |
+| 🇫🇷 France | 🇧🇪 Belgium |
 |:----------|:------------|
 | soixante-dix | **septante** |
 | quatre-vingt-dix | **nonante** |
 
-**En Belgique, utilisez septante (70) et nonante (90) !**
+**In Belgium, use septante (70) and nonante (90)!**
 
 ---
 
-## ✅ Self-Evaluation
+## Self-Evaluation
 
-**Cochez ce que vous savez faire :**
+**Check what you can do:**
 
-- ☐ Je sais compter de 0 à 20
-- ☐ Je connais les dizaines (20, 30... 100)
-- ☐ Je connais "septante" (70) et "nonante" (90) en Belgique
-- ☐ Je sais dire mon âge : "J'ai [nombre] ans"
-- ☐ Je sais demander l'âge : "Tu as quel âge ?"
-- ☐ Je comprends les prix en euros
-
----
-
-## 📚 Extra Resources
-
-### Activités supplémentaires
-
-- **Comptez :** Comptez de 1 à 100 tous les jours pendant une semaine
-- **Prix :** Regardez les prix au supermarché et dites-les en français
-- **Téléphone :** Dites votre numéro de téléphone en français
-- **Âges :** Demandez l'âge à vos amis/famille en français
-
-### Prochaine leçon
-
-> **Leçon 04 : La famille et les relations**  
-> Vous apprendrez à parler de votre famille !
+- [ ] I can count from 0 to 20
+- [ ] I know the tens (20, 30... 100)
+- [ ] I know "septante" (70) and "nonante" (90) in Belgium
+- [ ] I can say my age: "J'ai [number] ans"
+- [ ] I can ask for age: "Tu as quel âge ?"
+- [ ] I understand prices in euros
 
 ---
 
-*Bonne continuation ! 🎉*
+## Extra Resources
+
+### Additional Activities
+
+- **Count:** Count from 1 to 100 every day for a week
+- **Prices:** Look at prices at the supermarket and say them in French
+- **Phone:** Say your phone number in French
+- **Ages:** Ask your friends/family their age in French
+
+### Next Lesson
+
+> **Lesson 04: Family and relationships**  
+> You will learn to talk about your family!
+
+---

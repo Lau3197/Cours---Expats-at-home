@@ -104,6 +104,7 @@ export interface UserProfile {
   levelGoal?: FrenchLevel;
   hasFullAccess: boolean;
   notifications?: NotificationPreferences;
+  plan?: Plan; // 'autonomy' (default), 'integration', 'booster'
 }
 
 export interface Session {
@@ -136,3 +137,30 @@ export interface UserProgress {
   lastActivity: string | null;
   weeklyActivity: { [day: string]: number };
 }
+export type Plan = 'autonomy' | 'integration' | 'booster';
+
+export interface Submission {
+  id: string;
+  studentId: string;
+  studentName: string;
+  studentAvatar?: string;
+  type: 'exchange' | 'culture' | 'lesson';
+  title: string;
+  content?: string; // Text content
+  fileUrl?: string; // Optional file attachment
+  status: 'pending' | 'corrected';
+  feedback?: string;
+  createdAt: string; // ISO string
+  correctedAt?: string; // ISO string
+}
+
+export interface PlannedLesson {
+  id: string;
+  userId: string;
+  date: string; // YYYY-MM-DD
+  courseId: string;
+  lessonId: string;
+  lessonTitle: string;
+  status: 'planned' | 'completed';
+}
+

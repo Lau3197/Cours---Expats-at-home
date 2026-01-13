@@ -23,8 +23,10 @@ import {
 } from 'recharts';
 import { useAuth } from '../context/AuthContext';
 import { db } from '../services/firebase';
-import { collection, getDocs, doc, getDoc, setDoc } from 'firebase/firestore';
-import { CoursePackage } from '../types';
+import { collection, getDocs, doc, getDoc, setDoc, updateDoc, query, where, orderBy } from 'firebase/firestore';
+import { CoursePackage, Session, PlannedLesson } from '../types';
+import SessionCalendar from '../components/SessionCalendar';
+import { getPlannedLessons } from '../services/planner';
 
 interface UserProgress {
   completedLessons: string[];
@@ -45,6 +47,8 @@ const Dashboard: React.FC<DashboardProps> = ({ onNavigate }) => {
   const [enrolledCount, setEnrolledCount] = useState(0);
   const [learningHours, setLearningHours] = useState(0);
   const [courses, setCourses] = useState<CoursePackage[]>([]);
+  const [sessions, setSessions] = useState<Session[]>([]);
+  const [plannedLessons, setPlannedLessons] = useState<PlannedLesson[]>([]);
   const [chartData, setChartData] = useState([
     { name: 'Mon', hours: 0 },
     { name: 'Tue', hours: 0 },
@@ -81,7 +85,18 @@ const Dashboard: React.FC<DashboardProps> = ({ onNavigate }) => {
           fetchedCourses.push({ id: doc.id, ...doc.data() } as CoursePackage);
         });
         setCourses(fetchedCourses);
+        setCourses(fetchedCourses);
         setEnrolledCount(fetchedCourses.length);
+
+        // Fetch Sessions
+        const sessionsQuery = query(collection(db, 'sessions'), orderBy('date', 'asc'));
+        const sessionsSnapshot = await getDocs(sessionsQuery);
+        const fetchedSessions = sessionsSnapshot.docs.map(doc => ({ id: doc.id, ...doc.data() } as Session));
+        setSessions(fetchedSessions);
+
+        // Fetch Planned Lessons
+        const plans = await getPlannedLessons(user.uid);
+        setPlannedLessons(plans);
 
         // Récupérer ou créer la progression de l'utilisateur
         const progressRef = doc(db, 'userProgress', user.uid);
@@ -246,85 +261,43 @@ const Dashboard: React.FC<DashboardProps> = ({ onNavigate }) => {
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-        {/* Activity Chart */}
-        <div className="lg:col-span-2 bg-white p-10 rounded-[48px] border border-[#dd8b8b]/10 shadow-sm">
-          <div className="flex justify-between items-center mb-10">
-            <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic">Engagement Activity</h3>
-            <div className="flex gap-2">
-              <span className="w-3 h-3 rounded-full bg-[#E8C586]" />
-              <span className="text-[10px] font-black uppercase text-[#5A6B70]/40 tracking-widest">Weekly Goal: 15h</span>
+        {/* Calendar Section */}
+        <div className="lg:col-span-2 space-y-8">
+          <div className="bg-white p-10 rounded-[48px] border border-[#dd8b8b]/10 shadow-sm">
+            <div className="flex justify-between items-center mb-8">
+              <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic">Mon Agenda</h3>
+              <div className="flex gap-4">
+                <div className="flex items-center gap-2 text-xs font-bold text-[#5A6B70]/60 uppercase tracking-widest">
+                  <span className="w-3 h-3 rounded-full bg-[#dd8b8b]"></span> Exchange
+                </div>
+                <div className="flex items-center gap-2 text-xs font-bold text-[#5A6B70]/60 uppercase tracking-widest">
+                  <span className="w-3 h-3 rounded-full bg-[#E8C586]"></span> Culture
+                </div>
+              </div>
             </div>
-          </div>
-          <div className="h-72">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={chartData}>
-                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#F9F7F2" />
-                <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fill: '#5A6B70', fontSize: 10, fontWeight: 800 }} dy={10} />
-                <YAxis axisLine={false} tickLine={false} tick={{ fill: '#5A6B70', fontSize: 10, fontWeight: 800 }} />
-                <Tooltip cursor={{ fill: '#F9F7F2' }} contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 20px 25px -5px rgb(0 0 0 / 0.1)' }} />
-                <Bar dataKey="hours" radius={[12, 12, 0, 0]}>
-                  {chartData.map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={index === 3 ? '#dd8b8b' : '#E8C586'} />
-                  ))}
-                </Bar>
-              </BarChart>
-            </ResponsiveContainer>
+            {loading ? (
+              <div className="flex justify-center p-12">
+                <Loader2 className="w-8 h-8 text-[#dd8b8b] animate-spin" />
+              </div>
+            ) : (
+              <SessionCalendar
+                sessions={sessions}
+                plannedLessons={plannedLessons}
+                courses={courses}
+                userId={user?.uid}
+                onPlanUpdate={async () => {
+                  if (user) {
+                    const plans = await getPlannedLessons(user.uid);
+                    setPlannedLessons(plans);
+                  }
+                }}
+                type="mixed"
+                color="#5A6B70"
+              />
+            )}
           </div>
         </div>
 
-        {/* Continue Learning */}
-        <div className="bg-[#5A6B70] p-10 rounded-[48px] text-white shadow-2xl relative overflow-hidden">
-          <div className="absolute top-0 right-0 w-32 h-32 bg-white/5 rounded-full -mr-16 -mt-16" />
-          <h3 className="text-2xl font-bold serif-display italic mb-8">Prêt à Continuer ?</h3>
-          <div className="space-y-6">
-            {courses.slice(0, 3).map((pkg) => {
-              const totalLessons = pkg.sections.reduce((acc, s) => acc + s.lessons.length, 0);
-              // Calculer depuis userProgress si disponible
-              let completedLessons = 0;
-              if (userProgress) {
-                completedLessons = pkg.sections.reduce((acc, section) => {
-                  return acc + section.lessons.filter(lesson => {
-                    const lessonKey = `${pkg.id}_${lesson.id}`;
-                    return userProgress.completedLessons.includes(lessonKey);
-                  }).length;
-                }, 0);
-              } else {
-                // Fallback sur localStorage
-                const localProgress = localStorage.getItem(`progress_${pkg.id}`);
-                const localCompleted = localProgress ? JSON.parse(localProgress) : [];
-                completedLessons = localCompleted.length;
-              }
-              const prog = totalLessons > 0 ? Math.round((completedLessons / totalLessons) * 100) : 0;
-              return (
-                <div
-                  key={pkg.id}
-                  className="group cursor-pointer"
-                  onClick={() => {
-                    // Naviguer vers le cours
-                    window.dispatchEvent(new CustomEvent('navigate', { detail: { page: 'library', course: pkg } }));
-                  }}
-                >
-                  <div className="flex justify-between mb-2">
-                    <span className="text-[10px] font-black uppercase tracking-widest opacity-80 truncate flex-1 mr-2">{pkg.title}</span>
-                    <span className="text-[10px] font-black whitespace-nowrap">{prog}%</span>
-                  </div>
-                  <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
-                    <div className="h-full bg-[#E8C586] group-hover:bg-[#dd8b8b] transition-all" style={{ width: `${prog}%` }} />
-                  </div>
-                </div>
-              );
-            })}
-            {courses.length === 0 && (
-              <p className="text-sm opacity-60 italic">Aucun cours disponible. Chargez les cours depuis l'admin.</p>
-            )}
-          </div>
-          <button
-            onClick={() => window.location.hash = 'library'}
-            className="mt-12 w-full py-4 bg-white text-[#5A6B70] font-black sans-geometric uppercase tracking-widest text-xs rounded-2xl hover:scale-[1.02] transition-all shadow-xl shadow-black/20 flex items-center justify-center gap-3"
-          >
-            Aller à la Bibliothèque <ExternalLink className="w-4 h-4" />
-          </button>
-        </div>
       </div>
     </div>
   );

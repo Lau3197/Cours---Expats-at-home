@@ -12,8 +12,8 @@ import {
     Mail,
     Eye
 } from 'lucide-react';
-import { Course, CoursePackage } from '../types';
-import { getAllStudents, StudentData } from '../services/admin';
+import { Course, CoursePackage, Plan } from '../types';
+import { getAllStudents, StudentData, updateStudentPlan } from '../services/admin';
 import { useAuth } from '../context/AuthContext';
 
 interface StudentManagerProps {
@@ -40,6 +40,18 @@ const StudentManager: React.FC<StudentManagerProps> = ({ courses: coursePackages
             console.error("Error fetching students:", error);
         } finally {
             setLoading(false);
+        }
+    };
+
+    const handlePlanChange = async (uid: string, newPlan: Plan) => {
+        try {
+            await updateStudentPlan(uid, newPlan);
+            setStudents(students.map(s => s.uid === uid ? { ...s, plan: newPlan } : s));
+            if (selectedStudent && selectedStudent.uid === uid) {
+                setSelectedStudent({ ...selectedStudent, plan: newPlan });
+            }
+        } catch (error) {
+            alert("Erreur lors de la mise à jour du plan");
         }
     };
 
@@ -102,6 +114,7 @@ const StudentManager: React.FC<StudentManagerProps> = ({ courses: coursePackages
                             <tr className="text-left">
                                 <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Étudiant</th>
                                 <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Niveau Cible</th>
+                                <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Formule</th>
                                 <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Dernière Connexion</th>
                                 <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Progression</th>
                                 <th className="px-8 py-6 text-[10px] font-black uppercase tracking-widest text-[#5A6B70]/40">Statut</th>
@@ -134,6 +147,11 @@ const StudentManager: React.FC<StudentManagerProps> = ({ courses: coursePackages
                                         <td className="px-8 py-6">
                                             <span className="bg-[#E8C586]/20 text-[#E8C586] px-3 py-1 rounded-full text-xs font-black">
                                                 {student.levelGoal || 'A1'}
+                                            </span>
+                                        </td>
+                                        <td className="px-8 py-6">
+                                            <span className={`px-2 py-1 rounded text-xs font-bold uppercase ${student.plan === 'booster' ? 'bg-purple-100 text-purple-600' : student.plan === 'integration' ? 'bg-blue-100 text-blue-600' : 'bg-gray-100 text-gray-500'}`}>
+                                                {student.plan || 'Autonomie'}
                                             </span>
                                         </td>
                                         <td className="px-8 py-6 text-sm font-bold text-[#5A6B70]/60">
@@ -206,6 +224,18 @@ const StudentManager: React.FC<StudentManagerProps> = ({ courses: coursePackages
                                         <span className="flex items-center gap-1 text-sm bg-white px-3 py-1 rounded-full shadow-sm">
                                             <Clock className="w-3 h-3" /> Dernière connexion: {selectedStudent.lastLogin && selectedStudent.lastLogin !== 'Jamais' ? new Date(selectedStudent.lastLogin).toLocaleDateString() : 'Jamais'}
                                         </span>
+                                    </div>
+                                    <div className="mt-4">
+                                        <label className="text-xs font-bold text-[#5A6B70] uppercase mr-2">Formule :</label>
+                                        <select
+                                            value={selectedStudent.plan || 'autonomy'}
+                                            onChange={(e) => handlePlanChange(selectedStudent.uid, e.target.value as Plan)}
+                                            className="bg-[#F9F7F2] border-none rounded-lg text-sm font-bold text-[#5A6B70] focus:ring-[#dd8b8b]"
+                                        >
+                                            <option value="autonomy">Autonomie (Base)</option>
+                                            <option value="integration">L'Intégration (+ Programme)</option>
+                                            <option value="booster">Booster Belge (+ Coaching)</option>
+                                        </select>
                                     </div>
                                 </div>
                             </div>
