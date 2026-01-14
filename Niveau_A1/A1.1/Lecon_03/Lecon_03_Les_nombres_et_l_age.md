@@ -285,6 +285,75 @@
 
 ---
 
+---
+
+## 🧠 Grammar Focus: Asking Questions (Part 1)
+
+**How do we ask questions in French?** At this level, we use **Intonation** and **Key Words**.
+
+### 1. The Magic Voice (Intonation) 🗣️
+
+In French, you can turn ANY statement into a question just by **raising your voice** at the end.
+
+*   **Statement:** Tu as 20 ans. ↘️ (Voice goes down)
+*   **Question:** Tu as 20 ans ? ↗️ (Voice goes up)
+
+> **Pro Tip:** It's the easiest way to ask questions in spoken French!
+
+### 2. The Question Words 🔑
+
+#### A. COMBIEN (How much / How many)
+Use **Combien** for quantity and price.
+
+*   **Price:** C'est **combien** ? / Ça coûte **combien** ?
+*   **Quantity:** Tu en veux **combien** ? (How many do you want?)
+
+#### B. QUEL vs QUELLE (Which / What)
+Use **Quel** to ask for specific identity (Age, Number, Choice).
+⚠️ **Warning:** The writing changes depending on Gender (Male/Female)!
+
+| | Masculin | Féminin | Pronunciation |
+| :--- | :--- | :--- | :--- |
+| **Singular** | **Quel** | **Quelle** | [kɛl] (Identical!) |
+| **Example** | **Quel** âge as-tu ? | C'est **quelle** chambre ? | |
+
+### 🎯 Activity: The "Jeopardy" Challenge
+I give you the **answer**, you find the **question**!
+
+1.  **Answer:** "J'ai 25 ans." -> **Question:** ____________________ ?
+2.  **Answer:** "Ça coûte 5 euros." -> **Question:** ____________________ ?
+3.  **Answer:** "C'est la chambre 93." -> **Question:** ____________________ ?
+
+<details>
+<summary>👀 See answers</summary>
+
+1.  Tu as **quel** âge ?
+2.  C'est **combien** ? / Ça coûte **combien** ?
+3.  C'est **quelle** chambre ?
+
+</details>
+
+### 🎯 Activity 2: Fill in the word 🧠
+
+Complete with: **Combien**, **Quel**, or **Quelle**.
+
+1.  Tu as __________ âge ? (Masculine)
+2.  Ça coûte __________ ?
+3.  C'est __________ chambre ? (Feminine)
+4.  __________ est ton numéro de téléphone ? (Masculine)
+
+<details>
+<summary>👀 See answers</summary>
+
+1.  Tu as **Quel** âge ?
+2.  Ça coûte **Combien** ?
+3.  C'est **Quelle** chambre ?
+4.  **Quel** est ton numéro de téléphone ?
+
+</details>
+
+---
+
 ## Practice 4: Age
 
 **Complete:**

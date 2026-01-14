@@ -201,6 +201,61 @@
 
 ---
 
+---
+
+## 🔍 Observation 6: The Negative Form (Ne ... Pas) ⛔
+
+To say "NOT" in French, we use a structure called "The Sandwich".
+
+### 1. The Sandwich Rule 🥪
+We put **ne** and **pas** around the verb (like two slices of bread).
+
+*   **Positive:** Je **parle** français.
+*   **Negative:** Je **ne** parle **pas** français.
+
+### 2. The Vowel Rule ⚠️
+If the verb starts with a **vowel** (a, e, i, o, u) or **h**, "ne" becomes **n'**.
+
+*   **Positive:** J'**aime** le café.
+*   **Negative:** Je **n'**aime **pas** le café. (Not "Je ne aime pas")
+*   **Positive:** J'**habite** ici.
+*   **Negative:** Je **n'**habite **pas** ici.
+
+---
+
+## ✏️ Practice 3: The Negation
+**Exercise 1: Transform into negative**
+1.  Je suis belge. → Je ____________________ belge.
+2.  Tu habites à Paris. → Tu ____________________ à Paris.
+3.  Il aime le chocolat. → Il ____________________ le chocolat.
+4.  Nous travaillons ici. → Nous ____________________ ici.
+
+**Exercise 2: Answer with "Non"**
+1.  Tu aimes les choux ? (Non, je...)
+    → __________________________________________________
+2.  Tu es fatigué ? (Non, je...)
+    → __________________________________________________
+3.  Vous parlez chinois ? (Non, nous...)
+    → __________________________________________________
+
+<details>
+<summary>📝 Answers</summary>
+
+**Exercise 1**
+1.  Je **ne** suis **pas** belge.
+2.  Tu **n'**habites **pas** à Paris.
+3.  Il **n'**aime **pas** le chocolat.
+4.  Nous **ne** travaillons **pas** ici.
+
+**Exercise 2**
+1.  Non, je **n'**aime **pas** les choux.
+2.  Non, je **ne** suis **pas** fatigué.
+3.  Non, nous **ne** parlons **pas** chinois.
+
+</details>
+
+---
+
 ## 🗣️ Speaking Practice
 
 ### Exercise 1: Talk about food
@@ -269,6 +324,13 @@ Include:
 | Je préfère + noun | Je préfère le café. |
 | Je préfère + infinitive | Je préfère rester à la maison. |
 
+### The Negation (Ne ... Pas)
+
+| Structure | Example |
+| :--- | :--- |
+| **Ne** + Verb + **Pas** | Je **ne** parle **pas** anglais. |
+| **N'** + Vowel/H + **Pas** | Je **n'**aime **pas** les choux. |
+
 ---
 
 ## ⚠️ Common Mistakes to Avoid
@@ -298,6 +360,14 @@ Include:
 | J'aime le aller au cinéma | J'aime **aller** au cinéma |
 
 **No article when followed by a verb!**
+
+### Mistake 4: The Vowel Clash
+| ❌ Incorrect | ✅ Correct |
+| :--- | :--- |
+| Je **ne** aime pas | Je **n'**aime pas |
+| Je **ne** habite pas | Je **n'**habite pas |
+
+**"Ne" becomes "N'" before a vowel or H!**
 
 ---
 

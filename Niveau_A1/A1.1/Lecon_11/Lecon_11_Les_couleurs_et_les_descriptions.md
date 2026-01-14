@@ -240,6 +240,51 @@
 
 ---
 
+---
+
+## 🧠 Grammar Focus: Systematizing Questions
+
+Let's organize specifically how to ask about descriptions and preferences.
+
+### 1. "Qu'est-ce que" vs "Est-ce que"
+
+*   **Qu'est-ce que tu aimes ?** = Open question (What...?)
+    *   *Answer:* J'aime le bleu, le rouge, le chocolat...
+*   **Est-ce que tu aimes... ?** = Yes/No question
+    *   *Answer:* Oui, j'aime... / Non, je n'aime pas...
+
+**Example:**
+- "Qu'est-ce que tu regardes ?" (What are you watching?)
+- "Est-ce que tu regardes la télé ?" (Are you watching TV?)
+
+### 2. Revision: Quel / Quelle 🏷️
+Use **Quel** (masculine) or **Quelle** (feminine) to ask for a specific choice to describe something.
+
+*   **Masculine:** **Quel** est ton pantalon préféré ?
+*   **Feminine:** **Quelle** est ta couleur préférée ?
+
+### 🎯 Quick Practice
+**Complete with "Qu'est-ce que", "Est-ce que" or "Quel/Quelle".**
+
+1. __________________ tu aimes le vert ? (Yes/No)
+2. __________________ est ta couleur préférée ? (Choice)
+3. __________________ tu portes aujourd'hui ? (Open)
+4. __________________ est ton style préféré ? (Choice - Masc.)
+5. __________________ tu cherches une veste ? (Yes/No)
+
+<details>
+<summary>👀 See answers</summary>
+
+1. **Est-ce que** tu aimes le vert ?
+2. **Quelle** est ta couleur préférée ?
+3. **Qu'est-ce que** tu portes aujourd'hui ?
+4. **Quel** est ton style préféré ?
+5. **Est-ce que** tu cherches une veste ?
+
+</details>
+
+---
+
 ## 🗣️ Speaking Practice
 
 ### Exercise 1: Describe objects in your room
@@ -302,6 +347,14 @@ Choose ONE:
 | Masc: grand | Masc: grands |
 | Fem: grande | Fem: grandes |
 
+### Asking Questions
+
+| Type | Structure | Example |
+| :--- | :--- | :--- |
+| **Open** | **Qu'est-ce que**... ? | **Qu'est-ce que** tu aimes ? |
+| **Yes/No** | **Est-ce que**... ? | **Est-ce que** tu es prêt ? |
+| **Choice** | **Quel / Quelle**... ? | **Quelle** est ta taille ? |
+
 ---
 
 ## ⚠️ Common Mistakes to Avoid
@@ -330,6 +383,13 @@ Choose ONE:
 | des voitures bleu | des voitures **bleues** |
 
 **Adjectives agree in NUMBER too!**
+
+### Mistake 4: Confusing "Qu'est-ce que" and "Est-ce que"
+
+| Context | Question |
+| :--- | :--- |
+| You want information (What?) | **Qu'est-ce que** tu manges ? |
+| You want a Yes/No answer | **Est-ce que** tu manges ? |
 
 ---
 

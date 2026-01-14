@@ -182,7 +182,7 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-20">
       <div className="text-center mb-24">
         <div className="inline-flex items-center gap-2 px-5 py-2 bg-[#E8C586]/10 text-[#E8C586] text-xs font-black rounded-full mb-8 uppercase tracking-[0.3em] sans-geometric border border-[#E8C586]/20">
           <span className="w-2 h-2 rounded-full bg-[#E8C586] animate-pulse" /> ExpatsatHome.be

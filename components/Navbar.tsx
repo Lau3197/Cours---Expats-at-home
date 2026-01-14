@@ -141,6 +141,13 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
                 Grammaire
                 {currentPage === 'grammaire' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
               </button>
+              <button
+                onClick={() => onNavigate('vocabulary')}
+                className={`hover:text-[#dd8b8b] transition-all relative py-2 ${currentPage === 'vocabulary' ? 'text-[#dd8b8b]' : ''}`}
+              >
+                Vocabulaire
+                {currentPage === 'vocabulary' && <div className="absolute bottom-0 left-0 w-full h-1 bg-[#dd8b8b] rounded-full" />}
+              </button>
 
               {/* Le Programme (Access Control) */}
               {(user.role === 'admin' || user.role === 'superadmin' || user.role === 'instructor' || user.plan === 'integration' || user.plan === 'booster') && (

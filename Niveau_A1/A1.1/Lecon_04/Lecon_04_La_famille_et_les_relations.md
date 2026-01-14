@@ -2,21 +2,21 @@
 
 **Level**: A1.1  
 **Estimated duration**: 2-3 hours  
-**Objectives**: Talk about your family, describe relatives, use possessive adjectives
+**Objectives**: Talk about your family, describe relatives, use possessive adjectives (my, your, his/her)
 
 ---
 
-## Let's Start! Tom's Family
+## 🎧 Let's Start! Tom's Family
 
 ### Listen to this conversation
 
 **Sophie and Tom meet at a party in Brussels:**
 
-> **Sophie :** Parle-moi de ta famille !
+> **Sophie :** Parle-moi de **ta** famille !
 > 
 > **Tom :** D'accord ! J'ai un frère et une sœur. **Mon** frère habite à Londres et **ma** sœur habite à Paris.
 > 
-> **Sophie :** Et tes parents ?
+> **Sophie :** Et **tes** parents ?
 > 
 > **Tom :** **Mes** parents habitent en Angleterre.
 > 
@@ -33,11 +33,11 @@
 <details>
 <summary>English Translation</summary>
 
-> **Sophie:** Tell me about your family!
+> **Sophie:** Tell me about **your** family!
 > 
 > **Tom:** Okay! I have a brother and a sister. **My** brother lives in London and **my** sister lives in Paris.
 > 
-> **Sophie:** And your parents?
+> **Sophie:** And **your** parents?
 > 
 > **Tom:** **My** parents live in England.
 > 
@@ -55,356 +55,185 @@
 
 ---
 
-### 🔍 Comprehension: Tom's Family
+## 🔍 Step 1: Talking about YOUR own family (My)
 
-**Answer the questions:**
+**Look at what Tom says about himself:**
 
-1. How many brothers and sisters does Tom have? *(Combien de frères et sœurs a Tom ?)*
-2. Where does his brother live? *(Où habite son frère ?)*
-3. Where do his parents live? *(Où habitent ses parents ?)*
-4. What is his wife's name? *(Comment s'appelle sa femme ?)*
-5. How many children does Sophie have? *(Combien d'enfants a Sophie ?)*
+- **mon** frère (brother - masculine)
+- **ma** sœur (sister - feminine)
+- **mes** parents (parents - plural)
+
+**The Rule for "MY":**
+
+| Masculine (Je) | Feminine (Je) | Plural (Je) |
+|:---|:---|:---|
+| **mon** | **ma** | **mes** |
+| *mon père* | *ma mère* | *mes parents* |
+| *mon frère* | *ma sœur* | *mes enfants* |
+
+> **💡 Important:** In French, the word agrees with the **family member**, not with you!
+> - Tom says "**ma** femme" (because *femme* is feminine).
+> - Sophie says "**mon** fils" (because *fils* is masculine).
+
+---
+
+## ✏️ Practice 1: My family
+
+**Complete with mon, ma, or mes:**
+
+1. J'ai un frère. ______ frère s'appelle Pierre.
+2. J'ai une sœur. ______ sœur habite à Lyon.
+3. J'ai des enfants. ______ enfants sont petits.
+4. J'ai une voiture. C'est ______ voiture.
 
 <details>
 <summary>📝 Answers</summary>
 
-1. One brother and one sister (Un frère et une sœur)
-2. In London (À Londres)
-3. In England (En Angleterre)
-4. Sarah
-5. Two children (a son and a daughter) (Deux enfants)
+1. **Mon** frère
+2. **Ma** sœur
+3. **Mes** enfants
+4. **Ma** voiture
 
 </details>
 
 ---
 
-## Observation: The words in bold
+## 🔍 Step 2: Talking about YOUR FRIEND'S family (Your)
 
-**Look at the bold words in the dialogue:**
+**Look at what Sophie asks Tom:**
 
-- **mon** frère
-- **ma** sœur
-- **mes** parents
-- **ma** femme
-- **mon** fils
-- **ma** fille
+> "Parle-moi de **ta** famille !"
+> "Et **tes** parents ?"
 
-**Questions:**
+**The Rule for "YOUR" (Informal - Tu):**
 
-1. What do these words mean in English? (my? your? his?)
-2. Why does Tom say "mon frère" but "ma sœur"?
-3. Why is "mes parents" different from "mon/ma"?
-
-**Think about it before continuing!**
-
----
-
-### What you might have noticed:
-
-| Tom says... | The family word | Gender |
-|:------------|:----------------|:-------|
-| **mon** frère | frère | masculine |
-| **ma** sœur | sœur | feminine |
-| **mon** fils | fils | masculine |
-| **ma** fille | fille | feminine |
-| **mes** parents | parents | plural |
-
-**The pattern:**
-- **mon** = my (before a masculine word)
-- **ma** = my (before a feminine word)
-- **mes** = my (before a plural word)
-
----
-
-## Vocabulary: Family
-
-**You heard these words. Let's learn them!**
-
-### Family members
-
-| French | IPA | English | With "my" |
-|:---------|:----|:--------|:----------|
-| le père / papa | [lə pɛʁ] | father / dad | **mon** père |
-| la mère / maman | [la mɛʁ] | mother / mom | **ma** mère |
-| le frère | [lə fʁɛʁ] | brother | **mon** frère |
-| la sœur | [la sœʁ] | sister | **ma** sœur |
-| le fils | [lə fis] | son | **mon** fils |
-| la fille | [la fij] | daughter | **ma** fille |
-| le mari | [lə maʁi] | husband | **mon** mari |
-| la femme | [la fam] | wife | **ma** femme |
-| les parents | [le paʁɑ̃] | parents | **mes** parents |
-| les enfants | [lez ɑ̃fɑ̃] | children | **mes** enfants |
-| le grand-père | [lə gʁɑ̃ pɛʁ] | grandfather | **mon** grand-père |
-| la grand-mère | [la gʁɑ̃ mɛʁ] | grandmother | **ma** grand-mère |
-
-> **🗣️ Real Life French**
-> 
-> **"Femme" vs "Épouse" :** In everyday conversation, Belgians say **"ma femme"** (my wife). "Mon épouse" is more formal/administrative.
-> 
-> **"Copain/Copine" :** For boyfriend/girlfriend, you'll hear **"mon copain"** / **"ma copine"** much more than "petit ami".
-
-**🎤 Pronounce:** Repeat each word 3 times!
-
----
-
-## Practice 1: Mon, ma or mes?
-
-**Complete with mon, ma or mes:**
-
-1. J'ai un frère. ______ frère habite à Paris.
-2. J'ai une sœur. ______ sœur est mariée.
-3. J'ai deux enfants. ______ enfants sont à l'école.
-4. J'ai une mère. ______ mère est belge.
-5. J'ai un père. ______ père travaille à Bruxelles.
-
-<details>
-<summary>📝 Answers</summary>
-
-1. **Mon** frère habite à Paris.
-2. **Ma** sœur est mariée.
-3. **Mes** enfants sont à l'école.
-4. **Ma** mère est belge.
-5. **Mon** père travaille à Bruxelles.
-
-</details>
-
----
-
-## And you? Talk about YOUR family!
-
-### Describe your family like Tom
-
-**Complete for YOURSELF:**
-
-1. J'ai ______ frère(s) et ______ sœur(s).
-2. Mon frère / Ma sœur habite à ______.
-3. Mes parents habitent à/en ______.
-4. Je suis marié(e) / célibataire.
-
-**💡 Tip:** Record yourself and listen!
-
----
-
-## Culture: Family in Belgium
-
-### Read this testimonial
-
-**Marie, 45 years old, Liège:**
-
-> **En français**
->
-> "En Belgique, la famille est très importante ! **Mes** parents habitent à 10 minutes de chez moi. **Ma** sœur habite dans le même quartier. Le dimanche, toute la famille mange ensemble. **Mes** enfants adorent voir leurs grands-parents !"
-
-> **In English**
->
-> "In Belgium, family is very important! **My** parents live 10 minutes from my house. **My** sister lives in the same neighborhood. On Sundays, the whole family eats together. **My** children love seeing their grandparents!"
-
-### 🔍 New observation
-
-**In this text, find:**
-
-1. Two examples with "ma": __________, __________
-2. Two examples with "mes": __________, __________
-
-<details>
-<summary>📝 Answers</summary>
-
-1. **Ma** sœur
-2. **Mes** parents, **mes** enfants
-
-</details>
-
----
-
-## Observation: son, sa, ses
-
-**Now, if I talk about Marie's family (not my family):**
-
-| I talk about MY family | I talk about HER family (Marie) |
-|:-----------------------|:--------------------------------|
-| **mon** père | **son** père |
-| **ma** mère | **sa** mère |
-| **mes** parents | **ses** parents |
-
-**The pattern:**
-- son = his/her (masculine)
-- sa = his/her (feminine)
-- ses = his/her (plural)
-
-**⚠️ Attention:** "son/sa/ses" can mean "his" OR "her"! The context helps you.
-
----
-
-## Practice 2: Mon/ma/mes or son/sa/ses?
-
-**Complete:**
-
-1. I talk about ME: ______ frère habite à Paris.
-2. I talk about SOPHIE: ______ frère habite à Londres.
-3. I talk about ME: ______ parents sont belges.
-4. I talk about TOM: ______ femme s'appelle Sarah.
-
-<details>
-<summary>📝 Answers</summary>
-
-1. **Mon** frère habite à Paris.
-2. **Son** frère habite à Londres.
-3. **Mes** parents sont belges.
-4. **Sa** femme s'appelle Sarah.
-
-</details>
-
----
-
-## Speaking Practice
-
-### Exercise 1: Talk about YOURSELF
-
-**Use this structure:**
-
-1. "J'ai [number] frère(s) et [number] sœur(s)."
-2. "Mon frère / Ma sœur s'appelle... et habite à..."
-3. "Mes parents habitent à/en..."
-4. "Je suis marié(e). Mon mari / Ma femme s'appelle..."
-
-### Exercise 2: Talk about a friend
-
-**Use son/sa/ses:**
-
-"Mon ami(e) s'appelle [name]. **Sa** famille habite à... **Son** frère..."
-
----
-
-## Writing Practice
-
-**Write a short text (50-80 words) about your family.**
-
-**Include:**
-- How many brothers/sisters you have
-- Where they live
-- Where your parents live
-- If you are married and have children
+| Masculine (Tu) | Feminine (Tu) | Plural (Tu) |
+|:---|:---|:---|
+| **ton** | **ta** | **tes** |
+| *ton père* | *ta mère* | *tes parents* |
 
 **Example:**
-> J'ai un frère et une sœur. Mon frère s'appelle David et habite à New York. Ma sœur s'appelle Emma et habite à Londres. Mes parents habitent en Australie. Je suis marié. Ma femme s'appelle Julie. Nous n'avons pas d'enfants.
+- "C'est **ton** frère ?" (Is that your brother?)
+- "C'est **ta** sœur ?" (Is that your sister?)
 
 ---
 
-## Grammar: Possessive Adjectives
+## ✏️ Practice 2: Asking questions
 
-### Complete Summary
+**Ask a friend about their family. Complete with ton, ta, tes:**
 
-**Possessive adjectives agree with the word that FOLLOWS, not with the person speaking!**
+1. Comment s'appelle ______ père ?
+2. Où habite ______ mère ?
+3. ______ enfants sont à l'école ?
+4. C'est ______ mari sur la photo ?
 
-### To talk about MY family (my)
+<details>
+<summary>📝 Answers</summary>
 
-| Masculine singular | Feminine singular | Plural |
-|:-------------------|:------------------|:-------|
-| **mon** père | **ma** mère | **mes** parents |
-| **mon** frère | **ma** sœur | **mes** enfants |
-| **mon** fils | **ma** fille | **mes** grands-parents |
+1. **ton** père
+2. **ta** mère
+3. **tes** enfants
+4. **ton** mari
 
-### To talk about YOUR family (your - informal)
-
-| Masculine singular | Feminine singular | Plural |
-|:-------------------|:------------------|:-------|
-| **ton** père | **ta** mère | **tes** parents |
-| **ton** frère | **ta** sœur | **tes** enfants |
-
-### To talk about HIS/HER family (his/her)
-
-| Masculine singular | Feminine singular | Plural |
-|:-------------------|:------------------|:-------|
-| **son** père | **sa** mère | **ses** parents |
-| **son** frère | **sa** sœur | **ses** enfants |
-
-### Full Table: All Possessive Adjectives
-
-| Person | Masc. sing. | Fem. sing. | Plural |
-|:-------|:-----------:|:----------:|:------:|
-| **Je** (my) | mon | ma | mes |
-| **Tu** (your - informal) | ton | ta | tes |
-| **Il/Elle** (his/her) | son | sa | ses |
-| **Nous** (our) | notre | notre | nos |
-| **Vous** (your - formal) | votre | votre | vos |
-| **Ils/Elles** (their) | leur | leur | leurs |
-
-### Important Rule: Before a vowel
-
-**When a feminine word starts with a vowel, we use the masculine form:**
-
-| ❌ Incorrect | ✅ Correct | English |
-|:------------|:-----------|:--------|
-| ma amie | **mon** amie | my friend (f) |
-| ta école | **ton** école | your school |
-| sa histoire | **son** histoire | his/her story |
-
-**Why?** To avoid two vowels next to each other (hiatus).
+</details>
 
 ---
 
-## Common Mistakes to Avoid
+## 🔍 Step 3: Talking about SOMEONE ELSE'S family (His/Her)
 
-### Mistake 1: Confusing the gender
+**Now visualize Tom talking about his wife Sarah:**
+> "**Son** père est américain." (Her father is American)
 
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| ma frère | **mon** frère |
-| mon sœur | **ma** sœur |
+**The Rule for "HIS/HER" (Il/Elle):**
 
-**Reminder:** The possessive agrees with the WORD, not with you!
+| Masculine (Il/Elle) | Feminine (Il/Elle) | Plural (Il/Elle) |
+|:---|:---|:---|
+| **son** | **sa** | **ses** |
+| *son père* | *sa mère* | *ses parents* |
 
-### Mistake 2: "Ma" before a vowel
+> **⚠️ CRITICAL DIFFERENCE WITH ENGLISH:**
+> In English, "his" = for a man, "her" = for a woman.
+> **In French, it depends on the OBJECT/PERSON being possessed!**
+>
+> - **Son** frère (can mean *his* brother OR *her* brother).
+> - **Sa** sœur (can mean *his* sister OR *her* sister).
+>
+> Context tells you whose brother or sister it is.
 
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| ma amie | **mon** amie |
+---
 
-**Reminder:** Before a vowel, use "mon" even for a feminine word.
+## ✏️ Practice 3: Mon/Ma, Ton/Ta, or Son/Sa?
 
-### Mistake 3: Thinking "son" = his and "sa" = her
+**Choose the right word:**
+
+1. (Me) -> Je parle de ___ mère. (**mon** / **ma**)
+2. (You) -> Tu parles de ___ père ? (**ton** / **ta**)
+3. (Him/Her) -> Sophie parle de ___ frère. (**son** / **sa**)
+4. (Me) -> J'aime ___ parents. (**mon** / **mes**)
+
+<details>
+<summary>📝 Answers</summary>
+
+1. **ma** mère
+2. **ton** père
+3. **son** frère (because *frère* is masculine, even if Sophie is a woman!)
+4. **mes** parents
+
+</details>
+
+---
+
+## 📖 Grammar Summary: Singular Possessives
+
+**We focus only on Singular owners for now (Me, You, Him/Her).**
+
+| Owner | Masculine Object | Feminine Object | Plural Objects |
+|:---|:---:|:---:|:---:|
+| **Je** (My) | **mon** | **ma** | **mes** |
+| **Tu** (Your) | **ton** | **ta** | **tes** |
+| **Il/Elle** (His/Her) | **son** | **sa** | **ses** |
+
+### ⚠️ Special Rule: Feminine starting with a vowel
+If a feminine word starts with use vowel (a, e, i, o, u, y), use the **Masculine** form (mon/ton/son).
+
+- *Une amie* (friend) -> **Mon** amie (NOT Ma amie)
+- *Une école* (school) -> **Ton** école (NOT Ta école)
+- *Une histoire* (story) -> **Son** histoire (NOT Sa histoire)
+
+---
+
+## 📚 Vocabulary: Family Members
 
 | French | English |
-|:-------|:--------|
-| **Son** père (de Marie) | **Her** father |
-| **Son** père (de Tom) | **His** father |
-
-**Reminder:** "Son/sa/ses" can mean "his" OR "her". Context helps!
-
----
-
-## Self-Evaluation ✅
-
-**Check what you can do:**
-
-- [ ] I can name family members in French
-- [ ] I can use mon/ma/mes to talk about MY family
-- [ ] I understand when to use son/sa/ses
-- [ ] I can describe my family to someone
-- [ ] I know the rule for words starting with a vowel
+|:---|:---|
+| **Les Parents** | **Parents** |
+| Le père / Papa | Father / Dad |
+| La mère / Maman | Mother / Mom |
+| **Les Enfants** | **Children** |
+| Le fils | Son |
+| La fille | Daughter |
+| **La Fratrie** | **Siblings** |
+| Le frère | Brother |
+| La sœur | Sister |
+| **Le Couple** | **Couple** |
+| Le mari | Husband |
+| La femme | Wife |
 
 ---
 
-## Extra Resources 📚
+## ✅ Self-Evaluation
 
-### To go further
-
-- **Conjugator:** [Bescherelle](https://bescherelle.com) - Check your conjugations
-- **Exercises:** [TV5Monde](https://apprendre.tv5monde.com) - Free exercises on family
-- **Audio:** [RFI Savoirs](https://savoirs.rfi.fr) - Listening comprehension
-
-### Additional Activities
-
-- **Family Tree:** Draw your family tree and label each person with "mon/ma/mes"
-- **Family Photo:** Take a family photo and describe it out loud: "Voici mon père, il s'appelle..."
-- **Celebrities:** Describe a celebrity's family using "son/sa/ses"
+- [ ] I can talk about **my** family (mon/ma/mes).
+- [ ] I can ask someone about **their** family (ton/ta/tes).
+- [ ] I can describe **someone else's** family (son/sa/ses).
+- [ ] I understand that "son/sa" depends on the *family member's gender*, not the owner's!
 
 ---
 
 ## Next Lesson
 
 > **Lesson 05: Professions**  
-> You will learn to talk about your relatives' work!
+> We will learn to say what people do for a living.
 
 ---
 

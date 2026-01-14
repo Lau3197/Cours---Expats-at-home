@@ -37,7 +37,17 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const userSnap = await getDoc(userRef);
 
     if (userSnap.exists()) {
-      setUser(userSnap.data() as UserProfile);
+      let userData = userSnap.data() as UserProfile;
+
+      // Auto-promote hardcoded admins if they exist but have wrong role
+      const adminEmails = ['jacqueslaurine@live.be', 'jacqueslaurine97@gmail.com'];
+      if (adminEmails.includes(firebaseUser.email || '') && userData.role !== 'superadmin') {
+        console.log(`Auto-promoting ${firebaseUser.email} to superadmin`);
+        userData = { ...userData, role: 'superadmin', hasFullAccess: true };
+        await setDoc(userRef, { role: 'superadmin', hasFullAccess: true }, { merge: true });
+      }
+
+      setUser(userData);
     } else {
       // Create new user profile
       const newProfile: UserProfile = {
@@ -45,9 +55,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         name: name || firebaseUser.displayName || 'Étudiant',
         email: firebaseUser.email || '',
         avatar: firebaseUser.photoURL || `https://ui-avatars.com/api/?name=${name || firebaseUser.displayName || 'User'}`,
-        role: firebaseUser.email === 'jacqueslaurine@live.be' ? 'superadmin' : 'student',
+        role: ['jacqueslaurine@live.be', 'jacqueslaurine97@gmail.com'].includes(firebaseUser.email || '') ? 'superadmin' : 'student',
         bio: '',
-        hasFullAccess: firebaseUser.email === 'jacqueslaurine@live.be', // Superadmin has full access
+        hasFullAccess: ['jacqueslaurine@live.be', 'jacqueslaurine97@gmail.com'].includes(firebaseUser.email || ''), // Superadmin has full access
         plan: 'autonomy'
       };
       await setDoc(userRef, newProfile);

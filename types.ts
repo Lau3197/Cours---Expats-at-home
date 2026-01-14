@@ -53,7 +53,39 @@ export interface Section {
   lessons: Lesson[];
 }
 
-export type FrenchLevel = 'A1' | 'A2' | 'B1' | 'B2';
+export type FrenchLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
+
+export interface FrenchWord {
+  id: string;
+  french: string;
+  english: string;
+  gender?: 'm' | 'f';
+  plural?: string;
+  level: FrenchLevel;
+  category: string;
+  subCategory: string;
+  example: string;
+}
+
+export interface Theme {
+  id: string;
+  title: string;
+  icon: string;
+  description: string;
+  subThemes: string[];
+}
+
+export interface VocabularyItem {
+  id: string;
+  french: string;
+  english: string;
+  gender: 'm' | 'f' | 'm/f' | 'm plural' | 'f plural' | 'invariable' | string;
+  plural?: string;
+  example: string;
+  level: FrenchLevel;
+  subTheme: string;
+  themeId: string;
+}
 
 export interface CoursePackage {
   id: string;

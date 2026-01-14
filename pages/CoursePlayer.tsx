@@ -1227,9 +1227,9 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   // Lesson Selection View (Early Return)
   if (!activeLesson) {
     return (
-      <div className="flex h-[calc(100vh-96px)] overflow-hidden bg-[#F9F7F2]">
+      <div className="flex h-full overflow-hidden bg-[#F9F7F2]">
         <div className="flex-1 overflow-y-auto custom-scrollbar">
-          <div className="max-w-6xl mx-auto px-6 py-12">
+          <div className="max-w-6xl mx-auto px-6 pt-24 pb-12">
             <button onClick={onBack} className="flex items-center text-[#dd8b8b] font-bold mb-8 hover:opacity-80 transition-opacity">
               <ChevronLeft className="w-5 h-5 mr-2" /> Retour au catalogue
             </button>
@@ -1396,7 +1396,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   }
 
   return (
-    <div className="flex h-[calc(100vh-96px)] overflow-hidden bg-[#F9F7F2]">
+    <div className="flex h-full overflow-hidden bg-[#F9F7F2]">
       <div className="flex-1 overflow-y-auto custom-scrollbar">
 
         {/* Lesson Selection View - Show cards when no lesson is selected */}

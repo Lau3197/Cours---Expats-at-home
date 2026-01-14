@@ -2,7 +2,7 @@
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Talk about jobs, describe what you do for work
+**Objectifs** : Talk about jobs, describe what you do, use plural possessives (notre, votre, leur)
 
 ---
 
@@ -16,15 +16,15 @@
 > 
 > **Tom :** Bonjour ! Je suis Tom. Enchanté !
 > 
-> **Marie :** Vous faites quoi dans la vie ?
+> **Marie :** **Vous faites quoi** dans la vie ?
 > 
-> **Tom :** Je suis **ingénieur**. Je **travaille** dans une entreprise informatique. Et vous ?
+> **Tom :** Je suis **ingénieur**. Je **travaille** dans une entreprise informatique. **Notre** bureau est à Bruxelles. Et vous ?
 > 
 > **Marie :** Je suis **professeure**. J'**enseigne** le français.
 > 
-> **Tom :** Ah, c'est intéressant ! Vous travaillez où ?
+> **Tom :** Ah, c'est intéressant ! **Votre** école est où ?
 > 
-> **Marie :** Je travaille **dans une école** à Ixelles.
+> **Marie :** **Mon** école est à Ixelles. Les étudiants aiment beaucoup **leur** classe.
 
 ---
 
@@ -34,16 +34,16 @@
 
 1. What is Tom's job?
 2. What is Marie's job?
-3. What does Marie teach?
-4. Where does Marie work?
+3. Where is Tom's office?
+4. Where is Marie's school?
 
 <details>
 <summary>📝 Answers</summary>
 
 1. He is an **engineer** (ingénieur)
 2. She is a **teacher** (professeure)
-3. She teaches **French**
-4. In a **school** in Ixelles
+3. In **Brussels** (Notre bureau est à Bruxelles)
+4. In **Ixelles** (Mon école est à Ixelles)
 
 </details>
 
@@ -125,6 +125,78 @@
 
 ---
 
+---
+
+## 🧠 Grammar Focus: Asking Questions (Part 2) - The 3 Registers
+
+In French, there are **3 ways** to ask the same question, depending on who you are talking to.
+
+### 1. The 3 Ways to Ask 🗣️
+
+| Register | Structure | Tone | Example |
+| :--- | :--- | :--- | :--- |
+| **Familier** | Statement + **?** (Intonation) | Friends / Oral | *Tu habites où ?* |
+| **Standard** | **Est-ce que**... ? | Generic / Polite | *Où **est-ce que** tu habites ?* |
+| **Soutenu** | Inversion | Very Formal / Writing | *Où habites-tu ?* |
+
+> **💡 The Magic Phrase:** "**Est-ce que**" (pronounced "Ess-kuh") literally means "Is it that...". It allows you to transform any sentence into a clear question without changing the word order!
+
+### 2. The 5 "Ws" (Question Words) 🔑
+
+| Word | English | Example |
+| :--- | :--- | :--- |
+| **Où** | Where | *Tu travailles **où** ?* |
+| **Quand** | When | *Tu commences **quand** ?* |
+| **Comment** | How | ***Comment** ça va ?* |
+| **Pourquoi** | Why | ***Pourquoi** tu apprends le français ?* |
+| **Qui** | Who | *C'est **qui** ?* (Who is it?) |
+
+### 🎯 Activity 1: The "Interviewer" (Transforming Questions)
+Transform these "familiar" questions into "Standard" questions using **Est-ce que**.
+
+1.  **Familier:** Tu travailles à Paris ?
+    *   **Standard:** **Est-ce que** tu travailles à Paris ?
+2.  **Familier:** Tu aimes ton travail ?
+    *   **Standard:** ________________________________________ ?
+3.  **Familier:** Tu habites où ?
+    *   **Standard:** Où ________________________________________ ?
+4.  **Familier:** Tu commences quand ?
+    *   **Standard:** Quand ________________________________________ ?
+5.  **Familier:** Pourquoi tu travailles ici ?
+    *   **Standard:** Pourquoi ________________________________________ ?
+
+<details>
+<summary>👀 See answers</summary>
+
+2.  **Est-ce que** tu aimes ton travail ?
+3.  Où **est-ce que** tu habites ?
+4.  Quand **est-ce que** tu commences ?
+5.  Pourquoi **est-ce que** tu travailles ici ?
+
+</details>
+
+### 🎯 Activity 2: The Curious Colleague (Question Words)
+Complete the questions with the correct word: **Où**, **Quand**, **Comment**, **Pourquoi**, **Qui**.
+
+1.  Tu travailles __________ ? -> À Bruxelles.
+2.  __________ tu t'appelles ? -> Je m'appelle Thomas.
+3.  __________ tu apprends le français ? -> Pour mon travail.
+4.  C'est __________ ? -> C'est mon chef.
+5.  Tu finis le travail __________ ? -> À 18h00.
+
+<details>
+<summary>👀 See answers</summary>
+
+1.  Tu travailles **où** ? (Place)
+2.  **Comment** tu t'appelles ? (Name/Means)
+3.  **Pourquoi** tu apprends le français ? (Cause/Reason)
+4.  C'est **qui** ? (Person)
+5.  Tu finis le travail **quand** ? (Time)
+
+</details>
+
+---
+
 ## 🔍 Observation 3: The verb "travailler" (to work)
 
 **Look at the dialogue:**
@@ -171,11 +243,6 @@
 
 ## 🔍 Observation 4: Where you work
 
-**Look at these examples from the dialogue:**
-
-> Je travaille **dans une entreprise**.  
-> Je travaille **dans une école**.
-
 **The pattern:** Je travaille **dans** + un/une + [place]
 
 ### Common workplaces
@@ -189,6 +256,52 @@
 | dans un magasin | in a store |
 | dans un restaurant | in a restaurant |
 | à la maison | at home (remote work) |
+
+---
+
+## 🔍 Observation 5: Notre, Votre, Leur (Plural Owners)
+
+**Look at these sentences from the dialogue:**
+
+> " **Notre** bureau est à Bruxelles." (Our office)
+> " **Votre** école est où ?" (Your school - formal/plural)
+> " Les étudiants aiment **leur** classe." (Their class)
+
+**We use these when the owner is a group (We, You all, They) but the object is SINGULAR.**
+
+### The Rule
+
+| Owner | Possessive | English | Example |
+|:---|:---|:---|:---|
+| **Nous** (We) | **Notre** | Our | **Notre** entreprise |
+| **Vous** (You) | **Votre** | Your (formal/plural) | **Votre** bureau |
+| **Ils/Elles** (They) | **Leur** | Their | **Leur** chef |
+
+**💡 Easy:** Unlike *mon/ma/mes*, there is no gender change!
+- **Notre** père / **Notre** mère (Same word!)
+- **Votre** frère / **Votre** sœur
+- **Leur** fils / **Leur** fille
+
+---
+
+## ✏️ Practice 3: Notre, Votre, Leur
+
+**Complete the sentences:**
+
+1. (We) -> C'est ________ maison. (notre/votre)
+2. (You formal) -> Quel est ________ nom ? (notre/votre)
+3. (They) -> ________ voiture est rouge. (leur/votre)
+4. (We) -> Nous aimons ________ professeur. (notre/leur)
+
+<details>
+<summary>📝 Answers</summary>
+
+1. C'est **notre** maison.
+2. Quel est **votre** nom ?
+3. **Leur** voiture est rouge.
+4. Nous aimons **notre** professeur.
+
+</details>
 
 ---
 
@@ -273,6 +386,14 @@ Include:
 | à | + city | Je travaille à Bruxelles. |
 | chez | + company name | Je travaille chez Google. |
 
+### Plural Possessives (Singular Object)
+
+| Owner | Word | English |
+|:---|:---|:---|
+| **Nous** | **Notre** | Our |
+| **Vous** | **Votre** | Your |
+| **Ils/Elles** | **Leur** | Their |
+
 ---
 
 ## ⚠️ Common Mistakes to Avoid
@@ -286,22 +407,14 @@ Include:
 
 **In French, don't use articles before professions after "être"!**
 
-### Mistake 2: Wrong gender agreement
+### Mistake 2: Mixing mon/ma and votre
 
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| Marie est serveur | Marie est **serveuse** |
-| Tom est infirmière | Tom est **infirmier** |
+| Context | Possessive |
+|:---|:---|
+| Talking to a friend (Tu) | **Ton / Ta** |
+| Talking to a boss/stranger (Vous) | **Votre** |
 
-**The profession must match the person's gender!**
-
-### Mistake 3: "Je travaille à une entreprise"
-
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| Je travaille **à** une entreprise | Je travaille **dans** une entreprise |
-
-**Use "dans" for general places, "chez" for company names!**
+**Example:** "Bonjour Monsieur, c'est **votre** bureau ?" (Not *ton* bureau)
 
 ---
 
@@ -313,7 +426,7 @@ Include:
 - ☐ I can ask someone's job: "Vous faites quoi dans la vie ?"
 - ☐ I can conjugate "travailler" for je/tu/il/elle
 - ☐ I can say where I work: "Je travaille dans..."
-- ☐ I know not to use "un/une" before professions
+- ☐ I know how to use **notre**, **votre**, and **leur**
 
 ---
 

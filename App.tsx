@@ -13,6 +13,7 @@ import AuthPage from './pages/AuthPage';
 import CarnetPage from './pages/CarnetPage';
 import ProgrammePage from './pages/ProgrammePage';
 import CoachingSpace from './components/CoachingSpace';
+import VocabularyTrainer from './components/VocabularyTrainer';
 import { useAuth } from './context/AuthContext';
 import { CoursePackage } from './types';
 
@@ -96,6 +97,10 @@ const App: React.FC = () => {
 
         {currentPage === 'grammaire' && (
           <GrammairePage key={grammarKey} />
+        )}
+
+        {currentPage === 'vocabulary' && (
+          <VocabularyTrainer />
         )}
 
         {currentPage === 'programme' && (
