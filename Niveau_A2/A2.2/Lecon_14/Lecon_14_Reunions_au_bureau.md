@@ -1,296 +1,168 @@
-# Leçon 14 : Réunions au bureau (Thématique)
+# Leçon 14 : Réunions au bureau (Subjonctif Flash & Suggestions)
 
 **Niveau** : A2.2  
 **Type** : Thématique (Travail)  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Participate in meetings, express opinions, make suggestions
+**Objectifs** : Participer à des réunions, exprimer la nécessité (Il faut que...)
 
 ---
 
-## Let's Start! A team meeting
+## 1. Dialogue : La réunion d'équipe
 
-### Listen to this meeting
+**Marc dirige la réunion hebdomadaire.**
 
-**Marc leads a team meeting:**
-
-> **Marc :** Bonjour à tous. Merci d'être là. On peut commencer ?
+> **Marc :** Merci d'être là. **Il faut qu'on avance** sur le projet X.
 > 
-> **Sophie :** Oui, allons-y.
+> **Sophie :** Oui. J'ai terminé l'analyse. Mais **il faut que je vérifie** encore quelques chiffres.
 > 
-> **Marc :** Bien. L'ordre du jour : d'abord le projet X, ensuite le planning de la semaine. Des questions ?
+> **Marc :** D'accord. Tom, tu as contacté le client ?
 > 
-> **Tom :** Non, c'est clair.
+> **Tom :** Pas encore. **Il faut que je l'appelle** cet-après midi.
 > 
-> **Marc :** Parfait. Alors, concernant le projet X, où en sommes-nous ?
+> **Marc :** C'est urgent. **Il faut que tu sois** très persuasif.
 > 
-> **Sophie :** De mon côté, j'ai terminé l'analyse. Voici les résultats.
+> **Tom :** Je sais. Je suggérerais aussi de changer la date de livraison.
 > 
-> **Marc :** Très bien. Tom, qu'en penses-tu ?
-> 
-> **Tom :** Je trouve ça intéressant, mais je suggérerais d'ajouter quelques données.
-> 
-> **Marc :** D'accord. Sophie, tu pourrais t'en occuper ?
-> 
-> **Sophie :** Bien sûr.
-> 
-> **Marc :** Autre chose ? Non ? Alors, passons au planning. Des questions ? Non ? Parfait, la réunion est terminée. Merci à tous.
+> **Marc :** Bonne idée. **Il faut qu'on en discute** avec la direction.
 
 ---
 
-### Comprehension
+## 2. Vocabulaire : La Réunion
 
-**Answer the questions:**
-
-1. What are the two topics of the meeting?
-2. What has Sophie finished?
-3. What does Tom suggest?
-4. What will Sophie do?
-5. How does Marc end the meeting?
-
-### Answers
-
-1. Project X and the week's planning
-2. The analysis
-3. Adding some data
-4. Take care of it
-5. "La réunion est terminée. Merci à tous."
+| Expression | Contexte |
+| :--- | :--- |
+| **L'ordre du jour** | La liste des sujets à discuter. |
+| **Prendre la parole** | Commencer à parler. |
+| **Faire un compte-rendu** | Résumer la réunion par écrit. |
+| **Être d'accord / Pas d'accord** | Exprimer son opinion. |
+| **Proposer / Suggérer** | Donner une idée. |
 
 ---
 
-## Observation 1: Meeting vocabulary
+## 3. Grammaire : Exprimer son opinion
 
-### Opening a meeting
+Pour donner son avis sans être agressif :
 
-| French | English |
-|:-------|:--------|
-| Bonjour à tous | Hello everyone |
-| Merci d'être là | Thank you for being here |
-| On peut commencer ? | Can we start? |
-| L'ordre du jour est... | The agenda is... |
-| On commence par... | We'll start with... |
-
-### Managing the meeting
-
-| French | English |
-|:-------|:--------|
-| Où en sommes-nous ? | Where are we? / What's the status? |
-| Passons au point suivant | Let's move to the next point |
-| Qu'en pensez-vous ? | What do you think? |
-| D'autres questions ? | Any other questions? |
-| On récapitule | Let's summarize |
-
-### Closing the meeting
-
-| French | English |
-|:-------|:--------|
-| En résumé... | In summary... |
-| Pour conclure... | To conclude... |
-| La réunion est terminée | The meeting is over |
-| Merci à tous | Thank you all |
+- **Je pense que...** le projet est bon.
+- **Je trouve que...** c'est une bonne idée.
+- **À mon avis...** il faut attendre.
+- **Selon moi...** c'est trop cher.
 
 ---
 
-## Observation 2: Expressing opinions
+## 4. Outil Clé : Le "Subjonctif Flash" (Il faut que...)
 
-### Giving your opinion
+En réunion, on dit souvent "C'est nécessaire". La formule magique est : **"Il faut que..."**
+Attention ! Après "que", le verbe change de forme. C'est le **Subjonctif**.
 
-| French | English |
-|:-------|:--------|
-| Je pense que... | I think that... |
-| Je trouve que... | I find that... |
-| À mon avis... | In my opinion... |
-| Selon moi... | According to me... |
-| De mon point de vue... | From my point of view... |
+À ce niveau, apprenez juste ces 5 verbes par cœur :
 
-### Agreeing
+| Verbe (Infinitif) | Forme "Il faut que je..." (Subjonctif) | Exemple |
+| :--- | :--- | :--- |
+| **FAIRE** | ...que je **fasse** | Il faut que je **fasse** le rapport. |
+| **ÊTRE** | ...que je **sois** | Il faut que tu **sois** à l'heure. |
+| **AVOIR** | ...que j'**aie** | Il faut que j'**aie** les infos. |
+| **ALLER** | ...que j'**aille** | Il faut qu'on **aille** en salle 2. |
+| **POUVOIR** | ...que je **puisse** | Il faut que je **puisse** accéder au dossier. |
 
-| French | English |
-|:-------|:--------|
-| Je suis d'accord | I agree |
-| Tout à fait | Exactly / Absolutely |
-| C'est vrai | That's true |
-| Effectivement | Indeed |
-| Je partage votre avis | I share your opinion |
-
-### Disagreeing (politely)
-
-| French | English |
-|:-------|:--------|
-| Je ne suis pas sûr(e) | I'm not sure |
-| Je comprends, mais... | I understand, but... |
-| Permettez-moi de nuancer | Let me qualify that |
-| Je vois les choses différemment | I see things differently |
+> **Pour les verbes normaux (er)** : C'est comme le présent !
+> - *Il faut que je parle, qu'on termine, qu'elle travaille.*
 
 ---
 
-## Practice 1: Express opinions
+## 5. Pratique 1 : "Il faut que..."
 
-**Give your opinion on these topics:**
+**Le chef donne des ordres. Transformez les phrases avec "Il faut que..."**
 
-1. Working from home → "Je pense que..."
-2. Meetings in the morning → "À mon avis..."
-3. Email vs phone → "De mon point de vue..."
+1. Tu finis le dossier. → **Il faut que tu finisses** le dossier. (Finir est régulier comme *ils finissent*)
+2. Tu es prêt à 14h. → ____________________________________________.
+3. Tu fais une copie. → ____________________________________________.
+4. Nous allons voir le client. → ____________________________________________.
+5. Vous avez le budget. → ____________________________________________.
 
-### Suggested answers
-
-1. Je pense que le télétravail est très productif.
-2. À mon avis, les réunions le matin sont plus efficaces.
-3. De mon point de vue, l'email est plus pratique pour garder une trace.
-
----
-
-## Observation 3: Making suggestions
-
-### Formal suggestions
-
-| French | English |
-|:-------|:--------|
-| Je suggérerais de... | I would suggest... |
-| Je proposerais de... | I would propose... |
-| Il faudrait peut-être... | Perhaps we should... |
-| On pourrait... | We could... |
-| Ce serait bien de... | It would be good to... |
-
-### Less formal
-
-| French | English |
-|:-------|:--------|
-| Et si on...? | What if we...? |
-| Pourquoi ne pas...? | Why not...? |
-| On ne pourrait pas...? | Couldn't we...? |
+### Réponses
+1. Il faut que tu **sois** prêt à 14h.
+2. Il faut que tu **fasses** une copie.
+3. Il faut que nous **allions** voir le client (ou "qu'on aille").
+4. Il faut que vous **ayez** le budget.
 
 ---
 
-## Practice 2: Make suggestions
+## 6. Grammaire : Faire des Suggestions (Conditionnel)
 
-**Transform to polite suggestions:**
+Pour être poli et proposer une idée, on utilise le **Conditionnel**.
 
-1. We should have fewer meetings. → _______________
-2. We need to finish earlier. → _______________
-3. Let's change the date. → _______________
+| Direct (Un peu brutal) | Poli (Suggestion) |
+| :--- | :--- |
+| On change la date. | On **pourrait** changer la date. |
+| Je propose une pause. | Je **proposerais** une pause. |
+| Il faut appeler Paul. | Il **faudrait** appeler Paul. |
 
-### Answers
-
-1. On **pourrait** avoir moins de réunions.
-2. Il **faudrait peut-être** terminer plus tôt.
-3. Et **si on changeait** la date ?
+**Structure :** Racine du futur + terminaisons de l'imparfait (-ais, -ais, -ait, -ions, -iez, -aient).
 
 ---
 
-## Observation 4: Reporting progress
+## 7. Pratique 2 : Suggérer poliment
 
-### Talking about your work
+**Transformez ces ordres en suggestions polies :**
 
-| French | English |
-|:-------|:--------|
-| De mon côté... | On my end... |
-| J'ai terminé... | I've finished... |
-| J'ai avancé sur... | I've made progress on... |
-| Je suis en train de... | I'm currently... |
-| Il me reste à... | I still have to... |
+1. On annule la réunion. → On _____________________ annuler la réunion.
+2. Tu demandes à Sophie. → Tu _____________________ demander à Sophie.
+3. Nous faisons une pause. → Nous _____________________ faire une pause.
 
-### Problems and delays
-
-| French | English |
-|:-------|:--------|
-| J'ai pris du retard | I'm running late |
-| J'ai rencontré un problème | I ran into a problem |
-| C'est plus long que prévu | It's taking longer than expected |
-| J'aurai besoin de plus de temps | I'll need more time |
+### Réponses
+1. On **pourrait** / **devrait** annuler la réunion.
+2. Tu **pourrais** / **devrais** demander à Sophie.
+3. Nous **pourrions** / **devrions** faire une pause.
 
 ---
 
-## Culture: Meetings in Belgium
+## 8. Mise en Situation : Résoudre un problème
 
-### Read this
+**Problème :** Le projet est en retard.
+**Réunion :** Trouvez des solutions en utilisant "Il faut que..." ou "On pourrait...".
 
-**Belgian meeting culture:**
+- (Embaucher quelqu'un) : ____________________________________________.
+- (Travailler plus vite / faire) : ____________________________________________.
+- (Être plus efficace / être) : ____________________________________________.
+- (Demander un délai) : ____________________________________________.
 
-> "Les réunions en Belgique sont généralement bien structurées avec un ordre du jour clair. Les Belges apprécient la ponctualité et le respect du timing. On commence souvent par des civilités avant d'entrer dans le vif du sujet. Le consensus est important : on prend le temps d'écouter tous les points de vue. Les décisions ne sont pas toujours prises en réunion – souvent il y a des discussions informelles après."
-
-### Tips for meetings in Belgium
-
-| Do | Don't |
-|:---|:------|
-| Arriver à l'heure | Interrompre quelqu'un |
-| Préparer vos points | Dominer la discussion |
-| Écouter les autres | Prendre des décisions hâtives |
-| Prendre des notes | Oublier le follow-up |
-
----
-
-## Speaking Practice
-
-### Exercise 1: Lead a meeting
-
-**Practice these steps:**
-
-1. Open: "Bonjour à tous, merci d'être là..."
-2. Set agenda: "L'ordre du jour est..."
-3. Ask for status: "Où en sommes-nous ?"
-4. Ask for opinions: "Qu'en pensez-vous ?"
-5. Close: "La réunion est terminée, merci."
-
-### Exercise 2: Participate in a meeting
-
-**Practice these responses:**
-
-- Giving your status: "De mon côté, j'ai..."
-- Agreeing: "Je suis d'accord..."
-- Suggesting: "Je proposerais de..."
+### Exemples de réponses
+- On **pourrait** embaucher quelqu'un.
+- **Il faut qu'on fasse** plus vite.
+- **Il faut qu'on soit** plus efficace.
+- On **pourrait** demander un délai.
 
 ---
 
-## Writing Practice
+---
 
-**Write a meeting summary email (80-100 words):**
+## 9. Récapitulatif et Erreurs à éviter
 
-Include:
-- What was discussed
-- Decisions made
-- Action items
-- Next steps
+### Ce qu'il faut retenir
+- **Il faut que + Subjonctif** pour l'obligation.
+- **Les 5 verbes clés** : Fasse, Sois, Aie, Aille, Puisse.
+- **Conditionnel** pour la politesse (*On pourrait* au lieu de *On change*).
+
+### Erreurs Fréquentes
+
+| Incorrect (X) | Correct (V) |
+| :--- | :--- |
+| Il faut que je fais. | Il faut que je **fasse**. |
+| Il faut que tu es là. | Il faut que tu **sois** là. |
+| Il faut que je vais. | Il faut que j'**aille**. |
+| Je veux changer la date. | Je **voudrais** changer la date. (Plus poli en réunion) |
 
 ---
 
-## Grammar: Conditional for suggestions
+## Auto-Évaluation
 
-### Polite suggestions use conditional
-
-| Direct | Polite |
-|:-------|:-------|
-| On doit faire... | On **devrait** faire... |
-| Je propose... | Je **proposerais**... |
-| Il faut... | Il **faudrait**... |
+- [ ] Je peux utiliser "Il faut que" avec *fasse, sois, aie, aille*.
+- [ ] Je sais faire une suggestion polie avec le conditionnel (*On pourrait*).
+- [ ] Je connais le vocabulaire de base d'une réunion (*Ordre du jour, compte-rendu*).
 
 ---
 
-## Self-Evaluation
-
-**Check what you can do:**
-
-- [ ] I can open and close a meeting
-- [ ] I can express opinions politely
-- [ ] I can agree and disagree professionally
-- [ ] I can make suggestions
-- [ ] I can report on my work progress
-
----
-
-## Extra Resources
-
-### Useful phrases
-
-- **Opening:** On peut commencer ?
-- **Opinions:** Qu'en pensez-vous ?
-- **Closing:** La réunion est terminée.
-
-### Next lesson
-
-> **Leçon 15 : Formations continues (Thématique)**  
-> Professional development and training!
-
----
-
-*Bonne continuation !*
-
+### Prochaine leçon
+> **Leçon 15 : Formations continues**  
+> Parler de son parcours professionnel et de ses compétences.

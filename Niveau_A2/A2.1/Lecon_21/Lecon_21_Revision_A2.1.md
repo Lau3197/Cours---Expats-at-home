@@ -1,4 +1,4 @@
-# Leçon 19 : Révision A2.1
+# Leçon 21 : Révision A2.1
 
 **Niveau** : A2.1  
 **Type** : Révision  
@@ -290,7 +290,7 @@
 
 **Prepare for:**
 
-> **Leçon 20 : Évaluation A2.1**
+> **Leçon 22 : Évaluation A2.1**
 > 
 > The evaluation will test all skills from A2.1.
 

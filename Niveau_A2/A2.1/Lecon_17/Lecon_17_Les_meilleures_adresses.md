@@ -1,4 +1,4 @@
-# Leçon 15 : Les meilleures adresses
+# Leçon 17 : Les meilleures adresses
 
 **Niveau** : A2.1  
 **Durée estimée** : 2-3 heures  
@@ -318,7 +318,7 @@ Example:
 
 ### Next lesson
 
-> **Leçon 16 : Celui que je préfère**  
+> **Leçon 18 : Celui que je préfère**  
 > You'll learn demonstrative pronouns (celui, celle, ceux)!
 
 ---

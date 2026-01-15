@@ -1,4 +1,4 @@
-# Leçon 16 : Celui que je préfère
+# Leçon 18 : Celui que je préfère
 
 **Niveau** : A2.1  
 **Durée estimée** : 2-3 heures  
@@ -296,7 +296,7 @@ Use at least:
 
 ### Next lesson
 
-> **Leçon 17 : Comparer et désigner (Consolidation)**  
+> **Leçon 19 : C'est le mien ! (Lequel & Possession)**  
 > Practice comparatives, superlatives, and demonstratives together!
 
 ---

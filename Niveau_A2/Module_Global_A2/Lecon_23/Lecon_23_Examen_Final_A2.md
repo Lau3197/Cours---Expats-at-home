@@ -30,52 +30,67 @@ Le contrôleur arrive. Il est très strict. Vous devez justifier votre voyage.
 
 ---
 
-## 🕰️ Défi 2 : Raconter votre passé (Le Passé Composé)
+## 🕰️ Défi 2 : L'Alibi (Passé Composé & Négation)
 
-Un passager mystérieux vous demande ce que vous avez fait hier soir (pour vérifier votre alibi, encore !).
+Un passager a disparu ! L'inspecteur vous interroge. Vous devez prouver que vous n'avez rien fait.
 
-**Mettez les verbes au Passé Composé :**
-"Hier soir, je (manger) _________ au wagon-restaurant. Je (boire) _________ un café. Ensuite, je (lire) _________ un livre et je (dormir) _________ tôt."
+**Complétez avec les Négations (Rien, Personne, Jamais, Plus) :**
 
-*(Ai mangé, ai bu, ai lu, ai dormi)*
+**Inspecteur :** "Vous avez vu **quelqu'un** dans le couloir ?"
+**Vous :** "Non, je n'ai vu ____________________."
 
----
+**Inspecteur :** "Vous avez entendu **quelque chose** ?"
+**Vous :** "Non, je n'ai ____________________ entendu."
 
-## 🗺️ Défi 3 : La Carte Perdue (Prépositions de lieu)
-
-Le train s'arrête. Vous êtes perdu dans une ville inconnue. Un local vous indique le chemin pour la gare.
-
-**Complétez avec : à côté de, en face de, sur, loin de.**
-
-"La gare est _________ la banque. C'est _________ la place centrale. Ne marche pas _________ la route ! C'est _________ ici, à 10 minutes."
+**Inspecteur :** "Vous allez **souvent** à Istanbul ?"
+**Vous :** "Non, je n'y vais ____________________. C'est la première fois."
 
 ---
 
-## 🤒 Défi 4 : Le Médecin du Train (Santé & Corps)
+## 🛠️ Défi 3 : La Panne (Subjonctif Flash & Obligation)
 
-Vous ne vous sentez pas bien (le voyage est long). Expliquez votre problème au médecin.
+Le train s'arrête ! Il y a un problème technique. Le mécanicien crie des ordres.
+ **Transformez avec "Il faut que..." :**
 
-**Associez le problème au conseil :**
-1. J'ai mal à la tête. -> A. Prends un sirop.
-2. J'ai mal au ventre. -> B. Dors un peu et prends une aspirine.
-3. J'ai mal à la gorge. -> C. Ne mange pas de chocolat.
+1. "Tu répares le moteur !" → **Il faut que tu répares** le moteur.
+2. "Tu es rapide !" → **Il faut que tu** ____________________ rapide.
+3. "Tu fais attention !" → **Il faut que tu** ____________________ attention.
+4. "Nous avons les outils !" → **Il faut que nous** ____________________ les outils.
+
+---
+
+## 🔎 Défi 4 : Les Indices (Comparatifs & Adverbes)
+
+Vous trouvez deux indices. Comparez-les pour trouver le coupable.
+
+**Indice A :** Une empreinte de chaussure (Grande, Sale).
+**Indice B :** Une empreinte de gant (Petite, Propre).
+
+1. L'empreinte A est (Grand / +) ____________________ l'empreinte B.
+2. L'indice A est (Intéressant / =) ____________________ l'indice B.
+3. Le coupable marche (Silencieux / Adverbe) ____________________.
+4. Il court (Vite / +) ____________________ la police !
 
 ---
 
 ## 📝 Défi Final : La Lettre d'Adieu (Expression Écrite)
 
-Le voyage est fini. Vous devez écrire un petit mot (60 mots) dans le livre d'or du train.
-*   Dites ce que vous avez aimé (Le paysage, le confort...).
-*   Racontez une activité que vous avez faite.
-*   Dites merci au personnel.
+Le voyage est fini. Vous écrivez à un ami. (60 mots)
+*   Racontez ce que vous avez fait (Passé composé).
+*   Dites ce que vous aimez dans ce train (Imparfait / Adjectifs).
+*   Donnez un conseil à votre ami pour son futur voyage (Conditionnel : "Tu devrais...").
 
-> *Cher Orient Express, ce voyage était...*
+> *Cher ami, quel voyage incroyable...*
 
 ---
 
 ## 🎉 Terminus ! Tout le monde descend !
 
 Vous êtes arrivé à la fin du Niveau A2.
-Vous maîtrisez maintenant le passé, le quotidien, la santé et les voyages.
+Vous maîtrisez maintenant :
+*   Le Récit au passé (PC/Imparfait).
+*   La Négation complexe (Rien, Personne).
+*   L'Obligation (Il faut que...).
+*   La Comparaison précise.
 
-**Prochaine destination : Niveau B1 (L'Opinion et le Débat) !**
+**Félicitations ! Vous êtes prêt pour le Niveau B1 (L'Opinion et le Débat) !**

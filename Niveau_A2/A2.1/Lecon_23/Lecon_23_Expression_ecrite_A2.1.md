@@ -1,4 +1,4 @@
-# Leçon 21 : Expression écrite A2.1 (Consolidation)
+# Leçon 23 : Expression écrite A2.1 (Consolidation)
 
 **Niveau** : A2.1  
 **Type** : Consolidation (Écriture)  
@@ -293,7 +293,7 @@ After completing these exercises:
 
 ## Next lesson
 
-> **Leçon 22 : Compréhension orale A2.1 (Consolidation)**
+> **Leçon 24 : Compréhension orale A2.1 (Consolidation)**
 > Practice A2.1 listening skills with past tenses!
 
 ---

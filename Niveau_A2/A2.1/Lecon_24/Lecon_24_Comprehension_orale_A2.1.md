@@ -1,4 +1,4 @@
-# Leçon 22 : Compréhension orale A2.1 (Consolidation)
+# Leçon 24 : Compréhension orale A2.1 (Consolidation)
 
 **Niveau** : A2.1  
 **Type** : Consolidation (Écoute)  

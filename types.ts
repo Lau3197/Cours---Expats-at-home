@@ -39,7 +39,7 @@ export interface Lesson {
   content: string;
   transcript?: string;
   duration: string;
-  type: 'video' | 'text' | 'quiz' | 'audio';
+  type: 'video' | 'text' | 'quiz' | 'audio' | 'writing' | 'listening';
   completed: boolean;
   videoUrl?: string;
   audioUrl?: string;
@@ -85,6 +85,8 @@ export interface VocabularyItem {
   level: FrenchLevel;
   subTheme: string;
   themeId: string;
+  lessonIds?: string[]; // NEW: Link vocabulary to specific lessons
+  userCreated?: boolean; // NEW: Mark user-added custom vocabulary
 }
 
 export interface CoursePackage {

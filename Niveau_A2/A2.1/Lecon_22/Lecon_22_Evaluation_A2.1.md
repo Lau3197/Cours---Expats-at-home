@@ -1,4 +1,4 @@
-# Leçon 20 : Évaluation A2.1
+# Leçon 22 : Évaluation A2.1
 
 **Niveau** : A2.1  
 **Type** : Évaluation  
@@ -278,18 +278,16 @@ Example: "Le meilleur restaurant de Bruxelles, c'est Comme chez soi."
 
 ---
 
-## Congratulations!
+## Continue to Consolidation
 
-**You've completed A2.1!**
+**You've completed the main evaluation!**
 
-You now have solid intermediate foundations. Continue to A2.2 to learn:
-- Pronouns Y and EN
-- Relative pronouns (qui, que, où)
-- Conditional mood
-- Advanced negation
-- More complex sentence structures
+Now, apply your skills in the dedicated writing and listening modules:
+
+> **Leçon 23 : Expression écrite A2.1**
+> Practice your writing skills with past tenses narratives.
 
 ---
 
-*Félicitations et bonne continuation vers A2.2 !*
+*Félicitations et bonne continuation !*
 

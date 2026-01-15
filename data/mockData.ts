@@ -7,6 +7,7 @@ import { A2_1_LESSONS } from './courses/a2_1_content';
 const instructorImage = "https://i.ibb.co/s9XpSqzq/Moi-profil.jpg";
 
 export const currentUser: UserProfile = {
+  uid: 'current-user-123',
   name: "Sophie Bennett",
   email: "sophie.b@expatsathome.be",
   avatar: instructorImage,
@@ -361,15 +362,16 @@ export const masterCurriculum: CoursePackage[] = [
     id: 'a2-1',
     title: 'Niveau A2.1 - Raconter au Passé',
     level: 'A2',
-    description: 'Maîtrisez les temps du passé pour raconter vos souvenirs, votre arrivée en Belgique et vos voyages.',
+    description: 'Maîtrisez les temps du passé, le futur simple, les pronoms COD/COI et bien plus encore pour raconter vos expériences en Belgique.',
     resources: [
       { id: 'r_a21_1', name: 'Imparfait_Cheatsheet.pdf', type: 'pdf', url: '#' },
-      { id: 'r_a21_2', name: 'PC_vs_Imparfait_Guide.pdf', type: 'pdf', url: '#' }
+      { id: 'r_a21_2', name: 'PC_vs_Imparfait_Guide.pdf', type: 'pdf', url: '#' },
+      { id: 'r_a21_3', name: 'Les_Pronoms_Tableau.pdf', type: 'pdf', url: '#' }
     ],
     sections: [
       {
         id: 's_a21_1',
-        title: 'Module 1: L\'imparfait',
+        title: 'Module 1: L\'Imparfait et Souvenirs',
         lessons: [
           {
             id: 'a21_l1',
@@ -426,6 +428,226 @@ export const masterCurriculum: CoursePackage[] = [
             vocabulary: vocabA1,
             comments: [],
             content: A2_1_LESSONS.l5
+          }
+        ]
+      },
+      {
+        id: 's_a21_3',
+        title: 'Module 3: Le Passé Récent',
+        lessons: [
+          {
+            id: 'a21_l6',
+            title: 'Leçon 06: Ce que je viens de faire',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l6
+          },
+          {
+            id: 'a21_l7',
+            title: 'Leçon 07: Passé récent en contexte',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l7
+          }
+        ]
+      },
+      {
+        id: 's_a21_4',
+        title: 'Module 4: Le Futur Simple',
+        lessons: [
+          {
+            id: 'a21_l8',
+            title: 'Leçon 08: Mes projets en Belgique',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l8
+          },
+          {
+            id: 'a21_l9',
+            title: 'Leçon 09: L\'année prochaine',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l9
+          },
+          {
+            id: 'a21_l10',
+            title: 'Leçon 10: Les temps du futur (Bilan)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l10
+          }
+        ]
+      },
+      {
+        id: 's_a21_5',
+        title: 'Module 5: Les Pronoms (Je le veux !)',
+        lessons: [
+          {
+            id: 'a21_l11',
+            title: 'Leçon 11: Ma routine quotidienne',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l11
+          },
+          {
+            id: 'a21_l12',
+            title: 'Leçon 12: Communiquer au travail (COI)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l12
+          },
+          {
+            id: 'a21_l13',
+            title: 'Leçon 13: Chez le médecin (COI Pratique)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l13
+          },
+          {
+            id: 'a21_l14',
+            title: 'Leçon 14: Les Doubles Pronoms',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l14
+          },
+          {
+            id: 'a21_l15',
+            title: 'Leçon 15: Consolidation COD & COI',
+            duration: '30:00',
+            type: 'quiz',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l15
+          }
+        ]
+      },
+      {
+        id: 's_a21_6',
+        title: 'Module 6: Comparer et Choisir',
+        lessons: [
+          {
+            id: 'a21_l16',
+            title: 'Leçon 16: Chercher un appartement (Comparatifs)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l16
+          },
+          {
+            id: 'a21_l17',
+            title: 'Leçon 17: Les meilleures adresses (Superlatifs)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l17
+          },
+          {
+            id: 'a21_l18',
+            title: 'Leçon 18: Celui que je préfère (Démonstratifs)',
+            duration: '25:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l18
+          },
+          {
+            id: 'a21_l19',
+            title: 'Leçon 19: C\'est le mien ! (Possessifs)',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l19
+          },
+          {
+            id: 'a21_l20',
+            title: 'Leçon 20: Comparer et désigner (Consolidation)',
+            duration: '30:00',
+            type: 'quiz',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l20
+          }
+        ]
+      },
+      {
+        id: 's_a21_7',
+        title: 'Module 7: Compétences & Bilan Final',
+        lessons: [
+          {
+            id: 'a21_l21',
+            title: 'Leçon 21: Révision A2.1',
+            duration: '35:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l21
+          },
+          {
+            id: 'a21_l22',
+            title: 'Leçon 22: Évaluation A2.1',
+            duration: '45:00',
+            type: 'quiz',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l22
+          },
+          {
+            id: 'a21_l23',
+            title: 'Leçon 23: Expression écrite A2.1',
+            duration: '40:00',
+            type: 'writing',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l23
+          },
+          {
+            id: 'a21_l24',
+            title: 'Leçon 24: Compréhension orale A2.1',
+            duration: '30:00',
+            type: 'listening',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A2_1_LESSONS.l24
           }
         ]
       }

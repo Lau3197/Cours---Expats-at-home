@@ -1,6 +1,6 @@
-# Leçon 11 : Hypothèses mixtes
+# Leçon 01 : Hypothèses mixtes
 
-**Niveau** : B1.2  
+**Niveau** : B2.1  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Master mixed hypothesis structures
 

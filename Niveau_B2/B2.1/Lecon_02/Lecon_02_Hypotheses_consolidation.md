@@ -1,6 +1,6 @@
-# Leçon 12 : Hypothèses (Consolidation complète)
+# Leçon 02 : Consolidation
 
-**Niveau** : B1.2  
+**Niveau** : B2.1  
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Master all hypothesis types

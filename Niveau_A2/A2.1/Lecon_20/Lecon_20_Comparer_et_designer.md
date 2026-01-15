@@ -1,4 +1,4 @@
-# Leçon 17 : Comparer et désigner (Consolidation)
+# Leçon 20 : Comparer et désigner (Consolidation)
 
 **Niveau** : A2.1  
 **Type** : Consolidation  
@@ -26,12 +26,12 @@
 | Least | le/la/les moins + adj | le moins cher |
 | Irregular | le/la meilleur(e) | le meilleur |
 
-### 3. Demonstrative pronouns
+### 3. Demonstrative & Possessive pronouns
 
-| Gender | Singular | Plural |
-|:-------|:---------|:-------|
-| Masculine | celui | ceux |
-| Feminine | celle | celles |
+| Demonstratives (Celui...) | Possessives (Le mien...) | Interrogative Choice (Lequel...) |
+|:--- |:--- |:--- |
+| **Celui** / Celle | Le mien / La mienne | Lequel / Laquelle |
+| Ceux / Celles | Les miens / Les miennes | Lesquels / Lesquelles |
 
 ---
 
@@ -75,29 +75,29 @@
 
 ---
 
-## Practice 3: Demonstrative pronouns
+## Practice 3: Pronouns Challenge (Demonstrative, Possessive, or "Lequel"?)
 
-**Replace with the correct demonstrative pronoun:**
+**Choose the correct pronoun:**
 
-1. Tu veux ce gâteau ou ce gâteau ? → Tu veux ______-ci ou ______-là ?
-2. Ma voiture est plus grande que la voiture de Paul. → Ma voiture est plus grande que ______ de Paul.
-3. J'aime les chocolats de Neuhaus, pas les chocolats de l'autre magasin. → J'aime ______ de Neuhaus.
-4. Le restaurant que tu préfères, c'est quel restaurant ? → ______ que tu préfères, c'est lequel ?
-5. Les appartements du centre sont plus chers que les appartements de la banlieue. → ______ du centre sont plus chers que ______ de la banlieue.
+1. Tu veux ce gâteau ou ce gâteau ? → Tu veux **(lequel / celui)** ?
+2. C'est ta voiture ? Non, c'est **(celle / la mienne)**.
+3. J'aime bien ce manteau. Et toi, tu aimes **(lequel / le tien)** ?
+4. Ma maison est plus grande que **(celle / la tienne)** de Paul.
+5. Tes chaussures sont belles. **(Les miennes / Lesquelles)** sont vieilles.
 
 ### Answers
 
-1. **celui**-ci ou **celui**-là
-2. **celle** de Paul
-3. **ceux** de Neuhaus
-4. **Celui** que tu préfères
-5. **Ceux** du centre... **ceux** de la banlieue
+1. Tu veux **lequel** ? (Choix)
+2. Non, c'est **la mienne**. (Possession)
+3. Tu aimes **lequel** ? (Choix)
+4. ...que **celle** de Paul. (Celui/Celle + De + Nom)
+5. **Les miennes** sont vieilles. (Possession)
 
 ---
 
 ## Practice 4: Mixed exercises
 
-**Complete with comparatives, superlatives, or demonstratives:**
+**Complete with comparatives, superlatives, or pronouns (dem/poss):**
 
 ### Scenario: Choosing an apartment
 
@@ -107,7 +107,7 @@ Le loyer de A est 900€. Le loyer de B est 700€. _____________ (2. celui) de 
 
 Parmi tous les appartements que j'ai vus, l'appartement A est _____________ (5. le+grand) et l'appartement B est _____________ (6. le+économique).
 
-Je préfère _____________ (7. celui) qui a le plus de lumière. C'est _____________ (8. le+important) pour moi.
+Je préfère _____________ (7. celui) qui a le plus de lumière. Et toi, tu préfères _____________ (8. lequelle) ? Moi, je préfère _____________ (9. le mien) actuel !
 
 ### Answers
 
@@ -118,75 +118,24 @@ Je préfère _____________ (7. celui) qui a le plus de lumière. C'est _________
 5. **le plus grand**
 6. **le plus économique**
 7. **celui**
-8. **le plus important**
+8. **lequel**
+9. **le mien**
 
 ---
 
 ## Practice 5: Write descriptions
 
-**Use all three structures to describe these topics:**
+**Use all structures to describe these topics:**
 
 ### Topic 1: Your city vs another city
 - Comparative: Ma ville est plus... que...
 - Superlative: C'est la... de la région
-- Demonstrative: Celle que je préfère, c'est...
+- Demonstrative/Possessive: Celle que je préfère... / La mienne est...
 
 ### Topic 2: Two restaurants
 - Comparative: Ce restaurant est moins... que...
 - Superlative: C'est le meilleur... de la ville
-- Demonstrative: Celui que je recommande, c'est...
-
-### Topic 3: Types of Belgian beer
-- Comparative: La Chimay est plus... que...
-- Superlative: La Westvleteren est la plus... 
-- Demonstrative: Celle que j'aime, c'est...
-
----
-
-## Practice 6: Correct the errors
-
-**Find and fix the mistakes:**
-
-1. C'est le plus bon restaurant de la ville. → _______________
-2. Cette voiture est plus grande que celui de Marc. → _______________
-3. Je préfère ceux-ci robe ! → _______________
-4. C'est le quartier le plus calme que les autres. → _______________
-5. Les chocolats de Neuhaus sont meilleur. → _______________
-
-### Answers
-
-1. C'est **le meilleur** restaurant de la ville.
-2. Cette voiture est plus grande que **celle** de Marc.
-3. Je préfère **celle**-ci (robe = féminin) !
-4. C'est le quartier le plus calme **de** la ville. (superlative uses "de", not "que")
-5. Les chocolats de Neuhaus sont **meilleurs** (plural agreement).
-
----
-
-## Speaking Challenge
-
-**Give a 3-minute presentation comparing two things:**
-
-Choose one:
-- Two cities you know
-- Two restaurants
-- Two apartments
-- Two types of food
-
-Include:
-- At least 5 comparatives
-- At least 3 superlatives
-- At least 3 demonstrative pronouns
-
----
-
-## Writing Practice
-
-**Write a recommendation guide (120-150 words):**
-
-"Les meilleurs endroits de [votre ville]"
-
-Include comparisons, superlatives, and demonstratives as you describe and recommend places.
+- Choice: Tu préfères lequel ? Celui-ci ou celui-là ?
 
 ---
 
@@ -207,13 +156,13 @@ Include comparisons, superlatives, and demonstratives as you describe and recomm
 | Most | le/la/les plus + adj (+ de) |
 | Best | le/la/les meilleur(e)(s) (+ de) |
 
-### Demonstratives
+### Pronouns Summary
 
-| Usage | Example |
-|:------|:--------|
-| -ci/-là | celui-ci, celle-là |
-| de + noun | celui de Marie |
-| qui/que | celui qui est là |
+| Type | Function | Examples |
+|:-----|:---------|:---------|
+| **Démonstratif** | Pointer / Remplacer + De/Qui | Celui-ci / Celle de Paul |
+| **Possessif** | Appartenance | Le mien / La tienne |
+| **Interrogatif** | Choix | Lequel / Laquelle |
 
 ---
 
@@ -224,22 +173,23 @@ Include comparisons, superlatives, and demonstratives as you describe and recomm
 - [ ] I can form all types of comparatives correctly
 - [ ] I can form superlatives with correct word order
 - [ ] I know irregular forms (meilleur, le meilleur)
-- [ ] I can use demonstrative pronouns to avoid repetition
-- [ ] I can combine all three structures naturally
+- [ ] I can use demonstrative pronouns (*Celui-ci*)
+- [ ] I can use possessive pronouns (*Le mien*)
+- [ ] I can use "Lequel" for questions
 
 ---
 
-## Extra Resources
+### Extra Resources
 
 ### Practice ideas
 
 - **Daily:** Compare things you see
 - **Writing:** Review writing using all structures
-- **Speaking:** Describe preferences to a partner
+- **Speaking:** Ask "Lequel ?" and answer "Celui-ci" or "Le mien"
 
 ### Next lesson
 
-> **Leçon 18 : Chez le médecin**  
+> **Leçon 21 : Révision A2.1**  
 > A thematic lesson about health and doctor visits!
 
 ---

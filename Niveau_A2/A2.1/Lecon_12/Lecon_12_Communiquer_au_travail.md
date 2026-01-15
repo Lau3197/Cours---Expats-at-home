@@ -312,8 +312,8 @@ Only 3rd person is different!
 
 ### Next lesson
 
-> **Leçon 13 : COD et COI en pratique (Consolidation)**  
-> Practice both types of pronouns together!
+> **Leçon 13 : Chez le médecin (Le COI)**  
+> Practice COI in a medical context!
 
 ---
 
