@@ -164,4 +164,3 @@ Pour exprimer **l'identité** ou **la différence**.
 ---
 
 *Bonne continuation !*
-
