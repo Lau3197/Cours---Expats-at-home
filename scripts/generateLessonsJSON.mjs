@@ -38,19 +38,18 @@ const moduleOverrides = {
     { title: "Module 11 : Le grand final", lessons: [29, 30, 31, 32] }
   ],
   'B1.2': [
-    { title: "Module 1 : C'est à moi !", lessons: [1, 2] },
+    { title: "Module 1 : Tout le monde et chacun", lessons: [1, 2] },
     { title: "Module 2 : Je te le donne", lessons: [3, 4] },
     { title: "Module 3 : La chose dont on parle", lessons: [5, 6] },
     { title: "Module 4 : On y va !", lessons: [7, 8] },
     { title: "Module 5 : Ce que je veux dire", lessons: [9, 10] },
-    { title: "Module 6 : Si j'avais su...", lessons: [11, 12] },
-    { title: "Module 7 : C'est toi la star !", lessons: [13, 14] },
-    { title: "Module 8 : Avoir le dernier mot", lessons: [15, 16, 17] },
-    { title: "Module 9 : Le Grand Débat", lessons: [18, 19] },
-    { title: "Module 10 : Bienvenue chez les Belges", lessons: [20, 21] },
-    { title: "Module 11 : Libérez votre parole", lessons: [22, 23] },
-    { title: "Module 12 : En pleine action", lessons: [24, 25, 26, 27, 28] },
-    { title: "Module 13 : Le Sommet B1", lessons: [29, 30, 31, 32] }
+    { title: "Module 6 : C'est toi la star !", lessons: [11, 12] },
+    { title: "Module 7 : Avoir le dernier mot", lessons: [13, 14, 15] },
+    { title: "Module 8 : Le Grand Débat", lessons: [16, 17] },
+    { title: "Module 9 : Bienvenue chez les Belges", lessons: [18, 19] },
+    { title: "Module 10 : Libérez votre parole", lessons: [20, 21] },
+    { title: "Module 11 : En pleine action", lessons: [22, 23, 24, 25, 26] },
+    { title: "Module 12 : Le Sommet B1", lessons: [27, 28, 29, 30, 31] }
   ],
   'A2.1': [
     { title: "Module 1 : C'était comment avant ?", lessons: [1, 2, 3, 4, 5] },

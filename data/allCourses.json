@@ -1833,7 +1833,7 @@
     "sections": [
       {
         "id": "section-1",
-        "title": "Module 1 : C'est à moi !",
+        "title": "Module 1 : Tout le monde et chacun",
         "lessons": [
           {
             "id": "l01",
@@ -2003,12 +2003,12 @@
       },
       {
         "id": "section-6",
-        "title": "Module 6 : Si j'avais su...",
+        "title": "Module 6 : C'est toi la star !",
         "lessons": []
       },
       {
         "id": "section-7",
-        "title": "Module 7 : C'est toi la star !",
+        "title": "Module 7 : Avoir le dernier mot",
         "lessons": [
           {
             "id": "l13",
@@ -2035,13 +2035,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-8",
-        "title": "Module 8 : Avoir le dernier mot",
-        "lessons": [
+          },
           {
             "id": "l15",
             "title": "Leçon 15 : Cause et conséquence",
@@ -2054,7 +2048,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-8",
+        "title": "Module 8 : Le Grand Débat",
+        "lessons": [
           {
             "id": "l16",
             "title": "Leçon 16 : Exprimer l'opposition",
@@ -2085,7 +2085,7 @@
       },
       {
         "id": "section-9",
-        "title": "Module 9 : Le Grand Débat",
+        "title": "Module 9 : Bienvenue chez les Belges",
         "lessons": [
           {
             "id": "l18",
@@ -2117,7 +2117,7 @@
       },
       {
         "id": "section-10",
-        "title": "Module 10 : Bienvenue chez les Belges",
+        "title": "Module 10 : Libérez votre parole",
         "lessons": [
           {
             "id": "l20",
@@ -2149,7 +2149,7 @@
       },
       {
         "id": "section-11",
-        "title": "Module 11 : Libérez votre parole",
+        "title": "Module 11 : En pleine action",
         "lessons": [
           {
             "id": "l22",
@@ -2176,13 +2176,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-12",
-        "title": "Module 12 : En pleine action",
-        "lessons": [
+          },
           {
             "id": "l24",
             "title": "Leçon 24 : Raconter en détail",
@@ -2224,7 +2218,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-12",
+        "title": "Module 12 : Le Sommet B1",
+        "lessons": [
           {
             "id": "l27",
             "title": "Leçon 27 : Projet culturel",
@@ -2250,13 +2250,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-13",
-        "title": "Module 13 : Le Sommet B1",
-        "lessons": [
+          },
           {
             "id": "l29",
             "title": "Leçon 29 : Compréhension orale B1.2",
@@ -2295,7 +2289,13 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "section-13",
+        "title": "Modules Supplémentaires",
+        "lessons": [
           {
             "id": "l32",
             "title": "Leçon 32 : Évaluation finale B1",
@@ -2308,13 +2308,7 @@
             "completed": false,
             "vocabulary": [],
             "comments": []
-          }
-        ]
-      },
-      {
-        "id": "section-14",
-        "title": "Modules Supplémentaires",
-        "lessons": [
+          },
           {
             "id": "l33",
             "title": "Leçon 33 : Expression écrite B1.2",
