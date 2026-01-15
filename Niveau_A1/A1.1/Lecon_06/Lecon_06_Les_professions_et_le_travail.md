@@ -358,6 +358,28 @@ Include:
 
 ---
 
+---
+
+## 🔍 Observation 6: C'est vs Il est ⚠️
+
+How to introduce or describe someone?
+
+### The Rule
+*   **C'est** + **Determinant** (un/une/le/la/mon/ton...)
+*   **Il est** + **Adjective** (or profession without text)
+
+| Structure | Example | Context |
+| :--- | :--- | :--- |
+| **C'est** + un/une... | **C'est un** docteur. | Introducing someone (Who is it?) |
+| **Il est** + Profession | **Il est** docteur. | Describing someone (What is he?) |
+| **Il est** + Adjective | **Il est** intelligent. | Describing a quality |
+
+> **💡 Memorize:**
+> *   Who is it? -> **C'est** un ami.
+> *   What is his job? -> **Il est** ingénieur.
+
+---
+
 ## 📖 Grammar: Summary
 
 ### Saying your profession
@@ -394,18 +416,23 @@ Include:
 | **Vous** | **Votre** | Your |
 | **Ils/Elles** | **Leur** | Their |
 
+### C'est vs Il est
+
+| **C'est** + Determinant | **C'est un** professeur. |
+| **Il est** + Profession | **Il est** professeur. |
+
 ---
 
 ## ⚠️ Common Mistakes to Avoid
 
-### Mistake 1: Using "un/une" before professions
+### Mistake 1: Using "un/une" after "Il est"
 
 | ❌ Incorrect | ✅ Correct |
 |:------------|:-----------|
-| Je suis **un** médecin | Je suis médecin |
-| Elle est **une** professeure | Elle est professeure |
+| Il est **un** avocat | **Il est** avocat |
+| Il est **un** avocat | **C'est un** avocat |
 
-**In French, don't use articles before professions after "être"!**
+**Use "C'est" if you want to use "un/une"!**
 
 ### Mistake 2: Mixing mon/ma and votre
 

@@ -1,327 +1,236 @@
-# Leçon 13 : Faire les courses
+# Leçon 13 : Raconter sa journée (Passé Composé - Avoir)
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Shop for groceries, use expressions for buying, quantities and prices
+**Objectifs** : Tell a story in the past, use Passé Composé with "avoir", use chronological connectors
 
 ---
 
-## 🎧 Let's Start! At the market
+## 🎧 Let's Start! A busy day
 
-### Listen to this dialogue
+### Listen to this narrative
 
-**Tom goes to the market:**
+**Tom tells Sophie about his day yesterday:**
 
-> **Vendeur :** Bonjour monsieur ! Qu'est-ce que je vous sers ?
+> **Sophie :** Salut Tom ! Tu vas bien ? Qu'est-ce que tu as fait hier ?
 > 
-> **Tom :** Bonjour ! Je voudrais **un kilo** de pommes, s'il vous plaît.
+> **Tom :** Salut ! Oh là là, **j'ai passé** une journée très chargée !
 > 
-> **Vendeur :** Voilà ! Autre chose ?
+> **Sophie :** Ah bon ? Raconte !
 > 
-> **Tom :** Oui, **une barquette** de fraises et **500 grammes** de tomates.
+> **Tom :** **D'abord**, **j'ai travaill**é ce matin. **Ensuite**, **j'ai déjeuné** avec un collègue. On **a mangé** une pizza.
 > 
-> **Vendeur :** C'est tout ?
+> **Sophie :** Et après ?
 > 
-> **Tom :** Oui, c'est tout. Ça fait **combien** ?
+> **Tom :** L'après-midi, **j'ai fait** les courses. **J'ai acheté** des fruits. **Puis**, **j'ai pris** le bus et **je suis rentré** à la maison.
 > 
-> **Vendeur :** Alors, les pommes, 2€50... les fraises, 3€... les tomates, 1€50. Ça fait **7 euros**.
+> **Sophie :** Tu **as regardé** le match le soir ?
 > 
-> **Tom :** Voilà.
-> 
-> **Vendeur :** Merci ! Bonne journée !
+> **Tom :** Non, **j'ai lu** un livre et **j'ai dormi** très tôt !
 
 ---
 
-### 🔍 Comprehension
+## 🔍 Comprehension
 
-**Answer the questions:**
+**Order the events of Tom's day (1-5):**
 
-1. What fruit does Tom buy first?
-2. How much does he want?
-3. What else does he buy?
-4. What is the total price?
+1.  ___ He read a book.
+2.  ___ He worked.
+3.  ___ He took the bus.
+4.  ___ He ate a pizza.
+5.  ___ He went shopping.
 
 <details>
 <summary>📝 Answers</summary>
 
-1. **Apples** (pommes)
-2. **One kilo**
-3. **Strawberries** and **tomatoes**
-4. **7 euros**
+1.  He read a book (5)
+2.  He worked (1)
+3.  He took the bus (4)
+4.  He ate a pizza (2)
+5.  He went shopping (3)
 
 </details>
 
 ---
 
-## 🔍 Observation 1: Asking to buy something
+## 🔍 Observation 1: The Passé Composé (with Avoir)
 
-**Look at how Tom asks:**
+**Look at the verbs:**
+> J'**ai** travaill**é**
+> Tu **as** regard**é**
+> On **a** mang**é**
 
-> **Je voudrais** un kilo de pommes, s'il vous plaît.
+### 1. The Formation 🏗️
+It is called "Composé" because it has **2 parts**:
 
-### Ways to ask for something
+**Subject** + **Auxiliary (AVOIR)** + **Past Participle**
 
-| Français | English | Politeness |
-|:---------|:--------|:-----------|
-| Je voudrais... | I would like... | Very polite ⭐⭐⭐ |
-| J'aimerais... | I would like... | Very polite ⭐⭐⭐ |
-| Je prends... | I'll take... | Neutral ⭐⭐ |
-| Donnez-moi... | Give me... | Less polite ⭐ |
+| Subject | Aux (Avoir) | Participle |
+| :--- | :--- | :--- |
+| J' | **ai** | mangé |
+| Tu | **as** | mangé |
+| Il / Elle | **a** | mangé |
+| Nous | **avons** | mangé |
+| Vous | **avez** | mangé |
+| Ils / Elles | **ont** | mangé |
 
-**💡 Tip:** Always use "Je voudrais" in shops - it's the most polite!
+### 2. Regular Participles 📏
+How to form the participle from the infinitive?
 
----
-
-## 🔍 Observation 2: Quantities
-
-**Look at the quantities in the dialogue:**
-
-> **Un kilo** de pommes  
-> **Une barquette** de fraises  
-> **500 grammes** de tomates
-
-### Common quantities
-
-| Français | English | Used for |
-|:---------|:--------|:---------|
-| un kilo (de) | a kilo (of) | fruits, vegetables |
-| 500 grammes (de) | 500 grams (of) | meat, cheese |
-| une barquette (de) | a punnet (of) | berries |
-| une bouteille (de) | a bottle (of) | drinks |
-| un paquet (de) | a packet (of) | pasta, coffee |
-| une boîte (de) | a can/box (of) | canned goods |
-| un litre (de) | a liter (of) | milk, juice |
-| une tranche (de) | a slice (of) | ham, cheese |
-| un morceau (de) | a piece (of) | cheese, cake |
+| Group | Ending | Rule | Example |
+| :--- | :--- | :--- | :--- |
+| **-ER** verbs | **-é** | Remove 'r', add accent | Parler -> **Parlé** |
+| **-IR** verbs | **-i** | Remove 'r' | Finir -> **Fini** |
+| **-RE** verbs | **-u** | Remove 're', add 'u' | Vendre -> **Vendu** |
 
 ---
 
-## ✏️ Practice 1: Order food
+## ✏️ Practice 1: Regular Verbs
 
-**Complete the sentences:**
+**Conjugate in Passé Composé:**
 
-1. Je voudrais _____________ de lait. (1 liter)
-2. Je prends _____________ de jambon. (3 slices)
-3. Je voudrais _____________ de fromage. (200 grams)
-4. Je prends _____________ d'eau. (a bottle)
+1.  (Manger) J' _______________ une pomme.
+2.  (Parler) Tu _______________ à Sophie ?
+3.  (Choisir) Nous _______________ ce restaurant.
+4.  (Attendre) Vous _______________ le bus.
 
 <details>
 <summary>📝 Answers</summary>
 
-1. Je voudrais **un litre** de lait.
-2. Je prends **trois tranches** de jambon.
-3. Je voudrais **200 grammes** de fromage.
-4. Je prends **une bouteille** d'eau.
+1.  J'**ai mangé**
+2.  Tu **as parlé**
+3.  Nous **avons choisi**
+4.  Vous **avez attendu**
 
 </details>
 
 ---
 
-## 🔍 Observation 3: Useful shopping phrases
+## 🔍 Observation 2: Irregular Verbs (The "Rebels")
 
-**Look at the vendor's questions:**
+Some very common verbs have an **irregular participle**. You must memorize them!
 
-> **Qu'est-ce que je vous sers ?** = What can I get you?  
-> **Autre chose ?** = Anything else?  
-> **C'est tout ?** = Is that all?
+### Common Daily Irregulars
 
-### Complete shopping dialogue
+| Group | Infinitive | Participle | Example |
+| :--- | :--- | :--- | :--- |
+| **The "U" Sound** 🎵 | **Boire** (drink) | **Bu** | J'ai **bu** un café. |
+| | **Voir** (see) | **Vu** | J'ai **vu** un film. |
+| | **Lire** (read) | **Lu** | J'ai **lu** un livre. |
+| | **Avoir** (have) | **Eu** (pronounced "U") | J'ai **eu** de la chance. |
+| **The "IS/IT" Sound** 🎵 | **Prendre** (take) | **Pris** | J'ai **pris** le bus. |
+| | **Faire** (do/make) | **Fait** | J'ai **fait** du sport. |
+| | **Dire** (say) | **Dit** | J'ai **dit** bonjour. |
+| **The Exception** | **Être** (be) | **Été** | J'ai **été** malade. |
 
-| Shop assistant | Customer |
-|:---------------|:---------|
-| Bonjour ! | Bonjour ! |
-| Qu'est-ce que je vous sers ? | Je voudrais... |
-| Voilà. Autre chose ? | Oui, je prends aussi... |
-| Et avec ceci ? | C'est tout, merci. |
-| Ça fait [prix]. | Voilà. |
-| Merci, bonne journée ! | Bonne journée ! |
-
----
-
-## 🔍 Observation 4: Food vocabulary
-
-### Fruits
-
-| Français | English |
-|:---------|:--------|
-| la pomme | apple |
-| la banane | banana |
-| l'orange | orange |
-| la fraise | strawberry |
-| le raisin | grape |
-| la poire | pear |
-| la pêche | peach |
-
-### Vegetables
-
-| Français | English |
-|:---------|:--------|
-| la tomate | tomato |
-| la carotte | carrot |
-| la pomme de terre | potato |
-| l'oignon | onion |
-| la salade | lettuce |
-| le poivron | bell pepper |
-| le concombre | cucumber |
-
-### Other groceries
-
-| Français | English |
-|:---------|:--------|
-| le pain | bread |
-| le lait | milk |
-| le fromage | cheese |
-| les œufs | eggs |
-| la viande | meat |
-| le poulet | chicken |
-| le poisson | fish |
+> **💡 Note:** "Eu" is pronounced exactly like the letter "U" in French!
 
 ---
 
-## 🇧🇪 Culture: Shopping in Belgium
+## ✏️ Practice 2: Irregular Verbs
 
-### Read about Belgian shopping
+**Complete with the correct participle:**
 
-**Sophie, Belgian native:**
+1.  (Faire) Tu as _______ du sport ?
+2.  (Prendre) Nous avons _______ le train.
+3.  (Voir) Ils ont _______ la Tour Eiffel.
+4.  (Boire) J'ai _______ de l'eau.
 
-> "In Belgium, we love our local markets! Almost every commune has a market at least once a week. At the market, you can find fresh fruits, vegetables, cheese, meat, and flowers. It's also a social place – Belgians love to chat with the vendors!"
+<details>
+<summary>📝 Answers</summary>
 
-### Where to shop
+1.  Fait
+2.  Pris
+3.  Vu
+4.  Bu
 
-| Type | Examples |
-|:-----|:---------|
-| 🛒 Supermarkets | Colruyt, Delhaize, Carrefour |
-| 🏪 Local shops | Boulangerie, boucherie, fromagerie |
-| 🥬 Markets | Marché du Midi (biggest in Europe!) |
-| 🏬 Bio shops | Bio-Planet, Färm |
+</details>
 
-### Belgian specialties to try
+---
 
-| Français | English |
-|:---------|:--------|
-| les frites | Belgian fries |
-| les gaufres | waffles |
-| les speculoos | spiced cookies |
-| le chocolat | chocolate |
-| les moules | mussels |
+## 🔍 Observation 3: Chronological Connectors
+
+To tell a story, we use "link words" to organize time.
+
+| Word | English | Usage |
+| :--- | :--- | :--- |
+| **D'abord** | First | Start of the story |
+| **Puis** | Then | Next action |
+| **Ensuite** | Next / Then | Next action |
+| **Après** | After | Next action |
+| **Enfin** | Finally | End of the story |
+
+**Example:**
+"**D'abord**, je me suis levé. **Ensuite**, j'ai mangé. **Enfin**, je suis parti."
+
+---
+
+## 🔍 Observation 4: Lexical Blocks (Movement) ⚠️
+
+Some verbs of movement use **ÊTRE** instead of Avoir. We will study this in Lesson 14.
+For now, memorize these two blocks as fixed expressions:
+
+*   **Je suis allé(e)** = I went
+    *   *Ex: Je suis allé au cinéma.*
+*   **Je suis resté(e)** = I stayed
+    *   *Ex: Je suis resté à la maison.*
 
 ---
 
 ## 🗣️ Speaking Practice
 
-### Exercise 1: At the market
+### Exercise 1: What did you do yesterday?
+Use the structure: "**Hier, j'ai...**"
 
-**Practice this dialogue:**
+1.  (Work) -> Hier, j'ai travaillé.
+2.  (Eat pizza) -> _________________________.
+3.  (Watch TV) -> _________________________.
+4.  (Read) -> _________________________.
 
-**Vendor:** Bonjour ! Qu'est-ce que je vous sers ?  
-**You:** Bonjour ! Je voudrais [quantity] de [food], s'il vous plaît.  
-**Vendor:** Voilà. Autre chose ?  
-**You:** Oui, je prends aussi [quantity] de [food].  
-**Vendor:** C'est tout ?  
-**You:** Oui, c'est tout. Ça fait combien ?
+### Exercise 2: Tell a mini-story
+Use connectors (**D'abord, Ensuite, Enfin**).
 
-### Exercise 2: Your shopping list
-
-**Say your shopping list out loud:**
-
-"Je voudrais un kilo de pommes, une bouteille de lait, et 200 grammes de fromage."
+*   Example: "D'abord, j'ai mangé. Ensuite, j'ai travaillé. Enfin, j'ai dormi."
 
 ---
 
-## ✍️ Writing Practice
+## ✏️ Writing Practice
 
-**Write a shopping dialogue (8-10 lines):**
+**Write a paragraph (5 sentences) about your last weekend.**
+Use:
+*   Passé Composé
+*   Connectors (D'abord...)
+*   At least 2 irregular verbs (Fait, Pris, Vu...)
 
-Include:
-- Greetings
-- At least 3 items with quantities
-- Asking for the price
-- Payment and goodbye
+**Example:**
+> Samedi, j'ai passé une bonne journée. **D'abord**, j'ai dormi tard. **Ensuite**, j'ai **pris** le petit-déjeuner. L'après-midi, j'ai **vu** un ami et on a discuté. Le soir, j'ai **fait** la cuisine.
 
 ---
 
 ## 📖 Grammar: Summary
 
-### Asking to buy
+### Passé Composé (AVOIR)
+**Subject + AVOIR + Participle**
 
-| French | Use |
-|:-------|:----|
-| Je voudrais + quantity + de + item | I would like... |
-| Je prends + quantity + de + item | I'll take... |
+### Regular Endings
+*   -ER → **é**
+*   -IR → **i**
+*   -RE → **u**
 
-### Quantity + de + noun
-
-| Structure | Example |
-|:----------|:--------|
-| un kilo **de** | un kilo **de** pommes |
-| une bouteille **de** | une bouteille **de** vin |
-| 500 grammes **de** | 500 grammes **de** fromage |
-
-**⚠️ Always use "de" between quantity and item!**
-
-### Partitive articles (for uncountable)
-
-| Article | Use | Example |
-|:--------|:----|:--------|
-| du | before masculine | du pain |
-| de la | before feminine | de la viande |
-| de l' | before vowel | de l'eau |
-| des | for plural | des œufs |
-
-"Je voudrais **du** pain." = I would like (some) bread.
-
----
-
-## ⚠️ Common Mistakes to Avoid
-
-### Mistake 1: Forgetting "de"
-
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| un kilo pommes | un kilo **de** pommes |
-| une bouteille eau | une bouteille **d'**eau |
-
-### Mistake 2: Using wrong article
-
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| Je voudrais le pain | Je voudrais **du** pain |
-
-**Use partitive articles (du/de la) for unspecified quantities!**
-
-### Mistake 3: Forgetting to say please
-
-| ❌ Rude | ✅ Polite |
-|:-------|:---------|
-| Je voudrais un kilo de pommes. | Je voudrais un kilo de pommes, **s'il vous plaît**. |
+### Important Irregulars
+*   Faire → **Fait**
+*   Prendre → **Pris**
+*   Voir → **Vu**
+*   Boire → **Bu**
+*   Avoir → **Eu** / Être → **Été**
 
 ---
 
 ## ✅ Self-Evaluation
 
-**Check what you can do:**
-
-- ☐ I can ask to buy something: "Je voudrais..."
-- ☐ I know quantity words (kilo, gramme, bouteille)
-- ☐ I can name common fruits and vegetables
-- ☐ I can complete a shopping dialogue
-- ☐ I understand partitive articles (du, de la, des)
+- [ ] I can conjugate regular verbs in Passé Composé (J'ai parlé)
+- [ ] I know the irregulars: fait, pris, vu, bu, lu
+- [ ] I can use connectors: d'abord, ensuite, enfin
+- [ ] I can tell a simple story about yesterday
 
 ---
-
-## 📚 Extra Resources
-
-### Additional activities
-
-- **Market visit:** Go to a local market and practice French
-- **Shopping list:** Write your weekly shopping list in French
-- **Prices:** Practice saying prices in French
-
-### Next lesson
-
-> **Leçon 14 : À la commune**  
-> You'll learn essential vocabulary for administrative tasks!
-
----
-
-*Bonne continuation ! 🎉*

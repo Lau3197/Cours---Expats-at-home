@@ -1,222 +1,169 @@
-# Leçon 14 : À la commune
+# Leçon 14 : Mon parcours (Passé Composé - Être)
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Handle administrative tasks, understand official documents, appointment vocabulary
+**Objectifs** : Tell your life story, use Passé Composé with "être", agree the past participle, describe the past (C'était)
 
 ---
 
-## 🎧 Let's Start! At the town hall
+## 🎧 Let's Start! An interview at the commune
 
 ### Listen to this dialogue
 
-**Tom goes to register at the commune:**
+**An employee asks Tom about his history:**
 
-> **Employée :** Bonjour monsieur, c'est pour quoi ?
+> **Employée :** Alors monsieur, pour votre dossier... Vous **êtes né** où ?
 > 
-> **Tom :** Bonjour, j'ai un **rendez-vous** pour une inscription.
+> **Tom :** Je **suis né** à Londres, en 1990.
 > 
-> **Employée :** Votre nom, s'il vous plaît ?
+> **Employée :** Et quand est-ce que vous **êtes arrivé** en Belgique ?
 > 
-> **Tom :** Tom Smith.
+> **Tom :** Je **suis arrivé** en 2020. Je **suis venu** pour le travail.
 > 
-> **Employée :** Vous avez votre **passeport** et votre **contrat de bail** ?
+> **Employée :** Vous **êtes resté** à Bruxelles tout le temps ?
 > 
-> **Tom :** Oui, voilà.
+> **Tom :** Non. **Au début**, je **suis allé** vivre à Anvers pendant 6 mois. **Puis**, je **suis revenu** ici.
 > 
-> **Employée :** Merci. Votre **date de naissance** ?
+> **Employée :** Et vous **êtes parti** souvent en voyage ?
 > 
-> **Tom :** Le 15 mars 1990.
-> 
-> **Employée :** Et votre **adresse** à Bruxelles ?
-> 
-> **Tom :** J'habite 42 rue de la Loi, à Etterbeek.
-> 
-> **Employée :** Parfait. Signez ici, s'il vous plaît. Vous recevrez votre **carte d'identité** dans 15 jours.
-> 
-> **Tom :** Merci beaucoup !
+> **Tom :** Non, je **suis resté** ici à cause du travail. C'**était** intense !
 
 ---
 
-### 🔍 Comprehension
+## 🔍 Comprehension
 
 **Answer the questions:**
 
-1. What is Tom's appointment for?
-2. What documents does he need?
-3. What is his address?
-4. When will he receive his ID card?
+1.  Where was Tom born?
+2.  When did he arrive in Belgium?
+3.  Did he stay in Brussels describing the whole time?
+4.  Why didn't he travel?
 
 <details>
 <summary>📝 Answers</summary>
 
-1. **Registration** (inscription)
-2. **Passport** and **rental contract** (contrat de bail)
-3. **42 rue de la Loi, Etterbeek**
-4. In **15 days**
+1.  **London** (Londres)
+2.  **In 2020**
+3.  No, he went to **Antwerp** (Anvers) for 6 months.
+4.  Because of **work**.
 
 </details>
 
 ---
 
-## 🔍 Observation 1: Administrative vocabulary
+## 🔍 Observation 1: The Passé Composé with ÊTRE
 
-**Look at the key words in the dialogue:**
+**Look at the verbs:**
+> Je **suis** né
+> Vous **êtes** arrivé
+> Je **suis** allé
 
-> J'ai un **rendez-vous**.  
-> Votre **passeport** et votre **contrat de bail**.  
-> Votre **date de naissance**.  
-> Votre **carte d'identité**.
+### 1. The List of 14 Verbs (La Maison d'Être) 🏠
+Most verbs use "Avoir". But **14 verbs of movement/change** use **ÊTRE**.
+We learn them by **Pairs of Opposites**:
 
-### Essential documents
+| Pair | Meaning | Example |
+| :--- | :--- | :--- |
+| **Aller** ↔ **Venir** | Go ↔ Come | Il est **allé** / Il est **venu** |
+| **Arriver** ↔ **Partir** | Arrive ↔ Leave | Il est **arrivé** / Il est **parti** |
+| **Entrer** ↔ **Sortir** | Enter ↔ Exit | Il est **entré** / Il est **sorti** |
+| **Monter** ↔ **Descendre** | Go up ↔ Go down | Il est **monté** / Il est **descendu** |
+| **Naître** ↔ **Mourir** | Be born ↔ Die | Il est **né** / Il est **mort** |
+| | | |
+| **The Loners** (No opposite) | | |
+| **Rester** | Stay | Il est **resté** |
+| **Tomber** | Fall | Il est **tombé** |
+| **Retourner** | Return | Il est **retourné** |
+| **Passer** | Pass by | Il est **passé** |
 
-| Français | English |
-|:---------|:--------|
-| le passeport | passport |
-| la carte d'identité | ID card |
-| le contrat de bail | rental contract/lease |
-| le visa | visa |
-| le permis de travail | work permit |
-| l'attestation d'inscription | registration certificate |
-| le certificat de domicile | proof of address |
-| la carte de séjour | residence permit |
+> **Analogy:** Imagine a person's life in a house explicitly using these actions (Arriving, Entering, Going up...).
 
----
+![Maison d'Être](/assets/maison_etre.png)
 
-## 🔍 Observation 2: Personal information
+### 2. The Agreement Rule ⚠️
+With **ÊTRE**, the participle acts like an adjective. It **agrees** with the Subject!
 
-**Look at the questions in the dialogue:**
+| Subject | Agreement | Example |
+| :--- | :--- | :--- |
+| Masculine | - | Il est allé |
+| Feminine | **+ e** | Elle est allé**e** |
+| Plural Masc | **+ s** | Ils sont allé**s** |
+| Plural Fem | **+ es** | Elles sont allé**es** |
 
-> Votre **nom**, s'il vous plaît ?  
-> Votre **date de naissance** ?  
-> Votre **adresse** ?
-
-### Personal information vocabulary
-
-| Français | English |
-|:---------|:--------|
-| le nom (de famille) | last name |
-| le prénom | first name |
-| la date de naissance | date of birth |
-| le lieu de naissance | place of birth |
-| l'adresse | address |
-| le numéro de téléphone | phone number |
-| l'email / le courriel | email |
-| la nationalité | nationality |
-| l'état civil | marital status |
-| célibataire | single |
-| marié(e) | married |
-| divorcé(e) | divorced |
+**Example:**
+*   Tom dit : "Je suis arriv**é**."
+*   Sophie dit : "Je suis arriv**ée**."
 
 ---
 
-## ✏️ Practice 1: Your personal information
+## ✏️ Practice 1: Agreement
 
-**Complete with YOUR information:**
+**Add the correct ending (e, s, es) or nothing (-).**
 
-1. Nom : _______________
-2. Prénom : _______________
-3. Date de naissance : _______________
-4. Nationalité : _______________
-5. Adresse : _______________
-
----
-
-## 🔍 Observation 3: Making an appointment
-
-**How to talk about appointments:**
-
-| Français | English |
-|:---------|:--------|
-| J'ai un rendez-vous | I have an appointment |
-| Je voudrais prendre rendez-vous | I would like to make an appointment |
-| C'est pour quand ? | When is it for? |
-| C'est pour quoi ? | What is it about? |
-| Je viens pour... | I'm here for... |
-
-### Common reasons for appointments
-
-| Français | English |
-|:---------|:--------|
-| une inscription | registration |
-| un changement d'adresse | address change |
-| un renouvellement | renewal |
-| une demande de | application for |
-
----
-
-## 🔍 Observation 4: Giving instructions
-
-**Look at how the employee gives instructions:**
-
-> **Signez** ici, s'il vous plaît.
-
-### Common administrative instructions
-
-| Français | English |
-|:---------|:--------|
-| Signez ici | Sign here |
-| Remplissez ce formulaire | Fill in this form |
-| Donnez-moi votre passeport | Give me your passport |
-| Attendez ici | Wait here |
-| Allez au guichet 3 | Go to counter 3 |
-| Prenez un numéro | Take a number |
-| Revenez dans 15 jours | Come back in 15 days |
-
----
-
-## 🇧🇪 Culture: Administration in Belgium
-
-### Read about Belgian administration
-
-**Sarah, American expat:**
-
-> "Belgian administration can be confusing at first! You need to register at your commune within 8 days of moving in. Bring ALL your documents – Belgians love paperwork. Make an appointment online if possible. And be patient – things can take time!"
-
-### Registration process in Belgium
-
-| Step | What to do |
-|:-----|:-----------|
-| 1 | Find your commune (maison communale) |
-| 2 | Make an appointment (online or by phone) |
-| 3 | Bring required documents |
-| 4 | Police will visit your address |
-| 5 | Return to pick up your ID card |
-
-### Required documents for registration
-
-| Document | French name |
-|:---------|:------------|
-| Passport | Passeport |
-| Rental contract | Contrat de bail |
-| Work contract (if applicable) | Contrat de travail |
-| Passport photos | Photos d'identité |
-| Proof of health insurance | Attestation de mutuelle |
-
----
-
-## ✏️ Practice 2: At the commune
-
-**Complete the dialogue:**
-
-**Employée :** Bonjour, c'est pour quoi ?
-
-**You :** Bonjour, je voudrais _____________ (make an appointment).
-
-**Employée :** C'est pour quoi ?
-
-**You :** C'est pour _____________ (registration).
-
-**Employée :** Vous avez votre passeport ?
-
-**You :** Oui, _____________ (here it is).
+1.  (Marie) Elle est parti___ en vacances.
+2.  **(Sophie)** : "Je suis resté___ à la maison."
+3.  (Sophie et Marie) Elles sont venu___ hier.
+4.  (Tom et Marc) Ils sont sorti___ au restaurant.
 
 <details>
 <summary>📝 Answers</summary>
 
-1. je voudrais **prendre rendez-vous**
-2. C'est pour **une inscription**
-3. Oui, **voilà**
+1.  parti**e** (Fem)
+2.  resté**e** (Sophie is feminine!)
+3.  venu**es** (Fem Plural)
+4.  sorti**s** (Masc Plural)
+
+</details>
+
+---
+
+## 🔍 Observation 2: Describing the Past (Imparfait Basics)
+
+To describe a **situation** or **atmosphere** in the past (not an action), we use expressions like "C'était".
+
+### 1. C'était + Adjective
+Use this to give your opinion or describe how something was.
+*   **C'était** super ! (It was great)
+*   **C'était** difficile. (It was difficult)
+*   **C'était** intéressant.
+
+### 2. Il y avait + Noun
+Use this to describe what was there (There was / There were).
+*   **Il y avait** du soleil. (It was sunny / There was sun)
+*   **Il y avait** beaucoup de monde. (There were many people)
+
+---
+
+## 🔍 Observation 3: Biographical Time Markers ⏳
+
+To talk about your life story, precise markers are useful.
+
+| Marker | English | Usage | Example |
+| :--- | :--- | :--- | :--- |
+| **En** + year | In | A specific date | Je suis né **en** 1990. |
+| **De ... à ...** | From... to... | A finished duration | J'ai habité ici **de** 2010 **à** 2015. |
+| **Pendant** | For/During | A duration | J'ai voyagé **pendant** 3 mois. |
+| **Depuis** | Since/For | **Current** situation | J'habite ici **depuis** 2020. |
+
+> **⚠️ Careful:** "Depuis" means the action is **still happening now**.
+> *   *J'habite ici depuis 2 ans* = I still live here.
+
+---
+
+## ✏️ Practice 2: Time Markers
+
+**Complete with: En, De...à, Depuis.**
+
+1.  Je suis né _____ 1995.
+2.  J'ai étudié à l'université _____ 2015 _____ 2018.
+3.  Je travaille dans cette entreprise _____ 6 mois. (Still working there)
+
+<details>
+<summary>📝 Answers</summary>
+
+1.  **En** 1995.
+2.  **De** 2015 **à** 2018.
+3.  **Depuis** 6 mois.
 
 </details>
 
@@ -224,119 +171,55 @@
 
 ## 🗣️ Speaking Practice
 
-### Exercise 1: Give your information
+### Exercise 1: Your Biography
+**Answer these questions:**
+1.  Vous êtes né(e) où et quand ?
+2.  Quand est-ce que vous êtes arrivé(e) en Belgique (ou dans votre ville) ?
+3.  Vous êtes déjà allé(e) à Paris ?
 
-**Practice answering these questions out loud:**
-
-1. Votre nom ?
-2. Votre prénom ?
-3. Votre date de naissance ?
-4. Votre nationalité ?
-5. Votre adresse ?
-
-### Exercise 2: Appointment dialogue
-
-**Practice this complete dialogue:**
-
-**You :** Bonjour, j'ai un rendez-vous...  
-**Employee :** Votre nom ?  
-**You :** [Your name]...
+### Exercise 2: Describe a past event
+**Talk about your last holiday:**
+*   Where did you go? (Je suis allé...)
+*   How was it? (C'était...)
+*   What was there? (Il y avait...)
 
 ---
 
 ## ✍️ Writing Practice
 
-**Write a dialogue at the commune (8-10 lines):**
+**Write a short biography (5-6 sentences).**
+Use specific dates and verbs of movement. Pay attention to agreement if you are a woman!
 
-Include:
-- Greeting
-- Purpose of visit
-- Your personal details
-- Document presentation
-- Instructions from employee
+**Example:**
+> Je **suis née** en Espagne en 1998. Je **suis allée** à l'école à Madrid. En 2020, je **suis partie** pour voyager. Je **suis arrivée** en Belgique en 2022. C'**était** un grand changement !
 
 ---
 
 ## 📖 Grammar: Summary
 
-### Possessive adjectives with formal "vous"
+### Passé Composé with ÊTRE
+**Subject + ÊTRE + Participle (Agreed)**
 
-| French | English |
-|:-------|:--------|
-| **Votre** nom | Your name (formal) |
-| **Votre** adresse | Your address |
-| **Vos** documents | Your documents |
+### The Agreement
+*   Fem: **+e**
+*   Plural: **+s**
 
-### Imperative for instructions
-
-| French | Use |
-|:-------|:----|
-| Signez | Sign (formal) |
-| Remplissez | Fill in (formal) |
-| Attendez | Wait (formal) |
-
-### Preposition "pour"
-
-| Structure | Example |
-|:----------|:--------|
-| C'est pour + noun | C'est pour une inscription |
-| Je viens pour + infinitive | Je viens pour m'inscrire |
-
----
-
-## ⚠️ Common Mistakes to Avoid
-
-### Mistake 1: Wrong preposition for dates
-
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| Je suis né à 1990 | Je suis né **en** 1990 |
-
-**Use "en" for years!**
-
-### Mistake 2: Forgetting "de" in dates
-
-| ❌ Incorrect | ✅ Correct |
-|:------------|:-----------|
-| le 15 mars 1990 | le 15 mars **de** 1990 (or just "1990") |
-
-### Mistake 3: Informal language
-
-| ❌ Too informal | ✅ Formal/appropriate |
-|:---------------|:---------------------|
-| Salut ! | **Bonjour** |
-| Donne-moi | **Donnez-moi** |
-| T'as mes papiers ? | **Vous avez mes documents ?** |
-
-**Use formal language at the commune!**
+### The 14 Verbs (Pairs of Opposites)
+*   Aller ↔ Venir
+*   Arriver ↔ Partir
+*   Entrer ↔ Sortir
+*   Monter ↔ Descendre
+*   Naître ↔ Mourir
+*   Rester, Tomber, Retourner, Passer
 
 ---
 
 ## ✅ Self-Evaluation
 
-**Check what you can do:**
-
-- ☐ I can give my personal information in French
-- ☐ I know important document names (passport, ID, lease)
-- ☐ I can make an appointment: "Je voudrais prendre rendez-vous"
-- ☐ I understand common administrative instructions
-- ☐ I know what documents are needed for registration
+- [ ] I know the 14 verbs that use "Être"
+- [ ] I can agree the past participle (Je suis allée)
+- [ ] I can say when I was born (Je suis né en...)
+- [ ] I can use "C'était" to describe an experience
+- [ ] I can use "Depuis" for a current situation
 
 ---
-
-## 📚 Extra Resources
-
-### Additional activities
-
-- **Visit your commune's website:** Find the page for "inscription"
-- **Prepare:** Make a list of all your documents in French
-- **Practice:** Role-play a commune visit with a friend
-
-### Next lesson
-
-> **Leçon 15 : Révision et évaluation A1.1**  
-> Final revision of all A1.1 content!
-
----
-
-*Bonne continuation ! 🎉*
