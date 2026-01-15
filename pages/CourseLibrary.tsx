@@ -107,22 +107,42 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Load courses from local JSON
-    const loadCourses = () => {
+    // Load courses from local JSON with cache bypass
+    const loadCourses = async () => {
       try {
-        if (localCourses && localCourses.length > 0) {
+        // Use dynamic import with cache-busting timestamp to force fresh load
+        const timestamp = Date.now();
+        const response = await fetch(`/data/allCourses.json?t=${timestamp}`);
+
+        if (!response.ok) {
+          throw new Error('Failed to fetch courses');
+        }
+
+        const coursesData = await response.json();
+
+        if (coursesData && coursesData.length > 0) {
           // Sort by level A1 -> A2 -> B1 -> B2
           const levelOrder = { 'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4 };
-          // We need to cast to CoursePackage[] because JSON import might be inferred loosely
-          const typedCourses = localCourses as unknown as CoursePackage[];
-          typedCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
-          setCourses(typedCourses);
+          coursesData.sort((a: CoursePackage, b: CoursePackage) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
+          setCourses(coursesData);
         } else {
           setCourses(masterCurriculum);
         }
       } catch (error) {
         console.error("Error loading local courses:", error);
-        setCourses(masterCurriculum);
+        // Fallback to static import if dynamic fails
+        try {
+          if (localCourses && localCourses.length > 0) {
+            const levelOrder = { 'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4 };
+            const typedCourses = localCourses as unknown as CoursePackage[];
+            typedCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
+            setCourses(typedCourses);
+          } else {
+            setCourses(masterCurriculum);
+          }
+        } catch {
+          setCourses(masterCurriculum);
+        }
       } finally {
         setLoading(false);
       }
