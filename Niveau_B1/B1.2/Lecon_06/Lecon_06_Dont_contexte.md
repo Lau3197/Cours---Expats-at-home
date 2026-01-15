@@ -1,6 +1,7 @@
 # Leçon 06 : DONT en contexte
 
 **Niveau** : B1.2  
+**Module** : Module 3 : La chose dont on parle
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice DONT in various contexts

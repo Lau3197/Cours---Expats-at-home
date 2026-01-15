@@ -1,6 +1,7 @@
 # Leçon 16 : Exprimer l'opposition
 
 **Niveau** : B1.2  
+**Module** : Module 7: Avoir le dernier mot
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Express contrast and opposition
 

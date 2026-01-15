@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { BookOpen, ChevronRight, CheckCircle, ShieldCheck, ArrowLeft, FolderOpen } from 'lucide-react';
 import StyledMarkdown from '../components/StyledMarkdown';
 
@@ -13,6 +14,7 @@ const formatTitle = (filename: string) => {
 
 interface Lesson {
     id: string;
+    cleanId: string;
     title: string;
     path: string;
     level: string;
@@ -22,9 +24,9 @@ interface Lesson {
 }
 
 const GrammairePage: React.FC = () => {
-    const [selectedLevel, setSelectedLevel] = useState<string | null>(null);
-    const [selectedSubLevel, setSelectedSubLevel] = useState<string | null>(null);
-    const [selectedLesson, setSelectedLesson] = useState<Lesson | null>(null);
+    // URL Params for Deep Linking
+    const { level, subLevel, lessonId } = useParams<{ level?: string; subLevel?: string; lessonId?: string }>();
+    const navigate = useNavigate();
 
     // Global loader for all grammar markdown files
     const allModules = import.meta.glob('../Grammaire/*/*/*.md', { query: '?raw', import: 'default' });
@@ -37,16 +39,17 @@ const GrammairePage: React.FC = () => {
             const parts = path.split('/');
             // Expected length check or robust indexing
             if (parts.length >= 5) {
-                const level = parts[parts.length - 3];
-                const subLevel = parts[parts.length - 2];
+                const lvl = parts[parts.length - 3];
+                const sub = parts[parts.length - 2];
                 const fileName = parts[parts.length - 1];
 
                 lessons.push({
-                    id: fileName,
+                    id: fileName, // Original filename as ID (e.g. 01_Le_present.md)
+                    cleanId: formatTitle(fileName).replace(/\s+/g, '-').toLowerCase(), // Readable slug
                     title: formatTitle(fileName),
                     path: path,
-                    level: level,
-                    subLevel: subLevel,
+                    level: lvl,
+                    subLevel: sub,
                     loadContent: allModules[path] as () => Promise<string>
                 });
             }
@@ -55,7 +58,25 @@ const GrammairePage: React.FC = () => {
         return lessons.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
     }, []);
 
-    // Get available sub-levels for the selected level
+    // Derived Selection State based on URL
+    const selectedLevel = level || null;
+    const selectedSubLevel = subLevel || null;
+
+    // Find selected lesson if ID is present
+    const [lessonContent, setLessonContent] = useState<string | null>(null);
+    const [loadingContent, setLoadingContent] = useState(false);
+
+    const activeLesson = useMemo(() => {
+        if (!lessonId || !selectedSubLevel) return null;
+        // Try to find by ID or cleanId (slug)
+        return allLessons.find(l =>
+            l.level === selectedLevel &&
+            l.subLevel === selectedSubLevel &&
+            (l.id === lessonId || l.cleanId === lessonId || l.id.includes(lessonId))
+        ) || null;
+    }, [lessonId, selectedLevel, selectedSubLevel, allLessons]);
+
+    // Restore derived lists for UI
     const availableSubLevels = useMemo(() => {
         if (!selectedLevel) return [];
         const levels = new Set<string>();
@@ -63,25 +84,47 @@ const GrammairePage: React.FC = () => {
         return Array.from(levels).sort();
     }, [selectedLevel, allLessons]);
 
-    // Get lessons for the selected sub-level
     const currentLessons = useMemo(() => {
         if (!selectedLevel || !selectedSubLevel) return [];
         return allLessons.filter(l => l.level === selectedLevel && l.subLevel === selectedSubLevel);
     }, [selectedLevel, selectedSubLevel, allLessons]);
 
-
-    const handleLessonSelect = async (lesson: Lesson) => {
-        try {
-            if (!lesson.content) {
-                const content = await lesson.loadContent();
-                setSelectedLesson({ ...lesson, content });
+    // Effect to load content when active lesson changes
+    useEffect(() => {
+        const load = async () => {
+            if (activeLesson) {
+                setLoadingContent(true);
+                try {
+                    const content = await activeLesson.loadContent();
+                    setLessonContent(content);
+                } catch (e) {
+                    console.error("Failed to load lesson", e);
+                } finally {
+                    setLoadingContent(false);
+                }
             } else {
-                setSelectedLesson(lesson);
+                setLessonContent(null);
             }
-        } catch (error) {
-            console.error("Error loading lesson content", error);
-        }
+        };
+        load();
+    }, [activeLesson]);
+
+    const handleLevelSelect = (lvl: string) => {
+        navigate(`/grammaire/${lvl}`);
     };
+
+    const handleSubLevelSelect = (sub: string) => {
+        navigate(`/grammaire/${selectedLevel}/${sub}`);
+    };
+
+    const handleLessonSelect = (lesson: Lesson) => {
+        const slug = lesson.cleanId || lesson.id;
+        navigate(`/grammaire/${selectedLevel}/${selectedSubLevel}/${slug}`);
+    };
+
+    const handleBackToLevels = () => navigate('/grammaire');
+    const handleBackToSubLevels = () => navigate(`/grammaire/${selectedLevel}`);
+    const handleBackToLessons = () => navigate(`/grammaire/${selectedLevel}/${selectedSubLevel}`);
 
     const levels = [
         { id: 'A1', title: 'Niveau A1', description: 'Débutant, Les bases essentielles. Maîtrisez les structures fondamentales pour vos premières conversations.' },
@@ -91,11 +134,11 @@ const GrammairePage: React.FC = () => {
     ];
 
     // ----- VIEW 4: LESSON CONTENT -----
-    if (selectedLesson && selectedLesson.content) {
+    if (activeLesson && lessonContent) {
         return (
             <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <button
-                    onClick={() => setSelectedLesson(null)}
+                    onClick={handleBackToLessons}
                     className="flex items-center text-[#dd8b8b] font-bold mb-8 hover:opacity-80 transition-opacity"
                 >
                     <ArrowLeft className="w-5 h-5 mr-2" /> Retour aux leçons
@@ -107,12 +150,12 @@ const GrammairePage: React.FC = () => {
                             {selectedSubLevel}
                         </div>
                         <h1 className="text-4xl md:text-5xl font-black text-[#5A6B70] serif-display italic mb-6">
-                            {selectedLesson.title}
+                            {activeLesson.title}
                         </h1>
                     </div>
 
                     <div className="prose prose-lg max-w-none prose-headings:text-[#5A6B70] prose-p:text-[#5A6B70]/80 prose-li:text-[#5A6B70]/80 prose-strong:text-[#5A6B70]">
-                        <StyledMarkdown content={selectedLesson.content} />
+                        <StyledMarkdown content={lessonContent} />
                     </div>
                 </div>
             </div>
@@ -125,7 +168,7 @@ const GrammairePage: React.FC = () => {
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
                 <div className="mb-12">
                     <button
-                        onClick={() => setSelectedSubLevel(null)}
+                        onClick={handleBackToSubLevels}
                         className="flex items-center text-[#dd8b8b] font-bold mb-4 hover:opacity-80 transition-opacity"
                     >
                         <ArrowLeft className="w-5 h-5 mr-2" /> Retour aux modules
@@ -177,7 +220,7 @@ const GrammairePage: React.FC = () => {
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
                 <div className="mb-12">
                     <button
-                        onClick={() => setSelectedLevel(null)}
+                        onClick={handleBackToLevels}
                         className="flex items-center text-[#dd8b8b] font-bold mb-4 hover:opacity-80 transition-opacity"
                     >
                         <ArrowLeft className="w-5 h-5 mr-2" /> Retour aux niveaux
@@ -194,7 +237,7 @@ const GrammairePage: React.FC = () => {
                     {availableSubLevels.length > 0 ? availableSubLevels.map((subLevel) => (
                         <div
                             key={subLevel}
-                            onClick={() => setSelectedSubLevel(subLevel)}
+                            onClick={() => handleSubLevelSelect(subLevel)}
                             className="bg-white rounded-[40px] p-10 border border-[#dd8b8b]/10 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 cursor-pointer group relative overflow-hidden"
                         >
                             <div className="absolute top-0 right-0 w-40 h-40 bg-[#F9F7F2] rounded-full -mr-16 -mt-16 group-hover:bg-[#dd8b8b]/5 transition-all duration-500" />
@@ -257,7 +300,7 @@ const GrammairePage: React.FC = () => {
                 {levels.map((level, idx) => (
                     <div
                         key={level.id}
-                        onClick={() => setSelectedLevel(level.id)}
+                        onClick={() => handleLevelSelect(level.id)}
                         className="group relative bg-white rounded-[56px] p-10 border border-[#dd8b8b]/10 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-700 cursor-pointer overflow-hidden"
                     >
                         <div className="absolute top-0 right-0 w-64 h-64 bg-[#F9F7F2] rounded-full -mr-20 -mt-20 group-hover:bg-[#dd8b8b]/5 transition-all duration-700" />

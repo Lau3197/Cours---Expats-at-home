@@ -1,6 +1,7 @@
 # Leçon 31 : Évaluation B1.2
 
 **Niveau** : B1.2  
+**Module** : Module 12: Le Sommet B1
 **Type** : Évaluation  
 **Durée estimée** : 2 heures  
 **Objectifs** : Test B1.2 knowledge

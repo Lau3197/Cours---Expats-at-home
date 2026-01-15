@@ -1,6 +1,7 @@
 # Leçon 05 : La personne dont je parle
 
 **Niveau** : B1.2  
+**Module** : Module 3 : La chose dont on parle
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Learn the relative pronoun DONT
 

@@ -1,6 +1,7 @@
 # Leçon 10 : Relatifs complexes (Consolidation)
 
 **Niveau** : B1.2  
+**Module** : Module 5 : Ce que je veux dire
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice ce qui, ce que, ce dont

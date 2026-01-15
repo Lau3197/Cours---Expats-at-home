@@ -1,6 +1,7 @@
 # Leçon 14 : Mise en relief (Consolidation)
 
 **Niveau** : B1.2  
+**Module** : Module 6: C'est toi la star !
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice emphasis structures

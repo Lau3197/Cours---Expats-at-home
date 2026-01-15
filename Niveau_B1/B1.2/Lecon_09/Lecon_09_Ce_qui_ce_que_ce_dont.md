@@ -1,6 +1,7 @@
 # Leçon 09 : Ce qui, ce que, ce dont
 
 **Niveau** : B1.2  
+**Module** : Module 5 : Ce que je veux dire
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Learn complex relative pronouns (ce qui, ce que, ce dont)
 

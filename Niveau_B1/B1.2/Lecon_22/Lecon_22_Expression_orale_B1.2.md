@@ -1,6 +1,7 @@
 # Leçon 22 : Expression orale B1.2
 
 **Niveau** : B1.2  
+**Module** : Module 10: Libérez votre parole
 **Type** : Compétences orales  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice B1.2 speaking skills

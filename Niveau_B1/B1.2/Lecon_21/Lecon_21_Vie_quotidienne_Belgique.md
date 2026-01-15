@@ -1,6 +1,7 @@
 # Leçon 21 : Vie quotidienne en Belgique
 
 **Niveau** : B1.2  
+**Module** : Module 9: Bienvenue chez les Belges
 **Type** : Thématique / Culture  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Discuss daily life topics in Belgian context

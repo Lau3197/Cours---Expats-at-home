@@ -1,6 +1,7 @@
 # Leçon 07 : L'Abstraction et la Quantité (M'en / M'y)
 
 **Niveau** : B1.2  
+**Module** : Module 4 : On y va !
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Maîtriser M'en, T'en, Lui en, M'y, T'y (Combiner EN et Y).
 

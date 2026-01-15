@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import {
   ChevronLeft,
   Play,
@@ -34,13 +35,12 @@ import FloatingNotes from '../components/FloatingNotes';
 import { jsPDF } from 'jspdf';
 import { useAuth } from '../context/AuthContext';
 import { sendNotification } from '../services/notifications';
-// import { db } from '../services/firebase';
-// import { doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
 
 interface CoursePlayerProps {
   course: CoursePackage;
   onBack: () => void;
   initialLessonId?: string;
+  initialTab?: string;
 }
 
 const generatePDF = (title: string, contentText: string) => {
@@ -848,10 +848,13 @@ const PathView: React.FC<PathViewProps> = ({
 
 // Content remains the same, but we use ReactMarkdown instead of custom renderer
 
-const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLessonId }) => {
+const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLessonId, initialTab }) => {
+  const navigate = useNavigate();
   const { user } = useAuth();
-  const [activeTab, setActiveTab] = useState<'content' | 'vocab' | 'assignments' | 'resources' | 'announcements' | 'tutor' | 'live' | 'discussions'>('content');
+  const [activeTab, setActiveTab] = useState<'content' | 'vocab' | 'assignments' | 'resources' | 'announcements' | 'tutor' | 'live' | 'discussions'>((initialTab as any) || 'content');
   const [userQuery, setUserQuery] = useState('');
+
+
   const [chatHistory, setChatHistory] = useState<{ role: 'user' | 'ai', text: string }[]>([]);
   const [isAiLoading, setIsAiLoading] = useState(false);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
@@ -867,6 +870,37 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   // Planning State
   const [planningLesson, setPlanningLesson] = useState<Lesson | null>(null);
   const [planningDate, setPlanningDate] = useState('');
+
+  // Sync state when props change (URL navigation)
+  useEffect(() => {
+    if (initialTab && initialTab !== activeTab) {
+      setActiveTab(initialTab as any);
+    }
+  }, [initialTab]);
+
+  useEffect(() => {
+    if (initialLessonId) {
+      const foundLesson = course.sections
+        .flatMap(s => s.lessons)
+        .find(l => l.id === initialLessonId);
+
+      if (foundLesson && foundLesson.id !== activeLesson?.id) {
+        setActiveLesson(foundLesson);
+      }
+    }
+  }, [initialLessonId, course]);
+
+  // Update URL when state changes
+  useEffect(() => {
+    if (activeLesson) {
+      // Only navigate if strictly different to avoid history spam
+      const targetPath = `/course/${course.id}/${activeLesson.id}/${activeTab}`;
+      // Check if we are already there to avoid redundant navigations
+      if (window.location.pathname !== targetPath) {
+        navigate(targetPath, { replace: false });
+      }
+    }
+  }, [activeLesson, activeTab, course.id, navigate]);
 
   const handlePlanLesson = async () => {
     if (!planningLesson || !planningDate || !user) return;

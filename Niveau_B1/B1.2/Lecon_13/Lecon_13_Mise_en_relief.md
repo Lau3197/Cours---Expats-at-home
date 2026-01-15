@@ -1,6 +1,7 @@
 # Leçon 13 : Mise en relief
 
 **Niveau** : B1.2  
+**Module** : Module 6: C'est toi la star !
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Learn emphasis structures (C'est... qui/que)
 

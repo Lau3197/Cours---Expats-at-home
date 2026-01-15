@@ -1,6 +1,7 @@
 # Leçon 30 : Révision B1.2
 
 **Niveau** : B1.2  
+**Module** : Module 12: Le Sommet B1
 **Type** : Révision  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Review all B1.2 content

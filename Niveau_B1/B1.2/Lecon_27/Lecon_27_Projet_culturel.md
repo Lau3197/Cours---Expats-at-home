@@ -1,6 +1,7 @@
 # Leçon 27 : Projet culturel
 
 **Niveau** : B1.2  
+**Module** : Module 11: En pleine action
 **Type** : Projet  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Complete a cultural project on French-speaking Belgium

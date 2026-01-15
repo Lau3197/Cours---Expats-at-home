@@ -1,6 +1,7 @@
 # Leçon 15 : Cause et conséquence
 
 **Niveau** : B1.2  
+**Module** : Module 7: Avoir le dernier mot
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Express cause and consequence with advanced connectors
 

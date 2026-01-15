@@ -17,8 +17,8 @@ const courseStructure = {
   'B1.1': { level: 'B1', title: 'Niveau B1.1 - Le Monde Professionnel', description: 'Navigate the Belgian job market, interviews, and professional communication.' },
   'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
   'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
-  'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
-  'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
+
+
   'B2.2': { level: 'B2', title: 'Niveau B2.2 - Maîtrise Complète', description: 'Achieve full mastery of French with Belgian nuances and advanced expressions.' }
 };
 
@@ -43,14 +43,13 @@ const moduleOverrides = {
     { title: "Module 3 : La chose dont on parle", lessons: [5, 6] },
     { title: "Module 4 : On y va !", lessons: [7, 8] },
     { title: "Module 5 : Ce que je veux dire", lessons: [9, 10] },
-    { title: "Module 6 : Si j'avais su...", lessons: [11, 12] },
-    { title: "Module 7 : C'est toi la star !", lessons: [13, 14] },
-    { title: "Module 8 : Avoir le dernier mot", lessons: [15, 16, 17] },
-    { title: "Module 9 : Le Grand Débat", lessons: [18, 19] },
-    { title: "Module 10 : Bienvenue chez les Belges", lessons: [20, 21] },
-    { title: "Module 11 : Libérez votre parole", lessons: [22, 23] },
-    { title: "Module 12 : En pleine action", lessons: [24, 25, 26, 27, 28] },
-    { title: "Module 13 : Le Sommet B1", lessons: [29, 30, 31, 32] }
+    { title: "Module 6: C'est toi la star !", lessons: [13, 14] },
+    { title: "Module 7: Avoir le dernier mot", lessons: [15, 16, 17] },
+    { title: "Module 8: Le Grand Débat", lessons: [18, 19] },
+    { title: "Module 9: Bienvenue chez les Belges", lessons: [20, 21] },
+    { title: "Module 10: Libérez votre parole", lessons: [22, 23] },
+    { title: "Module 11: En pleine action", lessons: [24, 25, 26, 27, 28] },
+    { title: "Module 12: Le Sommet B1", lessons: [29, 30, 31, 32] }
   ],
   'A2.1': [
     { title: "Module 1 : C'était comment avant ?", lessons: [1, 2, 3, 4, 5] },
@@ -101,10 +100,14 @@ function extractMetadata(content) {
   const titleMatch = content.match(/^# (.+)$/m);
   const durationMatch = content.match(/\*\*Durée estimée\*\*\s*:\s*(.*)/);
   const objectivesMatch = content.match(/\*\*Objectifs\*\*\s*:\s*(.*)/);
+  const moduleMatch = content.match(/\*\*Module\*\*\s*:\s*(.*)/);
 
   let title = titleMatch ? titleMatch[1].trim() : '';
   let duration = durationMatch ? durationMatch[1].trim() : '15:00';
   const objectives = objectivesMatch ? objectivesMatch[1].split(',').map(s => s.trim()) : [];
+  const moduleName = moduleMatch ? moduleMatch[1].trim() : null;
+
+  if (moduleName) console.log(`found MODULE meta: ${moduleName} in ${title}`);
 
   if (duration.includes('heure')) {
     const hours = duration.match(/(\d+)/);
@@ -117,7 +120,7 @@ function extractMetadata(content) {
   const hasVideo = content.includes('youtube.com') || content.includes('youtu.be') || content.includes('.mp4');
   const type = hasVideo ? 'video' : 'text';
 
-  return { title, duration, type, objectives };
+  return { title, duration, type, objectives, module: moduleName };
 }
 
 function findLessonFiles() {
@@ -178,6 +181,10 @@ function organizeLessonsIntoCourses(lessons) {
   for (const lesson of lessons) {
     if (!courses[lesson.courseId]) {
       const courseInfo = courseStructure[lesson.courseDir];
+      if (!courseInfo) {
+        console.error(`🚨 MISSING CONFIG for ${lesson.courseDir} (needed for ${lesson.courseId})`);
+        continue;
+      }
       courses[lesson.courseId] = {
         id: lesson.courseId,
         title: courseInfo.title,
@@ -191,8 +198,20 @@ function organizeLessonsIntoCourses(lessons) {
     let sectionIndex = 0;
     let sectionTitle = `Module 1`;
 
-    // Check for manual overrides for this course
-    if (moduleOverrides[lesson.courseDir]) { // Changed lesson.courseId to lesson.courseDir to match moduleOverrides keys
+    // 1. Metadata-First: Check if file defines its own module
+    if (lesson.module) {
+      sectionTitle = lesson.module;
+      // Check if this section already exists to get its index
+      const existingIdx = courses[lesson.courseId].sections.findIndex(s => s.title === sectionTitle);
+      if (existingIdx !== -1) {
+        sectionIndex = existingIdx;
+      } else {
+        // Create new section at the end
+        sectionIndex = courses[lesson.courseId].sections.length;
+      }
+    }
+    // 2. Manual Overrides (Legacy/Fallback)
+    else if (moduleOverrides[lesson.courseDir]) {
       const overrides = moduleOverrides[lesson.courseDir];
       let found = false;
       for (let i = 0; i < overrides.length; i++) {
@@ -208,7 +227,7 @@ function organizeLessonsIntoCourses(lessons) {
         sectionTitle = "Modules Supplémentaires";
       }
     } else {
-      // Default logic: Group by 4 lessons per module
+      // 3. Default logic: Group by 4 lessons per module
       sectionIndex = Math.floor((lesson.lessonNumber - 1) / 4);
       sectionTitle = `Module ${sectionIndex + 1}`;
     }

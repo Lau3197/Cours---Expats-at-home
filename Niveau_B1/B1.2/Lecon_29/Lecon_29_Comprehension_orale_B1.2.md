@@ -1,6 +1,7 @@
 # Leçon 29 : Compréhension orale B1.2
 
 **Niveau** : B1.2  
+**Module** : Module 12: Le Sommet B1
 **Type** : Compétences d'écoute  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice B1.2 listening comprehension

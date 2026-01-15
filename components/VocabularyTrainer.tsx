@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { Volume2, ArrowLeft, Layers, Grid, Sparkles, Search, BookOpen, GraduationCap } from 'lucide-react';
 import { Theme, VocabularyItem, FrenchLevel } from '../types';
 import { themes, vocabularyItems } from '../data/vocabularyThemes';
@@ -8,8 +9,16 @@ type ViewMode = 'list' | 'trainer';
 const LEVEL_OPTIONS: FrenchLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
 
 const VocabularyTrainer: React.FC = () => {
-    // Navigation State
-    const [selectedTheme, setSelectedTheme] = useState<Theme | null>(null);
+    // URL Params for Deep Linking
+    const { themeId } = useParams<{ themeId?: string }>();
+    const navigate = useNavigate();
+
+    // Derived State from URL
+    const selectedTheme = useMemo(() =>
+        themes.find(t => t.id === themeId) || null,
+        [themeId]);
+
+    // Local State
     const [viewMode, setViewMode] = useState<ViewMode>('list');
 
     // Filter State
@@ -39,12 +48,17 @@ const VocabularyTrainer: React.FC = () => {
         });
     }, [selectedTheme, selectedSubTheme, selectedLevel]);
 
-    // Reset filters when entering a theme
+    // Reset filters when entering a theme or switching themes
     useEffect(() => {
         setSelectedSubTheme('all');
         setSelectedLevel('all');
         setViewMode('list');
-    }, [selectedTheme]);
+        // Reset trainer state
+        setTrainerQueue([]);
+        setCurrentIndex(0);
+        setIsFlipped(false);
+        setIsFinished(false);
+    }, [selectedTheme?.id]); // Only trigger when ID changes
 
     // Initialize Trainer when switching to trainer mode
     useEffect(() => {
@@ -63,6 +77,14 @@ const VocabularyTrainer: React.FC = () => {
     };
 
     // --- Actions ---
+
+    const handleThemeSelect = (theme: Theme) => {
+        navigate(`/vocabulary/themes/${theme.id}`);
+    };
+
+    const handleBackToThemes = () => {
+        navigate('/vocabulary/themes');
+    };
 
     const speak = useCallback((text: string) => {
         if (!text) return;
@@ -103,11 +125,9 @@ const VocabularyTrainer: React.FC = () => {
 
     // --- Components ---
 
-    // --- Components ---
-
     const ThemeCard = ({ theme }: { theme: Theme }) => (
         <div
-            onClick={() => setSelectedTheme(theme)}
+            onClick={() => handleThemeSelect(theme)}
             className="group bg-white rounded-[20px] p-6 cursor-pointer border border-gray-100 hover:border-[#dd8b8b]/30 shadow-sm hover:shadow-xl transition-all duration-300 h-full flex flex-col items-start text-left relative overflow-hidden"
         >
             <div className="text-4xl mb-4 group-hover:scale-110 transition-transform duration-300 transform origin-left">
@@ -231,7 +251,7 @@ const VocabularyTrainer: React.FC = () => {
                     <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-8">
                         <div className="flex items-center gap-4">
                             <button
-                                onClick={() => setSelectedTheme(null)}
+                                onClick={handleBackToThemes}
                                 className="p-2 -ml-2 hover:bg-[#dd8b8b]/10 rounded-full transition-colors text-[#5A6B70]"
                             >
                                 <ArrowLeft className="w-6 h-6" />

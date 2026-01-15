@@ -1,6 +1,7 @@
 # Leçon 26 : Compétences intégrées
 
 **Niveau** : B1.2  
+**Module** : Module 11: En pleine action
 **Type** : Consolidation intégrée  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Combine reading, writing, speaking, and listening

@@ -1,6 +1,7 @@
 # Leçon 23 : Expression écrite B1.2
 
 **Niveau** : B1.2  
+**Module** : Module 10: Libérez votre parole
 **Type** : Compétences écrites  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice B1.2 writing skills

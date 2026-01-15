@@ -1,6 +1,7 @@
 # Leçon 25 : Comprendre les médias
 
 **Niveau** : B1.2  
+**Module** : Module 11: En pleine action
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Understand and discuss media in French
 

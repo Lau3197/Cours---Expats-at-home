@@ -1,6 +1,7 @@
 # Leçon 18 : Donner son avis (Opinion avancée)
 
 **Niveau** : B1.2  
+**Module** : Module 8: Le Grand Débat
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Express nuanced opinions with advanced structures
 

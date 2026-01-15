@@ -1,6 +1,7 @@
 # Leçon 01 : Tout le monde et chacun
 
 **Niveau** : B1.2  
+**Module** : Module 1 : C'est à moi !
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Parler de groupes, de statistiques et de généralités.
 

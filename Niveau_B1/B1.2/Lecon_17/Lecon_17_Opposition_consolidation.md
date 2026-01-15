@@ -1,6 +1,7 @@
 # Leçon 17 : Opposition et concession (Consolidation)
 
 **Niveau** : B1.2  
+**Module** : Module 7: Avoir le dernier mot
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice contrast and concession

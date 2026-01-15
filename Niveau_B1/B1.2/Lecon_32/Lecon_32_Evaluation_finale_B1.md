@@ -1,6 +1,7 @@
 # Leçon 32 : Évaluation finale B1
 
 **Niveau** : B1 (Final)  
+**Module** : Module 12: Le Sommet B1
 **Type** : Évaluation finale  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Complete B1 level assessment

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { Calendar, Play, Pause, FileText, Download, ChevronRight, ChevronDown, Home, Heart, Users, Briefcase, Star, CheckSquare } from 'lucide-react';
 import { motion } from 'framer-motion';
 import StyledMarkdown from '../components/StyledMarkdown';
@@ -79,7 +80,23 @@ const DAY_TITLES: { [key: number]: string } = {
 };
 
 const TrenteJoursPage: React.FC = () => {
-    const [selectedDay, setSelectedDay] = useState<number>(1);
+    const { dayId } = useParams<{ dayId?: string }>();
+    const navigate = useNavigate();
+
+    // Derive selected day from URL, default to 1
+    const selectedDay = dayId ? parseInt(dayId, 10) : 1;
+
+    // Validate day range (1-30) and redirect if invalid
+    useEffect(() => {
+        if (isNaN(selectedDay) || selectedDay < 1 || selectedDay > 30) {
+            navigate('/30-days/1', { replace: true });
+        }
+    }, [selectedDay, navigate]);
+
+    const handleDaySelect = (day: number) => {
+        navigate(`/30-days/${day}`);
+    };
+
     const [dayContent, setDayContent] = useState<DayContent | null>(null);
     const [expandedPhases, setExpandedPhases] = useState<string[]>(['survive']);
     const [playingAudio, setPlayingAudio] = useState<string | null>(null);
@@ -266,7 +283,7 @@ const TrenteJoursPage: React.FC = () => {
                                                 {phase.days.map(day => (
                                                     <button
                                                         key={day}
-                                                        onClick={() => setSelectedDay(day)}
+                                                        onClick={() => handleDaySelect(day)}
                                                         className={`w-full text-left px-4 py-2.5 rounded-lg transition-all text-sm ${selectedDay === day
                                                             ? 'bg-[#dd8b8b] text-white font-bold'
                                                             : 'hover:bg-[#F9F7F2] text-[#5A6B70]'

@@ -1,6 +1,7 @@
 # Leçon 28 : Simulations pratiques
 
 **Niveau** : B1.2  
+**Module** : Module 11: En pleine action
 **Type** : Consolidation pratique  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice real-life situations at B1.2 level

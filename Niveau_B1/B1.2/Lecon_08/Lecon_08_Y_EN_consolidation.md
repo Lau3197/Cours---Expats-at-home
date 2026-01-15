@@ -1,6 +1,7 @@
 # Leçon 08 : Y et EN avec pronoms (Consolidation)
 
 **Niveau** : B1.2  
+**Module** : Module 4 : On y va !
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice Y and EN with other pronouns

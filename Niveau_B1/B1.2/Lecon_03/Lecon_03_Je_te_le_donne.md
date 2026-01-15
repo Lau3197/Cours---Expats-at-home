@@ -1,6 +1,7 @@
 # Leçon 03 : Je te le donne
 
 **Niveau** : B1.2  
+**Module** : Module 2 : Je te le donne
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Learn double object pronouns
 

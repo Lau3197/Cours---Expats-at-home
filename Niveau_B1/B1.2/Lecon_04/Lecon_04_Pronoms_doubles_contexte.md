@@ -1,6 +1,7 @@
 # Leçon 04 : Pronoms doubles en contexte
 
 **Niveau** : B1.2  
+**Module** : Module 2 : Je te le donne
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice double object pronouns

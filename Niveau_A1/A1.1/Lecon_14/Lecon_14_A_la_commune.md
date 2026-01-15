@@ -2,7 +2,7 @@
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Tell your life story, use Passé Composé with "être", agree the past participle, describe the past (C'était)
+**Objectifs** : Tell your life story, use Passé Composé with "être", agree the past participle
 
 ---
 
@@ -26,7 +26,7 @@
 > 
 > **Employée :** Et vous **êtes parti** souvent en voyage ?
 > 
-> **Tom :** Non, je **suis resté** ici à cause du travail. C'**était** intense !
+> **Tom :** Non, je **suis resté** ici à cause du travail. C'est intense !
 
 ---
 
@@ -117,20 +117,18 @@ With **ÊTRE**, the participle acts like an adjective. It **agrees** with the Su
 
 ---
 
-## 🔍 Observation 2: Describing the Past (Imparfait Basics)
+## 🔍 Observation 2: Adverbs with Passé Composé
 
-To describe a **situation** or **atmosphere** in the past (not an action), we use expressions like "C'était".
+To give more details, we place **short adverbs** between the auxiliary and the participle.
 
-### 1. C'était + Adjective
-Use this to give your opinion or describe how something was.
-*   **C'était** super ! (It was great)
-*   **C'était** difficile. (It was difficult)
-*   **C'était** intéressant.
+| Adverb | Example |
+| :--- | :--- |
+| **Toujours** (Always) | Je suis **toujours** resté ici. |
+| **Souvent** (Often) | Je suis **souvent** allé à Paris. |
+| **Déjà** (Already) | Je suis **déjà** venu ici. |
+| **Jamais** (Never) | Je ne suis **jamais** parti. |
 
-### 2. Il y avait + Noun
-Use this to describe what was there (There was / There were).
-*   **Il y avait** du soleil. (It was sunny / There was sun)
-*   **Il y avait** beaucoup de monde. (There were many people)
+---
 
 ---
 
@@ -191,7 +189,7 @@ To talk about your life story, precise markers are useful.
 Use specific dates and verbs of movement. Pay attention to agreement if you are a woman!
 
 **Example:**
-> Je **suis née** en Espagne en 1998. Je **suis allée** à l'école à Madrid. En 2020, je **suis partie** pour voyager. Je **suis arrivée** en Belgique en 2022. C'**était** un grand changement !
+> Je **suis née** en Espagne en 1998. Je **suis allée** à l'école à Madrid. En 2020, je **suis partie** pour voyager. Je **suis arrivée** en Belgique en 2022.
 
 ---
 
@@ -219,7 +217,7 @@ Use specific dates and verbs of movement. Pay attention to agreement if you are 
 - [ ] I know the 14 verbs that use "Être"
 - [ ] I can agree the past participle (Je suis allée)
 - [ ] I can say when I was born (Je suis né en...)
-- [ ] I can use "C'était" to describe an experience
+- [ ] I can use adverbs (souvent, déjà) with Être
 - [ ] I can use "Depuis" for a current situation
 
 ---

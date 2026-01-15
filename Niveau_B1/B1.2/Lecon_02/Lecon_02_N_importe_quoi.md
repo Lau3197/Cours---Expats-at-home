@@ -1,6 +1,7 @@
 # Leçon 02 : N'importe quoi !
 
 **Niveau** : B1.2  
+**Module** : Module 1 : C'est à moi !
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Faire un choix, exprimer l'indifférence ou la différence.
 

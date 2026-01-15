@@ -1,6 +1,7 @@
 # Leçon 19 : Opinions et débats (Consolidation)
 
 **Niveau** : B1.2  
+**Module** : Module 8: Le Grand Débat
 **Type** : Consolidation  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice expressing opinions and debating

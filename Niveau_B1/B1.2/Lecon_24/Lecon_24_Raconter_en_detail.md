@@ -1,6 +1,7 @@
 # Leçon 24 : Raconter en détail
 
 **Niveau** : B1.2  
+**Module** : Module 11: En pleine action
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Master detailed storytelling
 

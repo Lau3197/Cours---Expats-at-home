@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useEffect } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { Book, Library, UserPlus, Dumbbell } from 'lucide-react';
 import VocabularyTrainer from './VocabularyTrainer';
 import VocabLessonsView from './VocabLessonsView';
@@ -8,7 +9,11 @@ import VocabPracticeView from './VocabPracticeView';
 type VocabularyTab = 'themes' | 'lessons' | 'my-vocab' | 'practice';
 
 const VocabularyLayout: React.FC = () => {
-    const [activeTab, setActiveTab] = useState<VocabularyTab>('themes');
+    const { tab } = useParams<{ tab?: VocabularyTab }>();
+    const navigate = useNavigate();
+
+    // Default to 'themes' if no tab is provided
+    const activeTab: VocabularyTab = tab || 'themes';
 
     const tabs = [
         { id: 'themes' as VocabularyTab, label: 'Thèmes', icon: Library },
@@ -16,6 +21,10 @@ const VocabularyLayout: React.FC = () => {
         { id: 'my-vocab' as VocabularyTab, label: 'Mon Vocabulaire', icon: UserPlus },
         { id: 'practice' as VocabularyTab, label: 'Entraînement', icon: Dumbbell },
     ];
+
+    const handleTabChange = (newTab: VocabularyTab) => {
+        navigate(`/vocabulary/${newTab}`);
+    };
 
     return (
         <div className="min-h-screen bg-[#F9F7F2] p-8">
@@ -31,18 +40,18 @@ const VocabularyLayout: React.FC = () => {
                 </header>
 
                 {/* Tabs */}
-                <div className="flex gap-4 mb-8 border-b border-[#dd8b8b]/20 pb-2">
-                    {tabs.map((tab) => (
+                <div className="flex gap-4 mb-8 border-b border-[#dd8b8b]/20 pb-2 overflow-x-auto">
+                    {tabs.map((t) => (
                         <button
-                            key={tab.id}
-                            onClick={() => setActiveTab(tab.id)}
-                            className={`flex items-center gap-2 px-6 py-3 rounded-t-xl font-bold transition-all ${activeTab === tab.id
-                                    ? 'bg-white text-[#dd8b8b] border-b-4 border-[#dd8b8b] translate-y-[2px]'
-                                    : 'text-[#5A6B70]/60 hover:text-[#dd8b8b] hover:bg-white/50'
+                            key={t.id}
+                            onClick={() => handleTabChange(t.id)}
+                            className={`flex items-center gap-2 px-6 py-3 rounded-t-xl font-bold transition-all whitespace-nowrap ${activeTab === t.id
+                                ? 'bg-white text-[#dd8b8b] border-b-4 border-[#dd8b8b] translate-y-[2px]'
+                                : 'text-[#5A6B70]/60 hover:text-[#dd8b8b] hover:bg-white/50'
                                 }`}
                         >
-                            <tab.icon className="w-5 h-5" />
-                            {tab.label}
+                            <t.icon className="w-5 h-5" />
+                            {t.label}
                         </button>
                     ))}
                 </div>
