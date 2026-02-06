@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { Star, ChevronRight, CheckCircle, ShieldCheck, Loader2, Sparkles, BookOpen, ArrowDown } from 'lucide-react';
 import { masterCurriculum } from '../data/mockData';
 import { CoursePackage } from '../types';
-import localCourses from '../data/allCourses.json';
+import { loadCourses } from '../utils/courseLoader';
 import StyledMarkdown from '../components/StyledMarkdown';
 import { fuzzySearchCourses, fuzzySearchLessons, getSearchSuggestions, SearchResult, LessonSearchResult } from '../services/search';
 
@@ -107,28 +107,27 @@ const CourseLibrary: React.FC<CourseLibraryProps> = ({ onSelectCourse, searchTer
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Load courses from local JSON
-    const loadCourses = () => {
+    // Load courses from file system
+    const fetchCourses = () => {
       try {
-        if (localCourses && localCourses.length > 0) {
+        const allCourses = loadCourses();
+        if (allCourses && allCourses.length > 0) {
           // Sort by level A1 -> A2 -> B1 -> B2
           const levelOrder = { 'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4 };
-          // We need to cast to CoursePackage[] because JSON import might be inferred loosely
-          const typedCourses = localCourses as unknown as CoursePackage[];
-          typedCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
-          setCourses(typedCourses);
+          allCourses.sort((a, b) => (levelOrder[a.level as keyof typeof levelOrder] || 99) - (levelOrder[b.level as keyof typeof levelOrder] || 99));
+          setCourses(allCourses);
         } else {
           setCourses(masterCurriculum);
         }
       } catch (error) {
-        console.error("Error loading local courses:", error);
+        console.error("Error loading courses:", error);
         setCourses(masterCurriculum);
       } finally {
         setLoading(false);
       }
     };
 
-    loadCourses();
+    fetchCourses();
   }, []);
 
   // Recherche fuzzy avec résultats triés par pertinence

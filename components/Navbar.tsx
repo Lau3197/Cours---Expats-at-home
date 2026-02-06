@@ -114,7 +114,7 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage, user, onSearch
           <div className="flex items-center gap-10 h-full">
             <div
               className="flex items-center cursor-pointer group h-full relative"
-              onClick={() => onNavigate('library')}
+              onClick={() => onNavigate('welcome')}
             >
               {/* Logo container: allowing it to be larger than standard icons */}
               <div className="h-20 transition-transform duration-500 group-hover:scale-105 flex items-center">

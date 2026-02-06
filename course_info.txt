@@ -1,0 +1,8 @@
+{"id":"a1-1","title":"Niveau A1.1 - Premiers Pas en Belgique","level":"A1","description":"The foundational course for new expats. Master greetings, self-introduction, and daily essentials in the Belgian context."}
+{"id":"a1-2","title":"Niveau A1.2 - Vie Quotidienne à Bruxelles","level":"A1","description":"Level up your daily interactions. Learn to order food, shop at markets, and navigate social situations."}
+{"id":"a2-1","title":"Niveau A2.1 - S'installer en Belgique","level":"A2","description":"Master essential administrative tasks, housing, healthcare, and banking in Belgium."}
+{"id":"a2-2","title":"Niveau A2.2 - Vie Sociale et Culturelle","level":"A2","description":"Deepen your integration. Learn about Belgian culture, media, and social interactions."}
+{"id":"b1-1","title":"Niveau B1.1 - Le Monde Professionnel","level":"B1","description":"Navigate the Belgian job market, interviews, and professional communication."}
+{"id":"b1-1_bis","title":"Niveau B1.1 bis - Consolidation","level":"B1","description":"Un cours supplémentaire pour consolider les acquis du niveau B1.1."}
+{"id":"b1-2","title":"Niveau B1.2 - Maîtrise Avancée","level":"B1","description":"Advanced communication skills for complex situations and nuanced expressions."}
+{"id":"b2-1","title":"Niveau B2.1 - Expertise Culturelle","level":"B2","description":"Master complex topics about Belgian identity, economy, and society."}

@@ -21,7 +21,8 @@ import {
   Volume2,
   Pause,
   Maximize,
-  Calendar
+  Calendar,
+  Eye
 } from 'lucide-react';
 import { addPlannedLesson } from '../services/planner';
 import StyledMarkdown from '../components/StyledMarkdown';
@@ -43,24 +44,195 @@ interface CoursePlayerProps {
   initialTab?: string;
 }
 
-const generatePDF = (title: string, contentText: string) => {
-  const doc = new jsPDF();
-  doc.setFontSize(22);
-  doc.setTextColor(90, 107, 112);
-  doc.text("ExpatsAtHome.be", 20, 20);
-  doc.setFontSize(16);
-  doc.text("French Mastery Resource", 20, 30);
-  doc.setDrawColor(200, 122, 122);
-  doc.line(20, 35, 190, 35);
-  doc.setFontSize(18);
-  doc.text(title, 20, 50);
-  doc.setFontSize(12);
-  doc.setTextColor(0, 0, 0);
-  const splitText = doc.splitTextToSize(contentText || "No content available.", 170);
-  doc.text(splitText, 20, 65);
-  doc.setFontSize(10);
-  doc.text("Bonne chance dans votre apprentissage!", 20, 280);
-  doc.save(`${title.replace(/\s+/g, '_')}.pdf`);
+import { renderToStaticMarkup } from 'react-dom/server';
+
+// ... imports
+
+const openResourceWindow = (title: string, contentText: string, level: string) => {
+  // 1. Convert Markdown/Content to HTML using our existing component logic
+  // We use renderToStaticMarkup to get the pure HTML string from the React component
+  const contentHtml = renderToStaticMarkup(
+    <div className="markdown-body">
+      <StyledMarkdown content={contentText} isStatic={true} />
+    </div>
+  );
+
+  // 2. Open new window
+  const newWindow = window.open('', '_blank');
+  if (!newWindow) {
+    alert("Please allow popups to view this resource.");
+    return;
+  }
+
+  // 3. Write Full HTML Document
+  newWindow.document.write(`
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>${title} - Expats at Home</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+      <style>
+        :root {
+          --color-pink: #dd8b8b;
+          --color-dark: #5A6B70;
+          --color-gold: #E8C586;
+          --color-bg: #F9F7F2;
+        }
+        body {
+          font-family: 'Inter', sans-serif;
+          background-color: #5A6B70; /* Context background */
+          margin: 0;
+          padding: 40px 0;
+          color: #374151;
+          display: flex;
+          justify-content: center;
+          min-height: 100vh;
+        }
+        .page-container {
+          background-color: white;
+          width: 210mm; /* A4 width */
+          min-height: 297mm; /* A4 height */
+          padding: 20mm;
+          box-sizing: border-box;
+          box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+          position: relative;
+        }
+        
+        /* Header */
+        .header {
+          border-bottom: 2px solid var(--color-gold);
+          padding-bottom: 1rem;
+          margin-bottom: 2rem;
+          display: flex;
+          justify-content: space-between;
+          align-items: flex-end;
+        }
+        .brand {
+          font-family: 'DM Serif Display', serif;
+          font-style: italic;
+          color: var(--color-dark);
+          font-size: 1.5rem;
+        }
+        .meta {
+          text-transform: uppercase;
+          font-size: 0.75rem;
+          font-weight: 900;
+          color: var(--color-pink);
+          letter-spacing: 0.1em;
+        }
+
+        /* Content */
+        h1 {
+          font-family: 'DM Serif Display', serif;
+          font-style: italic;
+          color: var(--color-pink);
+          font-size: 2.5rem;
+          margin-bottom: 1.5rem;
+          line-height: 1.1;
+        }
+        
+        /* Markdown Styles (simplified from StyledMarkdown) */
+        h2 {
+          color: var(--color-dark);
+          font-weight: 800;
+          font-size: 1.5rem;
+          margin-top: 2rem;
+          border-left: 4px solid var(--color-gold);
+          padding-left: 1rem;
+        }
+        h3 {
+          color: var(--color-pink);
+          font-weight: 700;
+          font-size: 1.2rem;
+          margin-top: 1.5rem;
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+        }
+        p {
+          line-height: 1.7;
+          margin-bottom: 1rem;
+        }
+        ul {
+          padding-left: 1.5rem;
+          margin-bottom: 1rem;
+        }
+        li {
+          margin-bottom: 0.5rem;
+          position: relative;
+        }
+        /* Tables */
+        table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+          font-size: 0.9rem;
+        }
+        th {
+          background-color: var(--color-dark);
+          color: white;
+          padding: 12px;
+          text-align: left;
+          font-weight: bold;
+        }
+        td {
+          border-bottom: 1px solid #e5e7eb;
+          padding: 12px;
+        }
+        tr:nth-child(even) {
+          background-color: #f9fafb;
+        }
+        blockquote {
+          background-color: #FFF8F0;
+          border-left: 4px solid var(--color-gold);
+          margin: 1.5rem 0;
+          padding: 1rem 1.5rem;
+          font-style: italic;
+          color: var(--color-dark);
+        }
+
+        /* Print Specifics */
+        @media print {
+          body {
+            background-color: white;
+            padding: 0;
+          }
+          .page-container {
+            width: 100%;
+            height: auto;
+            min-height: auto;
+            box-shadow: none;
+            padding: 0;
+          }
+        }
+      </style>
+    </head>
+    <body>
+      <div class="page-container">
+        <header class="header">
+          <div class="brand">Expats at Home</div>
+          <div class="meta">French Mastery • ${level}</div>
+        </header>
+
+        <h1>${title.replace(/_/g, ' ').replace('.pdf', '').replace('.md', '')}</h1>
+
+        <main class="content">
+          ${contentHtml}
+        </main>
+
+        <footer style="margin-top: 4rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; display: flex; justify-content: space-between; font-size: 0.75rem; color: #9ca3af;">
+          <span>© ${new Date().getFullYear()} Expats at Home</span>
+          <span>Resource Generated on ${new Date().toLocaleDateString()}</span>
+        </footer>
+      </div>
+    </body>
+    </html>
+  `);
+
+  newWindow.document.close();
 };
 
 const generateCertificate = (userName: string, courseTitle: string) => {
@@ -1336,7 +1508,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                 courseId={course.id}
                 courseTitle={course.title}
               />
-            ) : ['b1-1', 'b1-2', 'a2-1', 'a2-2', 'a1-1', 'a1-2'].includes(course.id) ? (
+            ) : ['b1-1', 'b1-1_bis', 'b1-2', 'a2-1', 'a2-2', 'a1-1', 'a1-2'].includes(course.id) ? (
               <div className="space-y-16">
                 {course.sections.map((section, sectionIdx) => {
                   const isModuleComplete = section.lessons.every(l => completedLessons.has(l.id));
@@ -1431,7 +1603,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
 
   return (
     <div className="flex h-full overflow-hidden bg-[#F9F7F2]">
-      <div className="flex-1 overflow-y-auto custom-scrollbar">
+      <div className={`flex-1 overflow-y-auto custom-scrollbar transition-all duration-500 ${isSidebarOpen ? 'mr-[400px]' : ''}`}>
 
         {/* Lesson Selection View - Show cards when no lesson is selected */}
 
@@ -1482,7 +1654,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           </div>
         )}
 
-        <div className="max-w-5xl mx-auto px-6 py-12 pb-32">
+        <div className={`mx-auto px-6 py-12 pb-32 transition-all duration-500 ${isSidebarOpen ? 'max-w-5xl' : 'max-w-7xl'}`}>
           {/* Lesson Actions & Audio Player */}
           <div className="mb-10 flex flex-col md:flex-row justify-between items-center gap-6 bg-white p-8 rounded-[40px] border border-[#C87A7A]/10 shadow-sm">
             <div className="flex flex-col gap-1">
@@ -1541,10 +1713,89 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           {/* Tab Content */}
           <div className="min-h-[400px]">
             {activeTab === 'content' && (
-              <div className="space-y-12">
-                <div className="bg-white p-10 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm">
-                  <StyledMarkdown content={activeLesson?.content || ""} id={activeLesson?.id} />
-                </div>
+
+              <div className="space-y-8">
+                {(() => {
+                  const fullContent = activeLesson?.content || "";
+                  let remaining = fullContent;
+                  let nextLessonContent = "";
+                  let selfEvalContent = "";
+                  let mistakesContent = "";
+
+                  // Extract Next Lesson
+                  const nextMatch = remaining.match(/\n## Leçon suivante[\s\S]*$/i);
+                  if (nextMatch) {
+                    nextLessonContent = nextMatch[0].trim();
+                    // Remove from remaining, but keep what's before
+                    remaining = remaining.substring(0, nextMatch.index).trim();
+                  }
+
+                  // Extract Auto-evaluation
+                  const evalMatch = remaining.match(/\n## Auto-évaluation[\s\S]*$/i);
+                  if (evalMatch) {
+                    selfEvalContent = evalMatch[0].trim();
+                    remaining = remaining.substring(0, evalMatch.index).trim();
+                  }
+
+                  // Extract Common Mistakes
+                  const mistakesMatch = remaining.match(/\n## Common Mistakes[\s\S]*$/i);
+                  if (mistakesMatch) {
+                    mistakesContent = mistakesMatch[0].trim();
+                    remaining = remaining.substring(0, mistakesMatch.index).trim();
+                  }
+
+                  // Extract Grammar Summary (to hide from main content, as it is in Resources tab)
+                  const grammarMatch = remaining.match(/\n##\s*(?:📖\s*)?Grammar:?\s*Summary[\s\S]*$/i);
+                  if (grammarMatch) {
+                    // We strip it from 'remaining' so it doesn't show in the Main Card
+                    // But we don't need to save it here, as it's already in activeLesson.resources
+                    remaining = remaining.substring(0, grammarMatch.index).trim();
+                  }
+
+                  // Cleanup trailing separators from remaining (main content)
+                  remaining = remaining.replace(/\n---\s*$/, "").trim();
+
+                  return (
+                    <>
+                      {/* Main Content Card */}
+                      <div className="bg-white p-10 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm relative overflow-hidden">
+                        {/* Decorative top pattern */}
+                        <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#dd8b8b]/20 via-[#dd8b8b]/40 to-[#dd8b8b]/20" />
+                        <StyledMarkdown content={remaining} id={activeLesson?.id} />
+                      </div>
+
+                      {/* Common Mistakes Card */}
+                      {mistakesContent && (
+                        <div className="bg-[#fffefe] p-10 rounded-[40px] border-2 border-[#dd8b8b]/30 shadow-lg relative overflow-hidden transform hover:scale-[1.01] transition-transform duration-300">
+                          <div className="absolute top-0 right-0 p-4 opacity-10">
+                            <span className="text-9xl">⚠️</span>
+                          </div>
+                          <StyledMarkdown content={mistakesContent} id={`mistakes-${activeLesson?.id}`} />
+                        </div>
+                      )}
+
+                      {/* Self Evaluation Card */}
+                      {selfEvalContent && (
+                        <div className="bg-[#fafffc] p-10 rounded-[40px] border-2 border-[#7ab894]/30 shadow-lg relative overflow-hidden transform hover:scale-[1.01] transition-transform duration-300">
+                          <div className="absolute top-0 right-0 p-4 opacity-10">
+                            <span className="text-9xl">✅</span>
+                          </div>
+                          <StyledMarkdown content={selfEvalContent} id={`eval-${activeLesson?.id}`} />
+                        </div>
+                      )}
+
+                      {/* Next Lesson Card */}
+                      {nextLessonContent && (
+                        <div className="bg-[#fdfaff] p-10 rounded-[40px] border-2 border-[#9b7ad4]/30 shadow-lg relative overflow-hidden transform hover:scale-[1.01] transition-transform duration-300">
+                          <div className="absolute top-0 right-0 p-4 opacity-10">
+                            <span className="text-9xl">🚀</span>
+                          </div>
+                          <StyledMarkdown content={nextLessonContent} id={`next-${activeLesson?.id}`} />
+                        </div>
+                      )}
+                    </>
+                  );
+                })()}
 
                 {activeLesson?.transcript && (
                   <div className="bg-[#E8C586]/5 p-10 rounded-[40px] border border-[#E8C586]/20">
@@ -1552,15 +1803,43 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                     <p className="text-[#5A6B70]/80 leading-relaxed font-medium">{activeLesson.transcript}</p>
                   </div>
                 )}
+
+
               </div>
             )}
 
             {activeTab === 'resources' && (
-              <div className="space-y-4">
+              <div className="space-y-8">
                 <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic mb-6">Course Material</h3>
+
+                {/* 1. Guides (Embedded Content) - Rendered Expanded */}
+                {[...(course.resources || []), ...(activeLesson?.resources || [])]
+                  .filter(res => res.content)
+                  .map((res, idx) => (
+                    <div key={`guide-${idx}`} className="bg-white p-8 rounded-[40px] border border-[#dd8b8b]/10 shadow-sm relative overflow-hidden mb-8">
+                      <div className="flex items-center justify-between mb-6 border-b border-[#dd8b8b]/10 pb-4">
+                        <div className="flex items-center gap-4">
+                          <div className="w-10 h-10 bg-[#F9F7F2] rounded-xl flex items-center justify-center text-[#C87A7A]">
+                            <span className="text-xl">📖</span>
+                          </div>
+                          <h4 className="text-xl font-bold text-[#5A6B70]">{res.name}</h4>
+                        </div>
+                        {/* Optional: Button to open in full modal just in case */}
+                        <button
+                          onClick={() => openResourceWindow(res.name, res.content || '', course.level)}
+                          className="px-4 py-2 bg-[#F9F7F2] text-[#C87A7A] rounded-xl text-sm font-bold hover:bg-[#C87A7A] hover:text-white transition-all"
+                        >
+                          Full Screen ⤢
+                        </button>
+                      </div>
+                      <StyledMarkdown content={res.content || ''} id={`resource-guide-${idx}`} />
+                    </div>
+                  ))}
+
+                {/* 2. Other Resources (PDFs, Links) - Rendered as Cards */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {course.resources.map(res => (
-                    <div key={res.id} className="bg-white p-6 rounded-[24px] border border-[#C87A7A]/10 flex items-center justify-between group hover:border-[#E8C586] transition-all">
+                  {[...(course.resources || []), ...(activeLesson?.resources || [])].map((res, idx) => (
+                    <div key={`${res.id}-${idx}`} className="bg-white p-6 rounded-[24px] border border-[#C87A7A]/10 flex items-center justify-between group hover:border-[#E8C586] transition-all">
                       <div className="flex items-center gap-4">
                         <div className="w-12 h-12 bg-[#F9F7F2] rounded-2xl flex items-center justify-center text-[#C87A7A]">
                           <FileText className="w-6 h-6" />
@@ -1571,31 +1850,48 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                         </div>
                       </div>
                       <a
-                        href={res.url && res.url !== '#' ? res.url : '#'}
-                        onClick={(e) => {
-                          if (!res.url || res.url === '#') {
-                            e.preventDefault();
-                            generatePDF(res.name, `Resource download for: ${res.name}\n\nLevel: ${course.level}\nTopic: ${course.title}`);
-                          } else {
-                            // Forcer le téléchargement pour les PDFs
-                            if (res.type === 'pdf' && res.url) {
-                              e.preventDefault();
-                              const link = document.createElement('a');
-                              link.href = res.url;
-                              link.download = res.name.endsWith('.pdf') ? res.name : `${res.name}.pdf`;
-                              link.target = '_blank';
-                              document.body.appendChild(link);
-                              link.click();
-                              document.body.removeChild(link);
-                            }
+                        href={res.url || '#'}
+                        onClick={async (e) => {
+                          e.preventDefault();
+
+                          // Case 0: Embedded Content (Guide) - NEW
+                          if (res.content) {
+                            openResourceWindow(res.name, res.content, course.level);
+                            return;
                           }
+
+                          // Case 1: External Link or Real PDF (not Markdown)
+                          if (res.url && res.url !== '#' && !res.url.endsWith('.md')) {
+                            window.open(res.url, '_blank');
+                            return;
+                          }
+
+                          // Case 2: Markdown File (Fetch and Render)
+                          if (res.url && res.url.endsWith('.md')) {
+                            try {
+                              const response = await fetch(res.url);
+                              if (response.ok) {
+                                const text = await response.text();
+                                openResourceWindow(res.name, text, course.level);
+                              } else {
+                                console.error("Failed to fetch resource:", res.url);
+                                alert("Sorry, could not load this resource.");
+                              }
+                            } catch (error) {
+                              console.error("Error fetching resource:", error);
+                              alert("Error loading resource.");
+                            }
+                            return;
+                          }
+
+                          // Case 3: No URL (Generated Content)
+                          // Fallback for legacy items without URLs
+                          openResourceWindow(res.name, `Resource: ${res.name}\n\nLevel: ${course.level}\nTopic: ${course.title}\n\n(No specific content file linked)`, course.level);
                         }}
-                        target={res.url && res.url !== '#' ? '_blank' : undefined}
-                        rel={res.url && res.url !== '#' ? 'noopener noreferrer' : undefined}
-                        className="p-3 bg-[#C87A7A] text-white rounded-xl shadow-lg opacity-0 group-hover:opacity-100 transition-all hover:scale-110 inline-block"
-                        title={res.url && res.url !== '#' ? 'Télécharger le fichier' : 'Générer un PDF'}
+                        className="p-3 bg-[#C87A7A] text-white rounded-xl shadow-lg opacity-0 group-hover:opacity-100 transition-all hover:scale-110 inline-block cursor-pointer"
+                        title="Voir la ressource"
                       >
-                        <Download className="w-4 h-4" />
+                        <Eye className="w-4 h-4" />
                       </a>
                     </div>
                   ))}
@@ -1606,23 +1902,31 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             {activeTab === 'vocab' && (
               <div className="space-y-8">
                 <div className="bg-white p-10 rounded-[40px] border border-[#C87A7A]/10 shadow-sm">
-                  <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic mb-8">Vocabulary List</h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
-                    {activeLesson?.vocabulary.map(item => (
-                      <div key={item.id} className="flex flex-col gap-1 p-4 bg-[#F9F7F2] rounded-2xl border border-[#C87A7A]/5">
-                        <div className="flex justify-between items-start">
-                          <span className="text-lg font-bold text-[#C87A7A]">{item.french}</span>
-                          <span className="text-[10px] font-mono text-[#5A6B70]/50">{item.pronunciation}</span>
+                  <h3 className="text-2xl font-bold text-[#5A6B70] serif-display italic mb-8">Vocabulaire de la leçon</h3>
+
+                  {activeLesson?.vocabulary && activeLesson.vocabulary.length > 0 ? (
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                      {activeLesson.vocabulary.map((item: any, idx) => (
+                        <div key={idx} className="flex flex-col gap-1 p-4 bg-[#F9F7F2] rounded-2xl border border-[#C87A7A]/5 hover:border-[#C87A7A]/30 transition-colors group">
+                          <div className="flex justify-between items-start">
+                            <span className="text-lg font-bold text-[#C87A7A] group-hover:scale-105 transition-transform origin-left">{item.fr || item.french}</span>
+                            {/* Fallback for pronunciation if available in future */}
+                            {item.pronunciation && <span className="text-[10px] font-mono text-[#5A6B70]/50">{item.pronunciation}</span>}
+                          </div>
+                          <span className="text-sm font-medium text-[#5A6B70]/70 italic">{item.en || item.translation}</span>
+                          {/* Handle example from both new (example) and old (example) structure */}
+                          {item.example && <p className="text-[10px] text-[#5A6B70]/60 mt-2 pl-2 border-l-2 border-[#E8C586]">"{item.example}"</p>}
                         </div>
-                        <span className="text-sm font-medium text-[#5A6B70]/70 italic">{item.translation}</span>
-                        {item.example && <p className="text-[10px] text-[#5A6B70]/40 mt-1">"{item.example}"</p>}
-                      </div>
-                    ))}
-                  </div>
-                  <div className="border-t border-[#C87A7A]/10 pt-12">
-                    <VocabTrainer vocab={activeLesson?.vocabulary || []} />
-                  </div>
+                      ))}
+                    </div>
+                  ) : (
+                    <p className="text-[#5A6B70]/60 italic text-center py-8">
+                      Aucune liste de vocabulaire disponible pour cette leçon.
+                    </p>
+                  )}
                 </div>
+
+                {/* Optional: Vocab Trainer Integration can go here later if requested */}
               </div>
             )}
 
@@ -1678,11 +1982,13 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
         </div>
       </div>
 
-      {/* Curriculum Sidebar */}
-      <div className={`bg-white border-l border-[#C87A7A]/10 transition-all duration-500 flex flex-col ${isSidebarOpen ? 'w-[400px]' : 'w-0 overflow-hidden'}`}>
-        <div className="p-8 border-b border-[#C87A7A]/10 flex justify-between items-center bg-[#F9F7F2]/30">
-          <h2 className="text-2xl font-bold text-[#5A6B70] serif-display italic">Course Content</h2>
-          <button onClick={() => setIsSidebarOpen(false)} className="text-[#5A6B70]/40 hover:text-[#C87A7A] transition-all"><PanelRightClose className="w-6 h-6" /></button>
+      {/* Curriculum Sidebar - Fixed on right */}
+      <div className={`fixed right-0 top-24 h-[calc(100vh-6rem)] bg-white border-l border-[#C87A7A]/10 transition-all duration-500 flex flex-col z-30 ${isSidebarOpen ? 'w-[400px]' : 'w-0 overflow-hidden'}`}>
+        <div className="p-6 border-b border-[#C87A7A]/10 flex justify-between items-center bg-[#F9F7F2]">
+          <h2 className="text-xl font-bold text-[#5A6B70] serif-display italic">Course Content</h2>
+          <button onClick={() => setIsSidebarOpen(false)} className="p-2 rounded-lg bg-[#dd8b8b]/10 text-[#dd8b8b] hover:bg-[#dd8b8b] hover:text-white transition-all" title="Fermer le volet">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg>
+          </button>
         </div>
         <div className="flex-1 overflow-y-auto custom-scrollbar">
           {course.sections.map((section) => (
@@ -1765,63 +2071,69 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
       </div>
 
       {/* Planning Modal */}
-      {planningLesson && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
-          <div className="bg-white rounded-3xl p-8 max-w-sm w-full shadow-2xl animate-in zoom-in-95">
-            <h3 className="text-xl font-bold text-[#5A6B70] mb-4">Planifier : {planningLesson.title}</h3>
-            <p className="text-sm text-[#5A6B70]/60 mb-6">Choisissez une date pour ajouter cette leçon à votre agenda.</p>
+      {
+        planningLesson && (
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4">
+            <div className="bg-white rounded-3xl p-8 max-w-sm w-full shadow-2xl animate-in zoom-in-95">
+              <h3 className="text-xl font-bold text-[#5A6B70] mb-4">Planifier : {planningLesson.title}</h3>
+              <p className="text-sm text-[#5A6B70]/60 mb-6">Choisissez une date pour ajouter cette leçon à votre agenda.</p>
 
-            <input
-              type="date"
-              className="w-full p-3 rounded-xl border border-gray-200 bg-gray-50 mb-6 font-bold text-[#5A6B70]"
-              min={new Date().toISOString().split('T')[0]}
-              value={planningDate}
-              onChange={(e) => setPlanningDate(e.target.value)}
-            />
+              <input
+                type="date"
+                className="w-full p-3 rounded-xl border border-gray-200 bg-gray-50 mb-6 font-bold text-[#5A6B70]"
+                min={new Date().toISOString().split('T')[0]}
+                value={planningDate}
+                onChange={(e) => setPlanningDate(e.target.value)}
+              />
 
-            <div className="flex gap-3">
-              <button
-                onClick={() => setPlanningLesson(null)}
-                className="flex-1 py-3 rounded-xl border border-gray-200 font-bold text-[#5A6B70]"
-              >
-                Annuler
-              </button>
-              <button
-                onClick={handlePlanLesson}
-                disabled={!planningDate}
-                className="flex-1 py-3 rounded-xl bg-[#dd8b8b] text-white font-bold disabled:opacity-50"
-              >
-                Valider
-              </button>
+              <div className="flex gap-3">
+                <button
+                  onClick={() => setPlanningLesson(null)}
+                  className="flex-1 py-3 rounded-xl border border-gray-200 font-bold text-[#5A6B70]"
+                >
+                  Annuler
+                </button>
+                <button
+                  onClick={handlePlanLesson}
+                  disabled={!planningDate}
+                  className="flex-1 py-3 rounded-xl bg-[#dd8b8b] text-white font-bold disabled:opacity-50"
+                >
+                  Valider
+                </button>
+              </div>
             </div>
           </div>
-        </div>
-      )}
+        )
+      }
 
       {/* Floating Action Button for Notes */}
-      {activeLesson && (
-        <button
-          onClick={() => setIsNotesOpen(!isNotesOpen)}
-          className={`fixed bottom-8 right-8 z-40 p-4 rounded-full shadow-2xl transition-all hover:scale-110 active:scale-95 flex items-center gap-2 ${isNotesOpen ? 'bg-amber-500 text-white' : 'bg-white text-amber-600 border-2 border-amber-100'}`}
-          title="Ouvrir mes notes"
-        >
-          <span className="text-2xl">📝</span>
-          <span className="font-bold hidden md:inline">Notes</span>
-        </button>
-      )}
+      {
+        activeLesson && (
+          <button
+            onClick={() => setIsNotesOpen(!isNotesOpen)}
+            className={`fixed bottom-8 right-8 z-40 p-4 rounded-full shadow-2xl transition-all hover:scale-110 active:scale-95 flex items-center gap-2 ${isNotesOpen ? 'bg-amber-500 text-white' : 'bg-white text-amber-600 border-2 border-amber-100'}`}
+            title="Ouvrir mes notes"
+          >
+            <span className="text-2xl">📝</span>
+            <span className="font-bold hidden md:inline">Notes</span>
+          </button>
+        )
+      }
 
       {/* Floating Notes Component */}
-      {activeLesson && (
-        <FloatingNotes
-          courseId={course.id}
-          lessonId={activeLesson.id}
-          courseTitle={course.title}
-          lessonTitle={activeLesson.title}
-          isOpen={isNotesOpen}
-          onClose={() => setIsNotesOpen(false)}
-        />
-      )}
-    </div>
+      {
+        activeLesson && (
+          <FloatingNotes
+            courseId={course.id}
+            lessonId={activeLesson.id}
+            courseTitle={course.title}
+            lessonTitle={activeLesson.title}
+            isOpen={isNotesOpen}
+            onClose={() => setIsNotesOpen(false)}
+          />
+        )
+      }
+    </div >
   );
 };
 

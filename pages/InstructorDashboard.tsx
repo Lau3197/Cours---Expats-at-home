@@ -5,30 +5,18 @@ import StudentManager from '../components/StudentManager';
 import AnalyticsDashboard from '../components/AnalyticsDashboard';
 import ResourceManager from '../components/ResourceManager';
 import CorrectionsManager from '../components/CorrectionsManager';
-import CourseDataManager from '../components/CourseDataManager';
+
 import DashboardHome from '../components/DashboardHome';
 import { ArrowLeft, LayoutDashboard } from 'lucide-react';
 import { CoursePackage } from '../types';
-import { collection, getDocs } from 'firebase/firestore';
-import { db } from '../services/firebase';
+import { loadCourses } from '../utils/courseLoader';
 
 const InstructorDashboard: React.FC = () => {
-  const [dashboardTab, setDashboardTab] = useState<'home' | 'sessions' | 'listening' | 'students' | 'analytics' | 'resources' | 'coaching' | 'data'>('home');
+  const [dashboardTab, setDashboardTab] = useState<'home' | 'sessions' | 'listening' | 'students' | 'analytics' | 'resources' | 'coaching'>('home');
   const [courses, setCourses] = useState<CoursePackage[]>([]);
 
   useEffect(() => {
-    // Fetch courses for StudentManager (to resolve lesson names)
-    const fetchCourses = async () => {
-      try {
-        const snap = await getDocs(collection(db, 'courses'));
-        const list: CoursePackage[] = [];
-        snap.forEach(d => list.push({ id: d.id, ...d.data() } as CoursePackage));
-        setCourses(list);
-      } catch (e) {
-        console.error("Error fetching courses for admin:", e);
-      }
-    };
-    fetchCourses();
+    setCourses(loadCourses());
   }, []);
 
   return (
@@ -72,7 +60,7 @@ const InstructorDashboard: React.FC = () => {
       {dashboardTab === 'students' && <StudentManager courses={courses} />}
       {dashboardTab === 'analytics' && <AnalyticsDashboard courses={courses} />}
       {dashboardTab === 'resources' && <ResourceManager />}
-      {dashboardTab === 'data' && <CourseDataManager />}
+
 
     </div>
   );

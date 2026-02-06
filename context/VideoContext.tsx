@@ -15,6 +15,7 @@ interface VideoContextType {
     getNextSection: () => string | null;
     getVideoUrl: (section: string) => string | null;
     saveRecording: (section: string, blob: Blob) => Promise<void>;
+    saveYouTubeUrl: (section: string, url: string) => Promise<void>;
     hasRecording: (section: string) => boolean;
     isAdmin: boolean;
     isUploading: boolean;
@@ -39,7 +40,9 @@ export const VideoProvider: React.FC<{ children: React.ReactNode; lessonId: stri
     useEffect(() => {
         if (!lessonId) return;
 
+        let active = true;
         const unsubscribe = subscribeToLessonVideos(lessonId, (mappings) => {
+            if (!active) return;
             // Convert simple ID to prefixed format for internal consistency if needed, 
             // or just store as is and let logic handle it. 
             // The service returns { title: youtubeId }.
@@ -51,7 +54,10 @@ export const VideoProvider: React.FC<{ children: React.ReactNode; lessonId: stri
             setVideoSources(prev => ({ ...prev, ...sources }));
         });
 
-        return () => unsubscribe();
+        return () => {
+            active = false;
+            unsubscribe();
+        };
     }, [lessonId]);
 
     const registerSection = useCallback((title: string) => {
@@ -136,6 +142,35 @@ export const VideoProvider: React.FC<{ children: React.ReactNode; lessonId: stri
         return !!videoSources[section];
     }, [videoSources]);
 
+    const saveYouTubeUrl = useCallback(async (section: string, url: string) => {
+        if (!isAdmin) return;
+
+        // Extract ID (supports youtu.be, youtube.com/watch?v=, etc.)
+        const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
+        const match = url.match(regExp);
+        const videoId = (match && match[2].length === 11) ? match[2] : null;
+
+        if (!videoId) {
+            alert("Invalid YouTube URL");
+            return;
+        }
+
+        try {
+            setIsUploading(true);
+            // Save to Firestore with "MANUAL_" prefix if needed or just save the ID
+            // The existing service expects ID.
+            await saveVideoMapping(lessonId, section, videoId);
+
+            // Update local state
+            setVideoSources(prev => ({ ...prev, [section]: `yt:${videoId}` }));
+        } catch (err) {
+            console.error(err);
+            alert("Error saving link");
+        } finally {
+            setIsUploading(false);
+        }
+    }, [isAdmin, lessonId]);
+
     return (
         <VideoContext.Provider value={{
             registerSection,
@@ -147,6 +182,7 @@ export const VideoProvider: React.FC<{ children: React.ReactNode; lessonId: stri
             getNextSection,
             getVideoUrl,
             saveRecording,
+            saveYouTubeUrl,
             hasRecording,
             isAdmin,
             isUploading

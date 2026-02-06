@@ -227,6 +227,11 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
                       {activeItem.pronunciation}
                     </p>
                   )}
+                  {activeItem.example && (
+                    <p className="text-[#5A6B70]/60 sans-handwritten text-base italic max-w-sm px-4 mt-4">
+                      "{activeItem.example}"
+                    </p>
+                  )}
                 </div>
                 <div className="absolute bottom-6 left-6">
                   <button onClick={(e) => { e.stopPropagation(); speak(activeItem.french); }} className="p-4 bg-[#F9F7F2] rounded-[20px] text-[#C87A7A] hover:bg-[#C87A7A] hover:text-white transition-all shadow-sm border border-[#C87A7A]/5 hover:scale-110 active:scale-90">
@@ -240,17 +245,12 @@ const VocabTrainer: React.FC<VocabTrainerProps> = ({ vocab }) => {
 
               <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-[#C87A7A] to-[#a65d5d] rounded-[32px] flex flex-col items-center justify-center p-8 [backface-visibility:hidden] [transform:rotateY(180deg)] shadow-2xl">
                 <div className="absolute top-6 left-0 w-full text-center">
-                  <span className="text-[10px] font-black text-white/60 uppercase tracking-[0.5em]">Meaning</span>
+                  <span className="text-[10px] font-black text-white/60 uppercase tracking-[0.5em]">English</span>
                 </div>
                 <div className="space-y-4 text-center">
                   <h4 className="text-4xl md:text-5xl font-bold text-white serif-display italic leading-tight">
-                    {activeItem.translation}
+                    {(activeItem as any).translation || (activeItem as any).english || 'No translation'}
                   </h4>
-                  {activeItem.example && (
-                    <p className="text-white/70 sans-handwritten text-lg italic max-w-xs px-4">
-                      "{activeItem.example}"
-                    </p>
-                  )}
                 </div>
                 <div className="absolute bottom-6 right-8 text-[9px] font-black text-white/40 uppercase tracking-[0.3em]">
                   Click to flip back

@@ -15,8 +15,7 @@ const courseStructure = {
     'A2.1': { level: 'A2', title: 'Niveau A2.1 - S\'installer en Belgique', description: 'Master essential administrative tasks, housing, healthcare, and banking in Belgium.' },
     'A2.2': { level: 'A2', title: 'Niveau A2.2 - Vie Sociale et Culturelle', description: 'Deepen your integration. Learn about Belgian culture, media, and social interactions.' },
     'B1.1': { level: 'B1', title: 'Niveau B1.1 - Le Monde Professionnel', description: 'Navigate the Belgian job market, interviews, and professional communication.' },
-    'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
-    'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
+    'B1.1_bis': { level: 'B1', title: 'Niveau B1.1 bis - Consolidation Intermédiaire', description: 'Cours de consolidation pour renforcer les compétences B1.' },
     'B1.2': { level: 'B1', title: 'Niveau B1.2 - Maîtrise Avancée', description: 'Advanced communication skills for complex situations and nuanced expressions.' },
     'B2.1': { level: 'B2', title: 'Niveau B2.1 - Expertise Culturelle', description: 'Master complex topics about Belgian identity, economy, and society.' },
     'B2.2': { level: 'B2', title: 'Niveau B2.2 - Maîtrise Complète', description: 'Achieve full mastery of French with Belgian nuances and advanced expressions.' }
@@ -87,6 +86,15 @@ const moduleOverrides = {
         { title: "Module 1 : Le Rédacteur en Chef", lessons: [34] },
         { title: "Module 2 : Radio Libre", lessons: [35] },
         { title: "Module 3 : Le Grand Sommet Francophone", lessons: [36] }
+    ],
+    'b1-1_bis': [
+        { title: "Module 1", lessons: [1, 2, 3] },
+        { title: "Module 2", lessons: [6, 7, 8] },
+        { title: "Module 3", lessons: [101, 102] },  // Lecon_01_B1.2, Lecon_02_B1.2
+        { title: "Module 4", lessons: [10, 11, 12, 115] }, // Lecon_15_B1.2
+        { title: "Module 5", lessons: [16, 17, 18, 20, 116] }, // Lecon_16_B1.2
+        { title: "Module 6", lessons: [13, 14, 15] },
+        { title: "Module 7", lessons: [26, 27, 28] }
     ]
 };
 
@@ -149,7 +157,7 @@ function extractMetadata(content) {
 
 function findLessonFiles() {
     const lessons = [];
-    const courseDirs = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'B2.1', 'B2.2'];
+    const courseDirs = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.1_bis', 'B1.2', 'B2.1', 'B2.2'];
 
     // 1. Standard Courses
     for (const courseDir of courseDirs) {
@@ -181,13 +189,17 @@ function findLessonFiles() {
 
                 if (content) {
                     const metadata = extractMetadata(content);
-                    const lessonNumber = lessonDir.match(/\d+/)?.[0] || '0';
+                    const baseNumber = parseInt(lessonDir.match(/\d+/)?.[0] || '0');
+
+                    // Handle special suffix like _B1.2 -> add 100 to the number
+                    const hasB12Suffix = lessonDir.includes('_B1.2');
+                    const lessonNumber = hasB12Suffix ? baseNumber + 100 : baseNumber;
 
                     lessons.push({
-                        courseId: courseDir.toLowerCase().replace('.', '-'),
+                        courseId: courseDir.toLowerCase().replace('.', '-').replace('_', '_'),
                         courseDir,
-                        lessonNumber: parseInt(lessonNumber),
-                        lessonId: `l${lessonNumber.padStart(2, '0')}`,
+                        lessonNumber: lessonNumber,
+                        lessonId: `l${String(lessonNumber).padStart(3, '0')}`,
                         content,
                         ...metadata
                     });

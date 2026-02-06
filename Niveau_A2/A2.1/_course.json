@@ -1,0 +1,13 @@
+{
+    "title": "Niveau A2.1 - S'installer en Belgique",
+    "level": "A2",
+    "description": "Master essential administrative tasks, housing, healthcare, and banking in Belgium.",
+    "resources": [
+        {
+            "id": "r_a21_1",
+            "name": "Imparfait_Cheatsheet.md",
+            "type": "pdf",
+            "url": "/resources/Imparfait_Cheatsheet.md"
+        }
+    ]
+}

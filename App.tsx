@@ -10,6 +10,7 @@ import TrenteJoursPage from './pages/TrenteJoursPage';
 import Dashboard from './pages/Dashboard';
 import InstructorDashboard from './pages/InstructorDashboard';
 import ProfilePage from './pages/ProfilePage';
+import WelcomePage from './pages/WelcomePage';
 import AuthPage from './pages/AuthPage';
 import CarnetPage from './pages/CarnetPage';
 import ProgrammePage from './pages/ProgrammePage';
@@ -17,9 +18,9 @@ import CoachingSpace from './components/CoachingSpace';
 import VocabularyLayout from './components/VocabularyLayout';
 import { useAuth } from './context/AuthContext';
 import { CoursePackage } from './types';
-import allCoursesRaw from './data/allCourses.json';
+import { loadCourses } from './utils/courseLoader';
 
-const allCourses = allCoursesRaw as unknown as CoursePackage[];
+const allCourses = loadCourses();
 
 const App: React.FC = () => {
   const { user, loading, logout, isImpersonating, stopImpersonation } = useAuth();
@@ -28,8 +29,9 @@ const App: React.FC = () => {
 
   // Backwards compatibility: Derive currentPage from path
   const getCurrentPage = (path: string) => {
+    if (path === '/welcome') return 'welcome';
     if (path === '/' || path.startsWith('/library')) return 'library';
-    if (path.startsWith('/grammar')) return 'grammaire';
+    if (path.startsWith('/grammar') || path.startsWith('/grammaire')) return 'grammaire';
     if (path.startsWith('/vocabulary')) return 'vocabulary';
     if (path.startsWith('/curriculum')) return 'programme';
     if (path.startsWith('/all-lessons')) return 'lessons';
@@ -108,7 +110,8 @@ const App: React.FC = () => {
       'instructor': '/instructor',
       'profile': '/profile',
       'carnet': '/notebook',
-      'player': '/learn' // Though usually we navigate to specific course
+      'player': '/learn', // Though usually we navigate to specific course
+      'welcome': '/welcome'
     };
 
     const targetPath = routeMap[page] || '/library';
@@ -170,6 +173,7 @@ const App: React.FC = () => {
           <Route path="/instructor" element={<InstructorDashboard />} />
           <Route path="/profile" element={<ProfilePage user={user} />} />
           <Route path="/notebook" element={<CarnetPage onBack={() => handleNavigate('library')} />} />
+          <Route path="/welcome" element={<WelcomePage />} />
 
           {/* Dynamic Course Routes */}
           <Route path="/course/:courseId/:lessonId/:tab?" element={<CourseViewer />} />

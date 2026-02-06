@@ -239,7 +239,7 @@ const FloatingVideoPlayer: React.FC = () => {
                     {!videoBlob ? (
                         <video ref={webCamRef} autoPlay muted className="w-full h-full object-cover opacity-80" />
                     ) : (
-                        <video src={URL.createObjectURL(videoBlob)} controls className="w-full h-full object-cover" />
+                        <VideoPreview blob={videoBlob} />
                     )}
 
                     <div className="absolute bottom-6 flex gap-4">
@@ -256,11 +256,21 @@ const FloatingVideoPlayer: React.FC = () => {
                         ) : (
                             <>
                                 <button
-                                    onClick={handleSave}
-                                    disabled={isUploading}
-                                    className={`px-6 py-2 ${isUploading ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#dd8b8b] hover:bg-white hover:text-[#dd8b8b]'} text-white font-bold rounded-full shadow-lg transition-colors border-2 border-[#dd8b8b]`}
+                                    onClick={() => {
+                                        if (videoBlob) {
+                                            const url = URL.createObjectURL(videoBlob);
+                                            const a = document.createElement('a');
+                                            a.href = url;
+                                            a.download = `recording-${activeSection?.replace(/\s+/g, '_') || 'video'}.webm`;
+                                            document.body.appendChild(a);
+                                            a.click();
+                                            document.body.removeChild(a);
+                                            URL.revokeObjectURL(url);
+                                        }
+                                    }}
+                                    className="px-6 py-2 bg-blue-500 hover:bg-blue-600 text-white font-bold rounded-full shadow-lg transition-colors border-2 border-blue-500 flex items-center gap-2"
                                 >
-                                    {isUploading ? 'Saving...' : 'Save & Play'}
+                                    <span>⬇️</span> Download
                                 </button>
                                 <button onClick={() => setVideoBlob(null)} className="px-6 py-2 bg-gray-500/50 hover:bg-gray-500/80 text-white font-bold rounded-full shadow-lg backdrop-blur-sm">
                                     Retake
@@ -268,6 +278,8 @@ const FloatingVideoPlayer: React.FC = () => {
                             </>
                         )}
                     </div>
+
+
                 </div>
             );
         }
@@ -394,3 +406,20 @@ const FloatingVideoPlayer: React.FC = () => {
 };
 
 export default FloatingVideoPlayer;
+
+const VideoPreview: React.FC<{ blob: Blob }> = ({ blob }) => {
+    const url = React.useMemo(() => URL.createObjectURL(blob), [blob]);
+
+    useEffect(() => {
+        return () => URL.revokeObjectURL(url);
+    }, [url]);
+
+    return (
+        <video
+            src={url}
+            controls
+            autoPlay
+            className="w-full h-full object-contain bg-black"
+        />
+    );
+};

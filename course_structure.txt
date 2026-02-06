@@ -1,0 +1,81 @@
+﻿
+=== a1-1 ===
+1. Module 1 : Premiers pas: l01, l02, l03, l04, l04
+2. Module 2 : Mon monde ├á moi: l05, l06, l07
+3. Module 3 : La vie en Belgique: l08, l09, l10, l11
+4. Module 4 : En ville !: l12, l13, l14, l15
+5. Modules Suppl├®mentaires: l16, l17
+
+=== a1-2 ===
+1. Module 1 : Bon app├®tit !: l01, l02, l03, l04
+2. Module 2 : Projets et M├®t├®o: l05, l06, l07, l08
+3. Module 3 : Mes go├╗ts et moi: l09, l10, l11, l12
+4. Module 4 : Souvenirs de week-end: l13, l14, l15, l16
+5. Modules Suppl├®mentaires: l17, l18
+
+=== a2-1 ===
+1. Module 1 : C'├®tait comment avant ?: l01, l02, l03, l04, l05
+2. Module 2 : ├ça vient d'arriver !: l06, l07
+3. Module 3 : Projets d'avenir: l08, l09, l10
+4. Module 4 : Je le veux !: l11, l12
+5. 4 (Je le veux): l13, l14
+6. Module 5 : Plus grand, moins cher: l15, l16, l17
+7. Module 6 : Docteur, j'ai mal !: l18
+8. 5 (Comparer et Choisir): l19
+9. Module 7 : Le Grand Bilan: l20
+10. Modules Suppl├®mentaires: l21, l22, l23, l24
+
+=== a2-2 ===
+1. Module 1 : J'y vais, j'en viens !: l01, l02, l03, l04
+2. Module 2 : C'est celui que je pr├®f├¿re: l05, l06, l07
+3. Module 3 : Plus jamais ├ºa !: l08, l09
+4. Module 4 : Et si on changeait le monde ?: l10, l11, l12, l13
+5. Module 5 : ├Ç votre avis ?: l14, l15, l16
+6. Module 6 : Pr├¬t pour le grand saut ?: l17, l18, l19, l20
+
+=== b1-1 ===
+1. Module 1 : Il ├®tait une fois... (L'art de raconter): l01, l02, l03
+2. Module 2 : Retour vers le futur (ant├®rieur): 
+3. Module 3 : Le monde des "et si...": l06, l07, l08, l09
+4. Module 4 : Entendu ├á la machine ├á caf├® (discours rapport├®): l10, l11, l12
+5. Module 5 : Mission : job de r├¬ve: l13, l14, l15
+6. Module 6 : Il faut qu'on parle ! (volont├® et n├®cessit├®): l16, l17, l18
+7. Module 7 : Ascenseur ├®motionnel: l19, l20, l21
+8. Module 8 : L'art d'avoir raison (argumenter): l22, l23
+9. Module 9 : Faits divers et enqu├¬tes (qui a fait quoi ?): 
+10. Module 10 : Devenir un pro de l'email: l26, l27, l28
+11. Module 11 : Le grand final: l29, l30, l31, l32
+12. Modules Suppl├®mentaires: l33, l34
+
+=== b1-1_bis ===
+1. Module 1 : Fondamentaux: l01, l02, l03
+2. Module 3 : Pronoms et relatifs: l04b, l04
+3. Module 2 : Approfondissement: l05, l06, l07, l08, l09
+4. Module 4 : Consolidation grammaticale: l10, l11, l12
+5. Module 5 : Expression avanc├®e: l16, l17, l18, l20
+6. Module 6 : Culture et soci├®t├®: l13, l14, l15
+7. Module 7 : Projets finaux: l26, l27, l28
+
+=== b1-2 ===
+1. Module 1 : C'est ├á moi !: l01, l02
+2. Module 2 : Je te le donne: l03, l04
+3. Module 3 : La chose dont on parle: l05, l06
+4. Module 4 : On y va !: l07, l08
+5. Module 5 : Ce que je veux dire: l09, l10
+6. Module 6: C'est toi la star !: l13, l14
+7. Module 7: Avoir le dernier mot: l15, l16, l17
+8. Module 8: Le Grand D├®bat: l18, l19
+9. Module 9: Bienvenue chez les Belges: l20, l21
+10. Module 10: Lib├®rez votre parole: l22, l23
+11. Module 11: En pleine action: l24, l25, l26, l27, l28
+12. Module 12: Le Sommet B1: l29, l30, l31, l32
+13. Modules Suppl├®mentaires: l33
+
+=== b2-1 ===
+1. Module 1: l01, l02, l04
+2. Module 2: l05
+3. Module 3: 
+4. Module 4: 
+5. Module 5: 
+6. Module 6: l24
+7. Module 7: l25

@@ -1,27 +1,64 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Play } from 'lucide-react';
 import { themes, vocabularyItems } from '../data/vocabularyThemes';
 import VocabTrainer from './VocabTrainer';
-import { VocabularyItem } from '../types';
+import { VocabularyItem, Lesson, VocabItem } from '../types';
+import { loadCourses } from '../utils/courseLoader';
 
 type Source = 'themes' | 'lessons' | 'user';
+
+interface EnrichedLesson extends Lesson {
+    courseTitle: string;
+    level: string;
+}
 
 const VocabPracticeView: React.FC = () => {
     const [source, setSource] = useState<Source | null>(null);
     const [selectedThemes, setSelectedThemes] = useState<string[]>([]);
     const [selectedLessons, setSelectedLessons] = useState<string[]>([]);
     const [includeUserVocab, setIncludeUserVocab] = useState(false);
-    const [practiceVocab, setPracticeVocab] = useState<VocabularyItem[]>([]);
+    const [practiceVocab, setPracticeVocab] = useState<VocabItem[]>([]);
     const [isStarted, setIsStarted] = useState(false);
 
-    const [userVocab, setUserVocab] = useState<VocabularyItem[]>([]);
+    const [userVocab, setUserVocab] = useState<VocabItem[]>([]);
+
+    // Load real courses and flatten lessons for selection
+    const { allLessons, lessonMap } = useMemo(() => {
+        const courses = loadCourses();
+        const lessons: EnrichedLesson[] = [];
+        const map = new Map<string, EnrichedLesson>();
+
+        courses.forEach(course => {
+            course.sections.forEach(section => {
+                section.lessons.forEach(lesson => {
+                    const enrichedLesson = {
+                        ...lesson,
+                        courseTitle: course.title,
+                        level: course.level
+                    };
+                    lessons.push(enrichedLesson);
+                    map.set(lesson.id, enrichedLesson);
+                });
+            });
+        });
+
+        return { allLessons: lessons, lessonMap: map };
+    }, []);
 
     // Load user vocabulary
     useEffect(() => {
         const saved = localStorage.getItem('userVocabulary');
         if (saved) {
             try {
-                setUserVocab(JSON.parse(saved));
+                // User vocab might be saved in different formats, adapt if needed
+                const parsed = JSON.parse(saved);
+                const adapted = parsed.map((p: any) => ({
+                    id: p.id,
+                    french: p.french,
+                    translation: p.translation || p.english,
+                    example: p.example
+                }));
+                setUserVocab(adapted);
             } catch (e) {
                 console.error('Failed to load user vocabulary', e);
             }
@@ -29,14 +66,31 @@ const VocabPracticeView: React.FC = () => {
     }, []);
 
     const handleStart = () => {
-        let vocab: VocabularyItem[] = [];
+        let vocab: VocabItem[] = [];
 
         if (source === 'themes' && selectedThemes.length > 0) {
-            vocab = vocabularyItems.filter((item) => selectedThemes.includes(item.themeId));
+            const selectedItems = vocabularyItems.filter((item) => selectedThemes.includes(item.themeId));
+            vocab = selectedItems.map(item => ({
+                id: item.id,
+                french: item.french,
+                translation: item.english, // Map english to translation
+                example: item.example
+            }));
         } else if (source === 'lessons' && selectedLessons.length > 0) {
-            vocab = vocabularyItems.filter((item) =>
-                item.lessonIds?.some((lid) => selectedLessons.includes(lid))
-            );
+            // Aggregate vocabulary from selected lessons
+            selectedLessons.forEach(lessonId => {
+                const lesson = lessonMap.get(lessonId);
+                if (lesson && lesson.vocabulary) {
+                    const lessonVocab = lesson.vocabulary.map((item: any, idx: number) => ({
+                        id: `${lesson.id}-${idx}`,
+                        french: item.fr || item.french,
+                        translation: item.en || item.translation || item.english,
+                        example: item.example,
+                        pronunciation: item.pronunciation
+                    }));
+                    vocab = [...vocab, ...lessonVocab];
+                }
+            });
         } else if (source === 'user') {
             vocab = userVocab;
         }
@@ -105,7 +159,7 @@ const VocabPracticeView: React.FC = () => {
                             Par Leçons
                         </h3>
                         <p className="text-sm text-[#5A6B70]/60 mt-2">
-                            Vocabulaire par leçon
+                            {allLessons.filter(l => l.vocabulary?.length > 0).length} leçons disponibles
                         </p>
                     </button>
 
@@ -148,8 +202,8 @@ const VocabPracticeView: React.FC = () => {
                                         }
                                     }}
                                     className={`p-4 rounded-xl border-2 transition-all text-left ${isSelected
-                                            ? 'bg-[#dd8b8b] text-white border-[#dd8b8b]'
-                                            : 'bg-white text-[#5A6B70] border-[#dd8b8b]/20 hover:border-[#dd8b8b]'
+                                        ? 'bg-[#dd8b8b] text-white border-[#dd8b8b]'
+                                        : 'bg-white text-[#5A6B70] border-[#dd8b8b]/20 hover:border-[#dd8b8b]'
                                         }`}
                                 >
                                     <div className="text-2xl mb-1">{theme.icon}</div>
@@ -190,23 +244,56 @@ const VocabPracticeView: React.FC = () => {
                     >
                         ← Retour
                     </button>
-                    <div className="bg-blue-50 border border-blue-200 rounded-2xl p-6">
-                        <p className="text-sm text-blue-800">
-                            <strong>Note :</strong> Seule la Leçon 1 est disponible pour l'instant.
-                        </p>
+                    <h3 className="text-xl font-bold text-[#5A6B70] mb-4">Sélectionnez les leçons</h3>
+
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6 max-h-[60vh] overflow-y-auto pr-2">
+                        {allLessons
+                            .filter(l => l.vocabulary && l.vocabulary.length > 0)
+                            .map((lesson) => {
+                                const isSelected = selectedLessons.includes(lesson.id);
+                                return (
+                                    <button
+                                        key={lesson.id}
+                                        onClick={() => {
+                                            if (isSelected) {
+                                                setSelectedLessons(selectedLessons.filter((id) => id !== lesson.id));
+                                            } else {
+                                                setSelectedLessons([...selectedLessons, lesson.id]);
+                                            }
+                                        }}
+                                        className={`p-4 rounded-xl border-2 transition-all text-left ${isSelected
+                                            ? 'bg-[#dd8b8b] text-white border-[#dd8b8b]'
+                                            : 'bg-white text-[#5A6B70] border-[#dd8b8b]/20 hover:border-[#dd8b8b]'
+                                            }`}
+                                    >
+                                        <div className="flex justify-between items-start">
+                                            <div>
+                                                <span className={`text-xs font-bold uppercase ${isSelected ? 'text-white/80' : 'text-[#dd8b8b]'}`}>
+                                                    {lesson.level}
+                                                </span>
+                                                <div className="font-bold line-clamp-2">{lesson.title}</div>
+                                            </div>
+                                            <span className={`text-xs ml-2 px-2 py-1 rounded-full ${isSelected ? 'bg-white/20' : 'bg-[#F9F7F2] text-[#5A6B70]/60'}`}>
+                                                {lesson.vocabulary.length} mots
+                                            </span>
+                                        </div>
+                                    </button>
+                                );
+                            })}
                     </div>
-                    <div className="mt-6">
-                        <button
-                            onClick={() => {
-                                setSelectedLessons(['a1-1-lecon-01']);
-                                handleStart();
-                            }}
-                            className="flex items-center gap-2 px-8 py-4 bg-[#dd8b8b] text-white rounded-2xl font-bold hover:scale-105 transition-transform shadow-lg"
-                        >
-                            <Play className="w-5 h-5" />
-                            Commencer avec Leçon 1
-                        </button>
-                    </div>
+
+                    <button
+                        onClick={handleStart}
+                        disabled={selectedLessons.length === 0}
+                        className="flex items-center gap-2 px-8 py-4 bg-[#dd8b8b] text-white rounded-2xl font-bold disabled:opacity-50 disabled:cursor-not-allowed hover:scale-105 transition-transform shadow-lg"
+                    >
+                        <Play className="w-5 h-5" />
+                        Commencer ({
+                            allLessons
+                                .filter(l => selectedLessons.includes(l.id))
+                                .reduce((acc, curr) => acc + (curr.vocabulary?.length || 0), 0)
+                        } mots)
+                    </button>
                 </div>
             )}
 

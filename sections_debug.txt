@@ -1,0 +1,7 @@
+Section 0: Module 1 : Fondamentaux (3 lessons): l01, l02, l03
+Section 1: Module 3 : Pronoms et relatifs (2 lessons): l04b, l04
+Section 2: Module 2 : Approfondissement (5 lessons): l05, l06, l07, l08, l09
+Section 3: Module 4 : Consolidation grammaticale (3 lessons): l10, l11, l12
+Section 4: Module 5 : Expression avancée (4 lessons): l16, l17, l18, l20
+Section 5: Module 6 : Culture et société (3 lessons): l13, l14, l15
+Section 6: Module 7 : Projets finaux (3 lessons): l26, l27, l28

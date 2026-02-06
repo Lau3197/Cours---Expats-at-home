@@ -2,8 +2,9 @@
 export interface Resource {
   id: string;
   name: string;
-  type: 'pdf' | 'link' | 'zip';
+  type: 'pdf' | 'link' | 'zip' | 'guide'; // Added 'guide' for internal content
   url: string;
+  content?: string; // New: for directly embedded content
 }
 
 export interface VocabItem {
@@ -45,6 +46,7 @@ export interface Lesson {
   audioUrl?: string;
   comments: Comment[];
   vocabulary: VocabItem[];
+  resources?: Resource[]; // New: Lesson-specific resources
 }
 
 export interface Section {

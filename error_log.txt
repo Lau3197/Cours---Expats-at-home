@@ -1,0 +1,103 @@
+﻿found MODULE meta: 4 (Je le veux) in Le├ºon 13 : Chez le m├®decin (Le COI)
+found MODULE meta: 4 (Je le veux) in Le├ºon 14 : Les Doubles Pronoms (Introduction)
+found MODULE meta: 5 (Comparer et Choisir) in Le├ºon 19 : C'est le mien ! (Lequel & Possession)
+found MODULE meta: Module 3 : Pronoms et relatifs in Le├ºon 02 : N'importe quoi !
+found MODULE meta: Module 1 : C'est ├á moi ! in Le├ºon 01 : Tout le monde et chacun
+found MODULE meta: Module 1 : C'est ├á moi ! in Le├ºon 02 : N'importe quoi !
+found MODULE meta: Module 2 : Je te le donne in Le├ºon 03 : Je te le donne
+found MODULE meta: Module 2 : Je te le donne in Le├ºon 04 : Pronoms doubles en contexte
+found MODULE meta: Module 3 : La chose dont on parle in Le├ºon 05 : La personne dont je parle
+found MODULE meta: Module 3 : La chose dont on parle in Le├ºon 06 : DONT en contexte
+found MODULE meta: Module 4 : On y va ! in Le├ºon 07 : L'Abstraction et la Quantit├® (M'en / M'y)
+found MODULE meta: Module 4 : On y va ! in Le├ºon 08 : Y et EN avec pronoms (Consolidation)
+found MODULE meta: Module 5 : Ce que je veux dire in Le├ºon 09 : Ce qui, ce que, ce dont
+found MODULE meta: Module 5 : Ce que je veux dire in Le├ºon 10 : Relatifs complexes (Consolidation)
+found MODULE meta: Module 6: C'est toi la star ! in Le├ºon 13 : Mise en relief
+found MODULE meta: Module 6: C'est toi la star ! in Le├ºon 14 : Mise en relief (Consolidation)
+found MODULE meta: Module 7: Avoir le dernier mot in Le├ºon 15 : Cause et cons├®quence
+found MODULE meta: Module 7: Avoir le dernier mot in Le├ºon 16 : Exprimer l'opposition
+found MODULE meta: Module 7: Avoir le dernier mot in Le├ºon 17 : Opposition et concession (Consolidation)
+found MODULE meta: Module 8: Le Grand D├®bat in Le├ºon 18 : Donner son avis (Opinion avanc├®e)
+found MODULE meta: Module 8: Le Grand D├®bat in Le├ºon 19 : Opinions et d├®bats (Consolidation)
+found MODULE meta: Module 9: Bienvenue chez les Belges in Le├ºon 20 : La Belgique francophone
+found MODULE meta: Module 9: Bienvenue chez les Belges in Le├ºon 21 : Vie quotidienne en Belgique
+found MODULE meta: Module 10: Lib├®rez votre parole in Le├ºon 22 : Expression orale B1.2
+found MODULE meta: Module 10: Lib├®rez votre parole in Le├ºon 23 : Expression ├®crite B1.2
+found MODULE meta: Module 11: En pleine action in Le├ºon 24 : Raconter en d├®tail
+found MODULE meta: Module 11: En pleine action in Le├ºon 25 : Comprendre les m├®dias
+found MODULE meta: Module 11: En pleine action in Le├ºon 26 : Comp├®tences int├®gr├®es
+found MODULE meta: Module 11: En pleine action in Le├ºon 27 : Projet culturel
+found MODULE meta: Module 11: En pleine action in Le├ºon 28 : Simulations pratiques
+found MODULE meta: Module 12: Le Sommet B1 in Le├ºon 29 : Compr├®hension orale B1.2
+found MODULE meta: Module 12: Le Sommet B1 in Le├ºon 30 : R├®vision B1.2
+found MODULE meta: Module 12: Le Sommet B1 in Le├ºon 31 : ├ëvaluation B1.2
+found MODULE meta: Module 12: Le Sommet B1 in Le├ºon 32 : ├ëvaluation finale B1
+ÔÜá´©Å  Directory not found: C:\Users\Jacqu\OneDrive\Projects\extracted_french_mastery\Niveau_B2\B2.2
+node : file:///C:/Use
+rs/Jacqu/OneDrive/Pro
+jects/extracted_frenc
+h_mastery/scripts/gen
+erateLessonsJSON.mjs:
+295
+Au caractère Ligne:1 
+: 1
++ node scripts/genera
+teLessonsJSON.mjs 
+2>&1 | Out-File 
+-Encoding UTF8 e ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (file://   
+ /C:/User...onsJS    
+ON.mjs:295:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+    section.lessons.p
+ush({
+            ^
+
+TypeError: Cannot 
+read properties of 
+undefined (reading 
+'lessons')
+    at organizeLesson
+sIntoCourses (file://
+/C:/Users/Jacqu/OneDr
+ive/Projects/extracte
+d_french_mastery/scri
+pts/generateLessonsJS
+ON.mjs:295:13)
+    at generateJSON (
+file:///C:/Users/Jacq
+u/OneDrive/Projects/e
+xtracted_french_maste
+ry/scripts/generateLe
+ssonsJSON.mjs:321:19)
+    at file:///C:/Use
+rs/Jacqu/OneDrive/Pro
+jects/extracted_frenc
+h_mastery/scripts/gen
+erateLessonsJSON.mjs:
+337:1
+    at ModuleJob.run 
+(node:internal/module
+s/esm/module_job:413:
+25)
+    at async onImport
+.tracePromise.__proto
+__ (node:internal/mod
+ules/esm/loader:660:2
+6)
+    at async asyncRun
+EntryPointWithESMLoad
+er (node:internal/mod
+ules/run_main:101:5)
+
+Node.js v24.12.0

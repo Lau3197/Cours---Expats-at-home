@@ -309,7 +309,7 @@ const TrenteJoursPage: React.FC = () => {
                             <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-[#dd8b8b]"></div>
                         </div>
                     ) : dayContent ? (
-                        <div className="max-w-4xl mx-auto space-y-12">
+                        <div className="mx-auto space-y-12 max-w-7xl">
                             {/* Header */}
                             <motion.div
                                 initial={{ opacity: 0, y: 20 }}
@@ -332,39 +332,74 @@ const TrenteJoursPage: React.FC = () => {
                                 <p className="text-xl text-[#5A6B70]/60 font-medium">Day {dayContent.dayNumber}</p>
                             </motion.div>
 
-                            {/* Video Player */}
-                            {dayContent.script && (
-                                <motion.div
-                                    initial={{ opacity: 0, scale: 0.95 }}
-                                    animate={{ opacity: 1, scale: 1 }}
-                                    transition={{ delay: 0.2 }}
-                                >
-                                    <FakeVideoPlayer
-                                        script={dayContent.script}
-                                        title={dayContent.title}
-                                        poster={dayContent.images[0]}
-                                    />
-                                </motion.div>
-                            )}
-
-                            {/* Main Content Body */}
+                            {/* Bento Grid Layout (Universal) */}
                             <motion.div
                                 initial={{ opacity: 0 }}
                                 animate={{ opacity: 1 }}
                                 transition={{ delay: 0.4 }}
-                                className="grid md:grid-cols-3 gap-8"
+                                className="grid grid-cols-1 lg:grid-cols-12 gap-8"
                             >
-                                {/* Left Column: Content */}
-                                <div className="md:col-span-2 space-y-8">
-                                    <div className="bg-white rounded-2xl p-8 shadow-sm border border-[#dd8b8b]/10">
+                                {/* Top Row: Video (Large) & Phrases (Side) */}
+                                <div className="lg:col-span-8">
+                                    {dayContent.script && (
+                                        <FakeVideoPlayer
+                                            script={dayContent.script}
+                                            title={dayContent.title}
+                                            poster={dayContent.images[0]}
+                                        />
+                                    )}
+                                </div>
+                                <div className="lg:col-span-4 space-y-6">
+                                    {/* Phrases du Jour - Top Right */}
+                                    {dayContent.phrases.length > 0 && (
+                                        <div className="bg-[#dd8b8b] rounded-2xl p-6 shadow-md border border-[#dd8b8b] h-full max-h-[500px] overflow-y-auto custom-scrollbar">
+                                            <h2 className="text-lg font-black text-white uppercase tracking-wider mb-4 flex items-center gap-2 sticky top-0 bg-[#dd8b8b] z-10 py-2">
+                                                <Play className="w-5 h-5 text-white" />
+                                                Phrases du Jour
+                                            </h2>
+                                            <div className="space-y-3">
+                                                {dayContent.phrases.map((phrase, idx) => {
+                                                    const audioPath = `/30jours/day${String(selectedDay).padStart(2, '0')}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
+                                                    const isPlaying = playingAudio === audioPath;
+                                                    return (
+                                                        <div key={phrase.id} className="flex items-start gap-3 p-3 bg-white/95 rounded-xl shadow-sm group hover:scale-[1.02] transition-all">
+                                                            <button
+                                                                onClick={() => playAudio(audioPath)}
+                                                                className={`mt-1 min-w-[2rem] w-8 h-8 rounded-full flex items-center justify-center transition-all ${isPlaying
+                                                                    ? 'bg-[#dd8b8b] text-white'
+                                                                    : 'bg-[#dd8b8b]/10 text-[#dd8b8b] border border-[#dd8b8b]/20 hover:bg-[#dd8b8b] hover:text-white'
+                                                                    }`}
+                                                            >
+                                                                {isPlaying ? <Pause className="w-3 h-3" /> : <Play className="w-3 h-3 ml-0.5" />}
+                                                            </button>
+                                                            <div>
+                                                                <p className="font-bold text-[#5A6B70] text-sm leading-tight mb-1">{phrase.french}</p>
+                                                                {phrase.english && <p className="text-xs text-[#5A6B70]/60 italic">{phrase.english}</p>}
+                                                            </div>
+                                                        </div>
+                                                    );
+                                                })}
+                                            </div>
+                                        </div>
+                                    )}
+                                </div>
+
+                                {/* Middle Row: Content (Large) & Checklists (Side) */}
+                                <div className="lg:col-span-8">
+                                    <div className="bg-white rounded-2xl p-8 shadow-sm border border-[#dd8b8b]/10 border-t-4 border-t-[#dd8b8b] h-full">
                                         <div className="prose prose-lg max-w-none prose-headings:font-black prose-headings:text-[#5A6B70] prose-p:text-[#5A6B70]/80">
-                                            <StyledMarkdown content={dayContent.content} />
+                                            <StyledMarkdown content={dayContent.content} disableVideo={true} />
                                         </div>
                                     </div>
-
-                                    {/* Embedded Checklists */}
+                                </div>
+                                <div className="lg:col-span-4 space-y-6">
+                                    {/* Checklists - Middle Right */}
                                     {dayContent.checklists.length > 0 && (
-                                        <div className="space-y-6">
+                                        <div className="bg-[#E8C586]/40 rounded-2xl p-6 shadow-sm border border-[#E8C586] space-y-6">
+                                            <h2 className="text-lg font-black text-[#5A6B70] uppercase tracking-wider mb-2 flex items-center gap-2">
+                                                <CheckSquare className="w-5 h-5 text-[#5A6B70]" />
+                                                Action Plan
+                                            </h2>
                                             {dayContent.checklists.map(checklist => (
                                                 <InteractiveChecklist
                                                     key={checklist.id}
@@ -375,81 +410,28 @@ const TrenteJoursPage: React.FC = () => {
                                             ))}
                                         </div>
                                     )}
-                                </div>
 
-                                {/* Right Column: Phrases & Resources */}
-                                <div className="space-y-6">
-                                    {/* Audio/Phrases */}
-                                    {dayContent.phrases.length > 0 && (
-                                        <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10 sticky top-32">
-                                            <h2 className="text-lg font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-2">
-                                                <Play className="w-5 h-5 text-[#dd8b8b]" />
-                                                Phrases du Jour
-                                            </h2>
-                                            <div className="space-y-3">
-                                                {dayContent.phrases.map((phrase, idx) => {
-                                                    const audioPath = `/30jours/day${String(selectedDay).padStart(2, '0')}/audio/${String(idx + 1).padStart(2, '0')}_${phrase.french.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z\s]/g, '').replace(/\s+/g, '_').substring(0, 30)}.mp3`;
-                                                    const isPlaying = playingAudio === audioPath;
-
-                                                    return (
-                                                        <div
-                                                            key={phrase.id}
-                                                            className="flex items-start gap-3 p-3 bg-[#F9F7F2] rounded-xl group hover:bg-[#dd8b8b]/5 transition-colors"
-                                                        >
-                                                            <button
-                                                                onClick={() => playAudio(audioPath)}
-                                                                className={`mt-1 min-w-[2rem] w-8 h-8 rounded-full flex items-center justify-center transition-all ${isPlaying
-                                                                    ? 'bg-[#dd8b8b] text-white'
-                                                                    : 'bg-white text-[#dd8b8b] border border-[#dd8b8b]/20 hover:bg-[#dd8b8b] hover:text-white'
-                                                                    }`}
-                                                            >
-                                                                {isPlaying ? <Pause className="w-3 h-3" /> : <Play className="w-3 h-3 ml-0.5" />}
-                                                            </button>
-                                                            <div>
-                                                                <p className="font-bold text-[#5A6B70] text-sm leading-tight mb-1">{phrase.french}</p>
-                                                                {phrase.english && (
-                                                                    <p className="text-xs text-[#5A6B70]/60 italic">{phrase.english}</p>
-                                                                )}
-                                                            </div>
-                                                        </div>
-                                                    );
-                                                })}
-                                            </div>
-                                        </div>
-                                    )}
-
-                                    {/* Resources */}
-                                    <div className="bg-white rounded-2xl p-6 shadow-sm border border-[#dd8b8b]/10">
-                                        <h2 className="text-lg font-black text-[#5A6B70] uppercase tracking-wider mb-4 flex items-center gap-2">
-                                            <FileText className="w-5 h-5 text-[#dd8b8b]" />
+                                    {/* Resources - Bottom Right (or moved to full width bottom if preferred) */}
+                                    <div className="bg-[#5A6B70] rounded-2xl p-6 shadow-md border border-[#5A6B70]">
+                                        <h2 className="text-lg font-black text-white uppercase tracking-wider mb-4 flex items-center gap-2">
+                                            <FileText className="w-5 h-5 text-white" />
                                             Downloads
                                         </h2>
                                         <div className="space-y-2">
                                             <a
                                                 href={`/30jours/day${String(selectedDay).padStart(2, '0')}/pdfs/day${String(selectedDay).padStart(2, '0')}_guide.pdf`}
                                                 download
-                                                className="flex items-center gap-3 p-3 bg-[#F9F7F2] hover:bg-[#dd8b8b] hover:text-white rounded-xl transition-all group"
+                                                className="flex items-center gap-3 p-3 bg-white/10 hover:bg-white hover:text-[#5A6B70] text-white rounded-xl transition-all group"
                                             >
-                                                <div className="w-8 h-8 rounded-lg bg-white group-hover:bg-white/20 flex items-center justify-center text-[#dd8b8b] group-hover:text-white transition-colors">
+                                                <div className="w-8 h-8 rounded-lg bg-white/20 group-hover:bg-[#5A6B70] flex items-center justify-center text-white transition-colors">
                                                     <Download className="w-4 h-4" />
                                                 </div>
                                                 <span className="font-bold text-sm">Day Guide (PDF)</span>
                                             </a>
-                                            {selectedDay === 1 && (
-                                                <a
-                                                    href={`/30jours/day01/pdfs/commune_checklist.pdf`}
-                                                    download
-                                                    className="flex items-center gap-3 p-3 bg-[#F9F7F2] hover:bg-[#dd8b8b] hover:text-white rounded-xl transition-all group"
-                                                >
-                                                    <div className="w-8 h-8 rounded-lg bg-white group-hover:bg-white/20 flex items-center justify-center text-[#dd8b8b] group-hover:text-white transition-colors">
-                                                        <CheckSquare className="w-4 h-4" />
-                                                    </div>
-                                                    <span className="font-bold text-sm">Commune Checklist</span>
-                                                </a>
-                                            )}
                                         </div>
                                     </div>
                                 </div>
+
                             </motion.div>
                         </div>
                     ) : (

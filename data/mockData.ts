@@ -55,11 +55,11 @@ export const masterCurriculum: CoursePackage[] = [
     sections: [
       {
         id: 's1',
-        title: 'Module 1: Bases et Identité',
+        title: 'Module 1: Premiers pas',
         lessons: [
           {
             id: 'l1',
-            title: 'Leçon 01: Se présenter en Belgique',
+            title: 'Leçon 01 : Se présenter en Belgique',
             duration: '15:00',
             type: 'video',
             completed: true,
@@ -72,7 +72,7 @@ export const masterCurriculum: CoursePackage[] = [
           },
           {
             id: 'l2',
-            title: 'Leçon 02: Salutations et Politesse',
+            title: 'Leçon 02 : Les salutations et formules de politesse',
             duration: '12:30',
             type: 'text',
             completed: false,
@@ -82,7 +82,7 @@ export const masterCurriculum: CoursePackage[] = [
           },
           {
             id: 'l3',
-            title: 'Leçon 03: Les nombres et l\'âge',
+            title: 'Lesson 03 : Numbers and Age',
             duration: '14:00',
             type: 'text',
             completed: false,
@@ -92,106 +92,177 @@ export const masterCurriculum: CoursePackage[] = [
           },
           {
             id: 'l4',
-            title: 'Leçon 04: La famille',
+            title: 'Lesson 04 : Family and relationships',
             duration: '10:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
             content: A1_1_LESSONS.l4
+          },
+          {
+            id: 'l5',
+            title: 'Lesson 05 : Module 1 Revision',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A1_1_LESSONS.l5 || '# Lesson 05 : Module 1 Revision'
           }
         ]
       },
       {
         id: 's2',
-        title: 'Module 2: Vie Sociale & Environnement',
+        title: 'Module 2: Mon monde à moi',
         lessons: [
           {
-            id: 'l5',
-            title: 'Leçon 05: Nationalités et Pays',
+            id: 'l6',
+            title: 'Leçon 06 : Les nationalités et les pays',
             duration: '15:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l5
+            content: A1_1_LESSONS.l6 || '# Leçon 06'
           },
           {
-            id: 'l6',
-            title: 'Leçon 06: Les professions',
+            id: 'l7',
+            title: 'Leçon 07 : Les professions et le travail',
             duration: '18:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l6
-          },
-          {
-            id: 'l7',
-            title: 'Leçon 07: Découvrir Bruxelles',
-            duration: '20:00',
-            type: 'video',
-            videoUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4', // Placeholder
-            completed: false,
-            vocabulary: vocabA1,
-            comments: [],
-            content: A1_1_LESSONS.l7
+            content: A1_1_LESSONS.l7 || '# Leçon 07'
           },
           {
             id: 'l8',
-            title: 'Leçon 08: La Belgique (Régions)',
-            duration: '12:00',
+            title: 'Leçon 08 : Découvrir Bruxelles - Les quartiers',
+            duration: '20:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l8
+            content: A1_1_LESSONS.l8 || '# Leçon 08'
           }
         ]
       },
       {
         id: 's3',
-        title: 'Module 3: Le Temps et les Goûts',
+        title: 'Module 3: La vie en Belgique',
         lessons: [
           {
             id: 'l9',
-            title: 'Leçon 09: Jours et Mois',
+            title: 'Leçon 09 : La Belgique - Les trois régions',
             duration: '10:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l9
+            content: A1_1_LESSONS.l9 || '# Leçon 09'
           },
           {
             id: 'l10',
-            title: 'Leçon 10: Parler de ses goûts',
+            title: 'Leçon 10 : Les jours de la semaine et les mois',
             duration: '15:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l10
+            content: A1_1_LESSONS.l10 || '# Leçon 10'
           },
           {
             id: 'l11',
-            title: 'Leçon 11: Couleurs et Descriptions',
+            title: 'Leçon 11 : Parler de ses goûts',
             duration: '14:00',
             type: 'text',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l11
+            content: A1_1_LESSONS.l11 || '# Leçon 11'
           },
           {
             id: 'l12',
-            title: 'Leçon 12: Révision A1.1',
+            title: 'Leçon 12 : Les couleurs et les descriptions',
+            duration: '14:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: A1_1_LESSONS.l12 || '# Leçon 12'
+          }
+        ]
+      },
+      {
+        id: 's4',
+        title: 'Module 4: En ville',
+        lessons: [
+          {
+            id: 'l13',
+            title: 'Leçon 13 : Se déplacer à Bruxelles',
+            duration: '15:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: '# Leçon 13 : Se déplacer à Bruxelles'
+          },
+          {
+            id: 'l14',
+            title: 'Leçon 14 : Raconter sa journée (Passé Composé Avoir)',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: '# Leçon 14'
+          },
+          {
+            id: 'l15',
+            title: 'Leçon 15 : Mon parcours (Passé Composé Être)',
+            duration: '20:00',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: '# Leçon 15'
+          },
+          {
+            id: 'l16',
+            title: 'Leçon 16 : Révision et évaluation A1.1',
             duration: '30:00',
             type: 'quiz',
             completed: false,
             vocabulary: vocabA1,
             comments: [],
-            content: A1_1_LESSONS.l12
+            content: '# Leçon 16'
+          }
+        ]
+      },
+      {
+        id: 's5',
+        title: 'Module 5: Modules Supplémentaires',
+        lessons: [
+          {
+            id: 'l17',
+            title: 'Leçon 17 : Expression écrite A1.1 (Consolidation)',
+            duration: '2-3 heures',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: '# Leçon 17'
+          },
+          {
+            id: 'l18',
+            title: 'Leçon 18 : Compréhension orale A1.1 (Consolidation)',
+            duration: '2-3 heures',
+            type: 'text',
+            completed: false,
+            vocabulary: vocabA1,
+            comments: [],
+            content: '# Leçon 18'
           }
         ]
       }
@@ -364,9 +435,9 @@ export const masterCurriculum: CoursePackage[] = [
     level: 'A2',
     description: 'Maîtrisez les temps du passé, le futur simple, les pronoms COD/COI et bien plus encore pour raconter vos expériences en Belgique.',
     resources: [
-      { id: 'r_a21_1', name: 'Imparfait_Cheatsheet.pdf', type: 'pdf', url: '#' },
-      { id: 'r_a21_2', name: 'PC_vs_Imparfait_Guide.pdf', type: 'pdf', url: '#' },
-      { id: 'r_a21_3', name: 'Les_Pronoms_Tableau.pdf', type: 'pdf', url: '#' }
+      { id: 'r_a21_1', name: 'Imparfait_Cheatsheet.md', type: 'pdf', url: '/resources/Imparfait_Cheatsheet.md' },
+      { id: 'r_a21_2', name: 'PC_vs_Imparfait_Guide.md', type: 'pdf', url: '/resources/PC_vs_Imparfait_Guide.md' },
+      { id: 'r_a21_3', name: 'Les_Pronoms_Tableau.md', type: 'pdf', url: '/resources/Les_Pronoms_Tableau.md' }
     ],
     sections: [
       {
