@@ -20,6 +20,19 @@
 >
 > Je me souviens du jour **où** j'ai commencé ce travail. C'était à l'époque **où** je venais d'arriver en Belgique. Maintenant, au moment **où** je vous parle, je suis devenue manager !"
 
+<details>
+<summary>English Translation</summary>
+
+> "I work in an office **where** there is a lot of light. It is a place **where** I feel good.
+>
+> The building **where** I work is modern. The meeting room **where** we meet every morning has a beautiful view of the park.
+>
+> The neighborhood **where** the office is located is very convenient. There is a café **where** I have my lunch and a bookstore **where** I go often.
+>
+> I remember the day **when** I started this job. It was at the time **when** I had just arrived in Belgium. Now, at the moment **as** I speak to you, I have become a manager!"
+
+</details>
+
 ---
 
 ### Comprehension
@@ -167,6 +180,10 @@
 
 **Belgian work culture:**
 
+> "Le lieu **où** vous travaillez influe sur votre qualité de vie en Belgique. Bruxelles est le centre des affaires **où** beaucoup d'expatriés travaillent, notamment dans le quartier européen **où** se trouvent les institutions de l'UE. Mais les Belges valorisent aussi le télétravail : les jours **où** on travaille de la maison sont appréciés. L'équilibre vie privée-vie professionnelle est important à l'époque **où** nous vivons."
+
+> **En français**
+>
 > "Le lieu **où** vous travaillez influe sur votre qualité de vie en Belgique. Bruxelles est le centre des affaires **où** beaucoup d'expatriés travaillent, notamment dans le quartier européen **où** se trouvent les institutions de l'UE. Mais les Belges valorisent aussi le télétravail : les jours **où** on travaille de la maison sont appréciés. L'équilibre vie privée-vie professionnelle est important à l'époque **où** nous vivons."
 
 ### Workplace vocabulary

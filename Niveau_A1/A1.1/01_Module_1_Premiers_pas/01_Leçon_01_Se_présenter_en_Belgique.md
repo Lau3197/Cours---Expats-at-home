@@ -193,7 +193,40 @@ Say it 3 times out loud!
 
 ---
 
-## Observation 4: Saying where you live
+## Observation 4: Masculin ou Féminin ? (Un / Une)
+
+In French, **everything** has a gender: it is either **Masculine** or **Feminine**.
+
+- A man = **Un** homme (Masculine)
+- A woman = **Une** femme (Feminine)
+
+### The Rule: Un vs Une
+
+| Gender | Article | Example |
+|:-------|:--------|:--------|
+| Masculine 🚹 | **un** | **un** café, **un** croissant, **un** Américain |
+| Feminine 🚺 | **une** | **une** bière, **une** gaufre, **une** Belge |
+
+### And for Plural? (Des)
+
+If there is more than one, we use **Des** (for both masculine and feminine).
+
+- **Des** croissants (Plural)
+- **Des** gaufres (Plural)
+
+### Try it now!
+
+**Choose un, une, or des:**
+
+1. _____ homme
+2. _____ femme
+3. _____ pommes (plural)
+
+*(Réponses: 1. un, 2. une, 3. des)*
+
+---
+
+## Observation 5: Saying where you live
 
 **Look at this part of the dialogue:**
 
@@ -221,7 +254,7 @@ Say it 3 times out loud!
 
 ---
 
-## Observation 5: Enchanté(e)
+## Observation 6: Enchanté(e)
 
 **Look at the end of the dialogue:**
 

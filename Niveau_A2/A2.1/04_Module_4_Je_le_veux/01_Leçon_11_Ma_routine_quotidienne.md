@@ -32,6 +32,31 @@
 > 
 > **Tom :** Bien sûr ! Je **te** vois tous les jours au bureau !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Do you have breakfast in the morning?
+>
+> **Tom:** Yes, I have **it** around 8am. I eat cereals with milk.
+>
+> **Sophie:** Do you read the newspaper?
+>
+> **Tom:** No, I don't read **it**. I prefer listening to the radio. I listen to **it** while I prepare coffee.
+>
+> **Sophie:** And your emails, do you check **them** in the morning?
+>
+> **Tom:** Yes, I check **them** immediately. And I reply to urgent messages, I handle **them** first.
+>
+> **Sophie:** Do you do sports?
+>
+> **Tom:** Yes, I do **it** in the evening. I go to the gym. I find **it** very well equipped.
+>
+> **Sophie:** And me, do you see **me** sometimes? (laughs)
+>
+> **Tom:** Of course! I see **you** every day at the office!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -214,6 +239,10 @@ The noun (le petit-déjeuner, le journal, les emails) was replaced by a short wo
 ### Cultural note
 
 > "In French, using pronouns isn't just grammatically correct – it sounds more natural and elegant. Repeating nouns can sound childish or robotic to French speakers. Mastering pronouns will make your French flow much better!"
+
+> **En français**
+>
+> "En français, utiliser des pronoms n'est pas seulement grammaticalement correct – cela semble plus naturel et élégant. Répéter les noms peut paraître enfantin ou robotique pour les francophones. Maîtriser les pronoms rendra votre français beaucoup plus fluide !"
 
 ---
 

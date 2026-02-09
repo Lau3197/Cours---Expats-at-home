@@ -35,6 +35,29 @@
 > 
 > **Docteur :** Non, ne **leur** donnez rien s'ils ne sont pas malades.
 
+<details>
+<summary>English Translation</summary>
+
+> **Doctor:** Hello Sir. What is wrong?
+>
+> **Tom:** Hello Doctor. I don't feel well. I have a sore throat and I cough a lot.
+>
+> **Doctor:** Do you have a fever?
+>
+> **Tom:** A little, this morning. My wife gave **me** aspirin, but it doesn't go away.
+>
+> **Doctor:** I am going to examine you. Open your mouth... It's strep throat.
+>
+> **Tom:** Is it contagious? Do I have to call my boss to tell **him** that I am not coming?
+>
+> **Doctor:** Yes, it's better. I am going to make **him** a medical certificate for 3 days.
+>
+> **Tom:** And for my children? Do I give **them** medication as prevention?
+>
+> **Doctor:** No, don't give **them** anything if they are not sick.
+
+</details>
+
 ---
 
 ## 2. Grammaire Focus : Le COI (Lui / Leur)
@@ -134,6 +157,14 @@ Le médecin écrit une **ordonnance** pour acheter des médica ments à la **pha
 
 > **Culture Santé Belgique** :
 > En Belgique, on paie le médecin (environ 30-40€) et la **Mutuelle** rembourse une grande partie (environ 75%). Pour les médicaments, le pharmacien vous donne souvent le prix réduit directement.
+
+<details>
+<summary>English Translation</summary>
+
+> **Belgium Health Culture**:
+> In Belgium, you pay the doctor (about 30-40€) and the **Health Insurance** (Mutuelle) reimburses a large part (about 75%). For medicines, the pharmacist often gives you the reduced price directly.
+
+</details>
 
 ---
 

@@ -27,6 +27,27 @@
 > 
 > **Marc :** D'accord. Je **te l'**apporte demain au bureau.
 
+<details>
+<summary>English Translation</summary>
+
+> **Julie:** Do you have your camera?
+>
+> **Marc:** Yes, it is in my bag. Why?
+>
+> **Julie:** Can you lend **it to me**? I need it for this weekend.
+>
+> **Marc:** I'm willing to, but be careful! It's fragile.
+>
+> **Julie:** Promised! I (will) return **it to you** Monday morning.
+>
+> **Marc:** And the lenses? Do you want them too?
+>
+> **Julie:** No, I don't ask **you for them**. Just the camera.
+>
+> **Marc:** Okay. I (will) bring **it to you** tomorrow at the office.
+
+</details>
+
 ---
 
 ## 2. Grammaire : La Règle "1-2-3"

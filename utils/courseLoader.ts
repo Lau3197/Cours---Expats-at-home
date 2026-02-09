@@ -79,7 +79,9 @@ function parseLessonPath(path: string): {
  * Looks for first H1 heading: # Title
  */
 function extractLessonTitle(content: string): string {
-    const match = content.match(/^#\s+(.+)$/m);
+    // Remove BOM and leading whitespace
+    const cleanContent = content.replace(/^\uFEFF/, '').trimStart();
+    const match = cleanContent.match(/^#\s+(.+)$/m);
     return match ? match[1].trim() : 'Untitled Lesson';
 }
 
@@ -144,7 +146,7 @@ function extractVocabulary(content: string): VocabItem[] {
  */
 function extractGrammarSummary(content: string): Resource[] {
     // Regex to find the header
-    const headerRegex = /##\s*(?:📖\s*)?Grammar:?\s*Summary/i;
+    const headerRegex = /##\s*(?:📖\s*)?(?:Grammar|Grammaire)[:\s]*(?:Summary|Synthesis|Synthèse|Récapitulatif)/i;
     const match = content.match(headerRegex);
     if (!match) return [];
 

@@ -27,6 +27,25 @@
 > 
 > **Paul :** Ceux-là sont **les nôtres**. Allez, on y va !
 
+<details>
+<summary>English Translation</summary>
+
+> **Paul:** Look, the suitcases are arriving! Is that your suitcase, the red one?
+>
+> **Sarah:** No, **mine** is blue. And you, **which one** is **yours**?
+>
+> **Paul:** I don't know... There are two black suitcases.
+>
+> **Sarah:** You are talking about **which one**? The one with the yellow ribbon?
+>
+> **Paul:** No, the other one. Ah! It's good, it's **mine**!
+>
+> **Sarah:** Phew! And these bags? **Which ones** are ours?
+>
+> **Paul:** Those ones are **ours**. Come on, let's go!
+
+</details>
+
 ---
 
 ## 2. Grammaire 1 : Faire un choix avec LEQUEL

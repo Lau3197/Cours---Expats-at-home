@@ -31,6 +31,29 @@
 > 
 > **Sophie :** Absolument. La Belgique est tellement complexe !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Did you read the news this morning?
+>
+> **Tom:** Yes, I looked at the headlines on Le Soir. There was an accident on the Brussels ring.
+>
+> **Sophie:** Ah yes, I heard about it on the radio. Which channel do you listen to?
+>
+> **Tom:** La Première, on RTBF. And you, how do you stay informed?
+>
+> **Sophie:** I read online articles and I watch the 8pm news.
+>
+> **Tom:** Do you read Flemish newspapers too?
+>
+> **Sophie:** No, my Dutch isn't good enough. But I would like to try De Standaard one day.
+>
+> **Tom:** It's important to follow the news of both communities, right?
+>
+> **Sophie:** Absolutely. Belgium is so complex!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -191,6 +214,10 @@
 
 **Understanding Belgian media:**
 
+> "La Belgique a deux systèmes médiatiques distincts : francophone et néerlandophone. La RTBF (Radio-Télévision Belge Francophone) et la VRT (Vlaamse Radio- en Televisieomroep) sont les chaînes publiques. Chaque communauté a ses propres journaux, radios et télévisions. C'est pourquoi les Belges francophones et néerlandophones peuvent avoir des perspectives très différentes sur les mêmes événements. Lire la presse des deux côtés est important pour comprendre le pays !"
+
+> **En français**
+>
 > "La Belgique a deux systèmes médiatiques distincts : francophone et néerlandophone. La RTBF (Radio-Télévision Belge Francophone) et la VRT (Vlaamse Radio- en Televisieomroep) sont les chaînes publiques. Chaque communauté a ses propres journaux, radios et télévisions. C'est pourquoi les Belges francophones et néerlandophones peuvent avoir des perspectives très différentes sur les mêmes événements. Lire la presse des deux côtés est important pour comprendre le pays !"
 
 ### Stay informed

@@ -141,10 +141,13 @@ function extractVocabulary(content) {
 function extractMetadata(content) {
     if (!content) return { title: '', duration: '15:00', type: 'text', vocabulary: [] };
 
-    const titleMatch = content.match(/^# (.+)$/m);
+    // Remove BOM and leading whitespace/newlines
+    content = content.replace(/^\uFEFF/, '').trimStart();
+
+    const titleMatch = content.match(/^#\s+(.+)$/m);
     const durationMatch = content.match(/\*\*Durée (totale )?estimée\*\* : (.+)/);
 
-    let title = titleMatch ? titleMatch[1].trim() : '';
+    let title = titleMatch ? titleMatch[1].trim() : 'Untitled Lesson';
     let duration = durationMatch ? durationMatch[2].trim() : '15:00';
 
     const hasVideo = content.includes('youtube.com') || content.includes('youtu.be') || content.includes('.mp4');
@@ -168,31 +171,29 @@ function findLessonFiles() {
             continue;
         }
 
-        const lessonDirs = readdirSync(coursePath, { withFileTypes: true })
-            .filter(dirent => dirent.isDirectory() && dirent.name.startsWith('Lecon_'))
-            .map(dirent => dirent.name)
-            .sort((a, b) => {
-                const numA = parseInt(a.match(/\d+/)?.[0] || '0');
-                const numB = parseInt(b.match(/\d+/)?.[0] || '0');
-                return numA - numB;
-            });
+        const items = readdirSync(coursePath, { withFileTypes: true });
 
-        for (const lessonDir of lessonDirs) {
-            const lessonPath = join(coursePath, lessonDir);
-            const files = readdirSync(lessonPath)
+        for (const item of items) {
+            if (!item.isDirectory()) continue;
+            // Skip hidden files/dirs, assets, img
+            if (item.name.startsWith('.') || item.name === 'img' || item.name === 'assets') continue;
+
+            const subDirPath = join(coursePath, item.name);
+            const files = readdirSync(subDirPath)
                 .filter(f => f.endsWith('.md') && !f.includes('-Laurine'))
                 .sort();
 
-            if (files.length > 0) {
-                const filePath = join(lessonPath, files[0]);
+            // Structure 1: Legacy "Lecon_XX" folders
+            if (item.name.startsWith('Lecon_') && files.length > 0) {
+                const filePath = join(subDirPath, files[0]);
                 const content = readMarkdownFile(filePath);
 
                 if (content) {
                     const metadata = extractMetadata(content);
-                    const baseNumber = parseInt(lessonDir.match(/\d+/)?.[0] || '0');
+                    const baseNumber = parseInt(item.name.match(/\d+/)?.[0] || '0');
 
                     // Handle special suffix like _B1.2 -> add 100 to the number
-                    const hasB12Suffix = lessonDir.includes('_B1.2');
+                    const hasB12Suffix = item.name.includes('_B1.2');
                     const lessonNumber = hasB12Suffix ? baseNumber + 100 : baseNumber;
 
                     lessons.push({
@@ -203,6 +204,30 @@ function findLessonFiles() {
                         content,
                         ...metadata
                     });
+                }
+            }
+            // Structure 2: Module folders (e.g. "02_Projets_et_Meteo") containing "02_Leçon_08..."
+            else if (files.length > 0) {
+                for (const file of files) {
+                    const filePath = join(subDirPath, file);
+                    const content = readMarkdownFile(filePath);
+
+                    if (content) {
+                        const metadata = extractMetadata(content);
+
+                        // Extract lesson number from FILENAME
+                        const match = file.match(/Le[çc]on_?(\d+)/i) || file.match(/Lesson_?(\d+)/i) || file.match(/^(\d+)[_\s]/);
+                        const lessonNumber = match ? parseInt(match[1]) : 0;
+
+                        lessons.push({
+                            courseId: courseDir.toLowerCase().replace('.', '-').replace('_', '_'),
+                            courseDir,
+                            lessonNumber: lessonNumber,
+                            lessonId: `l${String(lessonNumber).padStart(3, '0')}`,
+                            content,
+                            ...metadata
+                        });
+                    }
                 }
             }
         }

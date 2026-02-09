@@ -25,6 +25,25 @@
 > 
 > **Marc :** Bonne idée. **Il faut qu'on en discute** avec la direction.
 
+<details>
+<summary>English Translation</summary>
+
+> **Marc:** Thank you for being here. **We must move forward** on project X.
+>
+> **Sophie:** Yes. I finished the analysis. But **I must verify** a few numbers still.
+>
+> **Marc:** Okay. Tom, did you contact the client?
+>
+> **Tom:** Not yet. **I must call him** this afternoon.
+>
+> **Marc:** It's urgent. **You must be** very persuasive.
+>
+> **Tom:** I know. I would also suggest changing the delivery date.
+>
+> **Marc:** Good idea. **We must discuss it** with management.
+
+</details>
+
 ---
 
 ## 2. Vocabulaire : La Réunion

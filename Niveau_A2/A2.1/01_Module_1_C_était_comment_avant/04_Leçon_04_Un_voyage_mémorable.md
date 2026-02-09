@@ -22,6 +22,21 @@
 >
 > Le soir, nous **avons dîné** dans un restaurant typique. Nous **étions** fatigués mais heureux. Cette journée **restera** un de mes meilleurs souvenirs !"
 
+<details>
+<summary>English Translation</summary>
+
+> "Last year, I **went** to Bruges with friends. It **was** in autumn. The sky **was** gray but the city **was** magnificent.
+>
+> We **arrived** around 10am. The streets **were** full of tourists. We **visited** the Belfry. The view **was** incredible!
+>
+> We **were walking** quietly when we **discovered** a small café. The owner **was** very welcoming. We **tasted** the best waffles of my life!
+>
+> In the afternoon, we **took** a boat ride. The water **was** calm. The houses **reflected** in the canal. It **was** really romantic.
+>
+> In the evening, we **had dinner** in a typical restaurant. We **were** tired but happy. This day **will remain** one of my best memories!"
+
+</details>
+
 ---
 
 ### Comprehension
@@ -58,7 +73,28 @@ These create the SEQUENCE of events.
 
 > C'**était** en automne. Le ciel **était** gris. La vue **était** incroyable. L'eau **était** calme.
 
+
 These describe HOW things were.
+
+---
+
+## Practice 1: Actions vs Descriptions
+
+**Identify if the phrase describes a sequence action (A) or the setting/description (D):**
+
+1. Nous avons visité le musée. → _____
+2. Le ciel était bleu. → _____
+3. Les gens étaient gentils. → _____
+4. Nous sommes rentrés à l'hôtel. → _____
+5. C'était magnifique. → _____
+
+### Answers
+
+1. A (Action - PC)
+2. D (Description - I)
+3. D (Description - I)
+4. A (Action - PC)
+5. D (Description - I)
 
 ---
 
@@ -80,7 +116,7 @@ These describe HOW things were.
 
 ---
 
-## Practice 1: Continue the story
+## Practice 2: Continue the story
 
 **Add sentences using the correct tense:**
 

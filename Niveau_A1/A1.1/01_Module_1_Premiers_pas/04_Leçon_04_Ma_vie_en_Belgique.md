@@ -1,8 +1,8 @@
-# Lesson 04: Ma vie en Belgique — Langues et Nationalités
+# Leçon 04 : Ma vie en Belgique — Langues et nationalités
 
-**Level:** A1.1  
-**Estimated duration:** 2-3 hours  
-**Objectives:** Say your nationality, talk about languages you speak, conjugate -ER verbs
+**Niveau :** A1.1  
+**Durée estimée :** 2-3 heures  
+**Objectifs :** Dire sa nationalité, parler des langues parlées, conjuguer les verbes en -ER
 
 ---
 

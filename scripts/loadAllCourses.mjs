@@ -120,7 +120,8 @@ function readMarkdownFile(filePath) {
 function extractMetadata(content) {
   if (!content) return { title: '', duration: '15:00', type: 'text' };
 
-  const titleMatch = content.match(/^# (.+)$/m);
+  const cleanContent = content.replace(/^\uFEFF/, '').trimStart();
+  const titleMatch = cleanContent.match(/^#\s+(.+)$/m);
   const durationMatch = content.match(/\*\*Durée estimée\*\*\s*:\s*(.*)/);
   const objectivesMatch = content.match(/\*\*Objectifs\*\*\s*:\s*(.*)/);
   const moduleMatch = content.match(/\*\*Module\*\*\s*:\s*(.*)/);

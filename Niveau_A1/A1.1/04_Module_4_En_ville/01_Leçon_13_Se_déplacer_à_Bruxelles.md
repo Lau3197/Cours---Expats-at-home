@@ -1,8 +1,8 @@
-# Leçon 12 : Se déplacer à Bruxelles
+# Leçon 13 : Se déplacer à Bruxelles
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Use public transport, ask for and give directions
+**Objectifs** : Utiliser les transports en commun, demander et donner des directions
 
 ---
 

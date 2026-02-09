@@ -26,13 +26,40 @@
 > 
 > **Vendeur :** Très bien. Voilà les carottes et les pommes.
 > 
-> **Sophie :** C'est tout. Ça fait combien ?
+> **Sophie :** C'est tout. �!a fait combien ?
 > 
-> **Vendeur :** Alors, les tomates 2€, les carottes 1€50, les pommes 2€. Ça fait **5 euros 50**.
+> **Vendeur :** Alors, les tomates 2��, les carottes 1��50, les pommes 2��. �!a fait **5 euros 50**.
 > 
 > **Sophie :** Voilà. Merci, bonne journée !
 > 
 > **Vendeur :** Merci à vous !
+
+<details>
+<summary>English Translation</summary>
+
+> **Vendor:** Hello madam! What can I get for you?
+>
+> **Sophie:** Hello! I would like some tomatoes, please.
+>
+> **Vendor:** How many do you want?
+>
+> **Sophie:** **One kilo**, please. How much are they?
+>
+> **Vendor:** Two euros a kilo. There you go! Anything else?
+>
+> **Sophie:** Yes, I would also like **a bunch** of carrots and **six** apples.
+>
+> **Vendor:** Very well. Here are the carrots and apples.
+>
+> **Sophie:** That's all. How much is it?
+>
+> **Vendor:** So, the tomatoes 2��, the carrots 1��50, the apples 2��. That makes **5 euros 50**.
+>
+> **Sophie:** Here you go. Thank you, have a nice day!
+>
+> **Vendor:** Thank you!
+
+</details>
 
 ---
 
@@ -73,7 +100,41 @@
 | Combien vous en voulez ? | How much do you want? |
 | Combien ça coûte ? | How much does it cost? |
 | C'est à combien ? | How much is this? |
-| Ça fait combien ? | How much is the total? |
+| �!a fait combien ? | How much is the total? |
+
+---
+
+## Practice 1: Ask the price
+
+**Translate these questions:**
+
+1. How much is this? →  _____________
+2. How much is the total? →  _____________
+3. How much do you want? →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. C'est à combien ?
+2. �!a fait combien ?
+3. Combien vous en voulez ?
+
+</details>
+
+### Le bon prix �x�
+
+**Imaginez que vous êtes au marché. Le vendeur parle vite !**
+
+*   "�!a fait trois cinquante." -> C'est **3.50��** ou **350��** ?
+*   "C'est deux euros le kilo." -> Pour 2 kilos, ça fait **2��** ou **4��** ?
+
+<details>
+<summary>Solutions</summary>
+
+1. 3.50�� (Bien sûr !)
+2. 4��
+</details>
+
 
 ---
 
@@ -100,14 +161,14 @@
 
 ---
 
-## Practice 1: Express quantities
+## Practice 2: Express quantities
 
 **Write in French:**
 
-1. A kilo of apples → _______________
-2. 200 grams of cheese → _______________
-3. A bunch of leeks → _______________
-4. A dozen eggs → _______________
+1. A kilo of apples →  _______________
+2. 200 grams of cheese →  _______________
+3. A bunch of leeks →  _______________
+4. A dozen eggs →  _______________
 
 <details>
 <summary>Answers</summary>
@@ -115,9 +176,26 @@
 1. Un kilo de pommes
 2. 200 grammes de fromage
 3. Une botte de poireaux
-4. Une douzaine d'œufs
+4. Une douzaine d'�ufs
 
 </details>
+
+### La Recette Géante �x��
+
+**Nous faisons une soupe pour 100 personnes ! Multipliez les quantités.**
+
+*   Pour 1 personne : Une carotte.
+*   Pour 100 personnes : **100** ____________ de carottes ! (Kilos ? Bottes ? Tonnes ?)
+*   Pour 1 personne : Une pomme de terre.
+*   Pour 100 personnes : **50** ____________ de pommes de terre ! (Kilos ?)
+
+<details>
+<summary>Solutions</summary>
+
+*   Cents **carottes** ou une dizaine de **bottes** de carottes.
+*   Kilos
+</details>
+
 
 ---
 
@@ -151,6 +229,42 @@
 
 ---
 
+## Practice 3: Fruit or Vegetable?
+
+**Classify these words:**
+
+1. la pomme →  _____________
+2. le poireau →  _____________
+3. la fraise →  _____________
+4. la carotte →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. Fruit
+2. Vegetable (Légume)
+3. Fruit
+4. Vegetable (Légume)
+
+</details>
+
+### Salade de Fruits �x�!
+
+**On mélange tout ! Retrouvez les fruits pour la salade.**
+
+*   Pomme - Courgette - Banane - Poireau.
+*   Quels sont les intrus (les légumes) ?
+
+<details>
+<summary>Solutions</summary>
+
+Intrus : Courgette, Poireau.
+On garde : Pomme, Banane.
+</details>
+
+
+---
+
 ## Observation 4: Market dialogue structure
 
 **Complete dialogue pattern:**
@@ -160,7 +274,7 @@
 | Bonjour ! Qu'est-ce que je vous sers ? | Je voudrais... |
 | Combien vous en voulez ? | [quantity] s'il vous plaît. |
 | Voilà. Autre chose ? | Oui, je voudrais aussi... / Non, c'est tout. |
-| Ça fait [price]. | Voilà. Merci ! |
+| �!a fait [price]. | Voilà. Merci ! |
 | Merci, bonne journée ! | Bonne journée ! |
 
 ---
@@ -171,7 +285,13 @@
 
 **Jean, market vendor in Brussels:**
 
-> "The Marché du Midi is the biggest market in Europe! Every Sunday, there are more than 450 vendors. You'll find fruits, vegetables, meat, fish, clothes, and even electronics. It's very international – you'll hear French, Arabic, Turkish, and many other languages. Arrive early for the best selection!"
+> "The Marché du Midi is the biggest market in Europe! Every Sunday, there are more than 450 vendors. You'll find fruits, vegetables, meat, fish, clothes, and even electronics. It's very international � you'll hear French, Arabic, Turkish, and many other languages. Arrive early for the best selection!"
+
+> **En français**
+>
+> "Le Marché du Midi est le plus grand marché d'Europe ! Chaque dimanche, il y a plus de 450 vendeurs. On y trouve des fruits, des légumes, de la viande, du poisson, des vêtements et même de l'électronique. C'est très international � on entend parler français, arabe, turc et beaucoup d'autres langues. Arrivez tôt pour avoir le meilleur choix !"
+
+
 
 ### Famous Brussels markets
 
@@ -184,7 +304,7 @@
 
 ---
 
-## Practice 2: Complete the dialogue
+## Practice 4: Complete the dialogue
 
 **Fill in the blanks:**
 
@@ -211,6 +331,21 @@
 
 </details>
 
+### Le Vendeur Sourd �x
+
+**Le vendeur n'entend pas bien. Répétez plus fort (avec des majuscules !).**
+
+*   Client : "Je voudrais des pommes."
+*   Vendeur : "Comment ?"
+*   Client : "JE VOUDRAIS DES _____________ !"
+
+<details>
+<summary>Solution</summary>
+
+POMMES
+</details>
+
+
 ---
 
 ## Speaking Practice
@@ -228,8 +363,8 @@
 
 **Say the prices out loud:**
 
-- Tomatoes: 2€ → "Les tomates, c'est deux euros."
-- Total: 8€50 → "Ça fait huit euros cinquante."
+- Tomatoes: 2�� →  "Les tomates, c'est deux euros."
+- Total: 8��50 →  "�!a fait huit euros cinquante."
 
 ---
 
@@ -316,3 +451,4 @@ Include:
 ---
 
 *Bonne continuation !*
+

@@ -20,6 +20,19 @@
 >
 > C'est un quartier **qui** a du charme, **que** je recommande, et **où** je me sens vraiment chez moi !"
 
+<details>
+<summary>English Translation</summary>
+
+> "I live in Saint-Gilles, a neighborhood **which** is very cosmopolitan. It is a place **that** I love!
+>
+> The apartment **that** I rent is small but bright. The street **where** I live is quiet. There is a café **which** makes excellent croissants and a market **that** I visit every Sunday.
+>
+> The neighbors **who** live next door are very friendly. The landlady **whom** I met is Belgian. The friends **whom** I invite come often.
+>
+> It is a neighborhood **which** has charm, **that** I recommend, and **where** I really feel at home!"
+
+</details>
+
 ---
 
 ### Comprehension
@@ -169,6 +182,10 @@
 
 **Brussels is divided into 19 communes:**
 
+> "Chaque commune a son identité. Saint-Gilles, **qui** est très multiculturel, attire les artistes. Ixelles, **que** les étudiants adorent, a beaucoup de bars. Uccle, **qui** est plus résidentiel, est calme. Etterbeek, **que** les familles préfèrent, a de bonnes écoles. Le quartier européen, **où** travaillent les fonctionnaires, est moderne."
+
+> **En français**
+>
 > "Chaque commune a son identité. Saint-Gilles, **qui** est très multiculturel, attire les artistes. Ixelles, **que** les étudiants adorent, a beaucoup de bars. Uccle, **qui** est plus résidentiel, est calme. Etterbeek, **que** les familles préfèrent, a de bonnes écoles. Le quartier européen, **où** travaillent les fonctionnaires, est moderne."
 
 ### Neighborhoods described

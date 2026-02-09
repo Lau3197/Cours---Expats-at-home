@@ -20,6 +20,19 @@
 >
 > Finalement, il **est arrivé** chez lui. Il **était** épuisé mais content. C'**était** le début de sa nouvelle vie !"
 
+<details>
+<summary>English Translation</summary>
+
+> "My friend Marc **arrived** in Belgium two years ago. It **was raining** that day and it **was** cold. Marc **didn't speak** French at all.
+>
+> He **took** a taxi at the airport. The driver **was** very nice. He **helped** Marc with his suitcases.
+>
+> Marc **was looking for** his apartment when he **got lost**. He **called** his contact who **guided him** by phone.
+>
+> Finally, he **arrived** home. He **was** exhausted but happy. It **was** the beginning of his new life!"
+
+</details>
+
 ---
 
 ### Comprehension
@@ -67,24 +80,6 @@ These describe **the situation/background** - how things were.
 
 ---
 
-## Observation 2: The key difference
-
-### Think of it like a movie:
-
-| Imparfait | Passé composé |
-|:----------|:--------------|
-| The scene | The action |
-| Background music | Plot events |
-| Setting description | What happens |
-| Ongoing state | Completed event |
-
-**Example:**
-
-> Il **pleuvait** (background) quand Marc **est arrivé** (action).  
-> Marc **cherchait** (ongoing) quand il **s'est perdu** (sudden event).
-
----
-
 ## Practice 1: Identify the tense
 
 **Is each verb imparfait (I) or passé composé (PC)?**
@@ -104,6 +99,26 @@ These describe **the situation/background** - how things were.
 5. I (state/condition)
 
 ---
+
+## Observation 2: The key difference
+
+### Think of it like a movie:
+
+| Imparfait | Passé composé |
+|:----------|:--------------|
+| The scene | The action |
+| Background music | Plot events |
+| Setting description | What happens |
+| Ongoing state | Completed event |
+
+**Example:**
+
+> Il **pleuvait** (background) quand Marc **est arrivé** (action).  
+> Marc **cherchait** (ongoing) quand il **s'est perdu** (sudden event).
+
+---
+
+
 
 ## Observation 3: Signal words
 
@@ -172,6 +187,13 @@ These describe **the situation/background** - how things were.
 **Anna, American expat:**
 
 > "Mon arrivée en Belgique était un peu chaotique ! C'était en novembre, il pleuvait beaucoup. Mon train est arrivé à Bruxelles-Midi avec 30 minutes de retard. Je cherchais la sortie quand j'ai réalisé que je comprenais le français mais pas le néerlandais sur les panneaux ! Un Belge très sympa m'a aidée. C'était ma première leçon sur la Belgique trilingue !"
+
+<details>
+<summary>English Translation</summary>
+
+> "My arrival in Belgium was a bit chaotic! It was in November, it was raining a lot. My train arrived at Brussels-Midi with 30 minutes delay. I was looking for the exit when I realized that I understood French but not Dutch on the signs! A very nice Belgian helped me. It was my first lesson on trilingual Belgium!"
+
+</details>
 
 ### Sharing arrival stories
 

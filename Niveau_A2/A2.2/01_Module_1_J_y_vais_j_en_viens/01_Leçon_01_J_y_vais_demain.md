@@ -28,6 +28,27 @@
 > 
 > **Tom :** Bien sûr ! J'**y** pense tous les jours au bureau !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Are you going to the office tomorrow?
+>
+> **Tom:** Yes, I go **there** every day. And you, are you going to the gym?
+>
+> **Sophie:** Yes, I go **there** in the evening. Do you want to go **there** with me?
+>
+> **Tom:** Good idea! And this weekend, are you going to Bruges?
+>
+> **Sophie:** No, I am not going **there**. I went **there** last week. I am staying in Brussels.
+>
+> **Tom:** Are you thinking about your vacation?
+>
+> **Sophie:** Yes, I think **about it** often! I dream of beach and sun. Do you think **about it** too?
+>
+> **Tom:** Of course! I think **about it** every day at the office!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -177,6 +198,10 @@
 **Belgian mobility:**
 
 > "In Belgium, public transport is well-developed. Many people go to work by train, tram, or metro. 'J'y vais en train' (I go there by train) is a common phrase. Belgians often talk about where they go: 'J'y vais tous les jours' for daily commutes. Belgium is small, so 'J'y suis allé le week-end dernier' could mean a trip to any Belgian city – they're all within 2 hours!"
+
+> **En français**
+>
+> "En Belgique, les transports en commun sont bien développés. Beaucoup de gens vont au travail en train, tram ou métro. 'J'y vais en train' est une phrase courante. Les Belges parlent souvent de l'endroit où ils vont : 'J'y vais tous les jours' pour les trajets quotidiens. La Belgique est petite, donc 'J'y suis allé le week-end dernier' pourrait signifier un voyage dans n'importe quelle ville belge – elles sont toutes à moins de 2 heures !"
 
 ### Transport vocabulary with Y
 

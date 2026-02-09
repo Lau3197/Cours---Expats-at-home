@@ -34,9 +34,40 @@
 > 
 > **Serveur :** Parfait. Et comme boisson ?
 > 
-> **Tom :** Une carafe d'eau et deux bières, s'il vous plaît.
+> **Tom :** Une bouteille d'eau pétillante et deux bières, s'il vous plaît.
 > 
 > **Serveur :** Très bien. Je vous apporte ça tout de suite.
+
+<details>
+<summary>English Translation</summary>
+
+> **Waiter:** Good evening! Do you have a reservation?
+>
+> **Sophie:** Yes, a table for two under the name Sophie.
+>
+> **Waiter:** Very well. Follow me. Here is the menu.
+>
+> *(a few minutes later)*
+>
+> **Waiter:** Have you chosen?
+>
+> **Sophie:** Yes. **I would like** the onion soup as a starter.
+>
+> **Tom:** And for me, **I'll have** the Caesar salad.
+>
+> **Waiter:** And for the main course?
+>
+> **Sophie:** **For me**, the steak and fries, **rare** please.
+>
+> **Tom:** And **for me**, the mussels and fries.
+>
+> **Waiter:** Perfect. And to drink?
+>
+> **Tom:** A bottle of sparkling water and two beers, please.
+>
+> **Waiter:** Very well. I'll bring that right away.
+
+</details>
 
 ---
 
@@ -57,7 +88,7 @@
 2. Onion soup (soupe à l'oignon)
 3. Rare (saignant)
 4. Mussels with fries (moules-frites)
-5. A carafe of water and two beers
+5. A bottle of sparkling water and two beers
 
 </details>
 
@@ -80,24 +111,63 @@
 | Je prends... | I'll have... | Standard |
 | Pour moi... | For me... | Casual |
 
+### Focus Grammaire : Le verbe "Prendre" 🎒
+
+**"Je prends" (I take/I have) est essentiel au restaurant.**
+
+| Sujet | Conjugaison |
+|:---|:---|
+| Je | **prends** |
+| Tu | **prends** |
+| Il/Elle/On | **prend** |
+| Nous | **prenons** |
+| Vous | **prenez** |
+| Ils/Elles | **prennent** |
+
+**Exemples :**
+*   *Je prends le menu.* (I'll have the menu)
+*   *Qu'est-ce que vous prenez ?* (What are you having?)
+
 ---
 
-## Practice 1: Order your meal
+## Practice 1: Grammar Drill - Prendre
 
-**Complete with "Je voudrais" or "Je prends":**
+**Complétez avec la bonne conjugaison du verbe PRENDRE :**
 
-1. _____________ une pizza margherita.
-2. _____________ le menu du jour.
-3. _____________ une salade verte.
+1.  **Tom :** "Je ___________ la salade César."
+2.  **Sophie et Marie :** "Nous ___________ les moules-frites."
+3.  **Le serveur :** "Qu'est-ce que vous ___________ comme boisson ?"
+4.  **Tes amis :** "Ils ___________ le menu du jour."
 
 <details>
-<summary>Answers</summary>
+<summary>Réponses</summary>
 
-1. Je voudrais / Je prends une pizza margherita.
-2. Je voudrais / Je prends le menu du jour.
-3. Je voudrais / Je prends une salade verte.
+1. **prends**
+2. **prenons**
+3. **prenez**
+4. **prennent**
 
 </details>
+
+### Le Serveur Distrait 🥵
+
+**Le serveur fait des erreurs. Choisissez la réaction la plus polie !**
+
+1. **Il vous apporte une soupe froide.**
+   - [f] "C'est dégueulasse !"
+   - [t] "Pardon, ma soupe est froide. Pouvez-vous la chauffer ?"
+   - [f] "Je ne paie pas pour ça !"
+
+2. **Il a oublié votre vin.**
+   - [f] "Hé ! Le vin !"
+   - [f] "Vous êtes nul."
+   - [t] "Excusez-moi, je n'ai pas encore reçu mon vin."
+
+3. **Il y a une mouche dans votre salade.** 🪰
+   - [t] "Excusez-moi, il y a un problème avec mon plat."
+   - [f] "Ah ! De la viande supplémentaire !"
+   - [f] "C'est une blague ?"
+
 
 ---
 
@@ -105,9 +175,9 @@
 
 **Look at the key words in the dialogue:**
 
-> une entrée → la soupe  
-> un plat principal → le steak-frites  
-> une boisson → une bière
+> une entrée →  la soupe  
+> un plat principal →  le steak-frites  
+> une boisson →  une bière
 
 ### Menu structure
 
@@ -133,6 +203,76 @@
 | le poisson | fish |
 | les pâtes | pasta |
 
+### Focus Grammaire : Le verbe "Boire" 🥤
+
+**Pour commander des boissons, il faut connaître le verbe BOIRE.**
+
+| Sujet | Conjugaison | Prononciation |
+|:---|:---|:---|
+| Je | **bois** | /bwa/ |
+| Tu | **bois** | /bwa/ |
+| Il/Elle/On | **boit** | /bwa/ |
+| Nous | **buvons** | /bu.vɔ̃/ |
+| Vous | **buvez** | /bu.ve/ |
+| Ils/Elles | **boivent** | /bwav/ |
+
+**Exemples :**
+*   *Je bois de l'eau.*
+*   *Nous buvons du vin.*
+
+---
+
+## Practice 2: Categorize the food
+
+**Match the items to the correct category (Entrée, Plat, Boisson, Dessert):**
+
+1. Le steak-frites →  _____________
+2. La mousse au chocolat →  _____________
+3. La soupe à l'oignon →  _____________
+4. Le coca →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. Plat
+2. Dessert
+3. Entrée
+4. Boisson
+
+</details>
+
+### Pratique : Conjuguez BOIRE
+
+**Complétez avec la bonne forme :**
+
+1.  Je _____ un café.
+2.  Nous _____ de l'eau.
+3.  Vous _____ du vin ?
+
+<details>
+<summary>Réponses</summary>
+1. **bois**
+2. **buvons**
+3. **buvez**
+</details>
+
+### L'Intrus 🕵️‍♀️
+
+**Trouvez l'intrus (the intruder) dans chaque liste !**
+
+1.  Soupe - Salade - Glace - Pâté (Contexte : Entrées)
+2.  Steak - Poulet - Café - Poisson (Contexte : Plats)
+3.  Tarte - Mousse au chocolat - Frites - Glace (Contexte : Desserts)
+
+<details>
+<summary>Solutions</summary>
+
+1. Glace (Dessert)
+2. Café (Boisson)
+3. Frites (Accompagnement / Plat)
+</details>
+
+
 ---
 
 ## Observation 3: How do you like your steak?
@@ -152,7 +292,41 @@
 
 ---
 
-## Practice 2: Complete the order
+## Practice 3: Cooking levels
+
+**Complete with the right cooking level:**
+
+1. I like it very red inside (rare) →  _____________
+2. I like it with no pink (well done) →  _____________
+3. I like it pink in the middle (medium) →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. Saignant
+2. Bien cuit
+3. à point
+
+</details>
+
+### Le Chef en Colère 👨‍🍳
+
+**Le client se plaint ! Comprenez-vous le problème ?**
+
+1. "C'est froid au centre !" -> C'est trop **bleu** / **bien cuit** ?
+2. "C'est comme de la semelle (shoe sole) !" -> C'est trop **saignant** / **bien cuit** ?
+
+<details>
+<summary>Solutions</summary>
+
+1. Bleu (ou froid tout court !)
+2. Bien cuit (Trop cuit)
+</details>
+
+
+---
+
+## Practice 4: Complete the order
 
 **Fill in the blanks:**
 
@@ -166,7 +340,7 @@
 
 **Serveur :** Et comme _____________ (drink)?
 
-**You :** Une _____________ (carafe) d'eau, s'il vous plaît.
+**You :** Une _____________ (bottle) d'eau, s'il vous plaît.
 
 <details>
 <summary>Answers</summary>
@@ -174,9 +348,26 @@
 1. entrée
 2. à point
 3. boisson
-4. carafe
+4. bouteille
 
 </details>
+
+### Emoji Menu 🍽️
+
+**Commandez ce que vous voyez !**
+
+1. 🍗 + 🍟 -> Je voudrais __________________.
+2. 🥗 + 🧀 -> Je prends __________________.
+3. 🍷 -> Et comme boisson, __________________.
+
+<details>
+<summary>Solutions</summary>
+
+1. Le poulet-frites
+2. La salade au fromage
+3. Du vin / Un verre de vin
+</details>
+
 
 ---
 
@@ -205,13 +396,53 @@
 
 ---
 
+## Practice 5: The Bill
+
+**Translate these sentences:**
+
+1. The bill, please. →  _____________
+2. Can I pay by card? →  _____________
+3. Is service included? →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. L'addition, s'il vous plaît.
+2. Je peux payer par carte ?
+3. Le service est compris ?
+
+</details>
+
+### Le Juste Prix 💰
+
+**   2 Steaks (40€) + 1 Bouteille de vin (25€) + 2 Cafés (6€).
+*   Ça fait combien ?
+    *   A. 50€
+    *   B. 71€
+    *   C. 100€
+
+<details>
+<summary>Solution</summary>
+
+B. 71€ (40+25+6)
+</details>
+
+
+---
+
 ## Culture: Dining in Belgium
 
 ### Read this testimony
 
 **Marc, Belgian restaurant owner:**
 
-> "In Belgium, we take our time at restaurants. A meal can last 2-3 hours – it's a social experience! Tipping isn't obligatory because service is included in the price, but you can round up the bill or leave 5-10% for excellent service."
+> "In Belgium, we take our time at restaurants. A meal can last 2-3 hours – it's a social experience! Tipping isn't obligatory because service is included in the price, but you can round up the bill or leave 5-10% for excellent service. Also, **we don't serve free tap water** like in France. You pay for mineral water (Plate or Pétillante)."
+
+> **En français**
+>
+> "En Belgique, on prend le temps au restaurant. Un repas peut durer 2 ou 3 heures – c'est un moment social ! Le pourboire n'est pas obligatoire car le service est inclus dans le prix, mais on peut arrondir l'addition ou laisser 5-10% pour un excellent service. Aussi, **on ne sert pas d'eau du robinet gratuite** comme en France. On paie l'eau minérale (Plate ou Pétillante)."
+
+
 
 ### Belgian restaurant customs
 
@@ -222,12 +453,13 @@
 | Tipping | Optional, 5-10% for great service |
 | Meal times | Lunch 12-14h, Dinner 19-21h |
 | Dress code | Smart casual for most restaurants |
+| Water | **Not free**. Ask for "Eau plate" (still) or "Pétillante" (sparkling) |
 
 ### Belgian specialties
 
 | Dish | Description |
 |:-----|:------------|
-| Moules-frites | Mussels with fries – national dish! |
+| Moules-frites | Mussels with fries � national dish! |
 | Carbonnade flamande | Beef stewed in beer |
 | Waterzooi | Creamy chicken or fish stew |
 | Vol-au-vent | Chicken in creamy sauce |
@@ -271,59 +503,6 @@ Include:
 
 ---
 
-## Grammar 1: Definite vs Indefinite Articles
-
-### The Concept 💡
-In French, the article you choose changes the meaning!
-
-*   **Le / La / Les** (Definite) = A **specific** object (or general category preference).
-*   **Un / Une / Des** (Indefinite) = A **non-specific** object (one among many).
-
-**At the restaurant:**
-
-| Meaning | Phrase | Context |
-| :--- | :--- | :--- |
-| **Specific** item (from the menu) | Je voudrais **la** soupe du jour. | "The soup that is on the menu." |
-| **Any** item | Je voudrais **une** carafe d'eau. | "A carafe (any carafe will do)." |
-| **Category** (Preference) | J'aime **le** vin rouge. | "I like red wine in general." |
-
-### Practice
-**Complete with le/la or un/une:**
-1.  Je prends _____ menu à 25€. (Specific menu)
-2.  Je voudrais _____ verre de vin. (Any glass)
-3.  J'adore _____ chocolat. (General preference)
-
-<details>
-<summary>Answers</summary>
-1. **le** menu
-2. **un** verre
-3. **le** chocolat
-</details>
-
----
-
-## Grammar 2: The verb "prendre" (to take/have)
-
-### Complete conjugation
-
-| Subject | Conjugation |
-|:--------|:------------|
-| Je | prends |
-| Tu | prends |
-| Il/Elle/On | prend |
-| Nous | prenons |
-| Vous | prenez |
-| Ils/Elles | prennent |
-
-### Uses in restaurant context
-
-| French | English |
-|:-------|:--------|
-| Je prends le menu du jour. | I'll have the daily special. |
-| Qu'est-ce que vous prenez ? | What will you have? |
-| On prend l'addition. | We'll take the bill. |
-
----
 
 ## Common Mistakes to Avoid
 
@@ -347,7 +526,7 @@ In French, the article you choose changes the meaning!
 
 | Incorrect | Correct |
 |:----------|:--------|
-| Medium | **À point** |
+| Medium | **ì point** |
 | Rare | **Saignant** |
 
 **Use French terms for steak doneness!**
@@ -383,3 +562,4 @@ In French, the article you choose changes the meaning!
 ---
 
 *Bonne continuation !*
+

@@ -24,6 +24,23 @@
 > 
 > **Sophie :** Bienvenue en Belgique ! En hiver, il faut bien se couvrir. Au printemps, tu auras besoin d'**un imperméable**. En été, tu pourras enfin porter **une chemise légère**.
 
+<details>
+<summary>English Translation</summary>
+
+> **Tom:** Sophie, it's cold today. What should I put on?
+>
+> **Sophie:** You need a warm coat and a scarf. It's 5 degrees!
+>
+> **Tom:** And gloves?
+>
+> **Sophie:** Yes, good idea. And don't forget a hat!
+>
+> **Tom:** In California, I wore a t-shirt and shorts all year. Here, I wear a sweater, pants, and sometimes boots!
+>
+> **Sophie:** Welcome to Belgium! In winter, you have to cover up well. In spring, you'll need a raincoat. In summer, you can finally wear a light shirt.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -88,7 +105,71 @@
 | un parapluie | umbrella |
 | des bottes de pluie | rain boots |
 
+
 ---
+
+## Grammar: Colors with clothing
+
+### Agreement reminder
+
+Colors agree with the noun they describe:
+
+| Masculine | Feminine | Plural |
+|:----------|:---------|:-------|
+| un pull **bleu** | une robe **bleue** | des chaussures **bleues** |
+| un pantalon **noir** | une jupe **noire** | des gants **noirs** |
+
+### Invariable colors
+
+Some colors don't change: orange, marron
+
+| Example |
+|:--------|
+| une veste **marron** (not marronne) |
+| des chaussures **orange** (not oranges) |
+
+---
+
+## Practice 1: Clothing & Colors
+
+**Choose the correct form:**
+
+1. J'ai une robe (noir / noire).
+2. Il porte un pantalon (gris / grise).
+3. Elle met ses bottes (rouges / rouge).
+4. C'est une écharpe (blanc / blanche).
+5. Il achète des gants (marron / marrons).
+
+<details>
+<summary>Answers</summary>
+
+1. J'ai une robe **noire**.
+2. Il porte un pantalon **gris**.
+3. Elle met ses bottes **rouges**.
+4. C'est une écharpe **blanche**.
+5. Il achète des gants **marron**.
+
+</details>
+
+### Le Cam'l�on >�
+
+**Le cam'l�on change de couleur ! Quelle est la bonne ?**
+1. Une tomate (Rouge / Rouges) -> Une tomate **rouge**.
+2. Des bananes (Jaune / Jaunes) -> Des bananes **jaunes**.
+3. Un ciel (Bleu / Bleue) -> Un ciel **bleu**.
+
+<details>
+<summary>Solutions</summary>
+
+1. Rouge
+2. Jaunes
+3. Bleu
+</details>
+
+
+---
+
+
 
 ## Observation 2: The verb "porter" (to wear)
 
@@ -110,7 +191,7 @@
 
 ---
 
-## Practice 1: What are you wearing?
+## Practice 2: What are you wearing?
 
 **Describe what you're wearing right now:**
 
@@ -119,6 +200,16 @@
 Write 3-4 items of clothing.
 
 ---
+
+### D'fil� de Mode =t
+
+**C'est la Fashion Week ! D'crivez ce mannequin bizarre.**
+*   Il porte un chapeau **vert**.
+*   Il porte une veste **rose**.
+*   Il porte un pantalon **orange**.
+
+*C'est beau ou c'est moche ?*
+
 
 ## Observation 3: The seasons
 
@@ -140,7 +231,44 @@ Write 3-4 items of clothing.
 | l'automne | **en** | en automne |
 | l'hiver | **en** | en hiver |
 
+
 ---
+
+## Practice 3: Seasons
+
+**Match the season to the month:**
+
+1. Janvier is in...
+2. Août is in...
+3. Octobre is in...
+4. Avril is in...
+
+<details>
+<summary>Answers</summary>
+
+1. **Hiver** (Winter)
+2. **�0té** (Summer)
+3. **Automne** (Autumn)
+4. **Printemps** (Spring)
+
+</details>
+
+### La Valise Perdue >�
+
+**On a perdu la valise ! Retrouvez le mois.**
+*   Dans la valise : Un maillot de bain, des lunettes de soleil, de la cr'me solaire.
+*   C'est pour le mois de... (D'cembre / Juillet / Octobre) ?
+
+<details>
+<summary>Solution</summary>
+
+Juillet (�t�)
+</details>
+
+
+---
+
+
 
 ## Observation 4: Clothing by season
 
@@ -150,7 +278,7 @@ Write 3-4 items of clothing.
 |:-------|:-----------------|
 | Hiver | un manteau, une écharpe, des gants, un bonnet |
 | Printemps | un imperméable, un pull léger, un jean |
-| Été | un t-shirt, un short, une robe, des sandales |
+| �0té | un t-shirt, un short, une robe, des sandales |
 | Automne | une veste, un pull, un pantalon, des bottes |
 
 ---
@@ -161,7 +289,13 @@ Write 3-4 items of clothing.
 
 **Marie, Belgian fashion blogger:**
 
-> "Belgians dress practically for the weather. We love dark colors in winter – black, gray, navy blue. But we're also known for being stylish! Brussels has great vintage shops in the Marolles and designer boutiques on Avenue Louise. For rain, every Belgian owns a good raincoat. For the office, smart casual is the norm."
+> "Belgians dress practically for the weather. We love dark colors in winter � black, gray, navy blue. But we're also known for being stylish! Brussels has great vintage shops in the Marolles and designer boutiques on Avenue Louise. For rain, every Belgian owns a good raincoat. For the office, smart casual is the norm."
+
+> **En français**
+>
+> "Les Belges s'habillent de manière pratique pour la météo. Nous aimons les couleurs sombres en hiver � noir, gris, bleu marine. Mais nous sommes aussi connus pour être stylés ! Bruxelles a de superbes friperies dans les Marolles et des boutiques de créateurs sur l'Avenue Louise. Pour la pluie, chaque Belge possède un bon imperméable. Pour le bureau, le style 'casual chic' est la norme."
+
+
 
 ### Shopping in Brussels
 
@@ -170,12 +304,12 @@ Write 3-4 items of clothing.
 | Department stores | Inno, Galeria |
 | Fashion chains | H&M, Zara, Uniqlo |
 | Belgian designers | Dries Van Noten, Maison Margiela |
-| Second-hand | Les Enfants d'Édouard, Épisode |
+| Second-hand | Les Enfants d'�0douard, �0pisode |
 | Markets | Place du Jeu de Balle (vintage) |
 
 ---
 
-## Practice 2: Complete the sentences
+## Practice 4: Complete the sentences
 
 **Fill in the blanks:**
 
@@ -185,6 +319,20 @@ Write 3-4 items of clothing.
 4. Pour aller au bureau, je porte _____________.
 
 ---
+
+### Le Vendeur Distrait =�
+
+**Le vendeur vous donne n'importe quoi ! Corrigez-le.**
+*   Vous : "Je voudrais un pull pour l'hiver."
+*   Vendeur : "Tenez, un maillot de bain !"
+*   Vous : "Mais non ! Je veux un **pull** (chaud) !"
+
+*   Vous : "Il pleut !"
+*   Vendeur : "Tenez, des sandales !"
+*   Vous : "Mais non ! Je veux des **bottes** !"
+
+---
+
 
 ## Speaking Practice
 
@@ -214,29 +362,7 @@ Include:
 - What season it's for
 - Why you like it
 
----
 
-## Grammar: Colors with clothing
-
-### Agreement reminder
-
-Colors agree with the noun they describe:
-
-| Masculine | Feminine | Plural |
-|:----------|:---------|:-------|
-| un pull **bleu** | une robe **bleue** | des chaussures **bleues** |
-| un pantalon **noir** | une jupe **noire** | des gants **noirs** |
-
-### Invariable colors
-
-Some colors don't change: orange, marron
-
-| Example |
-|:--------|
-| une veste **marron** (not marronne) |
-| des chaussures **orange** (not oranges) |
-
----
 
 ## Common Mistakes to Avoid
 
@@ -290,3 +416,4 @@ Some colors don't change: orange, marron
 ---
 
 *Bonne continuation !*
+

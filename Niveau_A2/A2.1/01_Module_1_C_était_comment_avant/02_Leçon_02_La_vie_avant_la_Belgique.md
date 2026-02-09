@@ -20,6 +20,19 @@
 >
 > Maintenant, je vis à Bruxelles et j'adore ça, mais parfois San Francisco me manque."
 
+<details>
+<summary>English Translation</summary>
+
+> "Before coming to Belgium, I **lived** in San Francisco. I **worked** in a start-up. My apartment **was** small but modern.
+>
+> Every morning, I **had** my coffee in the same café. My colleagues and I **had lunch** together. In the afternoon, I often **did** sports after work.
+>
+> On weekends, I **went** to the beach or I **went** hiking. The sun **shone** almost all the time. Life **was** different...
+>
+> Now, I live in Brussels and I love it, but sometimes I miss San Francisco."
+
+</details>
+
 ---
 
 ### Comprehension
@@ -133,6 +146,13 @@ Complete these sentences:
 **Marie, French expat in Brussels:**
 
 > "Avant de venir en Belgique, j'habitais à Lyon. Je travaillais dans un hôpital. La vie était très différente : je commençais à 6h du matin ! Le week-end, je faisais du ski dans les Alpes. Maintenant, je travaille moins et je profite de la vie bruxelloise. Mais les montagnes me manquent parfois."
+
+<details>
+<summary>English Translation</summary>
+
+> "Before coming to Belgium, I lived in Lyon. I worked in a hospital. Life was very different: I started at 6am! On weekends, I went skiing in the Alps. Now, I work less and I enjoy Brussels life. But sometimes I miss the mountains."
+
+</details>
 
 ### Common themes in expat stories
 

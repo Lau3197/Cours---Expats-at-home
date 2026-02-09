@@ -20,7 +20,7 @@
 > 
 > **Tom :** C'est quoi exactement une praline ?
 > 
-> **Vendeur :** C'est une spécialité belge – un chocolat fourré inventé ici à Bruxelles en 1912 !
+> **Vendeur :** C'est une spécialité belge � un chocolat fourré inventé ici à Bruxelles en 1912 !
 > 
 > **Sophie :** Je voudrais goûter celle au caramel.
 > 
@@ -31,6 +31,31 @@
 > **Tom :** Mmm, c'est fondant et pas trop sucré. Délicieux !
 > 
 > **Sophie :** Le caramel est crémeux et doux. J'adore !
+
+<details>
+<summary>English Translation</summary>
+
+> **Vendor:** Hello! Welcome to Neuhaus. Can I help you?
+>
+> **Sophie:** Hello! We would like to taste some chocolates.
+>
+> **Vendor:** Of course! We have pralines with praline, caramel, and dark chocolate.
+>
+> **Tom:** What exactly is a praline?
+>
+> **Vendor:** It's a Belgian specialty � a filled chocolate invented here in Brussels in 1912!
+>
+> **Sophie:** I would like to taste the caramel one.
+>
+> **Tom:** And me, the dark chocolate one.
+>
+> **Vendor:** Here you go! So, what do you think?
+>
+> **Tom:** Mmm, it's melting and not too sweet. Delicious!
+>
+> **Sophie:** The caramel is creamy and sweet. I love it!
+
+</details>
 
 ---
 
@@ -84,11 +109,43 @@
 
 ---
 
+## Practice 1: Vocabulary
+
+**True or False? (Vrai ou Faux)**
+
+1.  La gaufre de Bruxelles est dense et sucrée. (___)
+2.  Une praline est une spécialité belge. (___)
+3.  Le chocolat blanc est noir. (___)
+
+<details>
+<summary>Answers</summary>
+
+1.  **Faux** (C'est la gaufre de Liège).
+2.  **Vrai**.
+3.  **Faux**.
+</details>
+
+### L'Intrus Gourmand <k
+
+**Cherchez l'erreur !**
+1. Gaufre - Chocolat - Frite (Tout est sucr�... sauf ?)
+2. Praline - Bonbon - Salade (Tout est dessert... sauf ?)
+
+<details>
+<summary>Solutions</summary>
+
+1. Frite (Sal�)
+2. Salade (L'gume)
+</details>
+
+
+---
+
 ## Observation 2: Describing taste
 
 **Look at how they describe the chocolate:**
 
-> C'est **fondant** et pas trop **sucré**.  
+> C'est **fondant** et pas trop **sucré**.
 > Le caramel est **crémeux** et **doux**.
 
 ### Taste adjectives
@@ -105,6 +162,39 @@
 | léger | light |
 | riche | rich |
 | délicieux | delicious |
+
+---
+
+## Practice 2: Describe the taste
+
+**Match the food with the description:**
+
+1. Chocolat noir →  _______________
+2. Gaufre de Liège →  _______________
+3. Crème chantilly →  _______________
+4. Speculoos →  _______________
+
+<details>
+<summary>Suggested answers</summary>
+
+1. Amer et riche
+2. Sucrée et croustillante
+3. Légère et crémeuse
+4. �0picé et croustillant
+
+</details>
+
+### Le Critique S'v�re >�
+
+**D'crivez ce plat rat� !**
+"Cette soupe est trop... (sal'e / sucr'e) ? Et ce caf� est froid et... (amer / d'licieux) ?"
+
+<details>
+<summary>Solution</summary>
+
+Sal'e / Amer
+</details>
+
 
 ---
 
@@ -131,6 +221,108 @@
 
 ---
 
+## Practice 3: Verbe Goûter
+
+**Conjugate the verb:**
+
+1.  Est-ce que tu ______________ la sauce ?
+2.  Nous ______________ les pralines.
+3.  Ils ______________ le gâteau.
+
+<details>
+<summary>Answers</summary>
+
+1.  goûtes
+2.  goûtons
+3.  goûtent
+</details>
+
+### Le Testeur Aveugle >�
+
+**Vous go'tez les yeux ferm's. Qu'est-ce que c'est ?**
+1. C'est froid et sucr�. (Une glace ?)
+2. C'est chaud et amer. (Un caf� ?)
+3. C'est croustillant et sal�. (Des frites ?)
+
+*Imaginez d'autres devinettes !*
+
+
+---
+
+## Observation 4: Demonstrative pronouns "celui/celle"
+
+### Look at this sentence:
+
+> Je voudrais goûter **celle** au caramel.
+
+### Demonstrative pronouns
+
+| Gender | Singular | Plural |
+|:-------|:---------|:-------|
+| Masculine | celui | ceux |
+| Feminine | celle | celles |
+
+### Usage with prepositions
+
+| French | English |
+|:-------|:--------|
+| celui au chocolat | the one with chocolate |
+| celle à la fraise | the one with strawberry |
+| ceux de Bruxelles | the ones from Brussels |
+
+---
+
+## Practice 4: Demonstrative Pronouns
+
+**Complete with: celui, celle, ceux, celles.**
+
+1.  Je voudrais le chocolat noir, et ___________ au lait.
+2.  J'aime les gaufres de Liège, mais pas ___________ de Bruxelles.
+3.  Tu préfères la glace à la vanille ou ___________ au citron ?
+
+<details>
+<summary>Answers</summary>
+
+1.  **celui** (le chocolat - masc. sing.)
+2.  **celles** (les gaufres - fem. pl.)
+3.  **celle** (la glace - fem. sing.)
+</details>
+
+### Le Vendeur Pr'cis  point
+
+**Montrez le bon objet.**
+*   Client : "Je voudrais un g'teau."
+*   Vendeur : "**Celui** au chocolat ou **celui** aux fruits ?"
+*   Client : "Une tarte."
+*   Vendeur : "**Celle** aux pommes ou **_________** ?"
+
+<details>
+<summary>Solution</summary>
+
+Celle aux fraises (par exemple)
+</details>
+
+
+---
+
+## Global Practice: Order desserts
+
+**Complete the dialogue:**
+
+**Vendeur :** Bonjour, qu'est-ce que vous désirez ?
+
+**You :** Je voudrais _____________ (a waffle), s'il vous plaît.
+
+**Vendeur :** Avec quoi ?
+
+**You :** Avec _____________ (chocolate) et _____________ (cream).
+
+**Vendeur :** Voilà !
+
+**You :** C'est _____________ ! (your opinion)
+
+---
+
 ## Culture: Belgian culinary heritage
 
 ### Read this testimony
@@ -138,6 +330,12 @@
 **Jean-Pierre, Belgian chocolatier:**
 
 > "Belgian chocolate is famous worldwide. We invented the praline in 1912, and the technique of using 100% cocoa butter. There are over 2,000 chocolate shops in Belgium! Each region also has its waffle tradition: Brussels waffles are light and crispy, usually eaten with toppings. Liège waffles are denser and sweeter, perfect for eating on the go."
+
+> **En français**
+>
+> "Le chocolat belge est célèbre dans le monde entier. Nous avons inventé la praline en 1912, et la technique d'utilisation du 100% beurre de cacao. Il y a plus de 2 000 chocolateries en Belgique ! Chaque région a aussi sa tradition de gaufres : les gaufres de Bruxelles sont légères et croustillantes, généralement mangées avec des garnitures. Les gaufres de Liège sont plus denses et plus sucrées, parfaites pour manger sur le pouce."
+
+
 
 ### Famous Belgian food
 
@@ -162,44 +360,7 @@
 
 ---
 
-## Practice 1: Order desserts
 
-**Complete the dialogue:**
-
-**Vendeur :** Bonjour, qu'est-ce que vous désirez ?
-
-**You :** Je voudrais _____________ (a waffle), s'il vous plaît.
-
-**Vendeur :** Avec quoi ?
-
-**You :** Avec _____________ (chocolate) et _____________ (cream).
-
-**Vendeur :** Voilà !
-
-**You :** C'est _____________ ! (your opinion)
-
----
-
-## Practice 2: Describe the taste
-
-**Match the food with the description:**
-
-1. Chocolat noir → _______________
-2. Gaufre de Liège → _______________
-3. Crème chantilly → _______________
-4. Speculoos → _______________
-
-<details>
-<summary>Suggested answers</summary>
-
-1. Amer et riche
-2. Sucrée et croustillante
-3. Légère et crémeuse
-4. Épicé et croustillant
-
-</details>
-
----
 
 ## Speaking Practice
 
@@ -230,28 +391,7 @@ Include:
 
 ---
 
-## Grammar: Demonstrative pronouns "celui/celle"
 
-### Look at this sentence:
-
-> Je voudrais goûter **celle** au caramel.
-
-### Demonstrative pronouns
-
-| Gender | Singular | Plural |
-|:-------|:---------|:-------|
-| Masculine | celui | ceux |
-| Feminine | celle | celles |
-
-### Usage with prepositions
-
-| French | English |
-|:-------|:--------|
-| celui au chocolat | the one with chocolate |
-| celle à la fraise | the one with strawberry |
-| ceux de Bruxelles | the ones from Brussels |
-
----
 
 ## Common Mistakes to Avoid
 
@@ -307,3 +447,4 @@ Include:
 ---
 
 *Bonne continuation !*
+

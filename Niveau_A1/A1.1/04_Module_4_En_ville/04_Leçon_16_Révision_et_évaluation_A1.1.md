@@ -1,8 +1,8 @@
-# Leçon 15 : Révision et évaluation A1.1
+# Leçon 16 : Révision et évaluation A1.1
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Review all A1.1 content, self-assessment, prepare for A1.2
+**Objectifs** : Réviser tout le contenu A1.1, auto-évaluation, préparer le niveau A1.2
 
 ---
 

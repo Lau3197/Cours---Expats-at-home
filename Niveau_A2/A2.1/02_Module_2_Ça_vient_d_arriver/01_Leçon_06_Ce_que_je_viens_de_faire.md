@@ -28,6 +28,27 @@
 > 
 > **Tom :** OK, je l'appelle tout de suite. Je **viens juste de** recevoir son email aussi.
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Tom! You look tired. Are you okay?
+>
+> **Tom:** Yes, I **just finished** a 3-hour meeting!
+>
+> **Sophie:** Oh wow! Do you want a coffee?
+>
+> **Tom:** Yes, thanks. But I **just** drank an espresso, so decaf please.
+>
+> **Sophie:** Okay. By the way, Marc is looking for you. He **just called**.
+>
+> **Tom:** Ah yes? What does he want?
+>
+> **Sophie:** I don't know. He **just left** 5 minutes ago. Call him back!
+>
+> **Tom:** OK, I'll call him right away. I **just** received his email too.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -171,6 +192,10 @@ This structure means something happened **very recently** - "just did" in Englis
 **Marc, Belgian manager:**
 
 > "In a Belgian office, it's common to give quick updates about what just happened. 'Je viens de finir le rapport', 'Il vient de m'appeler' - these help keep everyone informed. Belgians value efficiency in communication, but also appreciate a friendly approach. Always take time for 'bonjour' and small talk before diving into business!"
+
+> **En français**
+>
+> "Dans un bureau belge, il est courant de donner des nouvelles rapides sur ce qui vient de se passer. 'Je viens de finir le rapport', 'Il vient de m'appeler' - cela aide à tenir tout le monde informé. Les Belges apprécient l'efficacité dans la communication, mais aiment aussi une approche amicale. Prenez toujours le temps pour un 'bonjour' et un peu de conversation avant de passer aux affaires !"
 
 ### Useful office expressions
 

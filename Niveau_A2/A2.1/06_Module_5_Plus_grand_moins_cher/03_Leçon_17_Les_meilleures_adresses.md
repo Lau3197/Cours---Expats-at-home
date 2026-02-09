@@ -24,6 +24,23 @@
 >
 > Et **la bière la plus typique** de Bruxelles ? La Gueuze ! C'est **la plus acide**, mais **la plus authentique**."
 
+<details>
+<summary>English Translation</summary>
+
+> "You want to discover Brussels? I will give you **the best addresses**!
+>
+> For chocolate, Neuhaus is **the most famous**, but Pierre Marcolini is **the best** in my opinion. It is also **the most expensive**!
+>
+> For fries, Maison Antoine makes **the best fries** in Brussels. It is always **the longest** queue, but it's worth it.
+>
+> **The most interesting museum**? The Magritte Museum. For contemporary art, the Wiels is **the most modern**.
+>
+> **The liveliest neighborhood** at night is Saint-Géry. But **the most beautiful** for walking is the Sablon.
+>
+> And **the most typical beer** of Brussels? The Gueuze! It is **the most acidic**, but **the most authentic**."
+
+</details>
+
 ---
 
 ### Comprehension

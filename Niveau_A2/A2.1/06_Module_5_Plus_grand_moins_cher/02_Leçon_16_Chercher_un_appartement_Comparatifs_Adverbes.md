@@ -24,6 +24,25 @@
 > 
 > **Agent :** Réfléchissez **tranquillement**. Mais cet appartement partira **vite** !
 
+<details>
+<summary>English Translation</summary>
+
+> **Agent:** Visit **freely**. Here is the living room. It is **brighter than** the other apartment, isn't it?
+>
+> **Tom:** Yes, it's true. And it is **better** located. But the rent is **more expensive**...
+>
+> **Agent:** It's normal, we are in the center. Here, prices go up **quickly**.
+>
+> **Tom:** Are there **as many** rooms as in the other one?
+>
+> **Agent:** Yes, two rooms. But this one is **more quietly** exposed, it overlooks the garden.
+>
+> **Tom:** I must decide **seriously**. I have **less** budget than expected.
+>
+> **Agent:** Think **quietly**. But this apartment will go **fast**!
+
+</details>
+
 ---
 
 ## 2. Grammaire : Les Adverbes en "-ment"

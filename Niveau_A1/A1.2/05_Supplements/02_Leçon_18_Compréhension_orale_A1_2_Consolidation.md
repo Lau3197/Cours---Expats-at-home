@@ -1,13 +1,13 @@
 # Leçon 18 : Compréhension orale A1.2 (Consolidation)
 
 **Niveau** : A1.2  
-**Type** : Consolidation (Écoute)  
+**Type** : Consolidation (�0coute)  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice A1.2 listening skills
 
 ---
 
-## 🎯 What you should be able to understand at A1.2
+## �x}� What you should be able to understand at A1.2
 
 At the end of A1.2, you should be able to understand:
 
@@ -20,7 +20,7 @@ At the end of A1.2, you should be able to understand:
 
 ---
 
-## 🎧 Listening 1: Quelle heure est-il? (What time is it?)
+## �x}� Listening 1: Quelle heure est-il? (What time is it?)
 
 **Listen to different people talking about their schedules.**
 
@@ -33,18 +33,18 @@ At the end of A1.2, you should be able to understand:
 > **Person 3**: "Le magasin ouvre à neuf heures et ferme à dix-huit heures trente."
 
 ### Questions:
-1. À quelle heure la personne 1 commence le travail?
-2. À quelle heure le train arrive à Bruxelles?
-3. À quelle heure le magasin ferme?
+1. ì quelle heure la personne 1 commence le travail?
+2. ì quelle heure le train arrive à Bruxelles?
+3. ì quelle heure le magasin ferme?
 
 ### Answers:
-1. À huit heures et demie (8h30)
-2. À seize heures dix (16h10)
-3. À dix-huit heures trente (18h30)
+1. ì huit heures et demie (8h30)
+2. ì seize heures dix (16h10)
+3. ì dix-huit heures trente (18h30)
 
 ---
 
-## 🎧 Listening 2: La météo en Belgique (Weather in Belgium)
+## �x}� Listening 2: La météo en Belgique (Weather in Belgium)
 
 **Listen to a simple weather forecast.**
 
@@ -71,7 +71,7 @@ At the end of A1.2, you should be able to understand:
 
 ---
 
-## 🎧 Listening 3: Au café - Commander (At the café - Ordering)
+## �x}� Listening 3: Au café - Commander (At the café - Ordering)
 
 **Listen to a customer ordering at a Belgian café.**
 
@@ -81,7 +81,7 @@ At the end of A1.2, you should be able to understand:
 > **Client**: Bonjour! Je voudrais un café et une gaufre de Liège, s'il vous plaît.  
 > **Serveur**: Très bien. Avec de la crème chantilly?  
 > **Client**: Oui, merci. C'est combien?  
-> **Serveur**: Ça fait sept euros cinquante.  
+> **Serveur**: �!a fait sept euros cinquante.  
 > **Client**: Voilà. Merci!
 
 ### Questions:
@@ -92,11 +92,11 @@ At the end of A1.2, you should be able to understand:
 ### Answers:
 1. Un café et une gaufre de Liège
 2. Oui
-3. Sept euros cinquante (7,50€)
+3. Sept euros cinquante (7,50��)
 
 ---
 
-## 🎧 Listening 4: Parler de son week-end (Talking about the weekend)
+## �x}� Listening 4: Parler de son week-end (Talking about the weekend)
 
 **Listen to someone talking about their weekend.**
 
@@ -117,12 +117,12 @@ At the end of A1.2, you should be able to understand:
 4. Des moules-frites
 
 ### Grammar note:
-- Notice the use of **passé composé** with both ÊTRE (je suis allée) and AVOIR (j'ai acheté, j'ai fait)
-- Past participle agreement with ÊTRE: "allée" (feminine)
+- Notice the use of **passé composé** with both �`TRE (je suis allée) and AVOIR (j'ai acheté, j'ai fait)
+- Past participle agreement with �`TRE: "allée" (feminine)
 
 ---
 
-## 🎧 Listening 5: Les directions (Directions)
+## �x}� Listening 5: Les directions (Directions)
 
 **Listen to someone giving directions to the commune (town hall).**
 
@@ -136,9 +136,9 @@ At the end of A1.2, you should be able to understand:
 3. Où est la commune?
 
 ### Answers:
-1. À gauche
+1. ì gauche
 2. Dans la rue de la Loi
-3. À droite, après la pharmacie
+3. ì droite, après la pharmacie
 
 ### Useful direction vocabulary:
 - Tout droit = Straight ahead
@@ -149,29 +149,43 @@ At the end of A1.2, you should be able to understand:
 
 ---
 
-## 🎧 Listening 6: Une invitation (An invitation)
+## �x}� Listening 6: Une invitation (An invitation)
 
 **Listen to a voice message from a friend.**
 
 ### Audio:
 
-> "Salut! C'est Marie. Ça va? Écoute, samedi après-midi, je vais au cinéma voir le nouveau film belge. Ça te dit de venir avec moi? La séance est à quinze heures au Kinepolis. On peut se retrouver devant à quatorze heures quarante-cinq. Envoie-moi un message! À plus!"
+> "Salut! C'est Marie. �!a va? �0coute, samedi après-midi, je vais au cinéma voir le nouveau film belge. �!a te dit de venir avec moi? La séance est à quinze heures au Kinepolis. On peut se retrouver devant à quatorze heures quarante-cinq. Envoie-moi un message! ì plus!"
 
 ### Questions:
 1. Qu'est-ce que Marie propose?
-2. À quelle heure est la séance de cinéma?
+2. ì quelle heure est la séance de cinéma?
 3. Où est-ce qu'elles se retrouvent?
-4. À quelle heure?
+4. ì quelle heure?
 
 ### Answers:
 1. D'aller au cinéma
-2. À quinze heures (15h)
+2. ì quinze heures (15h)
 3. Devant le Kinepolis
-4. À quatorze heures quarante-cinq (14h45)
+4. ì quatorze heures quarante-cinq (14h45)
 
 ---
 
-## 🎯 Listening Strategies for A1.2
+## <� Fun Challenge: La Chanson
+
+**�coutez "Je veux" de Zaz.**
+*   C'est une chanson rapide, mais essayez d'attraper ces mots :
+    *   une suite (a suite/hotel room)
+    *   l'argent (money)
+    *   la joie (joy)
+    *   la bonne humeur (good mood)
+
+*   **Question :** Est-ce qu'elle veut de l'argent ? (Oui / Non)
+
+---
+
+
+## �x}� Listening Strategies for A1.2
 
 ### Before Listening:
 - [ ] Read the questions first
@@ -193,7 +207,7 @@ At the end of A1.2, you should be able to understand:
 
 ---
 
-## 💡 Belgian Listening Tips
+## �x� Belgian Listening Tips
 
 **Common Belgian French sounds and expressions:**
 
@@ -218,7 +232,7 @@ At the end of A1.2, you should be able to understand:
 
 ---
 
-## 📝 Practice Tips
+## �x� Practice Tips
 
 To improve your listening skills:
 
@@ -232,7 +246,7 @@ To improve your listening skills:
 
 ---
 
-## 🎯 Self-Evaluation
+## �x}� Self-Evaluation
 
 **Check what you can understand:**
 
@@ -246,7 +260,7 @@ To improve your listening skills:
 
 ---
 
-## 📚 Next Steps
+## �xa Next Steps
 
 After completing these exercises:
 
@@ -266,3 +280,4 @@ Next step: Continue with the **A1 Global Module** to consolidate all A1 skills.
 ---
 
 *Bon courage avec l'écoute!*
+

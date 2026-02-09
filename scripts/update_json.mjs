@@ -57,7 +57,11 @@ function extractVocabulary(content) {
 
 function extractMetadata(content) {
     if (!content) return { title: '', duration: '15:00', type: 'text', vocabulary: [] };
-    const titleMatch = content.match(/^# (.+)$/m);
+
+    // Remove BOM and leading whitespace
+    content = content.replace(/^\uFEFF/, '').trimStart();
+
+    const titleMatch = content.match(/^#\s+(.+)$/m);
     const durationMatch = content.match(/\*\*Durée (totale )?estimée\*\* : (.+)/);
     let title = titleMatch ? titleMatch[1].trim() : '';
     let duration = durationMatch ? durationMatch[2].trim() : '15:00';

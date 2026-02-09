@@ -34,6 +34,33 @@
 > 
 > **Sophie :** **Pose-les-moi**, je suis là pour t'aider !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Do you have the eggs?
+>
+> **Tom:** Yes, I have them.
+>
+> **Sophie:** Perfect! **Break them** into the bowl. And the butter?
+>
+> **Tom:** It is in the fridge.
+>
+> **Sophie:** **Take it out** and **melt it**. Don't forget the sugar!
+>
+> **Tom:** How much of it do I put?
+>
+> **Sophie:** **Put** 200 grams **of it**. And the chocolate, **add it** at the end.
+>
+> **Tom:** Okay. And the recipe, do you show it to me?
+>
+> **Sophie:** Yes, **look at it**. No, wait, **don't touch it** with dirty hands! **Wash** your hands first!
+>
+> **Tom:** OK! And if I have questions?
+>
+> **Sophie:** **Ask them to me**, I am here to help you!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -250,6 +277,10 @@
 
 **Belgian communication style:**
 
+> "Les Belges utilisent souvent l'impératif pour donner des instructions, mais toujours avec 's'il te plaît' ou 's'il vous plaît'. Même un simple 'Passe-moi le sel' devient 'Passe-moi le sel, s'il te plaît'. Dans un contexte professionnel, on préfère le conditionnel : 'Tu pourrais me le passer ?' semble plus poli que 'Passe-le-moi'."
+
+> **En français**
+>
 > "Les Belges utilisent souvent l'impératif pour donner des instructions, mais toujours avec 's'il te plaît' ou 's'il vous plaît'. Même un simple 'Passe-moi le sel' devient 'Passe-moi le sel, s'il te plaît'. Dans un contexte professionnel, on préfère le conditionnel : 'Tu pourrais me le passer ?' semble plus poli que 'Passe-le-moi'."
 
 ### Softening commands

@@ -28,6 +28,27 @@
 > 
 > **Tom :** C'est vrai, tu **serais** une excellente entrepreneure !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** If you **had** a lot of money, what **would you do**?
+>
+> **Tom:** If I **were** rich, I **would buy** a big house by the sea. And you?
+>
+> **Sophie:** Me, if I **had** the time, I **would travel** around the world.
+>
+> **Tom:** If you **could** visit only one country, which one **would it be**?
+>
+> **Sophie:** I **would choose** Japan. And if we **won** the lottery together?
+>
+> **Tom:** We **would share**! If we **were** millionaires, we **would stop** working.
+>
+> **Sophie:** Not me! If I **had** money, I **would create** my own company.
+>
+> **Tom:** That's true, you **would be** an excellent entrepreneur!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -193,6 +214,10 @@
 
 **Belgian dreams:**
 
+> "Les Belges sont pragmatiques, mais ils rêvent aussi ! Une question populaire dans les conversations est : 'Qu'est-ce que tu ferais si tu gagnais au Loto ?' Les réponses typiques incluent : voyager, acheter une maison, aider la famille. Beaucoup disent aussi : 'Si j'avais plus de temps, je profiterais plus de la vie.' L'équilibre travail-vie personnelle est très important en Belgique."
+
+> **En français**
+>
 > "Les Belges sont pragmatiques, mais ils rêvent aussi ! Une question populaire dans les conversations est : 'Qu'est-ce que tu ferais si tu gagnais au Loto ?' Les réponses typiques incluent : voyager, acheter une maison, aider la famille. Beaucoup disent aussi : 'Si j'avais plus de temps, je profiterais plus de la vie.' L'équilibre travail-vie personnelle est très important en Belgique."
 
 ### Common Belgian dreams

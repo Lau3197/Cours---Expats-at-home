@@ -221,7 +221,40 @@
 
 ---
 
-## Observation 5: The verb AVOIR
+## Observation 5: Le, La, Les (The)
+
+**Look at these words:**
+- **Le** matin (The morning)
+- **La** journée (The day)
+- **Les** croissants (The croissants)
+
+To say "The" in French, we have 3 options based on gender and number.
+
+### The Rule: Le vs La vs Les
+
+| Gender | Singular (The) | Plural (The) | Example |
+|:-------|:---------------|:-------------|:--------|
+| Masculine 🚹 | **le** | **les** | **le** pain, **les** pains |
+| Feminine 🚺 | **la** | **les** | **la** journée, **les** journées |
+| Vowel (a,e,i,o,u) | **l'** | **les** | **l'**addition, **les** additions |
+
+**⚠️ Important:**
+If a word starts with a **vowel** (a, e, i, o, u), "le" or "la" becomes **l'**.
+- **L'**addition (NOT ~~La addition~~)
+- **L'**école (NOT ~~La école~~)
+
+### Practice: Le, La, L' or Les?
+
+1. _____ matin (masc)
+2. _____ boulangerie (fem)
+3. _____ après-midi (vowel)
+4. _____ croissants (plural)
+
+*(Réponses: 1. Le, 2. La, 3. L', 4. Les)*
+
+---
+
+## Observation 6: The verb AVOIR
 
 **Listen to this conversation with Sophie:**
 

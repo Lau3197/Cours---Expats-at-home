@@ -24,6 +24,23 @@
 >
 > Dans quelques années, qui sait ? Peut-être que je **resterai** en Belgique pour toujours !"
 
+<details>
+<summary>English Translation</summary>
+
+> "I have many plans for next year!
+>
+> In January, I **will start** Dutch classes. I **will speak** soon three languages!
+>
+> In spring, I **will look for** a new apartment. I **will move** maybe to a more central neighborhood.
+>
+> Next summer, my parents **will come** to visit me. We **will visit** Belgium together. I **will show** them Bruges and Ghent.
+>
+> At the end of the year, I **will take** a vacation. I **will travel** in France or Spain. I **will enjoy** the sun!
+>
+> In a few years, who knows? Maybe I **will stay** in Belgium forever!"
+
+</details>
+
 ---
 
 ### Comprehension
@@ -184,6 +201,10 @@ These verbs express future actions. The endings look familiar: -ai, -as, -a, -on
 **Marie, Belgian career counselor:**
 
 > "When talking about future plans in Belgium, Belgians tend to be realistic and somewhat modest. They might say 'J'espère que je trouverai un travail' rather than 'Je trouverai un travail.' Using 'peut-être' (maybe) or 'j'espère' (I hope) shows you're not being overconfident. It's part of the Belgian pragmatic approach to life!"
+
+> **En français**
+>
+> "Quand on parle de projets d'avenir en Belgique, les Belges ont tendance à être réalistes et assez modestes. Ils diront 'J'espère que je trouverai un travail' plutôt que 'Je trouverai un travail.' Utiliser 'peut-être' ou 'j'espère' montre que vous n'êtes pas trop confiant. Cela fait partie de l'approche pragmatique belge de la vie !"
 
 ### Useful expressions for future plans
 

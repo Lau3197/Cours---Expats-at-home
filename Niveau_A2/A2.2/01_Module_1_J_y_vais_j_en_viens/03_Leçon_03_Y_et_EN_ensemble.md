@@ -32,6 +32,31 @@
 > 
 > **Tom :** Alors, on s'**en** occupe maintenant !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Have you ever been to Ghent?
+>
+> **Tom:** Yes, I went **there** last year. It was great!
+>
+> **Sophie:** Do you remember this city?
+>
+> **Tom:** Yes, I remember **it** very well. There are many things to see **there**.
+>
+> **Sophie:** Are **there** good restaurants?
+>
+> **Tom:** Yes, **there are** several. I know an excellent one.
+>
+> **Sophie:** Do you need a vacation?
+>
+> **Tom:** Yes, I really need **one**! Shall we go **there** this weekend?
+>
+> **Sophie:** Good idea! I have been thinking **about it** for a long time.
+>
+> **Tom:** So, we take care **of it** now!
+
+</details>
+
 ---
 
 ### Comprehension

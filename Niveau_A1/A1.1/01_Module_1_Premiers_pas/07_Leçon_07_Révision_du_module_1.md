@@ -1,8 +1,8 @@
-# Lesson 07: Module 1 Revision
+# Leçon 07 : Révision du module 1
 
-**Level**: A1.1  
-**Type**: 🔁 Consolidation & Practice  
-**Objective**: MASTER the basics (Lessons 1-6) before moving on.  
+**Niveau** : A1.1  
+**Type** : 🔁 Consolidation & Pratique  
+**Objectif** : MAÎTRISER les bases (Leçons 1-6) avant de continuer.  
 
 ---
 

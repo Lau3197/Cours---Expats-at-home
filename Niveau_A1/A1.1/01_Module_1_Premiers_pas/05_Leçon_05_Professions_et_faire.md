@@ -1,8 +1,8 @@
-# Lesson 05: Les professions et le verbe FAIRE
+# Leçon 05 : Les professions et le verbe faire
 
-**Level**: A1.1  
-**Estimated duration**: 2-3 hours  
-**Objectives**: Talk about jobs, describe what you do, learn the verb FAIRE (to do/make)
+**Niveau** : A1.1  
+**Durée estimée** : 2-3 heures  
+**Objectifs** : Parler de son travail, décrire ce que l'on fait, apprendre le verbe FAIRE
 
 ---
 

@@ -33,6 +33,31 @@
 > 
 > **Tom :** Super, merci ! Je vous envoie ça aujourd'hui.
 
+<details>
+<summary>English Translation</summary>
+
+> **Manager:** Tom, have you thought about training yourself this year?
+>
+> **Tom:** Yes, I would like to take a training in project management.
+>
+> **Manager:** It's a good idea. Have you looked at the options?
+>
+> **Tom:** Yes, there is a two-day training at IFAPME. It takes place next month.
+>
+> **Manager:** Does the content seem interesting to you?
+>
+> **Tom:** Very! One learns the basics of Agile methodology there. And it is certification-leading.
+>
+> **Manager:** Perfect. Would you like to register?
+>
+> **Tom:** Yes, if it is possible. The cost is 500 euros.
+>
+> **Manager:** The company can cover this cost. Send me the information and I validate.
+>
+> **Tom:** Great, thank you! I send you that today.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -177,6 +202,10 @@ Cette formation **dure** deux jours et le **coût** est de 500 euros.
 
 **Professional development in Belgium:**
 
+> "La Belgique valorise la formation continue. Les employés ont droit à des jours de formation payés. Il existe de nombreux organismes comme l'IFAPME, le FOREM, Bruxelles Formation, et les universités qui proposent des formations pour adultes. Le 'chèque-formation' permet aux entreprises de financer les formations de leurs employés. Les formations en langues sont très populaires, surtout le néerlandais à Bruxelles !"
+
+> **En français**
+>
 > "La Belgique valorise la formation continue. Les employés ont droit à des jours de formation payés. Il existe de nombreux organismes comme l'IFAPME, le FOREM, Bruxelles Formation, et les universités qui proposent des formations pour adultes. Le 'chèque-formation' permet aux entreprises de financer les formations de leurs employés. Les formations en langues sont très populaires, surtout le néerlandais à Bruxelles !"
 
 ### Training organizations in Belgium

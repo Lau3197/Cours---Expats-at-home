@@ -1,8 +1,8 @@
-# Leçon 11 : Les couleurs et les descriptions
+# Leçon 12 : Les couleurs et les descriptions
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Learn colors, describe objects and people, use adjective agreement
+**Objectifs** : Apprendre les couleurs, décrire des objets et des personnes, accorder les adjectifs
 
 ---
 

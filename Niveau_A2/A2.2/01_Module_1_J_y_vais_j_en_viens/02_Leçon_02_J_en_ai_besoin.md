@@ -36,6 +36,35 @@
 > 
 > **Tom :** Oui, j'**en** suis très content !
 
+<details>
+<summary>English Translation</summary>
+
+> **Vendor:** Hello! What would you like?
+>
+> **Tom:** I would like some cheese, please.
+>
+> **Vendor:** Of course. How much **of it** do you want?
+>
+> **Tom:** I would like 200 grams **of it**.
+>
+> **Vendor:** Here you go. Anything else?
+>
+> **Tom:** Yes, do you have apples?
+>
+> **Vendor:** Yes, we have very good ones. How many **of them** do you want?
+>
+> **Tom:** I take one kilo **of them**. And bread?
+>
+> **Vendor:** There is no more **of it**. The baker brings **some** tomorrow.
+>
+> **Tom:** Okay. I don't need **any** today. That's all, thank you!
+>
+> **Vendor:** That makes 8 euros. Are you happy **with it**?
+>
+> **Tom:** Yes, I am very happy **with it**!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -179,6 +208,10 @@
 **Belgian markets and shops:**
 
 > "Belgium has wonderful local markets. You'll often hear 'Vous en voulez combien ?' at market stalls. The interaction is friendly and personal. Unlike supermarkets, you ask for specific quantities: 'J'en voudrais 300 grammes' for cheese or meat. Belgians love quality products and often ask 'Vous en avez du frais ?' (Do you have fresh ones?). Shopping is a social experience!"
+
+> **En français**
+>
+> "La Belgique a de merveilleux marchés locaux. Vous entendrez souvent 'Vous en voulez combien ?' aux étals du marché. L'interaction est amicale et personnelle. Contrairement aux supermarchés, vous demandez des quantités précises : 'J'en voudrais 300 grammes' pour le fromage ou la viande. Les Belges aiment les produits de qualité et demandent souvent 'Vous en avez du frais ?'. Faire les courses est une expérience sociale !"
 
 ### Quantity expressions with EN
 

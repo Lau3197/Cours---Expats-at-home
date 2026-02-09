@@ -30,6 +30,29 @@
 > 
 > **Vendeur :** Excellent choix ! **Celui-ci** est vraiment le meilleur.
 
+<details>
+<summary>English Translation</summary>
+
+> **Vendor:** Hello! Can I help you?
+>
+> **Tom:** Yes, I am looking for a gift. These chocolates are beautiful.
+>
+> **Vendor:** We have several boxes. Do you prefer **this one** or **that one**?
+>
+> **Tom:** What is the difference?
+>
+> **Vendor:** **This one** contains milk pralines. **That one**, dark pralines.
+>
+> **Tom:** I prefer **the one with dark chocolate**. And these wines?
+>
+> **Vendor:** **These ones** are French. **Those ones** are Italian. **The one that** I recommend is this Burgundy.
+>
+> **Tom:** Okay. I take the box of chocolates and the wine **that you recommend**.
+>
+> **Vendor:** Excellent choice! **This one** is really the best.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -190,6 +213,10 @@ They replace a noun to avoid repetition:
 **Belgian shopping customs:**
 
 > "In Belgium, customer service is generally polite but less pushy than in some countries. In shops, don't be surprised if vendors use demonstrative pronouns a lot: 'Vous préférez celui-ci ou celui-là ?' It's a natural way to point out options. Markets are still very popular for fresh produce, and many Belgians prefer local, quality products over quantity. You'll often hear 'celui de notre région' (the one from our region) as a mark of quality."
+
+> **En français**
+>
+> "En Belgique, le service client est généralement poli mais moins insistant que dans certains pays. Dans les magasins, ne soyez pas surpris si les vendeurs utilisent beaucoup les pronoms démonstratifs : 'Vous préférez celui-ci ou celui-là ?' C'est une façon naturelle de montrer les options. Les marchés sont encore très populaires pour les produits frais, et beaucoup de Belges préfèrent les produits locaux de qualité à la quantité. Vous entendrez souvent 'celui de notre région' comme une marque de qualité."
 
 ### Useful shopping expressions
 

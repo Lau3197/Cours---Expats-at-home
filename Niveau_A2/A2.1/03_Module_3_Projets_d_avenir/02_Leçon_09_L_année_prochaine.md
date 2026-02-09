@@ -30,6 +30,29 @@
 > 
 > **Sophie :** Ça, c'est sûr ! Et il y **aura** toujours de bonnes bières belges !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** So Tom, do you have plans for next year?
+>
+> **Tom:** Yes! I **will have** finally my own apartment. And I **will be** more comfortable in French.
+>
+> **Sophie:** Great! **Will you go** traveling?
+>
+> **Tom:** Yes, I **will go** to Italy in spring. And you?
+>
+> **Sophie:** Me, I **will do** maybe a career change. I **will see**. It **will be necessary** that I think about it.
+>
+> **Tom:** You **will be able to** always return to your old job.
+>
+> **Sophie:** That's true. We **will see** well what the future reserves for us!
+>
+> **Tom:** In any case, I know one thing: we **will be** always friends!
+>
+> **Sophie:** That, that's sure! And there **will be** always good Belgian beers!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -187,6 +210,10 @@
 **Jean, Belgian businessman:**
 
 > "Belgians like to plan ahead but we're also pragmatic. We use expressions like 'On verra' (we'll see) a lot! We don't like to make promises we can't keep. When making plans with Belgians, expect them to be realistic about what they can do. Also, Belgian weather is unpredictable, so outdoor plans often come with 'si le temps le permet' (if weather permits)!"
+
+> **En français**
+>
+> "Les Belges aiment planifier à l'avance mais nous sommes aussi pragmatiques. Nous utilisons beaucoup des expressions comme 'On verra bien' ! Nous n'aimons pas faire des promesses que nous ne pouvons pas tenir. Quand vous faites des projets avec des Belges, attendez-vous à ce qu'ils soient réalistes sur ce qu'ils peuvent faire. Aussi, la météo belge est imprévisible, donc les projets extérieurs viennent souvent avec 'si le temps le permet' !"
 
 ### Belgian expressions about the future
 

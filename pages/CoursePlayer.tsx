@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import {
   ChevronLeft,
+  ChevronRight,
   Play,
   CheckCircle,
   FileText,
@@ -258,16 +259,11 @@ const generateCertificate = (userName: string, courseTitle: string) => {
   doc.save(`Certificate_${courseTitle.replace(/\s+/g, '_')}.pdf`);
 };
 
+import { slugify } from '../utils/stringUtils';
+
 // Helper to generate slugs matching rehype-slug default behavior (github-slugger)
-const slugify = (text: string) => {
-  return text
-    .toString()
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, '-')     // Replace spaces with -
-    .replace(/[^\w\-]+/g, '') // Remove all non-word chars
-    .replace(/\-\-+/g, '-');  // Replace multiple - with single -
-};
+// REMOVED local slugify in favor of shared utility
+
 
 interface TOCItem {
   id: string;
@@ -408,10 +404,10 @@ const PathView: React.FC<PathViewProps> = ({
   const [heroMessage, setHeroMessage] = useState<string | null>(null);
 
   const containerRef = useRef<HTMLDivElement>(null);
-  const requestRef = useRef<number>();
+  const requestRef = useRef<number | null>(null);
   const keysPressed = useRef<{ [key: string]: boolean }>({});
   const lastTimeRef = useRef<number>(0);
-  const heroMsgTimeout = useRef<NodeJS.Timeout>();
+  const heroMsgTimeout = useRef<NodeJS.Timeout | null>(null);
 
   const showHeroMessage = (msg: string) => {
     setHeroMessage(msg);
@@ -1631,67 +1627,90 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                 Your browser does not support the video tag.
               </video>
             )}
-            {!isSidebarOpen && (
-              <button onClick={() => setIsSidebarOpen(true)} className="absolute right-6 top-6 z-20 p-4 bg-white/10 backdrop-blur-md text-white rounded-2xl hover:bg-white/20 border border-white/10 shadow-xl transition-all">
-                <PanelRightOpen className="w-6 h-6" />
-              </button>
-            )}
+
           </div>
         ) : (
-          <div className="bg-[#5A6B70] aspect-[21/9] w-full flex items-center justify-center relative shadow-inner overflow-hidden max-h-[350px]">
-            <div className="absolute inset-0 bg-gradient-to-br from-[#C87A7A]/20 to-[#5A6B70]/90" />
-            <div className="text-white flex flex-col items-center gap-4 relative z-10 text-center px-4">
-              <div className="bg-white/10 backdrop-blur-md px-6 py-2 rounded-full border border-white/20 text-xs font-black uppercase tracking-[0.3em]">
-                {course.title}
+          (() => {
+            // Extract objectives from lesson content (handle Windows line endings)
+            const objectivesMatch = activeLesson?.content?.match(/\*\*Objectifs?\*\*\s*:\s*(.+?)(?:\r?\n|$)/i);
+            const objectives = objectivesMatch ? objectivesMatch[1].trim() : null;
+
+            // Assuming these imports are at the top of the file, adding ChevronRight
+            // import { Play, Pause, Volume2, BrainCircuit, FileText, Dumbbell, Book, ClipboardList, Headphones, MessageCircle, PanelRightOpen, ChevronRight, Eye } from 'lucide-react';
+            // import { addPlannedLesson } from '../services/planner';
+            // import StyledMarkdown from '../components/StyledMarkdown';
+            // import { CoursePackage, Lesson } from '../types';
+            // import { getTutorHelp } from '../services/gemini';
+
+            return (
+              <div className="w-full py-12 px-8 bg-[#5A6B70] rounded-[2rem] mx-auto mt-4" style={{ maxWidth: 'calc(100% - 2rem)' }}>
+                <div className={`mx-auto transition-all duration-500 ${isSidebarOpen ? 'max-w-4xl' : 'max-w-5xl'}`}>
+
+                  {/* Breadcrumb */}
+                  <div className="flex flex-wrap justify-center items-center gap-2 text-[10px] font-bold uppercase tracking-[0.15em] text-white/50 mb-6 font-sans">
+                    <button onClick={() => navigate('/library')} className="hover:text-white transition-colors">Catalog</button>
+                    <ChevronRight className="w-3 h-3 text-[#E8C586]" />
+                    <button onClick={() => navigate(`/course/${course.id}`)} className="hover:text-white transition-colors">{course.title}</button>
+                    {activeLesson && (
+                      <>
+                        <ChevronRight className="w-3 h-3 text-[#E8C586]" />
+                        <span className="text-[#E8C586] text-left">{activeLesson.title}</span>
+                      </>
+                    )}
+                  </div>
+
+                  {/* Title */}
+                  <h1 className="text-4xl md:text-5xl font-bold serif-display italic text-white text-center mb-4">{activeLesson?.title}</h1>
+
+                  {/* Metadata */}
+                  <div className="flex justify-center items-center gap-4 mb-4">
+                    <span className="text-sm text-white/70">{activeLesson?.duration}</span>
+                    <span className="w-1 h-1 rounded-full bg-white/30" />
+                    <span className="text-sm font-bold text-[#E8C586]">{course.level}</span>
+                    {activeLesson?.audioUrl && (
+                      <>
+                        <span className="w-1 h-1 rounded-full bg-white/30" />
+                        <button
+                          onClick={toggleAudio}
+                          className="text-sm text-white/70 hover:text-[#E8C586] transition-colors flex items-center gap-1.5"
+                        >
+                          {isAudioPlaying ? <Pause className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
+                          {isAudioPlaying ? 'Pause' : 'Écouter'}
+                          <audio ref={audioRef} src={activeLesson.audioUrl} onEnded={() => setIsAudioPlaying(false)} className="hidden" />
+                        </button>
+                      </>
+                    )}
+                  </div>
+
+                  {/* Objectives */}
+                  {objectives && (
+                    <p className="text-center text-white/80 text-sm max-w-2xl mx-auto mb-6">
+                      <span className="text-[#E8C586] font-semibold">Objectif : </span>
+                      {objectives}
+                    </p>
+                  )}
+
+                  {/* Mark Complete button */}
+                  <div className="flex justify-center">
+                    <button
+                      onClick={() => activeLesson && toggleLessonComplete(activeLesson.id)}
+                      className={`px-6 py-2.5 rounded-full font-semibold text-sm transition-all flex items-center gap-2 ${completedLessons.has(activeLesson?.id || '')
+                        ? 'bg-green-500 text-white'
+                        : 'bg-[#E8C586] text-[#5A6B70] hover:bg-[#d4b576]'
+                        }`}
+                    >
+                      {completedLessons.has(activeLesson?.id || '') ? 'Terminé ✓' : 'Marquer terminé'}
+                    </button>
+                  </div>
+                </div>
+
+
               </div>
-              <h1 className="text-4xl md:text-5xl font-bold serif-display italic">{activeLesson?.title}</h1>
-            </div>
-            {!isSidebarOpen && (
-              <button onClick={() => setIsSidebarOpen(true)} className="absolute right-6 top-6 z-20 p-4 bg-white/10 backdrop-blur-md text-white rounded-2xl hover:bg-white/20 border border-white/10 shadow-xl transition-all">
-                <PanelRightOpen className="w-6 h-6" />
-              </button>
-            )}
-          </div>
+            );
+          })()
         )}
 
         <div className={`mx-auto px-6 py-12 pb-32 transition-all duration-500 ${isSidebarOpen ? 'max-w-5xl' : 'max-w-7xl'}`}>
-          {/* Lesson Actions & Audio Player */}
-          <div className="mb-10 flex flex-col md:flex-row justify-between items-center gap-6 bg-white p-8 rounded-[40px] border border-[#C87A7A]/10 shadow-sm">
-            <div className="flex flex-col gap-1">
-              <h2 className="text-3xl font-bold text-[#5A6B70] serif-display italic">{activeLesson?.title}</h2>
-              <div className="flex items-center gap-4 text-xs font-black uppercase tracking-widest text-[#5A6B70]/40">
-                <span className="flex items-center gap-1.5"><Play className="w-3.5 h-3.5" /> {activeLesson?.duration}</span>
-                <span className="w-1 h-1 rounded-full bg-[#5A6B70]/20" />
-                <span>Level: {course.level}</span>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-4">
-              {activeLesson?.audioUrl && (
-                <div className="flex items-center gap-3 bg-[#F9F7F2] p-2 pr-4 rounded-2xl border border-[#C87A7A]/5">
-                  <button
-                    onClick={toggleAudio}
-                    className="w-10 h-10 bg-[#C87A7A] text-white rounded-xl flex items-center justify-center hover:scale-105 active:scale-95 transition-all"
-                  >
-                    {isAudioPlaying ? <Pause className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
-                  </button>
-                  <div className="flex flex-col">
-                    <span className="text-[9px] font-black uppercase tracking-widest text-[#C87A7A]">Audio Version</span>
-                    <span className="text-[10px] font-bold text-[#5A6B70]">Listen to Lesson</span>
-                  </div>
-                  <audio ref={audioRef} src={activeLesson.audioUrl} onEnded={() => setIsAudioPlaying(false)} className="hidden" />
-                </div>
-              )}
-              {/* Notes Button removed from here */}
-              <button
-                onClick={() => activeLesson && toggleLessonComplete(activeLesson.id)}
-                className={`px-8 py-3 rounded-2xl font-bold transition-all shadow-lg flex items-center gap-2 ${completedLessons.has(activeLesson?.id || '') ? 'bg-green-500 text-white' : 'bg-[#C87A7A] text-white hover:scale-105'}`}
-              >
-                {completedLessons.has(activeLesson?.id || '') ? 'Completed' : 'Mark Complete'} <CheckCircle className="w-5 h-5" />
-              </button>
-            </div>
-          </div>
-
           {/* Navigation Tabs */}
           <div className="flex gap-6 border-b border-[#C87A7A]/10 mb-10 overflow-x-auto no-scrollbar pb-1">
             {[
@@ -1722,6 +1741,33 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                   let selfEvalContent = "";
                   let mistakesContent = "";
 
+                  // Strip metadata lines (Objectifs, Niveau, Durée) as they appear in header card
+                  remaining = remaining.replace(/^\*\*(?:Objectifs?|Niveau|Durée estimée)\*\*\s*:.+\r?\n?/gim, '');
+                  // Strip duplicate lesson title (it's already in the header)
+                  remaining = remaining.replace(/^#\s+Leçon\s+\d+\s*:.+\r?\n?/gim, '');
+                  // Also strip the first horizontal rule after the title if it follows a now-empty block
+                  remaining = remaining.replace(/^# .+\r?\n\r?\n---\r?\n/m, (match) => {
+                    // Keep the title and first horizontal rule
+                    return match;
+                  });
+
+                  // Extract Grammar Summary - Improved to NOT swallow everything
+                  // We also deciding to KEEP it in the main text because users found it confusing when it disappeared
+                  // So we just find it to potentially highlight it or just let it render naturally. 
+                  // If we want to extract it for a special card, we must ensure we don't eat the rest of the file.
+
+                  // Regex: Match header, then content until next ## or end of string
+                  // But since we want to keep it in the flow (as per user feedback), we might not need to strip it at all.
+                  // However, if we want to move it or style it differently, we can.
+                  // For now, let's just NOT strip it so it renders in the main markdown flow.
+                  /* 
+                  const grammarMatch = remaining.match(/\n##\s*(?:📖\s*)?(?:Grammar|Grammaire)[:\s]*(?:Summary|Synthesis|Synthèse|Récapitulatif)([\s\S]*?)(?=\n##|$)/i);
+                  if (grammarMatch) {
+                     // If we wanted to hide it from main flow:
+                     // remaining = remaining.replace(grammarMatch[0], '');
+                  } 
+                  */
+
                   // Extract Next Lesson
                   const nextMatch = remaining.match(/\n## Leçon suivante[\s\S]*$/i);
                   if (nextMatch) {
@@ -1731,26 +1777,19 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                   }
 
                   // Extract Auto-evaluation
-                  const evalMatch = remaining.match(/\n## Auto-évaluation[\s\S]*$/i);
+                  const evalMatch = remaining.match(/\n## (?:Auto-évaluation|Self-Evaluation)[\s\S]*$/i);
                   if (evalMatch) {
                     selfEvalContent = evalMatch[0].trim();
                     remaining = remaining.substring(0, evalMatch.index).trim();
                   }
 
-                  // Extract Common Mistakes
-                  const mistakesMatch = remaining.match(/\n## Common Mistakes[\s\S]*$/i);
+                  // Extract Common Mistakes - Improved Regex for French/English
+                  const mistakesMatch = remaining.match(/\n## (?:Common Mistakes|Erreurs à éviter|Erreurs courantes|Pièges à éviter)[\s\S]*$/i);
                   if (mistakesMatch) {
                     mistakesContent = mistakesMatch[0].trim();
                     remaining = remaining.substring(0, mistakesMatch.index).trim();
                   }
 
-                  // Extract Grammar Summary (to hide from main content, as it is in Resources tab)
-                  const grammarMatch = remaining.match(/\n##\s*(?:📖\s*)?Grammar:?\s*Summary[\s\S]*$/i);
-                  if (grammarMatch) {
-                    // We strip it from 'remaining' so it doesn't show in the Main Card
-                    // But we don't need to save it here, as it's already in activeLesson.resources
-                    remaining = remaining.substring(0, grammarMatch.index).trim();
-                  }
 
                   // Cleanup trailing separators from remaining (main content)
                   remaining = remaining.replace(/\n---\s*$/, "").trim();
@@ -2105,6 +2144,20 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           </div>
         )
       }
+
+      {/* Reopen Sidebar Button (Fixed Global) */}
+      {!isSidebarOpen && (
+        <button
+          onClick={() => setIsSidebarOpen(true)}
+          className="fixed right-0 top-32 z-40 p-3 bg-white border-l border-y border-[#dd8b8b]/20 rounded-l-xl shadow-lg hover:pl-4 transition-all text-[#dd8b8b] hover:text-[#5A6B70] group"
+          title="Ouvrir le sommaire"
+        >
+          <PanelRightOpen className="w-6 h-6" />
+          <span className="absolute right-full mr-2 top-1/2 -translate-y-1/2 px-2 py-1 bg-[#5A6B70] text-white text-xs font-bold rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
+            Voir le contenu
+          </span>
+        </button>
+      )}
 
       {/* Floating Action Button for Notes */}
       {

@@ -1,8 +1,8 @@
-# Leçon 14 : Mon parcours (Passé Composé - Être)
+# Leçon 15 : Mon parcours (Passé composé avec être)
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Tell your life story, use Passé Composé with "être", agree the past participle
+**Objectifs** : Raconter sa vie, utiliser le Passé composé avec "être", accorder le participe passé
 
 ---
 

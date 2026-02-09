@@ -1,8 +1,8 @@
-# Leçon 07 : Découvrir Bruxelles - Les quartiers
+# Leçon 08 : Découvrir Bruxelles — Les quartiers
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Describe places, talk about Brussels neighborhoods, use "il y a"
+**Objectifs** : Décrire des lieux, parler des quartiers de Bruxelles, utiliser "il y a"
 
 ---
 

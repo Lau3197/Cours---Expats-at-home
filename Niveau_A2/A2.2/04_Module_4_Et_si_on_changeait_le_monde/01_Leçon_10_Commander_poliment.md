@@ -32,6 +32,31 @@
 > 
 > **Tom :** Oui, j'**aimerais** un Kir, s'il vous plaît.
 
+<details>
+<summary>English Translation</summary>
+
+> **Waiter:** Good evening, have you chosen?
+>
+> **Tom:** I **would like** the menu of the day, please.
+>
+> **Waiter:** Excellent choice. And for drink?
+>
+> **Tom:** **Could** I have a glass of white wine?
+>
+> **Waiter:** Of course. **Would you like** to see the wine list?
+>
+> **Tom:** No thank you, **could you** recommend a wine from the region?
+>
+> **Waiter:** I **would recommend** the Côtes du Rhône.
+>
+> **Tom:** Perfect, I **will take** that then.
+>
+> **Waiter:** **Would you wish** for an aperitif meanwhile?
+>
+> **Tom:** Yes, I **would like** a Kir, please.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -214,6 +239,10 @@
 
 **Politeness in Belgium:**
 
+> "Les Belges sont généralement très polis. Ils utilisent souvent le conditionnel pour les demandes : 'Je voudrais' plutôt que 'Je veux'. Les formules 'S'il vous plaît' et 'Merci' sont essentielles. Dans les commerces, on salue toujours en entrant ('Bonjour') et en partant ('Au revoir, bonne journée'). Oublier ces formules est considéré comme impoli."
+
+> **En français**
+>
 > "Les Belges sont généralement très polis. Ils utilisent souvent le conditionnel pour les demandes : 'Je voudrais' plutôt que 'Je veux'. Les formules 'S'il vous plaît' et 'Merci' sont essentielles. Dans les commerces, on salue toujours en entrant ('Bonjour') et en partant ('Au revoir, bonne journée'). Oublier ces formules est considéré comme impoli."
 
 ### Essential polite phrases

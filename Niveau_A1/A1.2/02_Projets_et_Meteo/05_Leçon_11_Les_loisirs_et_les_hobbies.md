@@ -28,6 +28,27 @@
 > 
 > **Tom :** Bien sûr, avec plaisir !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Tom, what do you do in your free time?
+>
+> **Tom:** I like doing sports. I go swimming twice a week and I play tennis on weekends.
+>
+> **Sophie:** Great! Me, I prefer cultural activities. I go to the cinema often and I read a lot.
+>
+> **Tom:** Do you do sports too?
+>
+> **Sophie:** Yes, I go cycling sometimes. And I like walking in parks. Do you have other hobbies?
+>
+> **Tom:** Yes, I play the guitar and I cook. I love preparing Italian dishes!
+>
+> **Sophie:** I'd like to learn cooking. Could you show me?
+>
+> **Tom:** Of course, with pleasure!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -80,6 +101,39 @@
 
 ---
 
+## Practice 1: Faire de...
+
+**Complete with the correct form (du, de la, de l', des):**
+
+1. Je fais _______ natation.
+2. Il fait _______ vélo.
+3. Elle fait _______ équitation.
+4. Nous faisons _______ promenade.
+
+<details>
+<summary>Answers</summary>
+
+1. Je fais **de la** natation.
+2. Il fait **du** vélo.
+3. Elle fait **de l'**équitation.
+4. Nous faisons **de la** promenade.
+
+</details>
+
+### Les Mimes <�
+
+**Mimez et devinez !**
+*   Le mime : (Fait des mouvements de bras)
+*   Vous : "Tu fais de la natation !"
+
+*   Le mime : (Tient quelque chose et p'dale)
+*   Vous : "Tu fais du v'lo !"
+
+*� vous ! Mimez "Faire de l'�quitation".*
+
+
+---
+
 ## Observation 2: "Jouer à" for sports and games
 
 **Look at these expressions:**
@@ -96,6 +150,40 @@
 | Chess | jouer **aux** échecs |
 | Cards | jouer **aux** cartes |
 | Video games | jouer **aux** jeux vidéo |
+
+---
+
+## Practice 2: Jouer à...
+
+**Complete with the correct form (au, à la, à l', aux):**
+
+1. Tu joues _______ tennis.
+2. Ils jouent _______ cartes.
+3. Elle joue _______ football.
+4. Nous jouons _______ pétanque.
+
+<details>
+<summary>Answers</summary>
+
+1. Tu joues **au** tennis.
+2. Ils jouent **aux** cartes.
+3. Elle joue **au** football.
+4. Nous jouons **à la** pétanque.
+
+</details>
+
+### La Comp'tition <�
+
+**Qui gagne ?**
+1. Un match de Football (11 joueurs) VS Un match de Tennis (2 joueurs).
+2. "Je joue **au** foot" VS "Je joue **du** foot". (Laquelle est correcte ?)
+
+<details>
+<summary>Solution</summary>
+
+2. "Je joue **au** foot" est correcte (Sport = �).
+</details>
+
 
 ---
 
@@ -117,7 +205,44 @@
 
 ---
 
-## Practice 1: Faire, jouer à, or jouer de?
+## Practice 3: Jouer de...
+
+**Complete with the correct form (du, de la, de l', des):**
+
+1. Il joue _______ guitare.
+2. Je joue _______ piano.
+3. Elle joue _______ accordéon.
+4. Vous jouez _______ batterie ?
+
+<details>
+<summary>Answers</summary>
+
+1. Il joue **de la** guitare.
+2. Je joue **du** piano.
+3. Elle joue **de l'**accordéon.
+4. Vous jouez **de la** batterie ?
+
+</details>
+
+### Le Chef d'Orchestre <�
+
+**Le chef est perdu. Aidez-le !**
+*   Toi, joue (au / du) violon ! -> **Du** violon !
+*   Toi, joue (� la / de la) guitare ! -> **De la** guitare !
+*   Toi, joue (au / du) tennis ! -> **Dehors !** (Pas de sport dans l'orchestre !)
+
+<details>
+<summary>Solutions</summary>
+
+1. Du
+2. De la
+3. Dehors !
+</details>
+
+
+---
+
+## Practice 4: Mixed Practice
 
 **Complete with the correct expression:**
 
@@ -137,6 +262,15 @@
 5. Je **joue de la** guitare.
 
 </details>
+
+### M'lange Sport et Musique <�<�
+
+**Classez les mots dans la bonne valise.**
+*   Valise A (AU/AUX) : Tennis, Cartes, Foot...
+*   Valise B (DU/DE LA) : Piano, Guitare, Natation, V'lo...
+
+*O� mettez-vous "Yoga" ?* -> Valise B (Faire **du** yoga).
+
 
 ---
 
@@ -164,6 +298,41 @@
 
 ---
 
+## Practice 5: Frequency
+
+**Put the words in order to make sentences:**
+
+1. au / vais / Je / cinéma / souvent.
+2. fais / Il / jamais / sport / ne / de.
+3. jouons / cartes / Nous / aux / parfois.
+4. le / Elle / regarde / rarement / foot.
+
+<details>
+<summary>Answers</summary>
+
+1. Je vais **souvent** au cinéma.
+2. Il **ne** fait **jamais** de sport.
+3. Nous jouons **parfois** aux cartes.
+4. Elle regarde **rarement** le foot.
+
+</details>
+
+### Le Menteur (Fr'quence) >%
+
+**Quelle phrase est probablement fausse ?**
+1. "Je me brosse les dents **tous les jours**."
+2. "Je vais sur la Lune **souvent**."
+3. "Je mange **parfois** du chocolat."
+
+<details>
+<summary>Solution</summary>
+
+2. "Je vais sur la Lune souvent" (C'est un mensonge !)
+</details>
+
+
+---
+
 ## Culture: Hobbies in Belgium
 
 ### Read this testimony
@@ -171,6 +340,12 @@
 **Marc, Belgian sports enthusiast:**
 
 > "Belgians love cycling! It's both a sport and a way of life. On weekends, you'll see groups of cyclists on country roads. Football is the most popular team sport. For cultural activities, Belgians enjoy visiting museums and going to festivals. We also have many expat sports clubs where you can meet people and practice French!"
+
+> **En français**
+>
+> "Les Belges adorent le vélo ! C'est à la fois un sport et un mode de vie. Le week-end, vous verrez des groupes de cyclistes sur les routes de campagne. Le football est le sport d'équipe le plus populaire. Pour les activités culturelles, les Belges aiment visiter les musées et aller aux festivals. Nous avons aussi beaucoup de clubs sportifs pour expats où vous pouvez rencontrer des gens et pratiquer le français !"
+
+
 
 ### Popular activities in Belgium
 
@@ -192,14 +367,14 @@
 
 ---
 
-## Practice 2: Describe your hobbies
+## Practice 6: Describe your hobbies
 
 **Write about your hobbies:**
 
 1. Un sport que je fais : _______________
 2. Un instrument que je joue : _______________ (or "Je ne joue pas d'instrument")
 3. Une activité culturelle : _______________
-4. À quelle fréquence : _______________
+4. ì quelle fréquence : _______________
 
 ---
 
@@ -243,7 +418,7 @@ In French, after a preposition (avec, pour, chez, sans...), we **cannot** use "j
 | **Ils** (Masc) | **Eux** | Je sors avec **eux**. |
 | **Elles** (Fem) | **Elles** | Je sors avec **elles**. |
 
-### ✏️ Practice 3: Fill in the blank
+### �S�️ Practice 3: Fill in the blank
 
 1.  (Il / Pierre) Je joue au tennis avec _____.
 2.  (Elles / Les filles) Je vais au cinéma avec _____.
@@ -251,12 +426,21 @@ In French, after a preposition (avec, pour, chez, sans...), we **cannot** use "j
 4.  (Tu) Je pense à _____.
 
 <details>
-<summary>📝 Answers</summary>
+<summary>�x� Answers</summary>
 1. avec **lui**
 2. avec **elles**
 3. pour **moi**
 4. à **toi**
 </details>
+
+### Le Cadeau Parfait <�
+
+**C'est l'anniversaire de Pierre. Qu'est-ce qu'on offre ?**
+1. Une raquette de tennis (C'est pour **lui** ou pour **elle** ?)
+2. Un sac → main (C'est pour **lui** ou pour **elle** ?)
+
+*Si Pierre aime le tennis -> C'est pour **lui** !*
+
 
 ---
 
@@ -339,3 +523,4 @@ Include:
 ---
 
 *Bonne continuation !*
+

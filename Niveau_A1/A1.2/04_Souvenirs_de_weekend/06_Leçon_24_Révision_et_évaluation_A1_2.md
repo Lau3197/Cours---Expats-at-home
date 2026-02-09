@@ -66,9 +66,9 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 **Write these times in French:**
 
-1. 8:30 AM → _______________
-2. 2:15 PM (formal) → _______________
-3. 6:45 PM → _______________
+1. 8:30 AM →  _______________
+2. 2:15 PM (formal) →  _______________
+3. 6:45 PM →  _______________
 
 <details>
 <summary>Answers</summary>
@@ -108,9 +108,9 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 **Order these items with quantities:**
 
-1. 1 kg apples → _______________
-2. 500g cheese → _______________
-3. 1 bottle water → _______________
+1. 1 kg apples →  _______________
+2. 500g cheese →  _______________
+3. 1 bottle water →  _______________
 
 <details>
 <summary>Answers</summary>
@@ -184,7 +184,7 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 </details>
 
-### Exercise 8: Avoir or Être?
+### Exercise 8: Avoir or �`tre?
 
 **Choose the correct auxiliary:**
 
@@ -211,14 +211,14 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 **Write a proposal for each situation:**
 
-1. Invite someone to the cinema → _______________
-2. Accept an invitation → _______________
-3. Refuse politely → _______________
+1. Invite someone to the cinema →  _______________
+2. Accept an invitation →  _______________
+3. Refuse politely →  _______________
 
 <details>
 <summary>Suggested answers</summary>
 
-1. Ça te dit d'aller au cinéma ?
+1. �!a te dit d'aller au cinéma ?
 2. Oui, avec plaisir ! / Bonne idée !
 3. Désolé(e), je suis déjà pris(e).
 
@@ -228,8 +228,8 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 **What documents do you need for:**
 
-1. Registration at commune → _______________
-2. Proving your address → _______________
+1. Registration at commune →  _______________
+2. Proving your address →  _______________
 
 <details>
 <summary>Answers</summary>
@@ -301,6 +301,43 @@ This final lesson is a comprehensive revision of everything you've learned. Use 
 
 ---
 
+## <� Le Grand Quiz Final
+
+**Testez votre culture belge et votre grammaire !**
+
+1.  **En Belgique, on dit :**
+    *   (A) Soixante-dix
+    *   (B) Septante
+
+2.  **"Je ____ suis lev�" :**
+    *   (A) me
+    *   (B) m'
+
+3.  **Le pass� compos� de "Aller" :**
+    *   (A) J'ai all'e
+    *   (B) Je suis all�
+
+4.  **Une "Gaufre de Bruxelles" est :**
+    *   (A) L'g�re et rectangulaire
+    *   (B) Ronde et sucr'e
+
+5.  **Pour refuser poliment :**
+    *   (A) Non !
+    *   (B) D'sol�, je ne peux pas.
+
+<details>
+<summary>Solutions</summary>
+
+1. B (Septante)
+2. A (me - si "je" est consonne? Non, "lev�" commence par consonne -> Je me suis lev�) -> Wait, "suis" starts with S. je me suis.
+3. B (Je suis all�)
+4. A (L'g�re)
+5. B (D'sol�)
+</details>
+
+---
+
+
 ## Final Challenge
 
 **Write about yourself (150-200 words):**
@@ -365,3 +402,4 @@ You now have solid foundations in French. You can:
 ---
 
 *Félicitations et bonne continuation vers le niveau A2 !*
+

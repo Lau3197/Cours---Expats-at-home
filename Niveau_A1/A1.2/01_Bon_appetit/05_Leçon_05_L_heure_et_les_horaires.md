@@ -32,6 +32,31 @@
 > 
 > **Tom :** Merci beaucoup. Au revoir !
 
+<details>
+<summary>English Translation</summary>
+
+> **Secretary:** Dr. Martin's medical office, hello!
+>
+> **Tom:** Hello, I would like to make an appointment, please.
+>
+> **Secretary:** Of course. When for?
+>
+> **Tom:** Is it possible tomorrow?
+>
+> **Secretary:** Tomorrow... I have an opening at **ten o'clock** or at **two-thirty**. What suits you?
+>
+> **Tom:** **Ten o'clock** is perfect.
+>
+> **Secretary:** Very well. What is the name?
+>
+> **Tom:** Tom Smith.
+>
+> **Secretary:** Okay. So tomorrow at ten o'clock. The office opens at **eight o'clock** and closes at **six o'clock**. Please arrive **five minutes** early.
+>
+> **Tom:** Thank you very much. Goodbye!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -80,6 +105,41 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 ---
 
+## Practice 1: Official Time
+
+**Convert to French (24h format):**
+
+1. 8:00 PM →  _____________
+2. 2:30 PM →  _____________
+3. 9:00 AM →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. Vingt heures
+2. Quatorze heures trente
+3. Neuf heures
+
+</details>
+
+### Le Robot Annonceur �x�
+
+**Lisez comme un robot de gare !**
+
+*   "Le train départ 18 heures 30 quai 4."
+*   "Le train départ 22 heures 15 quai 9."
+
+*Est-ce que c'est le matin ou le soir ?*
+
+<details>
+<summary>Solution</summary>
+
+C'est le **soir** (18h = 6 PM, 22h = 10 PM).
+</details>
+
+
+---
+
 ## Observation 2: Telling time (informal)
 
 **In everyday conversation, the 12-hour clock is common:**
@@ -97,6 +157,44 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 | du matin | in the morning |
 | de l'après-midi | in the afternoon |
 | du soir | in the evening |
+
+---
+
+## Practice 2: Informal Time
+
+**Convert to French (12h format):**
+
+1. 20h00 →  _____________
+2. 14h00 →  _____________
+3. 8h00 →  _____________
+
+<details>
+<summary>Answers</summary>
+
+1. Huit heures du soir
+2. Deux heures de l'après-midi
+3. Huit heures du matin
+
+</details>
+
+### Le Rendez-vous Manqué �x
+
+**Roméo attend Juliette. Elle est en retard !**
+
+*   Le rendez-vous est à **huit heures du soir** (20h).
+*   Il est **neuf heures** (21h).
+
+*Roméo attend depuis...*
+A. Une heure
+B. Deux heures
+C. Dix minutes
+
+<details>
+<summary>Solution</summary>
+
+A. Une heure (Pauvre Roméo !)
+</details>
+
 
 ---
 
@@ -123,15 +221,15 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 ---
 
-## Practice 1: Write the time
+## Practice 3: Write the time
 
 **Write these times in French:**
 
-1. 9:00 AM → _______________
-2. 3:30 PM (formal) → _______________
-3. 6:15 PM (informal) → _______________
-4. 7:45 AM → _______________
-5. 12:00 PM → _______________
+1. 9:00 AM →  _______________
+2. 3:30 PM (formal) →  _______________
+3. 6:15 PM (informal) →  _______________
+4. 7:45 AM →  _______________
+5. 12:00 PM →  _______________
 
 <details>
 <summary>Answers</summary>
@@ -144,6 +242,23 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 </details>
 
+### Désamorcer la bombe �x�
+
+**Coupez le fil bleu à exactement "dix heures et quart" !**
+
+*   Horloge A : 10h15
+*   Horloge B : 10h30
+*   Horloge C : 10h45
+
+*Quelle horloge choisissez-vous ?*
+
+<details>
+<summary>Solution</summary>
+
+Horloge A (10h15) - Ouf !
+</details>
+
+
 ---
 
 ## Observation 4: Asking about time
@@ -154,7 +269,7 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 |:-------|:--------|
 | Quelle heure est-il ? | What time is it? |
 | Il est quelle heure ? | What time is it? (informal) |
-| À quelle heure... ? | At what time...? |
+| ì quelle heure... ? | At what time...? |
 | Le magasin ouvre à quelle heure ? | What time does the store open? |
 | C'est à quelle heure ? | What time is it (the event)? |
 
@@ -168,7 +283,41 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 ---
 
-## Practice 2: Complete the dialogue
+## Practice 4: Answer the question
+
+**Answer using the clue:**
+
+1. Le train part à quelle heure ? (14h) →  ____________________
+2. Quelle heure est-il ? (10h30) →  ____________________
+3. Le magasin ferme à quelle heure ? (18h) →  ____________________
+
+<details>
+<summary>Answers</summary>
+
+1. Il part à 14 heures.
+2. Il est 10 heures et demie.
+3. Il ferme à 18 heures.
+
+</details>
+
+### Avis Google �xRx
+
+**Le client n'est pas content. Pourquoi ?**
+
+> "Je suis arrivé à 18h00. Le magasin ferme à 17h30 !"
+
+*   Il est arrivé **trop tôt** ou **trop tard** ?
+
+<details>
+<summary>Solution</summary>
+
+Trop tard ! (30 minutes trop tard)
+</details>
+
+
+---
+
+## Practice 5: Complete the dialogue
 
 **Fill in the blanks:**
 
@@ -190,6 +339,24 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 </details>
 
+### Dialogue de Sourds �x"0
+
+**La personne est très âgée. Elle n'entend rien.**
+
+*   Vous : "Il est 4 heures."
+*   Papy : "Quoi ? Il est 8 heures ?"
+*   Vous : "NON ! QUATRE HEURES !"
+
+*Répétez la phrase "Il est midi" très fort (en majuscules) :*
+___________________________________________________
+
+<details>
+<summary>Solution</summary>
+
+IL EST MIDI !
+</details>
+
+
 ---
 
 ## Culture: Time in Belgium
@@ -198,7 +365,13 @@ In French, the 24-hour clock is used for schedules, appointments, and official s
 
 **Marc, Belgian businessman:**
 
-> "Belgians are quite punctual for professional meetings – arrive on time or even 5 minutes early. For social events, it's acceptable to be 10-15 minutes late. Opening hours can vary: most shops close around 18h, but some small shops close for lunch between 12h and 14h. Sunday is generally a quiet day – many shops are closed."
+> "Belgians are quite punctual for professional meetings � arrive on time or even 5 minutes early. For social events, it's acceptable to be 10-15 minutes late. Opening hours can vary: most shops close around 18h, but some small shops close for lunch between 12h and 14h. Sunday is generally a quiet day � many shops are closed."
+
+> **En français**
+>
+> "Les Belges sont assez ponctuels pour les rendez-vous professionnels � arrivez à l'heure ou même 5 minutes en avance. Pour les événements sociaux, il est acceptable d'avoir 10-15 minutes de retard. Les horaires d'ouverture varient : la plupart des magasins ferment vers 18h, mais certains petits commerces ferment le midi entre 12h et 14h. Le dimanche est généralement calme � beaucoup de magasins sont fermés."
+
+
 
 ### Business hours in Belgium
 
@@ -263,6 +436,87 @@ Include:
 
 ---
 
+## Pratique 6 : Le Festival de Bruxelles �x}�
+
+**C'est la fête de la musique à Bruxelles ! Regardez le programme.**
+
+| Heure | �0vénement |
+| :--- | :--- |
+| **14h00 - 18h00** | Concerts Rock |
+| **18h30** | Pause repas (Gaufres !) |
+| **20h00** | Concert de Jazz |
+| **23h00** | Feu d'artifice |
+
+**Complétez avec la bonne préposition :**
+
+1. Les concerts de Rock sont _____ 14h00 _____ 18h00.
+   <select>
+       <option value="">Choisir...</option>
+       <option value="correct">de ... à</option>
+       <option value="wrong">à ... de</option>
+       <option value="wrong">vers ... à</option>
+   </select>
+
+2. La pause repas commence juste _____ les concerts de Rock.
+   <select>
+       <option value="">Choisir...</option>
+       <option value="wrong">avant</option>
+       <option value="correct">après</option>
+       <option value="wrong">vers</option>
+   </select>
+
+3. Le concert de Jazz est _____ 20h00 précises.
+   <select>
+       <option value="">Choisir...</option>
+       <option value="correct">à</option>
+       <option value="wrong">vers</option>
+       <option value="wrong">de</option>
+   </select>
+
+4. Il faut arriver _____ 20h00 pour avoir une bonne place.
+   <select>
+       <option value="">Choisir...</option>
+       <option value="correct">avant</option>
+       <option value="wrong">après</option>
+       <option value="wrong">jusqu'à</option>
+   </select>
+
+5. La fête continue _____ 23h00 (heure du feu d'artifice).
+   <select>
+       <option value="">Choisir...</option>
+       <option value="wrong">à</option>
+       <option value="wrong">en</option>
+       <option value="correct">jusqu'à</option>
+   </select>
+
+<details>
+<summary>Voir les réponses</summary>
+
+1. **de... à**
+2. **après**
+3. **à**
+4. **avant**
+5. **jusqu'à**
+</details>
+
+### Le Planning Impossible �x️
+
+**L'assistant a fait une erreur dans l'agenda du Ministre.**
+
+*   14h00 - 15h00 : Sieste
+*   14h30 : Réunion importante
+
+*Est-ce possible ?* (Oui / Non)
+
+<details>
+<summary>Solution</summary>
+
+Non ! Il ne peut pas avoir une réunion PENDANT la sieste (14h30 est entre 14h00 et 15h00).
+</details>
+
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Mistake 1: Using "12h" incorrectly
@@ -316,3 +570,4 @@ Include:
 ---
 
 *Bonne continuation !*
+

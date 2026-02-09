@@ -1,13 +1,13 @@
 # Leçon 17 : Expression écrite A1.2 (Consolidation)
 
 **Niveau** : A1.2  
-**Type** : Consolidation (Écriture)  
+**Type** : Consolidation (�0criture)  
 **Durée estimée** : 2-3 heures  
 **Objectifs** : Practice A1.2 writing skills
 
 ---
 
-## 🎯 What you should be able to write at A1.2
+## �x}� What you should be able to write at A1.2
 
 At the end of A1.2, you should be able to:
 
@@ -19,7 +19,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## ✍️ Practice 1: Ma journée typique (My typical day)
+## �S�️ Practice 1: Ma journée typique (My typical day)
 
 **Write a short text (60-80 words) describing your daily routine.**
 
@@ -41,7 +41,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## ✍️ Practice 2: Mon emploi du temps (My schedule)
+## �S�️ Practice 2: Mon emploi du temps (My schedule)
 
 **Write your weekly schedule (70-90 words).**
 
@@ -66,7 +66,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## ✍️ Practice 3: Mon week-end dernier (My last weekend)
+## �S�️ Practice 3: Mon week-end dernier (My last weekend)
 
 **Write about your last weekend (80-100 words).**
 
@@ -84,7 +84,7 @@ At the end of A1.2, you should be able to:
 - Dimanche, nous avons...
 - C'était... (sympa/intéressant/fatigant)
 
-**Verbs with ÊTRE:**
+**Verbs with �`TRE:**
 - je suis allé(e), je suis resté(e), je suis sorti(e), je suis rentré(e)
 
 **Verbs with AVOIR:**
@@ -92,7 +92,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## ✍️ Practice 4: Mes loisirs et préférences (My hobbies and preferences)
+## �S�️ Practice 4: Mes loisirs et préférences (My hobbies and preferences)
 
 **Write about your hobbies and preferences (70-80 words).**
 
@@ -114,7 +114,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## ✍️ Practice 5: Inviter un ami (Invite a friend)
+## �S�️ Practice 5: Inviter un ami (Invite a friend)
 
 **Write a short message to invite a friend to do something (50-70 words).**
 
@@ -127,17 +127,31 @@ At the end of A1.2, you should be able to:
 
 **Useful structures:**
 - Salut [nom],
-- Ça te dit de...?
+- �!a te dit de...?
 - On peut se voir...
 - Rendez-vous à...
-- À bientôt!
+- ì bientôt!
 
 **Example:**
-> "Salut Marie, ça va? Ça te dit d'aller au marché de la place Flagey samedi matin? On peut se voir à 10h devant le café. Qu'est-ce que tu en penses?"
+> "Salut Marie, ça va? �!a te dit d'aller au marché de la place Flagey samedi matin? On peut se voir à 10h devant le café. Qu'est-ce que tu en penses?"
 
 ---
 
-## 📝 Writing Checklist for A1.2
+## <� Fun Writing: Le Mensonge
+
+**Two Truths and a Lie (Deux v'rit's et un mensonge).**
+Write 3 sentences about yourself using A1.2 grammar. Two are true, one is false.
+Can your teacher/partner guess which one is false?
+
+*Exemple :*
+1. *Je me l've toujours → 5h du matin.* (Mensonge ?)
+2. *J'aime manger des frites avec du chocolat.* (V'rit� ?)
+3. *Je suis all� → Paris le week-end dernier.* (V'rit� ?)
+
+---
+
+
+## �x� Writing Checklist for A1.2
 
 ### Content
 - [ ] I included all required information
@@ -162,7 +176,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## 🎯 Self-Evaluation
+## �x}� Self-Evaluation
 
 **Check what you can do:**
 
@@ -175,14 +189,14 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## 💡 Belgian Context: Writing Tips
+## �x� Belgian Context: Writing Tips
 
 **When writing in a Belgian context:**
 
 - **Time format**: Use 24h format in formal writing (14h30, not 2:30 PM)
 - **Politeness**: Always include "s'il te plaît" or "s'il vous plaît"
 - **Formality**: 
-  - Friends: "Salut", "À plus", "Bisous"
+  - Friends: "Salut", "ì plus", "Bisous"
   - Formal: "Bonjour", "Cordialement", "Bien à vous"
 - **Numbers**: Remember 70 = septante, 90 = nonante
 - **Common Belgian expressions**:
@@ -192,7 +206,7 @@ At the end of A1.2, you should be able to:
 
 ---
 
-## 📚 Next Steps
+## �xa Next Steps
 
 After completing these exercises:
 
@@ -211,3 +225,4 @@ After completing these exercises:
 ---
 
 *Bon courage avec l'écriture!*
+

@@ -30,6 +30,31 @@
 > 
 > **Tom :** Je ne vais **nulle part** de spécial, juste au supermarché.
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Do you smoke **still**?
+>
+> **Tom:** No, I **don't smoke anymore**. I stopped six months ago.
+>
+> **Sophie:** Bravo! And do you **still** eat meat?
+>
+> **Tom:** No, I **don't eat meat anymore**. I am vegetarian.
+>
+> **Sophie:** You eat **nothing**?
+>
+> **Tom:** I eat **something**! Vegetables, eggs... But **nothing** animal.
+>
+> **Sophie:** Do you know **someone** else who is vegetarian?
+>
+> **Tom:** No, I don't know **anyone**. I am the only one.
+>
+> **Sophie:** Do you go **somewhere** for your groceries?
+>
+> **Tom:** I don't go **anywhere** special, just to the supermarket.
+
+</details>
+
 ---
 
 ## 2. La Logique : Les Couples Opposés (POSTIF vs NÉGATIF)

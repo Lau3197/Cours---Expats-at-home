@@ -1,8 +1,8 @@
-# Leçon 08 : La Belgique - Les trois régions
+# Leçon 09 : La Belgique — Les trois régions
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Learn about Belgium's regions, talk about languages, use "on parle" and "est-ce que"
+**Objectifs** : Découvrir les régions de la Belgique, parler des langues, utiliser "on parle" et "est-ce que"
 
 ---
 

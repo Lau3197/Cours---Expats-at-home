@@ -26,6 +26,25 @@
 > 
 > **Sophie :** Moi, **je suis partie** à Bruges avec ma famille. On **a visité** la ville et **on a mangé** des gaufres !
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Hi Tom! Did you have a good weekend?
+>
+> **Tom:** Yes, great! Saturday morning, **I went** shopping at the market. Afterwards, **I prepared** a good meal.
+>
+> **Sophie:** And in the afternoon?
+>
+> **Tom:** **I went** to the Magritte museum with friends. Then, we **had** a drink at Place Saint-Géry.
+>
+> **Sophie:** And Sunday?
+>
+> **Tom:** **I stayed** at home. **I watched** a movie and **I read** a book. And you, what did you do?
+>
+> **Sophie:** Me, **I went** to Bruges with my family. We **visited** the city and **we ate** waffles!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -82,9 +101,37 @@
 | lire | lu | J'ai lu |
 | voir | vu | J'ai vu |
 
+### Pratique 1 : Avoir
+**Conjuguez le verbe au passé composé (avec AVOIR).**
+
+1.  J'______ mangé une pizza. (ai/as)
+2.  Tu ______ regardé la télé. (aS/a)
+3.  Il ______ fait ses devoirs. (a/ont)
+4.  Nous ______ fini le travail. (avons/avez)
+5.  Elles ______ pris le bus. (ont/sont)
+
+<details>
+<summary>Correction</summary>
+
+1.  J'**ai** mangé
+2.  Tu **as** regardé
+3.  Il **a** fait
+4.  Nous **avons** fini
+5.  Elles **ont** pris
+</details>
+
+### "Le Glouton" �x�
+
+**Vous avez très très faim ! Qu'est-ce que vous avez mangé hier ?**
+*(Utilisez "J'ai mangé...")*
+
+1.  *J'ai mangé 10 pizzas.*
+2.  *J'ai mangé...*
+3.  *J'ai mangé...*
+
 ---
 
-## Observation 2: Passé composé with ÊTRE
+## Observation 2: Passé composé with �`TRE
 
 **Look at these sentences:**
 
@@ -92,9 +139,9 @@
 > **Je suis resté** à la maison.  
 > **Je suis partie** à Bruges.
 
-### Pattern: Être + past participle
+### Pattern: �`tre + past participle
 
-| Subject | Être | Past participle |
+| Subject | �`tre | Past participle |
 |:--------|:-----|:----------------|
 | Je | suis | allé(e) |
 | Tu | es | parti(e) |
@@ -112,9 +159,37 @@ With être, the past participle agrees with the subject:
 - Masculine plural: Ils sont allés
 - Feminine plural: Elles sont allées
 
+### Pratique 2 : �`tre + Accord
+**Conjuguez et faites l'accord si nécessaire.**
+
+1.  Je suis ______ (aller) au cinéma. (Si vous êtes une femme : allée)
+2.  Elle est ______ (partir) à 8h.
+3.  Nous sommes ______ (rester) ici. (Pluriel)
+4.  Ils sont ______ (venir) en train.
+5.  Tu es ______ (sortir) hier soir ?
+
+<details>
+<summary>Correction</summary>
+
+1.  allé / allée
+2.  partie
+3.  restés
+4.  venus
+5.  sorti / sortie
+</details>
+
+### "Le Fantôme" �x�
+
+**Vous êtes un fantôme. Vous traversez les murs !**
+*(Utilisez "Je suis passé par...", "Je suis entré dans...")*
+
+1.  *Je suis passé par le mur.*
+2.  *Je suis entré dans le frigo.*
+3.  *Je suis resté dans le plafond.*
+
 ---
 
-## Observation 3: Verbs that use ÊTRE
+## Observation 3: Verbs that use �`TRE
 
 **The "house of être" - movement verbs:**
 
@@ -138,26 +213,32 @@ With être, the past participle agrees with the subject:
 
 ---
 
-## Practice 1: Avoir or Être?
+### Pratique 3 : Avoir ou �`tre ?
+**Choisissez le bon auxiliaire.**
 
-**Complete with the correct auxiliary:**
-
-1. J'_____________ mangé au restaurant. (avoir/être)
-2. Il _____________ allé au cinéma. (avoir/être)
-3. Elle _____________ travaillé samedi. (avoir/être)
-4. Nous _____________ partis à 10h. (avoir/être)
-5. Ils _____________ vu un film. (avoir/être)
+1.  J'______ mangé au restaurant. (ai/suis)
+2.  Il ______ allé au cinéma. (a/est)
+3.  Elle ______ travaillé samedi. (a/est)
+4.  Nous ______ partis à 10h. (avons/sommes)
+5.  Ils ______ vu un film. (ont/sont)
 
 <details>
-<summary>Answers</summary>
+<summary>Correction</summary>
 
-1. J'**ai** mangé
-2. Il **est** allé
-3. Elle **a** travaillé
-4. Nous **sommes** partis
-5. Ils **ont** vu
-
+1.  J'**ai** mangé
+2.  Il **est** allé
+3.  Elle **a** travaillé
+4.  Nous **sommes** partis
+5.  Ils **ont** vu
 </details>
+
+### "L'Alibi" �x"�️⬍�"�️
+
+**La police vous interroge ! Où étiez-vous ? Qu'avez-vous fait ?**
+*(Attention aux verbes de mouvement avec �`TRE)*
+
+*   Police : "Avez-vous volé le diamant ?"
+*   Vous : "Non ! Je **suis allé** chez ma grand-mère. J'**ai mangé** de la soupe. Je **suis resté** toute la soirée !"
 
 ---
 
@@ -184,6 +265,35 @@ With être, the past participle agrees with the subject:
 | après | after |
 | finalement | finally |
 
+### Pratique 4 : L'ordre de l'histoire
+**Remettez l'histoire dans l'ordre (1-5).**
+
+1.  Ensuite, j'ai pris le bus.
+2.  D'abord, je me suis levé à 7h.
+3.  Le soir, je suis rentré fatigué.
+4.  Après, j'ai travaillé au bureau.
+5.  Finalement, j'ai dormi.
+
+<details>
+<summary>Correction</summary>
+
+1.  D'abord (2)
+2.  Ensuite (1)
+3.  Après (4)
+4.  Le soir (3)
+5.  Finalement (5)
+</details>
+
+### "Le Voyageur Temporel" ⏳
+
+**Vous voyagez dans le temps. Tout est mélangé !**
+
+*   *Hier demain, je suis né.*
+*   *L'année prochaine, j'ai mangé une pomme.*
+*   *Avant-hier, je vais partir.*
+
+-> Inventez une phrase bizarre avec un verbe au passé !
+
 ---
 
 ## Culture: Belgian weekends
@@ -192,7 +302,13 @@ With être, the past participle agrees with the subject:
 
 **Jean, Belgian native:**
 
-> "Belgian weekends often involve family activities. Sunday is traditionally a day for family lunches – grandparents, parents, children all together. Many people also go to the coast (La Panne, Knokke, Ostende) for a day trip. In Bruges or Ghent, you'll see lots of Belgian tourists enjoying their own country. Markets are popular on Sunday mornings, and many bakeries open early for fresh croissants!"
+> "Belgian weekends often involve family activities. Sunday is traditionally a day for family lunches � grandparents, parents, children all together. Many people also go to the coast (La Panne, Knokke, Ostende) for a day trip. In Bruges or Ghent, you'll see lots of Belgian tourists enjoying their own country. Markets are popular on Sunday mornings, and many bakeries open early for fresh croissants!"
+
+> **En français**
+>
+> "Les weekends belges impliquent souvent des activités en famille. Le dimanche est traditionnellement un jour pour les déjeuners de famille � grands-parents, parents, enfants tous ensemble. Beaucoup de gens vont aussi à la côte (La Panne, Knokke, Ostende) pour une excursion d'une journée. ì Bruges ou Gand, vous verrez beaucoup de touristes belges profiter de leur propre pays. Les marchés sont populaires le dimanche matin, et beaucoup de boulangeries ouvrent tôt pour des croissants frais !"
+
+
 
 ### Typical Belgian weekend activities
 
@@ -205,14 +321,7 @@ With être, the past participle agrees with the subject:
 
 ---
 
-## Practice 2: Describe your weekend
 
-**Write about YOUR last weekend using these prompts:**
-
-1. Samedi matin, j'ai...
-2. L'après-midi, je suis...
-3. Le soir, j'ai...
-4. Dimanche, je...
 
 ---
 
@@ -257,7 +366,7 @@ Include:
 | regardé | choisi | attendu | vu |
 | travaillé | dormi | perdu | pris |
 
-### With ÊTRE (movement + reflexive)
+### With �`TRE (movement + reflexive)
 
 | Movement | Example |
 |:---------|:--------|
@@ -328,3 +437,4 @@ Include:
 ---
 
 *Bonne continuation !*
+

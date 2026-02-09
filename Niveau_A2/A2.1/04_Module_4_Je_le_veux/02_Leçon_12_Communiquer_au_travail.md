@@ -28,6 +28,27 @@
 > 
 > **Tom :** Évidemment ! Je **vous** enverrai un email dès que j'ai des nouvelles.
 
+<details>
+<summary>English Translation</summary>
+
+> **Sophie:** Did you talk to the boss?
+>
+> **Tom:** Yes, I spoke **to him** this morning. I explained the problem **to him**.
+>
+> **Sophie:** And did he answer you?
+>
+> **Tom:** Yes, he told **me** that he was going to think about it. He will give **me** an answer tomorrow.
+>
+> **Sophie:** And the clients? Did you send the documents **to them**?
+>
+> **Tom:** Of course! I sent **them** everything yesterday. I also phoned **them** to confirm.
+>
+> **Sophie:** Great. And **us**, do you keep **us** informed?
+>
+> **Tom:** Obviously! I will send **you** an email as soon as I have news.
+
+</details>
+
 ---
 
 ### Comprehension
@@ -190,6 +211,10 @@ The verbs use **à** (to someone):
 **Marc, Belgian HR manager:**
 
 > "In Belgian offices, communication is often quite direct but always polite. We use 'vous' with superiors and new colleagues. Email is the main form of communication for formal matters, but we like to call or meet for important discussions. Always reply to emails within 24 hours – it shows respect. And remember: a 'bonjour' in the morning and a 'bonne soirée' at the end of the day are essential!"
+
+> **En français**
+>
+> "Dans les bureaux belges, la communication est souvent assez directe mais toujours polie. On utilise le 'vous' avec les supérieurs et les nouveaux collègues. L'email est la forme principale pour les sujets formels, mais on aime appeler ou se voir pour les discussions importantes. Répondez toujours aux emails dans les 24 heures – c'est une marque de respect. Et n'oubliez pas : un 'bonjour' le matin et une 'bonne soirée' à la fin de la journée sont essentiels !"
 
 ### Office communication phrases
 

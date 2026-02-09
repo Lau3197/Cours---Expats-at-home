@@ -1,8 +1,8 @@
-# Leçon 13 : Raconter sa journée (Passé Composé - Avoir)
+# Leçon 14 : Raconter sa journée (Passé composé avec avoir)
 
 **Niveau** : A1.1  
 **Durée estimée** : 2-3 heures  
-**Objectifs** : Tell a story in the past, use Passé Composé with "avoir", use chronological connectors
+**Objectifs** : Raconter une histoire au passé, utiliser le Passé composé avec "avoir", utiliser des connecteurs chronologiques
 
 ---
 

@@ -1,8 +1,8 @@
-# Lesson 06: Family and relationships
+# Leçon 06 : La famille et les relations
 
-**Level**: A1.1  
-**Estimated duration**: 2-3 hours  
-**Objectives**: Talk about your family, describe relatives, use possessive adjectives (my, your, his/her)
+**Niveau** : A1.1  
+**Durée estimée** : 2-3 heures  
+**Objectifs** : Parler de sa famille, décrire ses proches, utiliser les adjectifs possessifs (mon, ton, son/sa)
 
 ---
 

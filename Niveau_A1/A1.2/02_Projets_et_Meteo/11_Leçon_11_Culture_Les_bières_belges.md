@@ -34,6 +34,33 @@
 > 
 > **Sophie :** Tu vois, les bières belges, c'est un art !
 
+<details>
+<summary>English Translation</summary>
+
+> **Waiter:** Good evening! What can I get for you?
+>
+> **Sophie:** Good evening! A Chimay Blue for me, please.
+>
+> **Tom:** And for me... I don't know Belgian beers. What do you recommend?
+>
+> **Waiter:** Do you prefer a blonde, a brown, or an amber?
+>
+> **Tom:** A blonde, not too strong.
+>
+> **Waiter:** So, I advise a Leffe Blonde. It's light and fruity.
+>
+> **Tom:** Perfect, I'll take that.
+>
+> *(The waiter brings the beers)*
+>
+> **Sophie:** Cheers!
+>
+> **Tom:** Cheers! Mmm, it's delicious. This beer is really good.
+>
+> **Sophie:** You see, Belgian beers are an art!
+
+</details>
+
 ---
 
 ### Comprehension
@@ -80,6 +107,32 @@
 
 ---
 
+## Practice 1: Types of beer
+
+**Match the type to the description:**
+
+1. Blonde
+2. Brune
+3. Blanche
+4. Fruitée
+
+a. Made with fruit (e.g., cherry)
+b. Dark and rich
+c. Light and mild
+d. Cloudy and citrusy
+
+<details>
+<summary>Answers</summary>
+
+1. **c**
+2. **b**
+3. **d**
+4. **a**
+
+</details>
+
+---
+
 ## Observation 2: Describing beer
 
 **Look at how the beer is described:**
@@ -101,6 +154,29 @@
 | délicieuse | delicious |
 | bonne | good |
 | rafraîchissante | refreshing |
+
+| rafraîchissante | refreshing |
+
+---
+
+## Practice 2: Describe drinks
+
+**Match the description to the beer:**
+
+1. Légère et fruitée →  _______________
+2. Forte et amère →  _______________
+3. Sucrée et rouge →  _______________
+4. Trouble et citronnée →  _______________
+
+<details>
+<summary>Suggested answers</summary>
+
+1. Une blonde (Leffe)
+2. Une trappiste (Chimay Bleue)
+3. Une kriek
+4. Une blanche (Hoegaarden)
+
+</details>
 
 ---
 
@@ -130,6 +206,26 @@
 | J'aime beaucoup | I like it a lot |
 | Je n'aime pas trop | I don't like it much |
 
+| Je n'aime pas trop | I don't like it much |
+
+---
+
+## Practice 3: Order a beer
+
+**Complete the dialogue:**
+
+**Serveur :** Bonsoir, qu'est-ce que je vous sers ?
+
+**You :** Bonsoir. Je voudrais une _____________ (type of beer), s'il vous plaît.
+
+**Serveur :** Voilà.
+
+**You :** _____________ ! (Cheers!)
+
+**Serveur :** Comment vous la trouvez ?
+
+**You :** C'est _____________ ! (your opinion)
+
 ---
 
 ## Culture: Belgian beer
@@ -138,7 +234,13 @@
 
 **Jean, Belgian beer sommelier:**
 
-> "Belgium has more than 1,500 different beers! It's part of our UNESCO heritage. Each beer has its own special glass – this isn't just tradition, it affects the taste. The most famous are the trappist beers, brewed by Trappist monks. There are only 6 authentic Belgian trappist breweries: Chimay, Orval, Rochefort, Westmalle, Westvleteren, and Achel."
+> "Belgium has more than 1,500 different beers! It's part of our UNESCO heritage. Each beer has its own special glass � this isn't just tradition, it affects the taste. The most famous are the trappist beers, brewed by Trappist monks. There are only 6 authentic Belgian trappist breweries: Chimay, Orval, Rochefort, Westmalle, Westvleteren, and Achel."
+
+> **En français**
+>
+> "La Belgique compte plus de 1 500 bières différentes ! Cela fait partie de notre patrimoine UNESCO. Chaque bière a son propre verre spécial � ce n'est pas juste une tradition, cela affecte le goût. Les plus célèbres sont les bières trappistes, brassées par des moines trappistes. Il n'y a que 6 brasseries trappistes belges authentiques : Chimay, Orval, Rochefort, Westmalle, Westvleteren et Achel."
+
+
 
 ### Famous Belgian beers
 
@@ -163,44 +265,7 @@
 
 ---
 
-## Practice 1: Order a beer
 
-**Complete the dialogue:**
-
-**Serveur :** Bonsoir, qu'est-ce que je vous sers ?
-
-**You :** Bonsoir. Je voudrais une _____________ (type of beer), s'il vous plaît.
-
-**Serveur :** Voilà.
-
-**You :** _____________ ! (Cheers!)
-
-**Serveur :** Comment vous la trouvez ?
-
-**You :** C'est _____________ ! (your opinion)
-
----
-
-## Practice 2: Describe drinks
-
-**Match the description to the beer:**
-
-1. Légère et fruitée → _______________
-2. Forte et amère → _______________
-3. Sucrée et rouge → _______________
-4. Cloude et citronée → _______________
-
-<details>
-<summary>Suggested answers</summary>
-
-1. Une blonde (Leffe)
-2. Une trappiste (Chimay Bleue)
-3. Une kriek
-4. Une blanche (Hoegaarden)
-
-</details>
-
----
 
 ## Speaking Practice
 
@@ -313,3 +378,4 @@ Include:
 ---
 
 *Santé et bonne continuation !*
+

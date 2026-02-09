@@ -1,8 +1,8 @@
-# Lesson 03: Numbers and Age
+# Leçon 03 : Les nombres et l'âge
 
-**Level**: A1.1  
-**Estimated duration**: 2-3 hours  
-**Objectives**: Count from 0 to 100, say your age, understand prices
+**Niveau** : A1.1  
+**Durée estimée** : 2-3 heures  
+**Objectifs** : Compter de 0 à 100, dire son âge, comprendre les prix
 
 ---
 
