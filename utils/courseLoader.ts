@@ -87,10 +87,10 @@ function extractLessonTitle(content: string): string {
 
 /**
  * Extract duration from markdown metadata.
- * Looks for: **Durée estimée** : X heures
+ * Looks for: **Durée estimée** : X heures  OR  **Estimated duration**: X hours
  */
 function extractDuration(content: string): string {
-    const match = content.match(/\*\*Durée estimée\*\*\s*:\s*(.+)/i);
+    const match = content.match(/\*\*(?:Durée estimée|Estimated duration)\*\*\s*:\s*(.+)/i);
     return match ? match[1].trim() : '45 min';
 }
 

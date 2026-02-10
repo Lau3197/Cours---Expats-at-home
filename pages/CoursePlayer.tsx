@@ -1293,13 +1293,13 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
   const renderLessonCard = (lesson: any, globalIndex: number) => {
     const isCompleted = completedLessons.has(lesson.id);
     const isFavorite = favoriteLessons.has(lesson.id);
-    const isRevision = lesson.title.toLowerCase().includes('révision') || lesson.title.toLowerCase().includes('evaluation') || lesson.title.toLowerCase().includes('consolidation');
+    const isRevision = lesson.title.toLowerCase().includes('révision') || lesson.title.toLowerCase().includes('revision') || lesson.title.toLowerCase().includes('evaluation') || lesson.title.toLowerCase().includes('consolidation') || lesson.title.toLowerCase().includes('expression') || lesson.title.toLowerCase().includes('comprehension') || lesson.title.toLowerCase().includes('compréhension');
     const displayTitle = lesson.title.replace(/\s*\(Consolidation\)\s*/i, '');
     const hasNotes = localStorage.getItem(`notes_${course.id}_${lesson.id}`) !== null;
 
     if (viewMode === 'list') {
       return (
-        <div key={lesson.id} onClick={() => setActiveLesson(lesson)} className={`bg-white rounded-xl p-4 border shadow-sm hover:shadow-md hover:bg-gray-50 transition-all duration-200 cursor-pointer flex items-center justify-between group ${isCompleted ? 'border-green-400/30' : 'border-gray-100'}`}>
+        <div key={lesson.id} onClick={() => setActiveLesson(lesson)} className={`rounded-xl p-4 border shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer flex items-center justify-between group ${isCompleted ? 'bg-white border-green-400/30' : isRevision ? 'bg-[#F5E6B8] border-[#B8960C]/40 hover:bg-[#F0DDA8]' : 'bg-white border-gray-100 hover:bg-gray-50'}`}>
           <div className="flex items-center gap-4 flex-1">
             <div className={`w-8 h-8 rounded-lg flex items-center justify-center text-sm font-black ${isCompleted ? 'bg-green-500/10 text-green-600' : 'bg-[#F9F7F2] text-[#dd8b8b]'}`}>{globalIndex}</div>
             <h3 className={`font-bold text-sm text-[#5A6B70] group-hover:text-[#dd8b8b] transition-colors line-clamp-1 flex-1 ${isCompleted ? 'line-through opacity-50' : ''}`}>{displayTitle}</h3>
@@ -1344,7 +1344,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
 
     // Grid View (Default)
     return (
-      <div key={lesson.id} onClick={() => setActiveLesson(lesson)} className={`bg-white rounded-[32px] p-6 border shadow-sm hover:shadow-xl hover:-translate-y-1 hover:scale-105 transition-all duration-300 cursor-pointer group relative overflow-hidden ${isCompleted ? 'border-green-400/30' : isRevision ? 'border-[#E8C586]/50 bg-[#E8C586]/5' : 'border-[#dd8b8b]/10'}`}>
+      <div key={lesson.id} onClick={() => setActiveLesson(lesson)} className={`bg-white rounded-[32px] p-6 border shadow-sm hover:shadow-xl hover:-translate-y-1 hover:scale-105 transition-all duration-300 cursor-pointer group relative overflow-hidden ${isCompleted ? 'border-green-400/30' : isRevision ? 'border-[#B8960C]/40 bg-[#F5E6B8]' : 'border-[#dd8b8b]/10'}`}>
         {isCompleted ? (
           <button
             onClick={(e) => {
@@ -1635,6 +1635,19 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             const objectivesMatch = activeLesson?.content?.match(/\*\*Objectifs?\*\*\s*:\s*(.+?)(?:\r?\n|$)/i);
             const objectives = objectivesMatch ? objectivesMatch[1].trim() : null;
 
+            // Extract new English-format metadata from lesson content
+            const levelMatch = activeLesson?.content?.match(/\*\*Level\*\*\s*:\s*(.+?)(?:\s{2,}|\r?\n|$)/i);
+            const lessonLevel = levelMatch ? levelMatch[1].trim() : null;
+
+            const estDurationMatch = activeLesson?.content?.match(/\*\*Estimated duration\*\*\s*:\s*(.+?)(?:\s{2,}|\r?\n|$)/i);
+            const estimatedDuration = estDurationMatch ? estDurationMatch[1].trim() : null;
+
+            const grammarMatch = activeLesson?.content?.match(/\*\*Main grammar\*\*\s*:\s*(.+?)(?:\s{2,}|\r?\n|$)/i);
+            const mainGrammar = grammarMatch ? grammarMatch[1].trim() : null;
+
+            const alsoMatch = activeLesson?.content?.match(/\*\*Also in this lesson\*\*\s*:\s*(.+?)(?:\r?\n|$)/i);
+            const alsoInLesson = alsoMatch ? alsoMatch[1].trim() : null;
+
             // Assuming these imports are at the top of the file, adding ChevronRight
             // import { Play, Pause, Volume2, BrainCircuit, FileText, Dumbbell, Book, ClipboardList, Headphones, MessageCircle, PanelRightOpen, ChevronRight, Eye } from 'lucide-react';
             // import { addPlannedLesson } from '../services/planner';
@@ -1642,8 +1655,12 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             // import { CoursePackage, Lesson } from '../types';
             // import { getTutorHelp } from '../services/gemini';
 
+            // Detect revision / consolidation lessons for yellow header
+            const lessonTitleLower = (activeLesson?.title || '').toLowerCase();
+            const isRevisionOrConsolidation = lessonTitleLower.includes('revision') || lessonTitleLower.includes('révision') || lessonTitleLower.includes('consolidation') || lessonTitleLower.includes('expression') || lessonTitleLower.includes('compréhension') || lessonTitleLower.includes('comprehension');
+
             return (
-              <div className="w-full py-12 px-8 bg-[#5A6B70] rounded-[2rem] mx-auto mt-4" style={{ maxWidth: 'calc(100% - 2rem)' }}>
+              <div className={`w-full py-12 px-8 rounded-[2rem] mx-auto mt-4 ${isRevisionOrConsolidation ? 'bg-[#B8960C]' : 'bg-[#5A6B70]'}`} style={{ maxWidth: 'calc(100% - 2rem)' }}>
                 <div className={`mx-auto transition-all duration-500 ${isSidebarOpen ? 'max-w-4xl' : 'max-w-5xl'}`}>
 
                   {/* Breadcrumb */}
@@ -1662,11 +1679,11 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                   {/* Title */}
                   <h1 className="text-4xl md:text-5xl font-bold serif-display italic text-white text-center mb-4">{activeLesson?.title}</h1>
 
-                  {/* Metadata */}
+                  {/* Metadata row: level + duration + audio */}
                   <div className="flex justify-center items-center gap-4 mb-4">
-                    <span className="text-sm text-white/70">{activeLesson?.duration}</span>
+                    <span className="text-sm text-white/70">{estimatedDuration || activeLesson?.duration}</span>
                     <span className="w-1 h-1 rounded-full bg-white/30" />
-                    <span className="text-sm font-bold text-[#E8C586]">{course.level}</span>
+                    <span className="text-sm font-bold text-[#E8C586]">{lessonLevel || course.level}</span>
                     {activeLesson?.audioUrl && (
                       <>
                         <span className="w-1 h-1 rounded-full bg-white/30" />
@@ -1682,8 +1699,26 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                     )}
                   </div>
 
-                  {/* Objectives */}
-                  {objectives && (
+                  {/* Main grammar & Also in this lesson */}
+                  {(mainGrammar || alsoInLesson) && (
+                    <div className="text-center max-w-2xl mx-auto mb-6 space-y-1.5">
+                      {mainGrammar && (
+                        <p className="text-white/90 text-sm">
+                          <span className="text-[#E8C586] font-semibold">Main grammar: </span>
+                          {mainGrammar}
+                        </p>
+                      )}
+                      {alsoInLesson && (
+                        <p className="text-white/60 text-xs">
+                          <span className="text-white/40 font-semibold">Also in this lesson: </span>
+                          {alsoInLesson}
+                        </p>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Objectives (legacy French format) */}
+                  {objectives && !mainGrammar && (
                     <p className="text-center text-white/80 text-sm max-w-2xl mx-auto mb-6">
                       <span className="text-[#E8C586] font-semibold">Objectif : </span>
                       {objectives}
@@ -1696,7 +1731,9 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                       onClick={() => activeLesson && toggleLessonComplete(activeLesson.id)}
                       className={`px-6 py-2.5 rounded-full font-semibold text-sm transition-all flex items-center gap-2 ${completedLessons.has(activeLesson?.id || '')
                         ? 'bg-green-500 text-white'
-                        : 'bg-[#E8C586] text-[#5A6B70] hover:bg-[#d4b576]'
+                        : isRevisionOrConsolidation
+                          ? 'bg-white text-[#B8960C] hover:bg-white/90'
+                          : 'bg-[#E8C586] text-[#5A6B70] hover:bg-[#d4b576]'
                         }`}
                     >
                       {completedLessons.has(activeLesson?.id || '') ? 'Terminé ✓' : 'Marquer terminé'}
@@ -1741,10 +1778,11 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                   let selfEvalContent = "";
                   let mistakesContent = "";
 
-                  // Strip metadata lines (Objectifs, Niveau, Durée) as they appear in header card
-                  remaining = remaining.replace(/^\*\*(?:Objectifs?|Niveau|Durée estimée)\*\*\s*:.+\r?\n?/gim, '');
+                  // Strip metadata lines (both French and English formats) as they appear in header card
+                  remaining = remaining.replace(/^\*\*(?:Objectifs?|Niveau|Durée estimée|Level|Estimated duration|Main grammar|Also in this lesson)\*\*\s*:.+\r?\n?/gim, '');
                   // Strip duplicate lesson title (it's already in the header)
-                  remaining = remaining.replace(/^#\s+Leçon\s+\d+\s*:.+\r?\n?/gim, '');
+                  // Matches both old format "# Leçon 01 : ..." and new format "# Talking About Yourself"
+                  remaining = remaining.replace(/^#\s+(?:Leçon\s+\d+\s*:.+|(?!#).+)\r?\n?/im, '');
                   // Also strip the first horizontal rule after the title if it follows a now-empty block
                   remaining = remaining.replace(/^# .+\r?\n\r?\n---\r?\n/m, (match) => {
                     // Keep the title and first horizontal rule
