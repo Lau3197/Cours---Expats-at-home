@@ -106,6 +106,22 @@
 
 ---
 
+## Pratique rapide : EN = de + nom
+
+**Replace with EN:**
+
+1. Tu veux **du café** ? → Tu ___ veux ?
+2. Elle a **des amis** ici ? → Elle ___ a ?
+3. Vous parlez **de ce film** ? → Vous ___ parlez ?
+
+### Réponses
+
+1. Tu **en** veux ?
+2. Elle **en** a ?
+3. Vous **en** parlez ?
+
+---
+
 ## Observation 2: EN with quantities
 
 **Look at these sentences:**
@@ -198,6 +214,22 @@
 | With infinitive | before infinitive | Je vais en prendre |
 | Imperative + | after verb | Prends-en ! |
 | Imperative - | before verb | N'en prends pas ! |
+
+---
+
+## Pratique rapide : Position de EN
+
+**Place EN correctly in the sentence:**
+
+1. J'ai mangé. (+ en) → _______________
+2. Je vais prendre. (+ en) → _______________
+3. Je ne veux pas. (+ en) → _______________
+
+### Réponses
+
+1. J'**en** ai mangé. (before auxiliary)
+2. Je vais **en** prendre. (before infinitive)
+3. Je n'**en** veux pas. (ne + en + verb + pas)
 
 ---
 

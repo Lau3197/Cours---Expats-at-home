@@ -160,6 +160,28 @@ These describe HOW things were.
 
 ---
 
+## Practice 3: Choose the correct tense for travel verbs
+
+**Complete with passé composé (action) or imparfait (description):**
+
+1. Nous _____________ (arriver) à Bruges à 10h.
+2. La ville _____________ (être) magnifique.
+3. Nous _____________ (visiter) le Beffroi.
+4. Il _____________ (faire) beau ce jour-là.
+5. J'_____________ (acheter) des chocolats.
+6. Le restaurant _____________ (sembler) très populaire.
+
+### Answers
+
+1. **sommes arrivés** (PC - action)
+2. **était** (I - description)
+3. **avons visité** (PC - action)
+4. **faisait** (I - description/weather)
+5. **ai acheté** (PC - action)
+6. **semblait** (I - description)
+
+---
+
 ## Culture: Travel in Belgium
 
 ### Short trips from Brussels

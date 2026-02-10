@@ -1,4 +1,4 @@
-# Leçon 20 : Comparer et désigner (Consolidation)
+# Leçon 21 : Comparer et désigner (Consolidation)
 
 **Niveau** : A2.1  
 **Type** : Consolidation  

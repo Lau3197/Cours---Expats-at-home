@@ -89,6 +89,22 @@
 
 ---
 
+## Pratique rapide : Repérer la structure
+
+**In each sentence, identify the imparfait and the conditionnel:**
+
+1. Si j'avais une voiture, je voyagerais plus.
+2. Si tu étais ici, tu verrais la mer.
+3. Si nous avions le temps, nous irions au cinéma.
+
+### Réponses
+
+1. Imparfait : **avais** / Conditionnel : **voyagerais**
+2. Imparfait : **étais** / Conditionnel : **verrais**
+3. Imparfait : **avions** / Conditionnel : **irions**
+
+---
+
 ## Observation 2: Structure details
 
 **The order of tenses:**

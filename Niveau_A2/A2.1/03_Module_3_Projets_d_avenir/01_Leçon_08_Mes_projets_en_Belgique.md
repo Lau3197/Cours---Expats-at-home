@@ -78,6 +78,26 @@ These verbs express future actions. The endings look familiar: -ai, -as, -a, -on
 
 ---
 
+## Practice: Spot the endings
+
+**Look at the verbs from the text and identify the futur simple ending for each:**
+
+1. je commencer**___** → ending = _____
+2. je parler**___** → ending = _____
+3. nous visiter**___** → ending = _____
+4. je profiter**___** → ending = _____
+5. je voyager**___** → ending = _____
+
+### Answers
+
+1. commencer**ai** → ending = **-ai** (je)
+2. parler**ai** → ending = **-ai** (je)
+3. visiter**ons** → ending = **-ons** (nous)
+4. profiter**ai** → ending = **-ai** (je)
+5. voyager**ai** → ending = **-ai** (je)
+
+---
+
 ## Observation 2: Formation for regular verbs
 
 ### The pattern for -ER and -IR verbs:

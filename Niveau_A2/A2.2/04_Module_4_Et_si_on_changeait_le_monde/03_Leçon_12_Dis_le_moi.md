@@ -102,6 +102,24 @@
 
 ---
 
+## Pratique rapide : Position du pronom
+
+**Is the pronoun BEFORE or AFTER the verb?**
+
+1. **Regarde-la** ! → pronom ___ le verbe
+2. **Ne la regarde pas** ! → pronom ___ le verbe
+3. **Vas-y** ! → pronom ___ le verbe
+4. **N'y va pas** ! → pronom ___ le verbe
+
+### Réponses
+
+1. **après** (affirmatif → pronom après)
+2. **avant** (négatif → pronom avant)
+3. **après** (affirmatif → pronom après)
+4. **avant** (négatif → pronom avant)
+
+---
+
 ## Observation 2: Affirmative imperative + pronouns
 
 **Look at the structure:**
@@ -121,6 +139,22 @@
 | leur | Dis-**leur** |
 | y | Vas-**y** |
 | en | Prends-**en** |
+
+---
+
+## Pratique rapide : Impératif affirmatif + pronom
+
+**Rewrite with the pronoun after the verb:**
+
+1. Mange le gâteau → _______________
+2. Appelle tes parents → _______________
+3. Parle à ton professeur → _______________
+
+### Réponses
+
+1. **Mange-le** !
+2. **Appelle-les** !
+3. **Parle-lui** !
 
 ---
 
@@ -268,6 +302,22 @@
 |:---------|:------|
 | Ne me le donne pas | me/te/lui/nous/vous/leur + le/la/les |
 | Ne le lui dis pas | |
+
+---
+
+## Pratique rapide : Deux pronoms à l'impératif
+
+**Transform using two pronouns:**
+
+1. Donne le livre à moi → _______________
+2. Passe la salade à lui → _______________
+3. Ne donne pas le livre à moi → _______________
+
+### Réponses
+
+1. **Donne-le-moi** !
+2. **Passe-la-lui** !
+3. **Ne me le donne pas** !
 
 ---
 

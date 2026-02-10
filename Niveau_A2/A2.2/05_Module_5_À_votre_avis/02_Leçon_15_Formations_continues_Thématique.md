@@ -108,6 +108,26 @@
 
 ---
 
+## Pratique rapide : Vocabulaire de la formation
+
+**Match each type of training with its description:**
+
+1. une formation en ligne → ___
+2. un cours du soir → ___
+3. un stage → ___
+
+a) Formation pratique en entreprise
+b) Cours qui a lieu le soir, après le travail
+c) Formation à distance, sur internet
+
+### Réponses
+
+1 → **c** (en ligne = sur internet)
+2 → **b** (le soir = après le travail)
+3 → **a** (stage = en entreprise)
+
+---
+
 ## Observation 2: Talking about skills
 
 ### Professional skills

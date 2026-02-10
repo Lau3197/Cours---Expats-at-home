@@ -215,6 +215,28 @@
 
 ---
 
+## Practice: Être à l'imparfait
+
+**Complétez avec la bonne forme de "être" à l'imparfait :**
+
+1. Quand j'_____________ petit, j'habitais à Namur.
+2. Ma ville _____________ calme et jolie.
+3. Nous _____________ heureux à cette époque.
+4. Mes grands-parents _____________ très gentils.
+5. Tu _____________ bon élève à l'école ?
+6. Vous _____________ en Belgique avant ?
+
+### Answers
+
+1. **étais**
+2. **était**
+3. **étions**
+4. **étaient**
+5. **étais**
+6. **étiez**
+
+---
+
 ## Culture: Childhood in Belgium
 
 ### Read this testimony

@@ -97,6 +97,26 @@
 
 ---
 
+## Pratique rapide : Identifier les médias belges
+
+**Classify: francophone (F) or néerlandophone (N)?**
+
+1. Le Soir → ___
+2. De Standaard → ___
+3. RTBF → ___
+4. VRT → ___
+5. La Libre Belgique → ___
+
+### Réponses
+
+1. **F** (journal francophone)
+2. **N** (journal néerlandophone)
+3. **F** (radio-télévision francophone)
+4. **N** (radio-télévision néerlandophone)
+5. **F** (journal francophone)
+
+---
+
 ## Observation 2: Media vocabulary
 
 ### Types of media
@@ -205,6 +225,24 @@
 | les Communautés | Communities (French, Dutch, German) |
 | les grèves (SNCB/TEC) | Strikes (trains/buses) |
 | le communautaire | Community relations |
+
+---
+
+## Pratique rapide : Catégoriser les nouvelles
+
+**In which category does each headline belong?**
+
+1. "Le gouvernement vote un nouveau budget" → _______________
+2. "Les Diables Rouges gagnent 3-0" → _______________
+3. "Tempête de neige prévue ce week-end" → _______________
+4. "Exposition Magritte prolongée au musée" → _______________
+
+### Réponses
+
+1. **la politique**
+2. **le sport**
+3. **la météo**
+4. **la culture**
 
 ---
 

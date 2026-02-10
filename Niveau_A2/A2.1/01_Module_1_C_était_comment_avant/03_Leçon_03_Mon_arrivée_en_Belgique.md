@@ -118,7 +118,21 @@ These describe **the situation/background** - how things were.
 
 ---
 
+## Practice: Scene or action?
 
+**For each sentence, identify: is it the SCENE (imparfait) or the ACTION (passé composé)?**
+
+1. Il pleuvait quand Marc **est arrivé**. → "il pleuvait" = _____ / "est arrivé" = _____
+2. Marc **cherchait** son appartement quand il **s'est perdu**. → "cherchait" = _____ / "s'est perdu" = _____
+3. Le chauffeur **était** sympa. Il **a aidé** Marc. → "était" = _____ / "a aidé" = _____
+
+### Answers
+
+1. "il pleuvait" = **Scene** (background) / "est arrivé" = **Action** (event)
+2. "cherchait" = **Scene** (ongoing) / "s'est perdu" = **Action** (sudden event)
+3. "était" = **Scene** (description) / "a aidé" = **Action** (completed event)
+
+---
 
 ## Observation 3: Signal words
 
@@ -143,6 +157,28 @@ These describe **the situation/background** - how things were.
 | il faisait | it was (weather) |
 | tous les jours | every day |
 | d'habitude | usually |
+
+---
+
+## Practice: Which tense does the signal word suggest?
+
+**For each signal word, say if it suggests imparfait (I) or passé composé (PC):**
+
+1. soudain → _____
+2. tous les jours → _____
+3. un jour → _____
+4. d'habitude → _____
+5. finalement → _____
+6. pendant que → _____
+
+### Answers
+
+1. **PC** (suddenly = single event)
+2. **I** (every day = habit)
+3. **PC** (one day = single event)
+4. **I** (usually = habit)
+5. **PC** (finally = conclusion of events)
+6. **I** (while = ongoing background)
 
 ---
 

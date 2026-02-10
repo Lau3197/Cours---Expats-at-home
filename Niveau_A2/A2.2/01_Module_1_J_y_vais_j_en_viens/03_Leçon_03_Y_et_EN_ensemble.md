@@ -98,6 +98,22 @@
 
 ---
 
+## Pratique rapide : Y ou EN ?
+
+**Choose the correct pronoun:**
+
+1. Tu vas **à** la gym ? → Oui, j'___ vais. (Y / EN)
+2. Tu as besoin **de** repos ? → Oui, j'___ ai besoin. (Y / EN)
+3. Tu penses **à** ce problème ? → Oui, j'___ pense. (Y / EN)
+
+### Réponses
+
+1. **y** (aller **à** → Y)
+2. **en** (avoir besoin **de** → EN)
+3. **y** (penser **à** → Y)
+
+---
+
 ## Observation 2: "Il y a" + EN = "Il y en a"
 
 **Look at this structure:**

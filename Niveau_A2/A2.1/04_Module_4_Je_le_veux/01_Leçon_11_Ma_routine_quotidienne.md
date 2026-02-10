@@ -105,6 +105,26 @@ The noun (le petit-déjeuner, le journal, les emails) was replaced by a short wo
 
 ---
 
+## Practice: Which pronoun?
+
+**Choose the correct pronoun (le, la, l', les) based on the noun it replaces:**
+
+1. Tu prends le café ? → Oui, je _____ prends. (le café = masc.)
+2. Tu écoutes la radio ? → Oui, je _____ écoute. (la radio = fem. + vowel)
+3. Tu aimes les gaufres ? → Oui, je _____ aime. (les gaufres = plur.)
+4. Tu connais Sophie ? → Oui, je _____ connais. (Sophie = fem.)
+5. Tu fais le sport ? → Oui, je _____ fais. (le sport = masc.)
+
+### Answers
+
+1. je **le** prends
+2. je **l'**écoute (elision before vowel)
+3. je **les** aime
+4. je **la** connais
+5. je **le** fais
+
+---
+
 ## Observation 2: Position of pronouns
 
 **Look at where the pronoun goes:**

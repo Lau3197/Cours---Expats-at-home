@@ -77,6 +77,22 @@
 
 ---
 
+## Pratique rapide : Repérer QUI
+
+**Combine the two sentences using QUI:**
+
+1. J'ai un voisin. Le voisin est très gentil. → _______________
+2. C'est une maison. La maison a un jardin. → _______________
+3. Voici un café. Le café sert de bonnes gaufres. → _______________
+
+### Réponses
+
+1. J'ai un voisin **qui** est très gentil.
+2. C'est une maison **qui** a un jardin.
+3. Voici un café **qui** sert de bonnes gaufres.
+
+---
+
 ## Observation 2: Que - Object relative pronoun
 
 **Look at these sentences:**
@@ -137,6 +153,24 @@
 | La maison **que** je veux | La maison **qu'**il veut |
 
 **QUI never changes!** (qui il, qui elle... is correct)
+
+---
+
+## Pratique rapide : QUE ou QU' ?
+
+**Complete with que or qu':**
+
+1. C'est un livre ___ j'adore.
+2. C'est un livre ___ elle a lu.
+3. Voici les photos ___ il a prises.
+4. Le film ___ on a vu hier était super.
+
+### Réponses
+
+1. **que** (before *j'* = consonant sound → que)
+2. **qu'** (before *elle* = vowel → qu')
+3. **qu'** (before *il* = vowel → qu')
+4. **qu'** (before *on* = vowel → qu')
 
 ---
 

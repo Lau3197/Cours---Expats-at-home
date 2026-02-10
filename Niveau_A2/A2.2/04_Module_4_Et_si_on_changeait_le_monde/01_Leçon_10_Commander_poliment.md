@@ -99,6 +99,22 @@
 
 ---
 
+## Pratique rapide : Repérer le conditionnel poli
+
+**Which sentence is more polite? Choose a or b:**
+
+1. a) Je veux du pain. / b) Je voudrais du pain.
+2. a) Tu pourrais m'aider ? / b) Tu peux m'aider ?
+3. a) Vous avez le temps ? / b) Vous auriez le temps ?
+
+### Réponses
+
+1. **b)** Je voudrais (conditionnel = plus poli)
+2. **a)** Tu pourrais (conditionnel = plus poli)
+3. **b)** Vous auriez (conditionnel = plus poli)
+
+---
+
 ## Observation 2: Formation of the conditional
 
 **Look at the pattern:**
@@ -120,6 +136,24 @@
 | Nous | -ions | voudrions | pourrions |
 | Vous | -iez | voudriez | pourriez |
 | Ils/Elles | -aient | voudraient | pourraient |
+
+---
+
+## Pratique rapide : Former le conditionnel
+
+**Add the correct ending to the future stem:**
+
+1. Je voudr___ (je)
+2. Tu pourr___ (tu)
+3. Il voudr___ (il)
+4. Nous pourr___ (nous)
+
+### Réponses
+
+1. Je voudr**ais**
+2. Tu pourr**ais**
+3. Il voudr**ait**
+4. Nous pourr**ions**
 
 ---
 
@@ -230,6 +264,22 @@
 | Excusez-moi, vous pourriez m'aider ? | Excuse me, could you help me? |
 | Vous sauriez où se trouve... ? | Would you know where... is? |
 | Ça vous dérangerait de... ? | Would you mind...? |
+
+---
+
+## Pratique rapide : Expressions polies en contexte
+
+**Choose the best polite expression for each situation:**
+
+1. At a restaurant, you want the bill: → _______________
+2. At work, you need a colleague's time: → _______________
+3. In the street, you need help finding a place: → _______________
+
+### Réponses
+
+1. **Je pourrais avoir l'addition, s'il vous plaît ?**
+2. **Auriez-vous un moment ?** (or: Pourriez-vous m'aider ?)
+3. **Excusez-moi, vous sauriez où se trouve... ?**
 
 ---
 

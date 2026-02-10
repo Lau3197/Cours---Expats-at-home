@@ -24,6 +24,12 @@ const lessonFiles = import.meta.glob('/Niveau_*/*/*/*.md', {
     import: 'default'
 }) as Record<string, string>;
 
+// Import all module config files
+const moduleConfigs = import.meta.glob('/Niveau_*/*/*/_module.json', {
+    eager: true,
+    import: 'default'
+}) as Record<string, { title: string }>;
+
 /**
  * Parse a file path to extract course, module, and lesson info.
  * Path format: /Niveau_X/CourseDir/ModuleDir/LessonFile.md
@@ -48,9 +54,16 @@ function parseLessonPath(path: string): {
     // Extract order from module folder (01_ModuleName -> order: 1, title: ModuleName)
     const moduleMatch = moduleDir.match(/^(\d+)_(.+)$/);
     const moduleOrder = moduleMatch ? parseInt(moduleMatch[1], 10) : 0;
-    const moduleTitle = moduleMatch
+
+    let moduleTitle = moduleMatch
         ? moduleMatch[2].replace(/_/g, ' ')
         : moduleDir.replace(/_/g, ' ');
+
+    // Check for override in _module.json
+    const configPath = `/Niveau_${niveau}/${courseDir}/${moduleDir}/_module.json`;
+    if (moduleConfigs[configPath]) {
+        moduleTitle = moduleConfigs[configPath].title;
+    }
 
     // Extract order from lesson file (01_LessonName.md -> order: 1, slug: LessonName)
     const lessonMatch = lessonFile.match(/^(\d+)_(.+)$/);

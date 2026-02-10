@@ -92,6 +92,26 @@ This structure means something happened **very recently** - "just did" in Englis
 
 ---
 
+## Practice: Spot the passé récent
+
+**In the dialogue, find all the "venir de" expressions and write the infinitive that follows:**
+
+1. Je viens de _____________ (une réunion)
+2. Je viens de _____________ (un expresso)
+3. Il vient d'_____________
+4. Il vient de _____________
+5. Je viens de _____________ (son email)
+
+### Answers
+
+1. **finir**
+2. **boire**
+3. **appeler**
+4. **partir**
+5. **recevoir**
+
+---
+
 ## Observation 2: Conjugation of VENIR
 
 **Look at how "venir" is conjugated:**
@@ -148,6 +168,24 @@ This structure means something happened **very recently** - "just did" in Englis
 | il y a 5 minutes | 5 minutes ago |
 | juste | just |
 | tout juste | only just |
+
+---
+
+## Practice: React with passé récent
+
+**For each situation, explain what just happened using passé récent:**
+
+1. Your hands are wet. → Je _______________ les mains. (se laver)
+2. The phone screen shows a message. → Tu _______________ un message. (recevoir)
+3. The taxi is gone. → Le taxi _______________. (partir)
+4. The coffee is still hot. → Je _______________ du café. (préparer)
+
+### Answers
+
+1. Je **viens de me laver** les mains.
+2. Tu **viens de recevoir** un message.
+3. Le taxi **vient de partir**.
+4. Je **viens de préparer** du café.
 
 ---
 

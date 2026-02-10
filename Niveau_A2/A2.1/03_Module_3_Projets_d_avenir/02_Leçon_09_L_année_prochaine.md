@@ -91,6 +91,30 @@
 
 ---
 
+## Practice: Match the infinitive to its irregular stem
+
+**Connect each verb to its futur simple stem:**
+
+1. avoir → _____
+2. être → _____
+3. aller → _____
+4. faire → _____
+5. voir → _____
+6. pouvoir → _____
+
+*Stems: ir- / aur- / ser- / pourr- / fer- / verr-*
+
+### Answers
+
+1. avoir → **aur-**
+2. être → **ser-**
+3. aller → **ir-**
+4. faire → **fer-**
+5. voir → **verr-**
+6. pouvoir → **pourr-**
+
+---
+
 ## Observation 2: The essential irregular verbs
 
 ### Must-know irregular stems
@@ -200,6 +224,24 @@
 | Je pense que je viendrai | Probable |
 | J'irai peut-être | Possible |
 | Je ne sais pas si j'irai | Uncertain |
+
+---
+
+## Practice 3: Express certainty levels
+
+**Rewrite each sentence with the expression in parentheses:**
+
+1. Je viendrai à la fête. (certain) → _______________
+2. J'irai au cinéma. (possible) → _______________
+3. Nous ferons un voyage. (probable) → _______________
+4. Elle sera là. (uncertain) → _______________
+
+### Answers
+
+1. **C'est sûr, je viendrai** à la fête.
+2. J'irai **peut-être** au cinéma.
+3. **Je pense que** nous ferons un voyage.
+4. **Je ne sais pas si** elle sera là.
 
 ---
 

@@ -89,6 +89,22 @@ The verbs use **à** (to someone):
 
 ---
 
+## Practice: Spot the COI
+
+**In the dialogue, find the 3rd-person COI pronouns (lui/leur) and say who they replace:**
+
+1. "Je **lui** ai parlé" → lui = _______________
+2. "Je **leur** ai envoyé les documents" → leur = _______________
+3. "Il **me** donnera une réponse" → me = _______________
+
+### Answers
+
+1. lui = **au chef** (to the boss)
+2. leur = **aux clients** (to the clients)
+3. me = **à moi / à Tom** (to me)
+
+---
+
 ## Observation 2: The COI pronouns
 
 **Look at the pattern:**
@@ -103,6 +119,24 @@ The verbs use **à** (to someone):
 | leur | to them | Je leur parle |
 
 **Important:** "lui" = to him OR to her (no gender distinction!)
+
+---
+
+## Practice: Choose lui or leur
+
+**Replace with the correct COI pronoun (lui or leur):**
+
+1. Je parle à Sophie. → Je _____ parle.
+2. Il écrit aux clients. → Il _____ écrit.
+3. Tu téléphones au docteur. → Tu _____ téléphones.
+4. Nous répondons aux étudiants. → Nous _____ répondons.
+
+### Answers
+
+1. Je **lui** parle. (one person)
+2. Il **leur** écrit. (several people)
+3. Tu **lui** téléphones. (one person)
+4. Nous **leur** répondons. (several people)
 
 ---
 
@@ -201,6 +235,24 @@ The verbs use **à** (to someone):
 | Negative | Je ne **lui** parle pas |
 | Passé composé | Je **lui** ai parlé |
 | With infinitive | Je vais **lui** parler |
+
+---
+
+## Practice 3: Place the pronoun correctly
+
+**Rewrite with the COI pronoun in the correct position:**
+
+1. Je téléphone à Paul. (passé composé) → Je _____ ai téléphoné.
+2. Elle ne parle pas à ses voisins. → Elle ne _____ parle pas.
+3. Nous allons envoyer un message à Marie. → Nous allons _____ envoyer un message.
+4. Tu as répondu aux clients ? → Tu _____ as répondu ?
+
+### Answers
+
+1. Je **lui** ai téléphoné.
+2. Elle ne **leur** parle pas.
+3. Nous allons **lui** envoyer un message.
+4. Tu **leur** as répondu ?
 
 ---
 

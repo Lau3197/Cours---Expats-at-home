@@ -81,6 +81,24 @@
 
 ---
 
+## Practice: Form the superlative
+
+**Add the correct article (le, la, les) + plus:**
+
+1. Ce chocolat est _____ _____ cher.
+2. Cette rue est _____ _____ longue.
+3. Ces restaurants sont _____ _____ populaires.
+4. Cette bière est _____ _____ acide.
+
+### Answers
+
+1. **le plus** cher
+2. **la plus** longue
+3. **les plus** populaires
+4. **la plus** acide
+
+---
+
 ## Observation 2: Superlative with "de"
 
 **Look at these examples:**
@@ -179,6 +197,24 @@
 | C'est le meilleur café | It's the best café |
 | C'est la pire idée | It's the worst idea |
 | C'est ce qu'il fait le mieux | It's what he does best |
+
+---
+
+## Practice: Irregular superlatives
+
+**Complete with the correct irregular superlative (le meilleur, la meilleure, le pire, le mieux):**
+
+1. Ce restaurant est _____________ de la ville. (best - masc.)
+2. C'est _____________ idée que j'ai entendue. (worst - fem.)
+3. De tous mes amis, c'est Paul qui cuisine _____________. (best - adverb)
+4. Ces chocolats sont _____________ du magasin. (best - masc. plur.)
+
+### Answers
+
+1. **le meilleur**
+2. **la pire**
+3. **le mieux**
+4. **les meilleurs**
 
 ---
 

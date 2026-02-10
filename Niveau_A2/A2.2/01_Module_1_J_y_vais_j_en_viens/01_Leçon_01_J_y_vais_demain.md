@@ -91,6 +91,22 @@
 
 ---
 
+## Pratique rapide : Y = à + lieu
+
+**Answer with Y:**
+
+1. Tu vas au travail le lundi ? → Oui, j'___ vais.
+2. Elle habite en Belgique ? → Oui, elle ___ habite.
+3. Vous allez à la piscine ? → Non, nous n'___ allons pas.
+
+### Réponses
+
+1. Oui, j'**y** vais.
+2. Oui, elle **y** habite.
+3. Non, nous n'**y** allons pas.
+
+---
+
 ## Observation 2: Y also replaces "à + thing"
 
 **Look at these sentences:**
@@ -188,6 +204,24 @@
 | Il n'y a pas de quoi | You're welcome |
 | Je n'y suis pour rien | It's not my fault |
 | N'y comptez pas ! | Don't count on it! |
+
+---
+
+## Pratique rapide : Expressions avec Y
+
+**Complete with the correct expression:**
+
+1. On part ? _______________ ! (Let's go!)
+2. J'ai enfin compris ! _______________ ! (I get it!)
+3. Tu peux essayer. _______________ ! (Go ahead!)
+4. Le travail est fini. _______________ ! (That's it!)
+
+### Réponses
+
+1. **Allons-y** !
+2. **J'y suis** !
+3. **Vas-y** !
+4. **Ça y est** !
 
 ---
 

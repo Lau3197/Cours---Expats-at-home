@@ -73,6 +73,22 @@
 
 ---
 
+## Pratique rapide : OÙ = lieu
+
+**Combine with OÙ:**
+
+1. C'est un magasin. J'achète mes courses dans ce magasin. → _______________
+2. Voici le parc. Je me promène dans ce parc. → _______________
+3. C'est la rue. J'habite dans cette rue. → _______________
+
+### Réponses
+
+1. C'est un magasin **où** j'achète mes courses.
+2. Voici le parc **où** je me promène.
+3. C'est la rue **où** j'habite.
+
+---
+
 ## Observation 2: OÙ for time expressions
 
 **Look at these sentences:**
@@ -171,6 +187,22 @@
 | Le pays d'où je viens | The country I come from |
 | La maison d'où elle est sortie | The house she came out of |
 | L'entreprise d'où il a démissionné | The company he resigned from |
+
+---
+
+## Pratique rapide : D'OÙ
+
+**Complete with d'où:**
+
+1. La Belgique est le pays ___ je viens.
+2. C'est la gare ___ le train part.
+3. Voici la maison ___ elle est sortie.
+
+### Réponses
+
+1. La Belgique est le pays **d'où** je viens.
+2. C'est la gare **d'où** le train part.
+3. Voici la maison **d'où** elle est sortie.
 
 ---
 

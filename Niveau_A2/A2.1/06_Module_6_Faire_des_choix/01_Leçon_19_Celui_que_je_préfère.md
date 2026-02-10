@@ -1,4 +1,4 @@
-# Leçon 18 : Celui que je préfère
+# Leçon 19 : Celui que je préfère
 
 **Niveau** : A2.1  
 **Durée estimée** : 2-3 heures  
@@ -92,6 +92,22 @@ They replace a noun to avoid repetition:
 
 ---
 
+## Practice: What does the pronoun replace?
+
+**In the dialogue, identify what noun each demonstrative pronoun replaces:**
+
+1. "**Celle-ci** contient des pralines au lait." → celle-ci = _____________
+2. "**Ceux-ci** sont français." → ceux-ci = _____________
+3. "**Celui que** je recommande" → celui = _____________
+
+### Answers
+
+1. celle-ci = **cette boîte** (this box)
+2. ceux-ci = **ces vins** (these wines)
+3. celui = **ce vin** (this wine)
+
+---
+
 ## Observation 2: The four forms
 
 **Demonstrative pronouns match the noun they replace:**
@@ -102,6 +118,26 @@ They replace a noun to avoid repetition:
 | Feminine singular | celle |
 | Masculine plural | ceux |
 | Feminine plural | celles |
+
+---
+
+## Practice: Match the pronoun to the noun's gender/number
+
+**Which pronoun would replace each noun? (celui, celle, ceux, celles)**
+
+1. le chocolat → _____________
+2. la bière → _____________
+3. les vins → _____________
+4. les gaufres → _____________
+5. l'appartement (masc.) → _____________
+
+### Answers
+
+1. **celui** (masc. sing.)
+2. **celle** (fem. sing.)
+3. **ceux** (masc. plur.)
+4. **celles** (fem. plur.)
+5. **celui** (masc. sing.)
 
 ---
 
