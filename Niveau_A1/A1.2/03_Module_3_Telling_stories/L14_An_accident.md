@@ -67,6 +67,20 @@
 1. Je n'ai pas compris. — 2. Elle n'est pas venue. — 3. Nous n'avons pas fini. — 4. Ils ne sont pas partis. — 5. Tu n'as pas vu le médecin. — 6. On n'est pas sortis.
 </details>
 
+### Practice 1b: Sophie's Bad Day
+
+**Sophie had a bad day. Rewrite what she DIDN'T do, using the negative passé composé:**
+
+> 1. (aller au cours) Sophie _________.
+> 2. (appeler Tom) Elle _________.
+> 3. (sortir de la maison) Elle _________.
+> 4. (faire les courses) Elle _________.
+> 5. (cuisiner le souper) Elle _________.
+
+<details><summary>Answers</summary>
+1. Sophie n'est pas allée au cours. — 2. Elle n'a pas appelé Tom. — 3. Elle n'est pas sortie de la maison. — 4. Elle n'a pas fait les courses. — 5. Elle n'a pas cuisiné le souper.
+</details>
+
 ---
 
 ## Observation 2: Questions in the Passé Composé
@@ -104,6 +118,18 @@
 <details><summary>Answers</summary>
 1. Où est-ce que tu es allée ? — 2. Quand est-ce que c'est arrivé ? — 3. Comment est-ce que c'est arrivé ? / Qu'est-ce qui s'est passé ? — 4. Est-ce que tu as cassé quelque chose ? — 5. Pourquoi est-ce que tu n'as pas appelé ?
 </details>
+
+### Practice 2b: Interview About an Incident
+
+**Write 5 questions you would ask a friend who had an accident, using the passé composé:**
+
+> Exemple: Qu'est-ce qui s'est passé ? / Où est-ce que tu es tombé(e) ?
+
+> 1. _________?
+> 2. _________?
+> 3. _________?
+> 4. _________?
+> 5. _________?
 
 ---
 
@@ -159,6 +185,17 @@
 suis tombé(e) — au pied / au dos — avez pu — n'ai pas pu — avez pris — n'ai pas pris
 </details>
 
+### Practice 3b: Create Your Own Doctor Dialogue
+
+**Write a complete dialogue at the doctor’s office. You twisted your ankle (la cheville) yesterday. Use:**
+- Passé composé (mix AVOIR and ÊTRE, positive and negative)
+- At least 2 questions
+- "Avoir mal à" + body parts
+
+> **Médecin :** ___________
+> **Vous :** ___________
+> ...
+
 ---
 
 ## GLOBAL EXERCISE
@@ -172,6 +209,57 @@ suis tombé(e) — au pied / au dos — avez pu — n'ai pas pu — avez pris �
 
 > Example start:  
 > Hier, j'ai eu une très mauvaise journée. D'abord, je suis tombé(e) devant le métro. J'ai eu mal au genou...
+
+---
+
+## Speaking Practice
+
+### Exercise 1: What happened?
+
+**Look at a bandage (imaginary) on your arm and explain:**
+
+"J'**ai eu** un accident. Je **suis tombé(e)** dans l'escalier à la gare. J'**ai mal** au bras et au dos. Je **suis allé(e)** à l'hôpital."
+
+### Exercise 2: Role-Play — Calling the Boss
+
+**Play both roles:**
+
+> **Boss :** Allô ?
+>
+> **You :** Bonjour, c'est _________. Je ne peux pas venir travailler aujourd'hui.
+>
+> **Boss :** Ah bon ? Qu'est-ce qui se passe ?
+>
+> **You :** J'ai eu un accident de vélo. Je suis tombé et j'ai mal à la jambe.
+>
+> **Boss :** Oh mince ! Va chez le médecin. Repose-toi bien !
+
+---
+
+## Writing Practice
+
+**Write a note to your teacher explaining why you missed class. Use:**
+- Passé composé (negative and positive)
+- "J'ai eu un problème / un accident"
+- Avoir mal à...
+- "Je suis allé(e)..." / "Je ne suis pas venu(e)..."
+
+**Example:**
+> Madame,
+> Je suis désolé, je n'ai pas assisté au cours hier. J'ai eu un problème. Je suis tombé dans la rue et j'ai eu très mal au pied. Je suis allé chez le médecin. Je suis resté à la maison toute la journée.
+> À lundi.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| J'ai mal **à le** dos. | J'ai mal **au** dos. | à + le = au (contraction) |
+| J'ai mal **à les** jambes. | J'ai mal **aux** jambes. | à + les = aux (contraction) |
+| Je ne suis tombée **pas**. | Je **ne suis pas** tombée. | NE...PAS surrounds the auxiliary |
+| **Est-ce que** tu **a** vu le médecin ? | Est-ce que tu **as** vu le médecin ? | TU = as (not a) |
+| J'ai **du** mal au pied. | J'ai mal **au** pied. | "Avoir mal à" — no "du" |
 
 ---
 
@@ -192,6 +280,8 @@ suis tombé(e) — au pied / au dos — avez pu — n'ai pas pu — avez pris �
 
 ### Belgian Expression
 > **"J'ai mal au cœur"** = I feel nauseous (NOT "my heart hurts"!)
+
+
 
 ---
 

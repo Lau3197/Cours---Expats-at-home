@@ -118,35 +118,35 @@
 
 | Grammar Point | Confident? |
 |:-------------|:-----------|
-| ÊTRE (all forms) | ☐ Yes ☐ Need review |
-| AVOIR (all forms) | ☐ Yes ☐ Need review |
-| UN/UNE/DES (indefinite articles) | ☐ Yes ☐ Need review |
-| LE/LA/LES (definite articles) | ☐ Yes ☐ Need review |
-| -ER verbs | ☐ Yes ☐ Need review |
-| ON (= nous, spoken French) | ☐ Yes ☐ Need review |
-| ALLER + au/à la/aux | ☐ Yes ☐ Need review |
-| FAIRE + du/de la/des | ☐ Yes ☐ Need review |
-| NE...PAS (negation) | ☐ Yes ☐ Need review |
-| Possessives (mon/ma/mes → leur/leurs) | ☐ Yes ☐ Need review |
-| Adjective agreement (M/F, position) | ☐ Yes ☐ Need review |
-| IL Y A + prepositions | ☐ Yes ☐ Need review |
-| Numbers 0-1000+ | ☐ Yes ☐ Need review |
-| PRENDRE (preview) | ☐ Yes ☐ Need review |
-| All 7 question words | ☐ Yes ☐ Need review |
+| ÊTRE (all forms) | ( ) Yes ( ) Need review |
+| AVOIR (all forms) | ( ) Yes ( ) Need review |
+| UN/UNE/DES (indefinite articles) | ( ) Yes ( ) Need review |
+| LE/LA/LES (definite articles) | ( ) Yes ( ) Need review |
+| -ER verbs | ( ) Yes ( ) Need review |
+| ON (= nous, spoken French) | ( ) Yes ( ) Need review |
+| ALLER + au/à la/aux | ( ) Yes ( ) Need review |
+| FAIRE + du/de la/des | ( ) Yes ( ) Need review |
+| NE...PAS (negation) | ( ) Yes ( ) Need review |
+| Possessives (mon/ma/mes → leur/leurs) | ( ) Yes ( ) Need review |
+| Adjective agreement (M/F, position) | ( ) Yes ( ) Need review |
+| IL Y A + prepositions | ( ) Yes ( ) Need review |
+| Numbers 0-1000+ | ( ) Yes ( ) Need review |
+| PRENDRE (preview) | ( ) Yes ( ) Need review |
+| All 7 question words | ( ) Yes ( ) Need review |
 
 ### Communication Checklist
 
 | I can... | Confident? |
 |:---------|:-----------|
-| Introduce myself completely | ☐ Yes ☐ Need review |
-| Spell my name in French | ☐ Yes ☐ Need review |
-| Talk about my family | ☐ Yes ☐ Need review |
-| Describe my home and neighborhood | ☐ Yes ☐ Need review |
-| Express likes and dislikes | ☐ Yes ☐ Need review |
-| Talk about my daily routine | ☐ Yes ☐ Need review |
-| Ask for and give directions | ☐ Yes ☐ Need review |
-| Talk about dates and appointments | ☐ Yes ☐ Need review |
-| Talk about Belgium (regions, culture) | ☐ Yes ☐ Need review |
+| Introduce myself completely | ( ) Yes ( ) Need review |
+| Spell my name in French | ( ) Yes ( ) Need review |
+| Talk about my family | ( ) Yes ( ) Need review |
+| Describe my home and neighborhood | ( ) Yes ( ) Need review |
+| Express likes and dislikes | ( ) Yes ( ) Need review |
+| Talk about my daily routine | ( ) Yes ( ) Need review |
+| Ask for and give directions | ( ) Yes ( ) Need review |
+| Talk about dates and appointments | ( ) Yes ( ) Need review |
+| Talk about Belgium (regions, culture) | ( ) Yes ( ) Need review |
 
 ---
 

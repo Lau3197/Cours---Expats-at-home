@@ -312,6 +312,48 @@ Example:
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Present Your Family
+
+**Say out loud (record yourself if possible!):**
+
+"Dans ma famille, il y a [number] personnes. Mon père s'appelle [name]. Ma mère s'appelle [name]. J'ai [number] frère(s) et [number] sœur(s)."
+
+**Use at least 4 different possessive adjectives (mon, ma, mes, son, sa, ses).**
+
+### Exercise 2: Role-Play — At a Belgian Family Dinner
+
+**Play both roles:**
+
+> **Sophie :** Tu as des frères et sœurs ?
+>
+> **You :** Oui, j'ai _________ frère(s) et _________ sœur(s). Mon frère s'appelle _________.
+>
+> **Sophie :** Et tes parents, ils habitent où ?
+>
+> **You :** Mes parents habitent à _________. Mon père est _________ (profession) et ma mère est _________.
+>
+> **Sophie :** Et ton père, il est belge ?
+>
+> **You :** Non, mon père est _________ (nationality). Et toi, ta famille est grande ?
+
+---
+
+## Writing Practice
+
+**Write a short paragraph (5-6 sentences) presenting your family or an imaginary family. Use:**
+- At least 4 possessive adjectives (mon/ma/mes, ton/ta/tes, son/sa/ses)
+- Family vocabulary (père, mère, frère, sœur, enfants...)
+- The connector "et"
+
+**Example:**
+> Ma famille est petite. Mon père s'appelle Marc et ma mère s'appelle Claire. J'ai une sœur. Ma sœur s'appelle Julie et son mari s'appelle Pierre. Leurs enfants sont adorables !
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Mistake 1: Confusing "his" and "her"
@@ -331,6 +373,8 @@ Example:
 Before a vowel → use MON/TON/SON (even for feminine!)
 
 ---
+
+
 
 ## Grammar Summary
 

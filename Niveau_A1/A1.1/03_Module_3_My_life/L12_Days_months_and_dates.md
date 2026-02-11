@@ -275,6 +275,48 @@
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Your Weekly Schedule
+
+**Say out loud:**
+
+"Le lundi, je _________. Le mardi, je _________. Le mercredi, je _________..."
+
+**Describe what you do each day of the week. Use at least 3 different verbs.**
+
+### Exercise 2: Role-Play — Making an Appointment
+
+**Play both roles:**
+
+> **Receptionist :** Bonjour, quand est-ce que vous êtes disponible ?
+>
+> **You :** Je suis disponible le _________ (day).
+>
+> **Receptionist :** Le matin ou l'après-midi ?
+>
+> **You :** Le _________ (morning/afternoon), s'il vous plaît.
+>
+> **Receptionist :** Très bien, le rendez-vous est le _________ (full date). Au revoir !
+>
+> **You :** Merci, au revoir !
+
+---
+
+## Writing Practice
+
+**Write 5 sentences about important dates in your life. Use:**
+- "Le + number + month" for dates
+- Seasons with the correct preposition (en/au)
+- At least 2 different months
+
+**Example:**
+> Mon anniversaire est le 15 mars. En été, je suis en vacances. Au printemps, il fait beau en Belgique. La fête nationale belge est le 21 juillet. En hiver, j'aime le chocolat chaud !
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Mistake 1: Capitalizing days and months
@@ -296,6 +338,8 @@ In French, days and months are NOT capitalized.
 **Au** printemps — **en** été/automne/hiver.
 
 ---
+
+
 
 ## Self-Evaluation
 

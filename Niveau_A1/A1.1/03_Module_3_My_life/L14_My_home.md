@@ -301,6 +301,65 @@ Example:
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Describe Your Home
+
+**Say out loud:**
+
+"J'habite dans un(e) _________ (apartment/house). Il y a _________ pièces. Dans le salon, il y a _________. Dans ma chambre, il y a _________."
+
+**Name at least 3 rooms and 5 pieces of furniture.**
+
+### Exercise 2: Role-Play — Apartment Hunting in Brussels
+
+**Play both roles:**
+
+> **Agent :** Bonjour ! L'appartement fait 65 mètres carrés. Il y a trois pièces.
+>
+> **You :** Il y a combien de chambres ?
+>
+> **Agent :** Il y a une chambre. Le salon est grand.
+>
+> **You :** Et la cuisine ?
+>
+> **Agent :** La cuisine est à côté du salon. Il y a un frigo et une cuisinière.
+>
+> **You :** C'est combien, le loyer ?
+>
+> **Agent :** Huit cent cinquante euros, charges comprises.
+
+---
+
+## Writing Practice
+
+**Write an ad for your apartment or an imaginary one (5-6 sentences). Use:**
+- Numbers 100-1000+ (for price)
+- Room vocabulary (salon, cuisine, chambre, salle de bains)
+- "Il y a" + furniture
+- Prepositions (sur, sous, dans, à côté de, devant)
+
+**Example:**
+> Appartement à louer à Ixelles. Loyer : sept cent cinquante euros, charges comprises. Il y a un grand salon, une cuisine moderne et une chambre. Dans le salon, il y a un canapé devant la fenêtre. La salle de bains est à côté de la chambre.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Deux **cents** cinquante euros. | Deux **cent** cinquante euros. | CENT loses the -S when followed by another number |
+| ~~Quatre-vingt~~ euros. | **Quatre-vingts** euros. | VINGT takes -S in quatre-vingts (80) when alone |
+| Le lit est ~~dans~~ la table. | Le lit est **à côté de** la table. | "dans" = inside; use prepositions of proximity |
+| Il y a trois **chambres à coucher**. | Il y a trois **chambres**. | "Chambre" alone is standard; "chambre à coucher" is formal |
+| Le loyer est huit **cents** euros. | Le loyer est **huit cents** euros. ✅ | CENT keeps -S when at the end of the number |
+
+---
+
+
+
 ## Self-Evaluation
 
 - [ ] I can count from 100 to 1000+

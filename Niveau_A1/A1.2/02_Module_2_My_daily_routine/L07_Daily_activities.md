@@ -111,11 +111,30 @@ f) Je prends mon déjeuner.
 
 ### Practice 2: Drill — ALORS or DONC?
 
-1. Il est sept heures, _________ je me lève. (so)
+1. Il est sept heures, _________ je me lève. (so/then)
 2. Je suis fatigué, _________ je me couche tôt. (therefore)
 3. Il pleut, _________ on prend le parapluie. (so)
+4. On finit le travail, _________ on rentre à la maison. (so/then)
+5. Je n'ai pas de voiture, _________ je prends le bus. (therefore)
 
-<details><summary>Answers</summary>1. alors — 2. donc — 3. alors (both are acceptable in all cases)</details>
+<details><summary>Answers</summary>1. alors — 2. donc — 3. alors — 4. alors — 5. donc (both are acceptable in all cases)</details>
+
+### Practice 2b: Tell Tom's Story
+
+**Connect these sentences using alors, donc, d'abord, ensuite, puis to tell Tom's morning story:**
+
+- Tom se réveille à 7h.
+- Il se douche.
+- Il s'habille.
+- Il prend son déjeuner.
+- Il est en retard.
+- Il part vite au travail.
+
+> D'abord, Tom ___________. Ensuite, ___________. Puis, ___________. Il prend ___________. Il est en retard, _________ il ___________.
+
+<details><summary>Possible answer</summary>
+D'abord, Tom se réveille à 7h. Ensuite, il se douche. Puis, il s'habille. Il prend son déjeuner. Il est en retard, alors/donc il part vite au travail.
+</details>
 
 ---
 
@@ -129,6 +148,55 @@ f) Je prends mon déjeuner.
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Your Morning Routine
+
+**Describe what you do every morning (5 sentences). Use REFLEXIVE verbs:**
+
+"D'abord, je **me réveille** vers... Ensuite, je **me lève**. Je **me douche** et je **m'habille**. Enfin, je prends mon petit-déjeuner."
+
+### Exercise 2: Role-Play — Asking About Habits
+
+**Play both roles:**
+
+> **Friend :** Tu te lèves tôt le matin ?
+>
+> **You :** Oui, je me lève à 6h30. Et toi ?
+>
+> **Friend :** Moi, je me lève vers 8h. Tu te couches tard ?
+>
+> **You :** Non, je me couche vers 22h30.
+>
+> **Friend :** Tu as de la chance ! Moi, je me couche à minuit.
+
+---
+
+## Writing Practice
+
+**Write a comparison between your week and your weekend routine. Use:**
+- "La semaine, je..." vs "Le weekend, je..."
+- Reflexive verbs (se lever, se laver, se reposer, se promener)
+- Times
+- Connectors (mais, et, ensuite)
+
+**Example:**
+> La semaine, je me lève tôt, à 7h. Je me dépêche pour aller au travail. Je me couche vers 23h. Mais le weekend, c'est différent ! Je me lève tard, vers 10h. Je me promène dans le parc et je me repose. Le samedi soir, je me couche tard.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je **lève** à 7h. | Je **me lève** à 7h. | Reflexive verbs ALWAYS need the pronoun (me/te/se...) |
+| Il **se lève** et **se habille**. | Il se lève et **s'habille**. | Before a vowel: se → s' |
+| Nous **se levons** tôt. | Nous **nous levons** tôt. | The pronoun must match: nous → nous |
+| Je me **douches**. | Je me **douche**. | JE form = no -S ending |
+| Elle **se couche** et **se endort**. | Elle se couche et **s'endort**. | S'endormir: before a vowel → s' |
+
+---
+
 ## Culture: The Belgian Daily Rhythm
 
 | Time | Activity | Belgian Term |
@@ -138,6 +206,8 @@ f) Je prends mon déjeuner.
 | 16h | Afternoon snack | Le **goûter** / les **quatre heures** |
 | 18h-19h | Dinner | Le **souper** (NOT dîner!) |
 | 22h | Bedtime | On se couche |
+
+
 
 ---
 

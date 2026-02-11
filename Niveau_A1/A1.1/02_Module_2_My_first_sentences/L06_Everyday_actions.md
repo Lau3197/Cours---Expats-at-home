@@ -355,33 +355,6 @@ Belgium has **3 official languages**:
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: Forgetting that -ent is SILENT
-
-| Writing | Pronunciation |
-|:--------|:-------------|
-| Ils parl**ent** | [parl] — NOT [parlent]! |
-| Elles mang**ent** | [manj] — the -ent is silent! |
-
-### Mistake 2: Using "nous" when "on" is more natural
-
-| Textbook French | Real spoken French |
-|:---------------|:------------------|
-| Nous mangeons | **On mange** |
-| Nous habitons | **On habite** |
-
-In daily life, Belgians say "on" 95% of the time!
-
-### Mistake 3: Conjugating ON like NOUS
-
-| Wrong | Correct |
-|:------|:--------|
-| On **parlons** | On **parle** |
-| On **mangeons** | On **mange** |
-
-ON always uses the il/elle conjugation!
-
 ---
 
 ## Speaking Practice
@@ -411,6 +384,37 @@ ON always uses the il/elle conjugation!
 - The correct articles (le/la/les/un/une/des)
 
 ---
+
+## Common Mistakes to Avoid
+
+### Mistake 1: Forgetting that -ent is SILENT
+
+| Writing | Pronunciation |
+|:--------|:-------------|
+| Ils parl**ent** | [parl] — NOT [parlent]! |
+| Elles mang**ent** | [manj] — the -ent is silent! |
+
+### Mistake 2: Using "nous" when "on" is more natural
+
+| Textbook French | Real spoken French |
+|:---------------|:------------------|
+| Nous mangeons | **On mange** |
+| Nous habitons | **On habite** |
+
+In daily life, Belgians say "on" 95% of the time!
+
+### Mistake 3: Conjugating ON like NOUS
+
+| Wrong | Correct |
+|:------|:--------|
+| On **parlons** | On **parle** |
+| On **mangeons** | On **mange** |
+
+ON always uses the il/elle conjugation!
+
+---
+
+
 
 ## Grammar Summary
 

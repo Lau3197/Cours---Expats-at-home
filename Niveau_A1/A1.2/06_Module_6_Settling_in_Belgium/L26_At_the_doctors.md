@@ -84,6 +84,20 @@
 1. J'ai mal aux dents. — 2. J'ai mal au pied. — 3. J'ai mal au dos. — 4. J'ai mal à l'oreille. — 5. J'ai mal à la tête.
 </details>
 
+### Practice 1b: What Hurts?
+
+**Describe the symptoms for each situation:**
+
+1. You ate too much → J'ai mal ___________.
+2. You ran a marathon → J'ai mal ___________.
+3. You have earache → J'ai mal ___________.
+4. You fell on your knee → J'ai mal ___________.
+5. You worked at the computer all day → J'ai mal ___________.
+
+<details><summary>Answers</summary>
+1. au ventre / à l'estomac — 2. aux jambes / aux pieds — 3. à l'oreille — 4. au genou — 5. au dos / aux yeux / à la tête
+</details>
+
 ---
 
 ## Observation 2: Describing Symptoms
@@ -148,6 +162,12 @@
 Qu'est-ce qui ne va pas ? — J'ai mal à la tête / je tousse beaucoup — Depuis quand ? — Depuis lundi — de la fièvre — 38 degrés
 </details>
 
+### Practice 2b: Your Symptoms
+
+**Imagine you are sick. Write a paragraph describing your symptoms to the doctor (at least 5 sentences):**
+
+> Bonjour docteur. Je ne me sens pas bien. J'ai mal ___________. J'ai aussi ___________. C'est depuis ___________. Je ___________ (symptom). C'est grave ?
+
 ---
 
 ## Observation 3: At the Pharmacy
@@ -193,6 +213,57 @@ Qu'est-ce qui ne va pas ? — J'ai mal à la tête / je tousse beaucoup — Depu
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Describe Symptoms
+
+**You are at the doctor's. Describe 3 problems:**
+
+"Docteur, je ne me sens pas bien. J'ai mal _________ (au ventre, à la tête). Je _________ (tousse, ai de la fièvre). Je suis _________ (fatigué, malade)."
+
+### Exercise 2: Role-Play — Calling in Sick
+
+**Play both roles:**
+
+> **Boss :** Bonjour, ça va ?
+>
+> **You :** Non, je suis malade aujourd'hui.
+>
+> **Boss :** Oh mince. Qu'est-ce que tu as ?
+>
+> **You :** J'ai de la fièvre et j'ai mal à la gorge.
+>
+> **Boss :** Reste à la maison. Repose-toi bien.
+>
+> **You :** Merci, je vais aller chez le médecin.
+
+---
+
+## Writing Practice
+
+**Write a message to a friend about your illness. Use:**
+- AVOIR MAL À...
+- Symptoms (fièvre, toux, fatigue)
+- Pharmacy vocabulary (médicaments, sirop)
+
+**Example:**
+> Salut Julie,
+> Je ne peux pas venir ce soir. Je suis malade. J'ai très mal à la tête et j'ai un peu de fièvre. Je suis allée à la pharmacie pour acheter des médicaments. Je vais dormir toute la journée. Désolée !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| J'ai mal **à le** ventre. | J'ai mal **au** ventre. | à + le = au (contraction) |
+| J'ai mal **à les** dents. | J'ai mal **aux** dents. | à + les = aux (contraction) |
+| Je **suis** mal à la tête. | J'**ai** mal à la tête. | AVOIR mal à (not ÊTRE) |
+| J'ai **la fièvre**. | J'ai **de la** fièvre. | AVOIR DE LA fièvre (partitive article) |
+| Je **tousse** depuis **lundi dernier**. ✅ | *Correct!* | DEPUIS + point in time = since |
+
+---
+
 ## Culture: Healthcare in Belgium
 
 ### The Belgian Healthcare System
@@ -214,6 +285,8 @@ Qu'est-ce qui ne va pas ? — J'ai mal à la tête / je tousse beaucoup — Depu
 
 ### Belgian Health Expression
 > **"J'ai attrapé un coup de froid !"** = I caught a cold! (very common in Belgian French)
+
+
 
 ---
 

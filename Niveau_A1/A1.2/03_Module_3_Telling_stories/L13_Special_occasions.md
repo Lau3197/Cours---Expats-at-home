@@ -66,6 +66,16 @@
 1. fait — 2. pris — 3. bu — 4. vu — 5. lu — 6. écrit — 7. mis — 8. offert
 </details>
 
+### Practice 1b: What Did They Do?
+
+**Complete with the correct irregular passé composé:**
+
+1. Sophie _________ (faire) un gâteau pour l'anniversaire.
+2. Tom _________ (boire) de la bière belge.
+3. Les enfants _________ (ouvrir) les cadeaux.
+4. Nous _________ (écrire) des cartes de vœux.
+5. J' _________ (voir) un beau spectacle.
+
 ---
 
 ## Observation 2: Mixing AVOIR and ÊTRE in a Story
@@ -101,6 +111,16 @@
 1. suis allé(e) — 2. ai pris — 3. sommes arrivé(e)s — 4. a mangé — 5. sont venus — 6. ai ouvert — 7. a dansé — 8. sont partis
 </details>
 
+### Practice 2b: Tom's Birthday — Rewrite the Story
+
+**Rewrite this story using the correct auxiliary (AVOIR or ÊTRE) and past participle. Pay attention to agreement!**
+
+> Samedi, des amis (1) _________ (venir) chez Tom. Tom (2) _________ (préparer) un dîner belge. Il (3) _________ (faire) du stoemp. Sophie (4) _________ (arriver) avec un gâteau. Tout le monde (5) _________ (manger) et (6) _________ (danser). Les amis (7) _________ (partir) à minuit.
+
+<details><summary>Answers</summary>
+1. sont venus — 2. a préparé — 3. a fait — 4. est arrivée — 5. a mangé — 6. a dansé — 7. sont partis
+</details>
+
 ---
 
 ## Celebration Vocabulary
@@ -133,6 +153,54 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: The Best Party Ever
+
+**Describe a great party you remember. Mix AVOIR and ÊTRE:**
+
+"La fête était géniale ! Tous mes amis **sont venus**. On **a mangé** beaucoup de gâteau. On **a dansé** toute la nuit. Je **suis rentré(e)** à 4h du matin !"
+
+### Exercise 2: Role-Play — The Day After
+
+**Play both roles:**
+
+> **You :** Ouh là là, je suis fatigué(e)...
+>
+> **Friend :** Pourquoi ? Qu'est-ce que tu as fait hier ?
+>
+> **You :** C'était l'anniversaire de Marc. On a fait la fête.
+>
+> **Friend :** Tu as bu de la bière ?
+>
+> **You :** Oui, j'ai bu un peu trop... Et je suis rentré à pied !
+
+---
+
+## Writing Practice
+
+**Write about your last birthday. Use:**
+- A mix of AVOIR and ÊTRE verbs
+- Irregular participles (eu, bu, fait, pris, vu, été)
+- "C'était..." (It was...)
+
+**Example:**
+> Pour mon anniversaire, j'ai invité des amis. Nous avons fait un grand dîner. Ma sœur est venue de Paris. On a mangé un gâteau au chocolat et on a bu du champagne. J'ai eu beaucoup de cadeaux. C'était une super soirée !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| J'ai **fais**. | J'ai **fait**. | Irregular participle: faire → fait |
+| J'ai **boivé**. | J'ai **bu**. | Irregular: boire → bu |
+| J'ai **prendé**. | J'ai **pris**. | Irregular: prendre → pris |
+| Elle **a venu** à la fête. | Elle **est venue** à la fête. | VENIR uses ÊTRE + feminine agreement |
+| Les amis **sont parti**. | Les amis **sont partis**. | Plural masculine → add -S |
+
+---
+
 ## Culture: Belgian Celebrations
 
 ### Important Dates in Belgium
@@ -156,6 +224,8 @@ In Belgium, **Saint-Nicolas** is MORE important than Christmas for children!
 
 ### Belgian Birthday Tradition
 > At work, it's the **birthday person** who brings cake for everyone — not the other way around!
+
+
 
 ---
 

@@ -72,6 +72,20 @@
 1. ai mangé — 2. as regardé — 3. a cuisiné — 4. avons choisi — 5. avez fini — 6. ont joué
 </details>
 
+### Practice 1b: Tom's Saturday
+
+**Rewrite each sentence in the passé composé:**
+
+> 1. Tom mange une gaufre au chocolat. → Samedi, Tom _________.
+> 2. Il regarde un match à la télé. → Il _________.
+> 3. Il cuisine du waterzooi. → Il _________.
+> 4. Il choisit une bière belge. → Il _________.
+> 5. Il finit le repas à 21 heures. → Il _________.
+
+<details><summary>Answers</summary>
+1. Tom a mangé une gaufre au chocolat. — 2. Il a regardé un match à la télé. — 3. Il a cuisiné du waterzooi. — 4. Il a choisi une bière belge. — 5. Il a fini le repas à 21 heures.
+</details>
+
 ---
 
 ## Observation 2: Time Markers for the Past
@@ -104,10 +118,24 @@
 → ___________________________
 4. Ils choisissent un plat belge. (hier soir)  
 → ___________________________
+5. Vous jouez au football. (samedi dernier)  
+→ ___________________________
 
 <details><summary>Answers</summary>
-1. Hier, j'ai mangé au restaurant. — 2. Vendredi dernier, tu as fini le travail. — 3. Le week-end dernier, nous avons regardé un film. — 4. Hier soir, ils ont choisi un plat belge.
+1. Hier, j'ai mangé au restaurant. — 2. Vendredi dernier, tu as fini le travail. — 3. Le week-end dernier, nous avons regardé un film. — 4. Hier soir, ils ont choisi un plat belge. — 5. Samedi dernier, vous avez joué au football.
 </details>
+
+### Practice 2b: Your Last Weekend
+
+**Write 5 sentences about what you did last weekend, using time markers:**
+
+> Exemple: **Samedi matin**, j'ai mangé des tartines. **L'après-midi**, j'ai regardé un film...
+
+> 1. _________
+> 2. _________
+> 3. _________
+> 4. _________
+> 5. _________
 
 ---
 
@@ -123,15 +151,29 @@
 
 ---
 
-### Practice 3: Make it Negative
+### Practice 3: Drill — Make it Negative
 
 1. J'ai regardé la télé. → ___________________________
 2. Elle a cuisiné. → ___________________________
 3. Nous avons fini. → ___________________________
+4. Tu as joué au football. → ___________________________
+5. Ils ont choisi le restaurant. → ___________________________
 
 <details><summary>Answers</summary>
-1. Je n'ai pas regardé la télé. — 2. Elle n'a pas cuisiné. — 3. Nous n'avons pas fini.
+1. Je n'ai pas regardé la télé. — 2. Elle n'a pas cuisiné. — 3. Nous n'avons pas fini. — 4. Tu n'as pas joué au football. — 5. Ils n'ont pas choisi le restaurant.
 </details>
+
+### Practice 3b: What Didn't You Do?
+
+**Write 5 things you did NOT do last weekend, using the negative passé composé:**
+
+> Exemple: Je **n'ai pas** cuisiné. Je **n'ai pas** travaillé.
+
+> 1. Je n'ai pas _________.
+> 2. Je n'ai pas _________.
+> 3. Je n'ai pas _________.
+> 4. Je n'ai pas _________.
+> 5. Je n'ai pas _________.
 
 ---
 
@@ -146,6 +188,58 @@ Include:
 
 > Example:  
 > Samedi dernier, j'ai visité Bruxelles. D'abord, j'ai mangé des gaufres à la Grand-Place. Ensuite, j'ai regardé la statue du Manneken-Pis. Après, j'ai choisi un restaurant pour le dîner. Je n'ai pas cuisiné ! Enfin, j'ai fini la journée au cinéma.
+
+---
+
+## Speaking Practice
+
+### Exercise 1: What did you do?
+
+**Say 3 things you DID and 3 things you DIDN'T DO last weekend:**
+
+"Samedi, j'ai _________. J'ai aussi _________. Mais je n'ai pas _________."
+
+**Use: manger, boire, regarder, visiter, travailler, étudier.**
+
+### Exercise 2: Role-Play — Monday Morning at Work
+
+**Play both roles:**
+
+> **Colleague :** Salut ! Tu as passé un bon weekend ?
+>
+> **You :** Oui, très bon ! J'ai visité Bruges.
+>
+> **Colleague :** Ah bon ? Qu'est-ce que tu as fait ?
+>
+> **You :** J'ai mangé des moules-frites et j'ai marché dans la ville. Et toi ?
+>
+> **Colleague :** Moi, j'ai travaillé dans le jardin...
+
+---
+
+## Writing Practice
+
+**Write a short email to a friend about your weekend. Use:**
+- Passé composé with AVOIR (at least 5 verbs)
+- Time markers (d'abord, ensuite, après, enfin)
+- At least one negative sentence
+
+**Example:**
+> Salut Paul !
+> J'ai passé un super weekend. Samedi, j'ai joué au tennis avec Marc. Après, nous avons mangé une pizza. Dimanche, j'ai regardé un film. Je n'ai pas travaillé ! Et toi ?
+> À bientôt !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| J'ai **mangér** au restaurant. | J'ai **mangé** au restaurant. | Past participle of -ER = **-é** (not -ér) |
+| Je **suis mangé**. | J'**ai mangé**. | MANGER uses AVOIR, not ÊTRE |
+| Hier, je **mange** au restaurant. | Hier, j'**ai mangé** au restaurant. | Past time marker → must use passé composé |
+| Je n'ai **mangé pas**. | Je **n'ai pas** mangé. | NE...PAS surrounds the auxiliary, not the participle |
+| Tu **a** mangé. | Tu **as** mangé. | TU = as (not a) |
 
 ---
 
@@ -164,6 +258,8 @@ Include:
 - Club Bruges
 - KRC Genk
 - Union Saint-Gilloise
+
+
 
 ---
 

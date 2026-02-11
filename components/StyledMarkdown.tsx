@@ -20,22 +20,25 @@ interface StyledMarkdownProps {
 const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = '', id, isStatic = false, disableVideo = false }) => {
   // State for checkboxes
   const [checkedItems, setCheckedItems] = React.useState<{ [key: string]: boolean }>({});
+  // State for radio groups: { groupName: selectedValueIndex (as string) }
+  const [radioGroups, setRadioGroups] = React.useState<{ [key: string]: string }>({});
 
   // ... (existing useEffects)
 
   // Load state on mount or when id changes
   React.useEffect(() => {
     if (!isStatic && id) {
-      const saved = localStorage.getItem(`checklist_${id}`);
-      if (saved) {
-        try {
-          setCheckedItems(JSON.parse(saved));
-        } catch (e) {
-          console.error("Failed to parse checklist state", e);
-        }
-      } else {
-        setCheckedItems({});
-      }
+      // Checkboxes
+      const savedCheck = localStorage.getItem(`checklist_${id}`);
+      if (savedCheck) {
+        try { setCheckedItems(JSON.parse(savedCheck)); } catch (e) { console.error(e); }
+      } else { setCheckedItems({}); }
+
+      // Radios
+      const savedRadios = localStorage.getItem(`radios_${id}`);
+      if (savedRadios) {
+        try { setRadioGroups(JSON.parse(savedRadios)); } catch (e) { console.error(e); }
+      } else { setRadioGroups({}); }
     }
   }, [id, isStatic]);
 
@@ -50,34 +53,109 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
     });
   };
 
-  // Helper to count checkboxes to give them unique indices
-  let checkboxCount = 0;
+  // Save state for Radios
+  const selectRadio = (groupName: string, value: string) => {
+    if (!id || isStatic) return;
+    setRadioGroups(prev => {
+      const next = { ...prev, [groupName]: value };
+      localStorage.setItem(`radios_${id}`, JSON.stringify(next));
+      return next;
+    });
+  };
+
+  // Helper to count checkboxes/radios to give them unique indices/values
+  let inputCount = 0;
 
   // Pre-process content to fix markdown bolding issues with French contractions
   // e.g. **l'**école -> <strong>l'</strong>école
   // And normalize legacy checkboxes: - ☐ -> - [ ]
   const processedContent = React.useMemo(() => {
-    let newContent = content.replace(/\*\*([LlDdQqNnJjMmTtSsCc]')\*\*/g, '<strong>$1</strong>');
-    newContent = newContent.replace(/-\s*☐/g, '- [ ]');
-    newContent = newContent.replace(/-\s*☑/g, '- [x]');
+    // 1. Initial cleanup
+    let cleanContent = content.replace(/\*\*([LlDdQqNnJjMmTtSsCc]')\*\*/g, '<strong>$1</strong>');
 
-    // Regex explanation:
-    // 1. Match start of line or newline
-    // 2. Match optional whitespace
-    // 3. Match hyphen and space "- "
-    // 4. Match [t] or [f]
-    newContent = newContent.replace(/(^|\n)\s*-\s*\[t\]/g, '$1- <input type="checkbox" data-quiz="correct" />');
-    newContent = newContent.replace(/(^|\n)\s*-\s*\[f\]/g, '$1- <input type="checkbox" data-quiz="wrong" />');
+    // Normalize legacy
+    cleanContent = cleanContent.replace(/☐/g, '<input type="checkbox" />');
+    cleanContent = cleanContent.replace(/☑/g, '<input type="checkbox" checked />');
+    cleanContent = cleanContent.replace(/\[\s?\]/g, '<input type="checkbox" />');
+    cleanContent = cleanContent.replace(/\[[xX]\]/g, '<input type="checkbox" checked />');
 
-    // If static (printable view), remove emojis from headers for clearer professional look
-    if (isStatic) {
-      // Regex matches: Newline/Start -> Headings (#) -> Optional Space -> Emojis -> Optional Space
-      // Ranges cover generic emoticons, symbols, pictographs, transport, etc.
-      newContent = newContent.replace(/(^|\n)(#+\s*)([\u{1F300}-\u{1F9FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]+)\s*/gu, '$1$2');
+    // 2. Line-by-line processing to track sections for Scoring
+    const lines = cleanContent.split('\n');
+    const newLines: string[] = [];
+    const sectionMap: { [key: string]: string } = {}; // groupName -> Section Title
+    let currentSection = "Général";
+    let groupCounter = 0;
+
+    for (let line of lines) {
+      // Check for Headers (## or ###)
+      const headerMatch = line.match(/^(#{2,3})\s+(.+)/);
+      if (headerMatch) {
+        // Cleanup markdown syntax from section name for display
+        currentSection = headerMatch[2].replace(/\[.*?\]\(.*?\)/g, '$1').replace(/[*_~`]/g, '').trim();
+      }
+
+      // Check for Radio pattern ( ) or (x)
+      if (line.match(/(\(\s?\)|\([xX]\))/)) {
+        const groupName = `rg_${groupCounter++}`;
+        sectionMap[groupName] = currentSection;
+
+        let optionCounter = 0;
+        line = line.replace(/(\(\s?\)|\([xX]\))/g, (match) => {
+          const isChecked = match.includes('x') || match.includes('X');
+          const value = String(optionCounter++);
+          return `<input type="radio" name="${groupName}" value="${value}" ${isChecked ? 'checked' : ''} />`;
+        });
+      }
+
+      // Checkbox quizzes logic
+      line = line.replace(/^(\s*)-\s*\[t\]/g, '$1- <input type="checkbox" data-quiz="correct" />');
+      line = line.replace(/^(\s*)-\s*\[f\]/g, '$1- <input type="checkbox" data-quiz="wrong" />');
+
+      // Static header cleanup
+      if (isStatic) {
+        line = line.replace(/^(#+\s*)([\u{1F300}-\u{1F9FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]+)\s*/u, '$1$2');
+      }
+
+      newLines.push(line);
     }
 
-    return newContent;
+    return { content: newLines.join('\n'), sectionMap };
   }, [content, isStatic]);
+
+  // Extract from memo
+  const { content: finalContent, sectionMap } = processedContent as any;
+
+  // Calculate Scores by Section
+  const scoreData = React.useMemo(() => {
+    if (!radioGroups || !sectionMap) return { total: 0, max: 0, sections: [] };
+
+    const sections: { [key: string]: { score: number, max: number } } = {};
+
+    // Iterate over all known groups from the content
+    Object.keys(sectionMap).forEach(groupName => {
+      const sectionName = sectionMap[groupName];
+      if (!sections[sectionName]) sections[sectionName] = { score: 0, max: 0 };
+
+      sections[sectionName].max += 1;
+
+      // Check if user selected "0" (Yes)
+      if (radioGroups[groupName] === "0") {
+        sections[sectionName].score += 1;
+      }
+    });
+
+    // Convert to array for rendering
+    const sectionList = Object.entries(sections).map(([name, stats]) => ({
+      name,
+      ...stats
+    }));
+
+    return {
+      total: sectionList.reduce((acc, curr) => acc + curr.score, 0),
+      max: sectionList.reduce((acc, curr) => acc + curr.max, 0),
+      sections: sectionList
+    };
+  }, [radioGroups, sectionMap]);
 
   // Define the Markdown Content Component to reuse
   const MarkdownContent = (
@@ -244,9 +322,41 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
               );
             }
 
-            // 2. STANDARD CHECKBOXES (Persistence)
-            if (props.type === "checkbox") {
-              const index = checkboxCount++;
+            // 2. CHECKBOXES & RADIOS
+            const type = props.type;
+
+            if (type === "checkbox" || type === "radio") {
+              const index = inputCount++; // Unique index for every input
+
+              if (type === "radio") {
+                const groupName = props.name || "default_group";
+                // Use the value from processedContent ("0" or "1") if present, otherwise fallback to index
+                const value = props.value !== undefined ? String(props.value) : String(index);
+                // Is this radio checked? Check store, OR fallback to default checked
+                const isChecked = radioGroups[groupName] === value || (!radioGroups[groupName] && props.checked);
+
+                return (
+                  <input
+                    type="radio"
+                    name={groupName}
+                    checked={isChecked}
+                    onChange={() => selectRadio(groupName, value)}
+                    disabled={!id || isStatic}
+                    className={`
+                        appearance-none w-5 h-5 rounded-full border-2 border-[#dd8b8b]
+                        bg-white checked:bg-[#dd8b8b] checked:border-[#dd8b8b]
+                        cursor-pointer relative align-middle mr-2 mt-[-2px]
+                        transition-all duration-200 ease-in-out
+                        after:content-[''] after:hidden after:absolute after:top-[4px] after:left-[4px]
+                        after:w-2 after:h-2 after:bg-white after:rounded-full
+                        checked:after:block
+                        hover:scale-110
+                      `}
+                  />
+                );
+              }
+
+              // Checkbox default
               const isChecked = checkedItems[index] || props.checked || false;
 
               return (
@@ -405,8 +515,44 @@ const StyledMarkdown: React.FC<StyledMarkdownProps> = ({ content, className = ''
           ),
         }}
       >
-        {processedContent}
+        {finalContent}
       </ReactMarkdown>
+
+      {/* Score Display for Self-Assessments */}
+      {!isStatic && scoreData.max > 0 && (
+        <div className="mt-8 bg-[#F9F7F2] rounded-3xl border-2 border-[#dd8b8b]/20 overflow-hidden">
+          <div className="p-6 flex items-center justify-between border-b border-[#dd8b8b]/10">
+            <div>
+              <h4 className="text-xl font-bold text-[#5A6B70] mb-1">Votre Bilan</h4>
+              <p className="text-[#5A6B70]/80 text-sm">Basé sur votre auto-évaluation</p>
+            </div>
+            <div className="text-right">
+              <span className="text-4xl font-black text-[#dd8b8b] block leading-none">{scoreData.total}</span>
+              <span className="text-sm font-bold text-[#5A6B70]/60 uppercase tracking-widest">sur {scoreData.max}</span>
+            </div>
+          </div>
+
+          <div className="p-6 bg-white/50 space-y-4">
+            {scoreData.sections.map((section: any) => (
+              <div key={section.name} className="flex items-center justify-between">
+                <span className="font-bold text-[#5A6B70]">{section.name}</span>
+                <div className="flex items-center gap-3">
+                  <div className="w-32 h-2 bg-[#dd8b8b]/10 rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-[#dd8b8b] transition-all duration-1000 ease-out rounded-full"
+                      style={{ width: `${(section.score / Math.max(section.max, 1)) * 100}%` }}
+                    />
+                  </div>
+                  <span className="font-mono font-bold text-[#dd8b8b] text-sm w-12 text-right">
+                    {section.score}/{section.max}
+                  </span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
       {!isStatic && !disableVideo && <FloatingVideoPlayer />}
     </div>
   );

@@ -93,11 +93,30 @@ For most verbs, the imperative = present tense WITHOUT the subject pronoun:
 2. Vous mélangez bien. → ___________
 3. Vous ajoutez du sel. → ___________
 4. Vous faites cuire 20 minutes. → ___________
+5. Vous versez l'huile. → ___________
 
 <details>
 <summary>Answers</summary>
 
-1. **Coupez** les oignons ! — 2. **Mélangez** bien ! — 3. **Ajoutez** du sel ! — 4. **Faites** cuire 20 minutes !
+1. **Coupez** les oignons ! — 2. **Mélangez** bien ! — 3. **Ajoutez** du sel ! — 4. **Faites** cuire 20 minutes ! — 5. **Versez** l'huile !
+
+</details>
+
+### Practice 1b: Sophie's Kitchen Instructions
+
+**Sophie is teaching Tom to cook. Write the instructions she gives him, using the TU form:**
+
+> Sophie says:
+> 1. (couper) _________ les tomates !
+> 2. (mélanger) _________ la sauce !
+> 3. (écouter) _________ bien !
+> 4. (aller) _________ chercher le sel !
+> 5. (être) _________ patient !
+
+<details>
+<summary>Answers</summary>
+
+1. **Coupe** les tomates ! (no -S for -ER verbs) — 2. **Mélange** la sauce ! — 3. **Écoute** bien ! — 4. **Va** chercher le sel ! (irregular) — 5. **Sois** patient ! (irregular)
 
 </details>
 
@@ -122,11 +141,32 @@ NE + verb + PAS
 1. Mettez trop de sel. → ___________
 2. Touche la casserole. → ___________
 3. Mangez trop vite. → ___________
+4. Goûte le gaufre maintenant. → ___________
+5. Ouvrez le four. → ___________
 
 <details>
 <summary>Answers</summary>
 
-1. **Ne mettez pas** trop de sel ! — 2. **Ne touche pas** la casserole ! — 3. **Ne mangez pas** trop vite !
+1. **Ne mettez pas** trop de sel ! — 2. **Ne touche pas** la casserole ! — 3. **Ne mangez pas** trop vite ! — 4. **Ne goûte pas** la gaufre maintenant ! — 5. **N'ouvrez pas** le four !
+
+</details>
+
+### Practice 2b: Kitchen Rules
+
+**Write 5 rules for Tom in the kitchen, using a mix of positive and negative imperatives (vous form):**
+
+Exemple: ✅ **Lavez** les mains avant de cuisiner ! / ❌ **Ne touchez pas** le four !
+
+1. ✅ (wash) _________ les légumes !
+2. ❌ (don't eat) _________ la pâte crue !
+3. ✅ (taste) _________ la sauce !
+4. ❌ (don't forget) _________ d'éteindre le four !
+5. ✅ (let's prepare) _________ le dessert ensemble !
+
+<details>
+<summary>Answers</summary>
+
+1. **Lavez** les légumes ! — 2. **Ne mangez pas** la pâte crue ! — 3. **Goûtez** la sauce ! — 4. **N'oubliez pas** d'éteindre le four ! — 5. **Préparons** le dessert ensemble !
 
 </details>
 
@@ -181,6 +221,80 @@ Ingredients: flour (la farine), eggs (les œufs), butter (le beurre), sugar (le 
 
 </details>
 
+### Practice 3b: Give Advice to a Friend
+
+**Your friend wants to make a carbonade flamande. Give them 5 instructions and 2 warnings, using the TU form:**
+
+> Instructions (✅):
+> 1. _________
+> 2. _________
+> 3. _________
+> 4. _________
+> 5. _________
+>
+> Warnings (❌):
+> 1. _________
+> 2. _________
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Chef Ramsay Style!
+
+**Give orders to your kitchen staff (imaginary). Use the IMPERATIVE (TU form):**
+
+"Coupe les carottes ! Lave la salade ! Ne brûle pas la viande ! Mélange la sauce ! Vite !"
+
+**Record yourself giving 5 distinct commands.**
+
+### Exercise 2: Role-Play — Teaching a Recipe
+
+**Play both roles:**
+
+> **You :** D'abord, prends une casserole.
+>
+> **Friend :** D'accord. Et après ?
+>
+> **You :** Mets de l'eau et fais bouillir.
+>
+> **Friend :** Comme ça ?
+>
+> **You :** Oui. Maintenant, ajoute les pâtes et ne touche pas !
+>
+> **Friend :** Combien de temps ?
+>
+> **You :** Attends 10 minutes.
+
+---
+
+## Writing Practice
+
+**Write a simple recipe for a dish you like (e.g., "Omelette simple"). Use:**
+- The imperative (VOUS form usually, or TU)
+- Chronological connectors (D'abord, Ensuite, Puis, Enfin)
+- Cooking verbs (couper, mélanger, cuire, servir)
+
+**Example:**
+> **Recette de l'omelette :**
+> D'abord, cassez les œufs dans un bol. Ajoutez un peu de sel et de poivre.
+> Ensuite, mélangez bien avec une fourchette.
+> Faites chauffer du beurre dans une poêle.
+> Versez les œufs et laissez cuire 3 minutes.
+> Enfin, servez chaud avec du pain. Bon appétit !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| **Manges** ta soupe ! | **Mange** ta soupe ! | -ER verbs: drop the -S in the TU form |
+| **Coupe !** (to friend) | **Coupe !** ✅ | Actually correct! TU form loses the -S |
+| **Va pas** au magasin ! | **Ne va pas** au magasin ! | Negation always needs NE...PAS |
+| **Soyez** calme ! (to a child) | **Sois** calme ! | Sois = TU form, Soyez = VOUS form |
+| **Fais pas** ça ! | **Ne fais pas** ça ! | Written French always requires NE |
+
 ---
 
 ## Culture: Belgian Cuisine
@@ -196,6 +310,8 @@ Ingredients: flour (la farine), eggs (les œufs), butter (le beurre), sugar (le 
 ### Belgian Cooking Uses Beer!
 
 Many Belgian recipes use beer instead of wine. The carbonade flamande uses a dark beer (like Chimay or Leffe Brune).
+
+
 
 ---
 

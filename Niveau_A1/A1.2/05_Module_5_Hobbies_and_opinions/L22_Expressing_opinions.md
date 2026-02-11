@@ -59,10 +59,21 @@
 2. Belgian chocolate (excellent) → ___________________________
 3. The weather in Belgium (bad) → ___________________________
 4. The frites (delicious) → ___________________________
+5. Learning French (difficult but useful) → ___________________________
 
 <details><summary>Answers</summary>
-1. Je trouve que Bruxelles est intéressant(e). — 2. Je pense que le chocolat belge est excellent. — 3. Je trouve que le temps en Belgique est mauvais. — 4. Je pense que les frites sont délicieuses.
+1. Je trouve que Bruxelles est intéressant(e). — 2. Je pense que le chocolat belge est excellent. — 3. Je trouve que le temps en Belgique est mauvais. — 4. Je pense que les frites sont délicieuses. — 5. Je trouve que le français est difficile mais utile.
 </details>
+
+### Practice 1b: Ask and Answer
+
+**Write opinion conversations about Belgium. Use JE PENSE QUE, JE TROUVE QUE, and À MON AVIS:**
+
+> 1. Qu'est-ce que tu penses de la bière belge ? → ___________
+> 2. Tu trouves que Bruxelles est une belle ville ? → ___________
+> 3. À ton avis, quel est le meilleur plat belge ? → ___________
+> 4. Qu'est-ce que tu penses du temps en Belgique ? → ___________
+> 5. Tu trouves que le français est facile ? → ___________
 
 ---
 
@@ -119,6 +130,16 @@
 4. le chocolat → ___________________________
 5. le lundi matin → ___________________________
 
+### Practice 2b: Rate Belgian Things
+
+**Give your opinion + intensifier for each topic:**
+
+> 1. Le chocolat belge → Je trouve que c'est ___________.
+> 2. La météo en automne → ___________.
+> 3. Les spéculoos → ___________.
+> 4. Le Manneken-Pis → ___________.
+> 5. Les trains SNCB → ___________.
+
 ---
 
 ## Observation 3: Agreeing and Disagreeing
@@ -163,6 +184,13 @@
 4. "Bruxelles est la plus belle ville de Belgique."
 → ___________________________
 
+### Practice 3b: Mini-Debate
+
+**Write a 6-line dialogue where two people disagree about Belgian frites:**
+
+> **A :** Je pense que les frites sont meilleures avec du ketchup.
+> **B :** Je ne suis pas d'accord ! À mon avis, ___________.
+
 ---
 
 ## GLOBAL EXERCISE
@@ -179,6 +207,60 @@ Topics:
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Give Your Opinion
+
+**Give your opinion on these things using JE PENSE QUE / À MON AVIS:**
+
+1. La cuisine française vs. la cuisine belge
+2. Le football
+3. Les chats
+4. L'hiver
+
+**Example:** "À mon avis, la cuisine belge est meilleure. J'adore les frites !"
+
+### Exercise 2: Role-Play — A Friendly Debate
+
+**Play both roles:**
+
+> **A :** Tu aimes ce film ?
+>
+> **B :** Bof. Je trouve qu'il est un peu ennuyeux.
+>
+> **A :** Ah bon ? Moi, je pense qu'il est génial !
+>
+> **B :** Je ne suis pas d'accord. L'histoire est trop lente.
+>
+> **A :** C'est possible, mais les acteurs sont bons.
+
+---
+
+## Writing Practice
+
+**Write a review of a restaurant, a movie, or a book. Use:**
+- Opinion verbs (penser, trouver, croire)
+- Adjectives (bon, mauvais, intéressant, ennuyeux, cher, délicieux)
+- Agreement/Disagreement expressions
+
+**Example:**
+> **Avis sur le restaurant "Chez Léon" :**
+> Je pense que c'est un bon restaurant pour les touristes. Les moules sont bonnes, mais les frites sont un peu grasses. À mon avis, c'est trop cher. Le service est rapide. Je trouve que l'ambiance est sympa.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je pense **le** film est bon. | Je pense **que** le film est bon. | PENSER QUE / TROUVER QUE (don't forget QUE) |
+| C'est **très** magnifique. | C'est magnifique. | Magnifique is already strong; no TRÈS needed |
+| Je suis d'accord **que** toi. | Je suis d'accord **avec** toi. | D'accord AVEC (not que) |
+| **À mon opinion**... | **À mon avis**... | French uses AVIS (not opinion) in this expression |
+| Je **ne d'accord pas**. | Je **ne suis pas d'accord**. | ÊTRE d'accord → negate ÊTRE |
+
+---
+
 ## Culture: Belgian Cultural Debates
 
 ### Topics Belgians Love to Debate
@@ -192,6 +274,8 @@ Topics:
 ### Polite Disagreement in Belgian Culture
 > Belgians tend to disagree softly: **"Oui, mais..."** (Yes, but...) or **"C'est possible, mais..."** (It's possible, but...)  
 > Direct disagreement is considered a bit rude in Belgian French.
+
+
 
 ---
 

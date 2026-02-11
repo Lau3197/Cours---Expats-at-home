@@ -115,13 +115,34 @@
 1. "Je veux une pizza." → ___________
 2. "Donnez-moi une bière." → ___________
 3. "Je veux le steak." → ___________
+4. "Je veux de l'eau." → ___________
+5. "Donnez-moi le dessert." → ___________
 
 <details>
 <summary>Answers</summary>
 
 1. "**Je voudrais** une pizza, s'il vous plaît."
 2. "**Je voudrais** une bière, s'il vous plaît."
-3. "**Je prends** le steak, s'il vous plaît." ou "**Je voudrais** le steak."
+3. "**Je prends** le steak, s'il vous plaît."
+4. "**Je voudrais** de l'eau, s'il vous plaît."
+5. "**Je prends** le dessert, s'il vous plaît."
+
+</details>
+
+### Practice 1b: At the Restaurant — What Do You Say?
+
+**Choose the best expression for each situation:**
+
+1. You want to order soup very politely → ___________
+2. You're telling your friend what you'll have → ___________
+3. You want the daily special, casual style → ___________
+
+<details>
+<summary>Answers</summary>
+
+1. "J'aimerais la soupe, s'il vous plaît." (or "Je voudrais...")
+2. "Je prends la soupe."
+3. "Pour moi, le menu du jour."
 
 </details>
 
@@ -156,11 +177,27 @@
 2. Nous _________ le menu du jour. (prendre)
 3. Qu'est-ce que vous _________ ? (prendre)
 4. Les enfants _________ des pâtes. (prendre)
+5. Je _________ un café après le repas. (prendre)
 
 <details>
 <summary>Answers</summary>
 
-1. **prend** — 2. **prenons** — 3. **prenez** — 4. **prennent**
+1. **prend** — 2. **prenons** — 3. **prenez** — 4. **prennent** — 5. **prends**
+
+</details>
+
+### Practice 2b: Order for the Table
+
+**You are ordering for your group of 4. Write the waiter's question and your answers using PRENDRE:**
+
+> Serveur : Qu'est-ce que vous _________ ?
+> Vous : Moi, je _________ ... Mon ami _________ ... Nous _________ aussi ...
+
+<details>
+<summary>Example answer</summary>
+
+> Serveur : Qu'est-ce que vous **prenez** ?
+> Vous : Moi, je **prends** la carbonade. Mon ami **prend** les moules-frites. Nous **prenons** aussi une bouteille d'eau.
 
 </details>
 
@@ -194,19 +231,32 @@
 1. Je _________ un café. (boire)
 2. On _________ de la bière. (boire)
 3. Vous _________ du vin ? (boire)
+4. Tu _________ de l'eau ou du jus ? (boire)
+5. Les Belges _________ beaucoup de bière. (boire)
 
 <details>
 <summary>Answers</summary>
 
-1. **bois** — 2. **boit** — 3. **buvez**
+1. **bois** — 2. **boit** — 3. **buvez** — 4. **bois** — 5. **boivent**
 
 </details>
 
----
+### Practice 3b: Belgian Drinks Quiz
 
-## GLOBAL EXERCISE
+**Match the person to what they're drinking, then write the full sentence with BOIRE:**
 
-**Write a complete restaurant dialogue (12-15 lines) using PRENDRE and BOIRE. Include ordering starter, main, drinks, and asking for the bill.**
+1. Tom / une Chimay → ___________
+2. Sophie et Tom / de l'eau → ___________
+3. Vous / un café liégeois → ___________
+
+<details>
+<summary>Answers</summary>
+
+1. Tom **boit** une Chimay.
+2. Sophie et Tom **boivent** de l'eau.
+3. Vous **buvez** un café liégeois.
+
+</details>
 
 ---
 
@@ -243,6 +293,108 @@
 
 ---
 
+### Practice 4: Drill — Restaurant Vocabulary
+
+**Complete with the correct word:**
+
+1. En entrée, je prends la soupe. Comme _________, je voudrais le steak. (main course)
+2. L'_________, s'il vous plaît ! (bill)
+3. Je voudrais mon steak _________, pas trop cuit. (rare)
+4. Qu'est-ce que vous avez comme _________ ? (drinks)
+5. Le _________ du jour, c'est quoi ? (daily special)
+
+<details>
+<summary>Answers</summary>
+
+1. **plat principal** — 2. **addition** — 3. **saignant** — 4. **boissons** — 5. **menu**
+
+</details>
+
+### Practice 4b: Role-Play — Pay the Bill
+
+**Write a short dialogue (4-6 lines) where you:**
+- Ask for the bill
+- Ask if you can pay by card
+- Ask if service is included
+
+<details>
+<summary>Example</summary>
+
+> **Vous :** L'addition, s'il vous plaît.
+> **Serveur :** Voilà, ça fait 35 euros.
+> **Vous :** Je peux payer par carte ? Par Bancontact ?
+> **Serveur :** Oui, bien sûr.
+> **Vous :** Le service est compris ?
+> **Serveur :** Oui, le service est toujours compris en Belgique.
+
+</details>
+
+---
+
+## GLOBAL EXERCISE
+
+**Write a complete restaurant dialogue (12-15 lines) using PRENDRE and BOIRE. Include ordering starter, main, drinks, and asking for the bill.**
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Order a Full Meal
+
+**Say out loud (record yourself if possible!):**
+
+"Bonjour ! En entrée, je voudrais _________. Comme plat principal, je prends _________ avec _________ (side). Et comme boisson, _________. Merci !"
+
+**Use "Je voudrais" and "Je prends".**
+
+### Exercise 2: Role-Play — Asking About the Menu
+
+**Play both roles:**
+
+> **You :** Excusez-moi, c'est quoi, la carbonade flamande ?
+>
+> **Waiter :** C'est du bœuf avec de la bière. C'est délicieux !
+>
+> **You :** D'accord, je prends la carbonade.
+>
+> **Waiter :** Et à boire ?
+>
+> **You :** De l'eau pétillante, s'il vous plaît.
+>
+> **Waiter :** Très bien.
+
+---
+
+## Writing Practice
+
+**Write a restaurant dialogue (6-8 lines). You order for yourself and a friend. Use:**
+- "Je voudrais" / "Je prends"
+- "Pour moi..." / "Pour elle..."
+- Ordering drinks
+- Asking for the bill
+
+**Example:**
+> **Serveur :** Vous avez choisi ?
+> **Moi :** Oui. Pour moi, une salade et un steak-frites.
+> **Serveur :** Et pour madame ?
+> **Moi :** Pour elle, le vol-au-vent, s'il vous plaît.
+> **Serveur :** Et comme boisson ?
+> **Moi :** Une carafe d'eau et un verre de vin rouge. Merci !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| ~~Je **veux** une bière.~~ | **Je voudrais** une bière. | "Je veux" is too direct at a restaurant |
+| ~~Ils **prendent** le menu.~~ | Ils **prennent** le menu. | PRENDRE doubles the N in ils/elles |
+| ~~Nous **boivons** du vin.~~ | Nous **buvons** du vin. | The stem changes to BUV- for nous/vous |
+| ~~Le **dîner** = dinner~~ | Le **dîner** = **lunch** (in Belgium!) | Belgian ≠ France meal names |
+| ~~Je prends **le** steak saignant.~~ | ✅ Both OK | "Le" or no article — both acceptable |
+
+---
+
 ## Culture: Dining in Belgium
 
 ### Important — Belgian Meal Names!
@@ -272,6 +424,8 @@
 | Waterzooi | Creamy chicken or fish stew |
 | Vol-au-vent | Chicken in creamy sauce, in puff pastry |
 | Stoemp | Mashed potatoes with vegetables |
+
+
 
 ---
 

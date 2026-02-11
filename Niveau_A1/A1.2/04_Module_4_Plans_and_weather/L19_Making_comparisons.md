@@ -57,6 +57,20 @@
 1. plus grande que — 2. plus rapide que — 3. moins chaud que — 4. aussi délicieuses que — 5. moins longue que
 </details>
 
+### Practice 1b: Compare Belgian Things
+
+**Write comparative sentences about Belgium:**
+
+1. Bruges / touristique / Gand (more) → ___________
+2. La Belgique / petit / la France (smaller) → ___________
+3. Le temps à Bruxelles / gris / le temps à Ostende (as... as) → ___________
+4. Les Ardennes / froid / Bruxelles en hiver (colder) → ___________
+5. Liège / intéressant / Namur (as... as) → ___________
+
+<details><summary>Answers</summary>
+1. Bruges est plus touristique que Gand. — 2. La Belgique est plus petite que la France. — 3. Le temps à Bruxelles est aussi gris que le temps à Ostende. — 4. Les Ardennes sont plus froides que Bruxelles en hiver. — 5. Liège est aussi intéressante que Namur.
+</details>
+
 ---
 
 ## Observation 2: Irregular Comparative — BON → MEILLEUR
@@ -91,6 +105,16 @@
 <details><summary>Answers</summary>
 1. meilleure — 2. bon / meilleur — 3. meilleures
 </details>
+
+### Practice 2b: Food Fight — Belgian vs. French
+
+**Compare these Belgian and French specialties using MEILLEUR(E) or BON(NE):**
+
+1. Les frites belges / les frites françaises → ___________.
+2. Le chocolat belge / le chocolat suisse → ___________.
+3. La bière belge / la bière allemande → ___________.
+4. Les gaufres de Liège / les gaufres de Bruxelles → ___________.
+5. Le vin français / bon ? → ___________.
 
 ---
 
@@ -139,6 +163,57 @@ Include:
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Compare Belgium and Your Country
+
+**Make 3 comparisons:**
+
+"La Belgique est **plus** _________ que mon pays. Mon pays est **plus** _________ que la Belgique. La nourriture est **aussi** _________."
+
+**(Use words like: petit, grand, froid, chaud, bon, cher)**
+
+### Exercise 2: Role-Play — Which one is better?
+
+**Play both roles (choosing a restaurant):**
+
+> **A :** On va chez "Luigi" ou chez "Mario" ?
+>
+> **B :** "Luigi" est **plus cher que** "Mario".
+>
+> **A :** Oui, mais les pizzas sont **meilleures**.
+>
+> **B :** C'est vrai. Et le service est **plus rapide**.
+>
+> **A :** Alors, on va chez Luigi !
+
+---
+
+## Writing Practice
+
+**Compare two cities (e.g., Brussels and Paris, or your city and Brussels). Use:**
+- PLUS... QUE (more than)
+- MOINS... QUE (less than)
+- AUSSI... QUE (as... as)
+- MEILLEUR (better)
+
+**Example:**
+> Paris est plus grand que Bruxelles. Mais Bruxelles est plus sympa que Paris. À Paris, la vie est plus chère. Les transports sont aussi efficaces. La bière est meilleure à Bruxelles !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Les frites sont **plus bonnes**. | Les frites sont **meilleures**. | BON → MEILLEUR (never "plus bon") |
+| Bruges est plus belle **de** Gand. | Bruges est plus belle **que** Gand. | Comparisons use QUE (not DE) |
+| Elle est **aussi grand que** moi. | Elle est **aussi grande que** moi. | Adjective agrees with the subject |
+| Il y a **plus des** restaurants. | Il y a **plus de** restaurants. | PLUS DE (not plus des) |
+| C'est **moins meilleur**. | C'est **moins bon**. | MOINS + BON is correct; MOINS + MEILLEUR is wrong |
+
+---
+
 ## Culture: Belgium vs. France — Key Differences
 
 | Topic | Belgium | France |
@@ -154,6 +229,8 @@ Include:
 ### Belgian Pride
 > Belgians are very proud of their frites, chocolat, and bière!  
 > They say: "Les frites sont **meilleures** en Belgique **qu'**en France — c'est **pas** une opinion, c'est un fait !"
+
+
 
 ---
 

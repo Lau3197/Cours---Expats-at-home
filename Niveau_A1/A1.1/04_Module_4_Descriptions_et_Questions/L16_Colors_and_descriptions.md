@@ -319,6 +319,63 @@ Examples:
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Describe What You See
+
+**Look around you and say out loud (3-4 sentences):**
+
+"Je vois un(e) _________ (color + adjective). Il/Elle est _________."
+
+**Use at least 3 colors and 2 BANGS adjectives (grand, petit, beau, joli, bon, mauvais, jeune, vieux, nouveau).**
+
+### Exercise 2: Role-Play — Shopping in Brussels
+
+**Play both roles:**
+
+> **Vendeur :** Bonjour ! Je peux vous aider ?
+>
+> **You :** Oui, je cherche une veste _________ (color).
+>
+> **Vendeur :** J'ai cette belle veste _________ (color). Elle est grande ou petite ?
+>
+> **You :** Elle est trop grande. Vous avez une plus petite veste ?
+>
+> **Vendeur :** Oui, voilà ! Elle est comment ?
+>
+> **You :** Elle est parfaite ! C'est combien ?
+
+---
+
+## Writing Practice
+
+**Describe 3 people or objects in 5-6 sentences. Use:**
+- At least 3 colors
+- At least 2 BANGS adjectives (before the noun)
+- At least 2 regular adjectives (after the noun)
+- Correct masculine/feminine agreement
+
+**Example:**
+> Mon ami Tom a une grande voiture bleu foncé. Il porte un petit sac noir et des chaussures blanches. Il habite dans un bel appartement moderne. Sa vieille cuisine est jaune et verte. C'est un bon ami !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Une robe ~~verte claire~~. | Une robe **vert clair**. | Compound colors are INVARIABLE (no agreement) |
+| Un **grande** homme. | Un **grand** homme. | Masculine → no -E on the adjective |
+| Un homme **jeune grand**. | Un **grand jeune** homme. | BANGS adjectives go BEFORE the noun |
+| Des chaussures ~~bleue~~. | Des chaussures **bleues**. | Plural adjective must agree: +S |
+| C'est ~~un belle~~ maison. | C'est **une belle** maison. | Maison is feminine → UNE + BELLE |
+
+---
+
+
+
 ## Self-Evaluation
 
 - [ ] I know color vocabulary

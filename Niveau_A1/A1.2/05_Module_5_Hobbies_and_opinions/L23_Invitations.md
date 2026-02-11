@@ -72,6 +72,20 @@
 1. veux — 2. veux — 3. veut — 4. voulons — 5. voulez — 6. veulent
 </details>
 
+### Practice 1b: What Do They Want?
+
+**Write sentences about what each person wants:**
+
+1. Tom / visiter Bruges → Tom _________ visiter Bruges.
+2. Sophie / un café → Sophie _________ un café.
+3. Nous / aller au cinéma → Nous _________ aller au cinéma.
+4. Les enfants / des gaufres → Les enfants _________ des gaufres.
+5. Vous / apprendre le français (polite) → Vous _________ apprendre le français.
+
+<details><summary>Answers</summary>
+1. veut — 2. veut — 3. voulons — 4. veulent — 5. voudriez
+</details>
+
 ---
 
 ## Observation 2: POUVOIR (to be able to / can)
@@ -121,6 +135,16 @@ In Belgium, people often use **SAVOIR** where France uses **POUVOIR**:
 1. peux — 2. peux — 3. peut — 4. ne pouvons pas — 5. pouvez
 </details>
 
+### Practice 2b: Can or Can't?
+
+**Write sentences about what you CAN and CAN'T do today:**
+
+> 1. Aujourd'hui, je _________ (pouvoir) ___________.
+> 2. Ce soir, je _________ (ne pas pouvoir) ___________.
+> 3. Ce week-end, on _________ (pouvoir) ___________.
+> 4. Demain, je _________ (ne pas pouvoir) ___________.
+> 5. Samedi, nous _________ (pouvoir) ___________.
+
 ---
 
 ## Observation 3: Inviting, Accepting, and Refusing
@@ -166,6 +190,17 @@ In Belgium, people often use **SAVOIR** where France uses **POUVOIR**:
 2. Invite a friend to dinner → Refuse politely
 3. Invite a friend to visit Bruges → Accept with conditions
 
+### Practice 3b: Complete Dialogue
+
+**Write a full invitation dialogue (6 lines). Tom invites Sophie to a concert:**
+
+> **Tom :** Sophie, tu _________ aller au concert ce soir ?
+> **Sophie :** J'aimerais bien, mais ___________.
+> **Tom :** Et samedi ? Tu _________ ?
+> **Sophie :** Oui, samedi je _________ !
+> **Tom :** Super ! On _________ à quelle heure ?
+> **Sophie :** ___________.
+
 ---
 
 ## GLOBAL EXERCISE
@@ -177,6 +212,59 @@ In Belgium, people often use **SAVOIR** where France uses **POUVOIR**:
 - A suggestion for an alternative
 - Time and place details
 - At least one polite form (voudrais)
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Making Plans
+
+**Call a friend and invite them to do 3 things:**
+
+"Salut ! Tu **veux** aller au cinéma ce soir ? On **peut** regarder le nouveau film. Tu **peux** venir à 20h ?"
+
+### Exercise 2: Role-Play — Accepting and Refusing
+
+**Play both roles:**
+
+> **A :** Ça te dit d'aller boire un verre ?
+>
+> **B :** Désolé, je ne peux pas. Je dois travailler.
+>
+> **A :** Et demain soir ?
+>
+> **B :** Demain, oui ! Avec plaisir.
+>
+> **A :** Super. On se retrouve où ?
+>
+> **B :** Au café de la Gare, à 18h ?
+
+---
+
+## Writing Practice
+
+**Write an email inviting a colleague to lunch. Use:**
+- Polite forms (Je voudrais vous inviter...)
+- Time and place suggestions
+- "Est-ce que vous pouvez..."
+
+**Example:**
+> Bonjour Marc,
+> Tu veux déjeuner avec moi demain midi ? On peut aller à la brasserie "Le Central". Ils ont de bonnes salades. Est-ce que tu es libre à 12h30 ?
+> À bientôt,
+> Sophie
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je **veut** aller au cinéma. | Je **veux** aller. | JE/TU = veux, IL = veut |
+| Je **peut** venir. | Je **peux** venir. | JE/TU = peux, IL = peut |
+| Je ne **veux** aller **pas**. | Je **ne veux pas** aller. | NE...PAS surrounds the modal verb |
+| Je **veux de** manger. | Je **veux manger**. | VOULOIR + infinitive directly (no preposition) |
+| Tu **pourrais** m'aider ? (at A1) | Tu **peux** m'aider ? | At A1, use PEUX for requests (conditional comes later) |
 
 ---
 
@@ -197,6 +285,8 @@ In Belgium, people often use **SAVOIR** where France uses **POUVOIR**:
 ### Belgian Expression
 > **"On se dit quoi ?"** = We'll text each other / We'll figure it out (very common in Belgium!)
 > **"À tantôt !"** = See you later! (Belgian — in France they say "À tout à l'heure !")
+
+
 
 ---
 

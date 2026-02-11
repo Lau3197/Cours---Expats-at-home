@@ -345,6 +345,35 @@ Options: a) The weather is nice — b) to do the dishes — c) to go for a walk 
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Your Weekend Activities
+
+**Say out loud what you do on weekends:**
+
+"Le samedi, je fais du/de la... Le dimanche, je fais du/de la..."
+
+### Exercise 2: Ask and Answer
+
+> **A:** Qu'est-ce que tu fais le weekend ?
+> **B:** Je fais du sport et de la cuisine. Et toi ?
+> **A:** Moi, je fais des promenades. Il fait beau, on va au parc ?
+> **B:** D'accord, on y va !
+
+---
+
+## Writing Practice
+
+**Write about your weekly activities (8-10 sentences). Include:**
+- FAIRE + du/de la/de l'/des
+- ALLER + au/à la/à l'/aux (from Lesson 7)
+- At least 5 different activities
+- One weather comment (il fait beau/froid/chaud)
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Mistake 1: Saying "de le" instead of "du"
@@ -376,32 +405,7 @@ For activities with faire → du/de la/de l'.
 
 ---
 
-## Speaking Practice
 
-### Exercise 1: Your Weekend Activities
-
-**Say out loud what you do on weekends:**
-
-"Le samedi, je fais du/de la... Le dimanche, je fais du/de la..."
-
-### Exercise 2: Ask and Answer
-
-> **A:** Qu'est-ce que tu fais le weekend ?
-> **B:** Je fais du sport et de la cuisine. Et toi ?
-> **A:** Moi, je fais des promenades. Il fait beau, on va au parc ?
-> **B:** D'accord, on y va !
-
----
-
-## Writing Practice
-
-**Write about your weekly activities (8-10 sentences). Include:**
-- FAIRE + du/de la/de l'/des
-- ALLER + au/à la/à l'/aux (from Lesson 7)
-- At least 5 different activities
-- One weather comment (il fait beau/froid/chaud)
-
----
 
 ## Grammar Summary
 

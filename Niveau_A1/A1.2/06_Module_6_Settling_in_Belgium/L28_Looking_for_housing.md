@@ -98,6 +98,12 @@
 1. Il y a 2 chambres. — 2. Oui, il y a un ascenseur. — 3. C'est 850 euros par mois, charges comprises. — 4. Ce n'est pas précisé / On ne sait pas. — 5. C'est à Ixelles.
 </details>
 
+### Practice 1b: Describe Your Dream Apartment
+
+**Complete the description of your ideal apartment:**
+
+> Mon appartement idéal est à _________ (commune). Il a _________ chambre(s) et un _________ (room). La cuisine est _________ (équipée/non équipée). L'appartement est _________ (adjective) et _________ (adjective). C'est au _________ étage, _________ ascenseur.
+
 ---
 
 ## Observation 2: Housing Ad Vocabulary
@@ -143,10 +149,21 @@
 2. Which ad has a garden? → _________
 3. Which is the cheapest? → _________
 4. Which ad includes utilities? → _________
+5. Which ad is unfurnished? → _________
 
 <details><summary>Answers</summary>
-1. Ad C — 2. Ad B — 3. Ad C (420€) — 4. Ad A and Ad C (CC = charges comprises)
+1. Ad C — 2. Ad B — 3. Ad C (420€) — 4. Ad A and Ad C (CC = charges comprises) — 5. Ad B (not specified as meublé)
 </details>
+
+### Practice 2b: Write Your Own Ad
+
+**Write an ad for an apartment to rent. Include:**
+- Type, location, size, rooms
+- Price (CC or HC)
+- 3 descriptive adjectives
+- Floor, with/without elevator
+
+> **À LOUER** — ___________
 
 ---
 
@@ -185,6 +202,60 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Calling a Landlord
+
+**Practice making a phone call for an apartment:**
+
+"Bonjour, j'ai vu votre annonce pour l'appartement à Ixelles. Est-ce qu'il est toujours libre ? Le loyer est de combien ? Les charges sont comprises ? Quand est-ce qu'on peut visiter ?"
+
+### Exercise 2: Role-Play — Asking Questions During a Visit
+
+**Play both roles:**
+
+> **Propriétaire :** Voici le salon. Il est grand et lumineux.
+>
+> **You :** C'est joli. Le chauffage est au gaz ?
+>
+> **Propriétaire :** Oui. Et les fenêtres sont neuves.
+>
+> **You :** Et pour la garantie locative ?
+>
+> **Propriétaire :** C'est deux mois de loyer.
+>
+> **You :** D'accord. Je vais réfléchir.
+
+---
+
+## Writing Practice
+
+**Write a short email responding to a housing ad. Use:**
+- Polite greeting (Madame, Monsieur)
+- "Je suis intéressé(e) par..."
+- Ask for a visit (Je voudrais visiter...)
+- Ask about charges (charges comprises ?)
+
+**Example:**
+> Bonjour,
+> Je suis très intéressé par votre appartement à Saint-Gilles. Je cherche un logement pour le 1er septembre. Est-ce que les charges sont comprises dans le loyer ?
+> Est-ce possible de visiter samedi après-midi ?
+> Merci d'avance.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| C'est **à le** 3ème étage. | C'est **au** 3ème étage. | à + le = au (contraction) |
+| L'appartement a 2 **chambre**. | L'appartement a 2 **chambres**. | Plural = add -S |
+| C'est **un** cuisine équipée. | C'est **une** cuisine équipée. | Cuisine is feminine |
+| Le loyer est 850 euros. | Le loyer est **de** 850 euros. | ÊTRE DE + price |
+| Je cherche **un** appartement **lumineux**. ✅ | *Correct!* | Adjective agrees with noun |
+
+---
+
 ## Culture: Housing in Belgium
 
 ### Brussels Communes — Where to Live?
@@ -211,6 +282,8 @@ Every rental in Belgium must have a **PEB certificate** rating energy efficiency
 - **A** = excellent (green) → low energy bills
 - **G** = poor (red) → high energy bills
 - This helps you estimate your heating costs!
+
+
 
 ---
 

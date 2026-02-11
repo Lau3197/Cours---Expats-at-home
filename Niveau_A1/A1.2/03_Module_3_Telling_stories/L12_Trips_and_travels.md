@@ -93,6 +93,20 @@
 1. suis allé(e) (être) — 2. as mangé (avoir) — 3. est arrivée (être) — 4. avons visité (avoir) — 5. sont partis (être) — 6. avez choisi (avoir)
 </details>
 
+### Practice 1b: Tom's Bruges Trip — True or False?
+
+**Based on the dialogue, write the correct passé composé form:**
+
+1. Tom _________ (partir) samedi matin. (être)
+2. Tom _________ (arriver) vers midi. (être) → Vrai ou faux ?
+3. Laura _________ (venir) avec Tom. (être)
+4. Ils _________ (monter) au sommet du Beffroi. (être)
+5. Ils _________ (rentrer) lundi soir. (être) → Vrai ou faux ?
+
+<details><summary>Answers</summary>
+1. est parti — 2. est arrivé (FAUX: il est arrivé vers 10 heures) — 3. est venue — 4. sont montés — 5. sont rentrés (FAUX: ils sont rentrés dimanche soir)
+</details>
+
 ---
 
 ### Practice 2: Drill — Agreement
@@ -107,6 +121,20 @@
 
 <details><summary>Answers</summary>
 1. arrivé**e** — 2. allé**s** — 3. parti**es** — 4. rentré — 5. rentré**e**
+</details>
+
+### Practice 2b: Who Did What?
+
+**Write sentences using the correct agreement. The subject is given:**
+
+1. Marie / aller / à Bruges → Marie _________ à Bruges.
+2. Tom et Paul / arriver / en retard → Tom et Paul _________ en retard.
+3. Les filles / sortir / le soir → Les filles _________ le soir.
+4. Vous (élèves féminines) / rester / à l'hôtel → Vous _________ à l'hôtel.
+5. Je (femme) / tomber / dans la rue → Je _________ dans la rue.
+
+<details><summary>Answers</summary>
+1. Marie **est allée** — 2. Tom et Paul **sont arrivés** — 3. Les filles **sont sorties** — 4. Vous **êtes restées** — 5. Je **suis tombée**
 </details>
 
 ---
@@ -139,7 +167,21 @@
 
 ---
 
-### Practice 3: My Belgian Trip
+### Practice 3: Drill — Describe the Journey
+
+**Complete with the correct passé composé (AVOIR or ÊTRE + agreement):**
+
+1. Nous _________ (partir) de Bruxelles à 9h.
+2. Nous _________ (prendre) le train à la Gare du Midi.
+3. Nous _________ (arriver) à Bruges à 10h.
+4. On _________ (visiter) le centre-ville.
+5. On _________ (monter) au Beffroi.
+
+<details><summary>Answers</summary>
+1. sommes parti(e)s — 2. avons pris — 3. sommes arrivé(e)s — 4. a visité — 5. est monté(e)s
+</details>
+
+### Practice 3b: My Belgian Trip
 
 **Write a short text about an imaginary trip to a Belgian city. Use at least 5 verbs with ÊTRE in the passé composé.**
 
@@ -160,6 +202,58 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: My Last Trip
+
+**Say 5 sentences about your last trip using ÊTRE verbs:**
+
+"Je **suis allé(e)** à _________. Je **suis parti(e)** avec _________. Nous **sommes arrivés** vers... Je **suis resté(e)** _________ jours. Je **suis rentré(e)**..."
+
+### Exercise 2: Role-Play — Police Control!
+
+**Play both roles:**
+
+> **Policier :** Bonjour. Vous êtes arrivé quand en Belgique ?
+>
+> **You :** Je suis arrivé(e) hier soir.
+>
+> **Policier :** Vous êtes venu comment ?
+>
+> **You :** Je suis venu(e) en train.
+>
+> **Policier :** Et vous êtes resté combien de temps en France ?
+>
+> **You :** Je suis resté(e) deux jours.
+
+---
+
+## Writing Practice
+
+**Write a postcard from your holiday. Use:**
+- Passé composé with ÊTRE (aller, venir, arriver, partir, rester, entrer, sortir...)
+- Agreement of the past participle (e.g., Je suis allée if female)
+- City/Country names
+
+**Example:**
+> Chère maman,
+> Je suis bien arrivée en Italie ! Je suis partie de Bruxelles hier matin. Le train est arrivé à Rome à 14h. Je suis allée à l'hôtel et je suis sortie pour visiter le Colisée. C'est magnifique ! Je suis restée au restaurant jusqu'à minuit.
+> Bisous !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| J'**ai allé** à Bruges. | Je **suis allé(e)** à Bruges. | ALLER uses ÊTRE, not AVOIR |
+| Elle **est arrivé** à 10h. | Elle **est arrivée** à 10h. | With ÊTRE, the participle agrees: feminine → -ée |
+| Ils **sont parti**. | Ils **sont partis**. | Masculine plural → add -S |
+| Je suis **resté** deux jours. (woman) | Je suis **restée** deux jours. | Agreement with the subject |
+| J'**ai tombé**. | Je **suis tombé(e)**. | TOMBER uses ÊTRE |
+
+---
+
 ## Culture: Traveling in Belgium
 
 ### The Belgian Railway (SNCB/NMBS)
@@ -171,6 +265,8 @@
 
 ### Belgian Fact
 > Belgium is so small you can cross the entire country by train in about 3 hours!
+
+
 
 ---
 

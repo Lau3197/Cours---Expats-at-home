@@ -263,6 +263,60 @@ Write 4 "il y a" and 2 "il n'y a pas de":
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: Describe Your Neighborhood
+
+**Say out loud:**
+
+"Dans mon quartier, il y a _________ (3 places). Il n'y a pas de _________ (2 places). J'aime mon quartier parce que _________."
+
+**Use at least 2 prepositions of place (à côté de, en face de, entre, près de, loin de).**
+
+### Exercise 2: Role-Play — New in Belgium!
+
+**Play both roles:**
+
+> **You :** Excusez-moi, est-ce qu'il y a une boulangerie près d'ici ?
+>
+> **Sophie :** Oui, il y a une boulangerie à côté du supermarché Delhaize.
+>
+> **You :** Et une pharmacie ?
+>
+> **Sophie :** La pharmacie est en face de la banque, entre le café et la poste.
+>
+> **You :** Merci beaucoup !
+
+---
+
+## Writing Practice
+
+**Describe your ideal neighborhood in 5-6 sentences. Use:**
+- "Il y a" and "il n'y a pas de"
+- At least 3 prepositions of place
+- "Parce que" to explain why you like it
+
+**Example:**
+> Dans mon quartier idéal, il y a un parc et une boulangerie. Le parc est à côté de ma maison. Il y a aussi un supermarché Delhaize en face de la pharmacie. Il n'y a pas de bruit parce que c'est calme. J'aime ce quartier parce qu'il y a un bon restaurant près de chez moi.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Il y a ~~pas de~~ boulangerie. | Il **n'**y a **pas de** boulangerie. | Don't forget NE before the verb |
+| Il y a un pharmacie. | Il y a **une** pharmacie. | Pharmacie is feminine → UNE |
+| La banque est ~~à côté~~ le parc. | La banque est à côté **du** parc. | à côté DE + le = à côté **du** |
+| **Parce que** il pleut. | **Parce qu'**il pleut. | Parce que + vowel → parce qu' (elision) |
+| Le café est ~~en face de~~ la gare. | Le café est en face de la gare. ✅ | No contraction with LA — but: en face **du** musée (de + le) |
+
+---
+
+
+
 ## Self-Evaluation
 
 - [ ] I can use "il y a" (there is/are)

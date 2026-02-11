@@ -147,11 +147,37 @@ All answers are **de** ! (de pommes, d'eau, de fromage, d'œufs, de beurre, de s
 2. 7,70€ → ___________
 3. 12,90€ → ___________
 4. 0,50€ → ___________
+5. 15,80€ → ___________
 
 <details>
 <summary>Answers</summary>
 
-1. trois euros cinquante — 2. sept euros septante — 3. douze euros nonante — 4. cinquante centimes
+1. trois euros cinquante — 2. sept euros septante — 3. douze euros nonante — 4. cinquante centimes — 5. quinze euros quatre-vingts
+
+</details>
+
+### Practice 2b: At the Market — Role Play
+
+**You're at the Marché du Midi. Complete the dialogue with the vendor:**
+
+> **Vendeur :** Bonjour ! Qu'est-ce que vous désirez ?
+>
+> **Vous :** Bonjour ! Je voudrais _________ (2 kilos) pommes de terre et _________ (a bottle) huile d'olive.
+>
+> **Vendeur :** Voilà ! Autre chose ?
+>
+> **Vous :** Oui, _________ (a piece) fromage et _________ (a little) persil.
+>
+> **Vendeur :** Ça fait neuf euros cinquante.
+>
+> **Vous :** Voilà _________ (10€). 
+>
+> **Vendeur :** Et voilà _________ de monnaie. Bonne journée !
+
+<details>
+<summary>Answers</summary>
+
+"deux kilos de" — "une bouteille d'" — "un morceau de" — "un peu de" — "dix euros" — "cinquante centimes"
 
 </details>
 
@@ -160,6 +186,57 @@ All answers are **de** ! (de pommes, d'eau, de fromage, d'œufs, de beurre, de s
 ## GLOBAL EXERCISE
 
 **Write a complete market dialogue. You want to buy: 2 kilos of apples, a bottle of olive oil, a piece of cheese, and some strawberries. Ask the price and pay.**
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Market Shopping List
+
+**Say out loud what you are buying at the market:**
+
+"Je vais au marché. Je prends un kilo de _________, une barquette de _________ et beaucoup de _________. Je ne prends pas de _________."
+
+**Use precise quantities (kilo, barquette, panier, douzaine).**
+
+### Exercise 2: Role-Play — Bargaining (a little!)
+
+**Play both roles:**
+
+> **Vendeur :** Ils sont beaux, mes melons ! 3 euros la pièce.
+>
+> **You :** C'est un peu cher. Vous faites un prix pour deux ?
+>
+> **Vendeur :** Allez, 5 euros pour deux.
+>
+> **You :** D'accord, je prends deux melons. Et donnez-moi un peu de persil aussi.
+>
+> **Vendeur :** Voilà, c'est cadeau !
+
+---
+
+## Writing Practice
+
+**Write a short paragraph about your Sunday market routine. Use:**
+- "Je vais au marché..."
+- Quantities (un peu de, beaucoup de, un kilo de)
+- Price questions (Combien ça coûte ?)
+- Food vocabulary
+
+**Example:**
+> Le dimanche, je vais au marché du Midi. J'achète beaucoup de fruits : un kilo de pommes, des bananes et une barquette de fraises. J'achète aussi un peu de fromage. Les olives coûtent 2 euros le ravier. J'adore l'ambiance !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Un kilo **des** tomates. | Un kilo **de** tomates. | After a quantity expression → always DE |
+| Beaucoup **du** fromage. | Beaucoup **de** fromage. | Vague quantities (beaucoup, trop, un peu) → DE |
+| Ça fait sept euros **soixante-dix**. | Ça fait sept euros **septante**. | In Belgium: 70 = septante, 90 = nonante |
+| Une bouteille **de le** vin. | Une bouteille **de** vin. | After quantity expressions, no article at all |
+| Combien ça coûte **les** tomates ? | Combien **coûtent les** tomates ? | The verb agrees with the subject |
 
 ---
 
@@ -180,6 +257,8 @@ All answers are **de** ! (de pommes, d'eau, de fromage, d'œufs, de beurre, de s
 | Marché bio de Flagey | Place Flagey | Samedi matin |
 | Marché aux puces des Marolles | Place du Jeu de Balle | Weekend |
 | Marché de Noël | Grand-Place | Décembre |
+
+
 
 ---
 

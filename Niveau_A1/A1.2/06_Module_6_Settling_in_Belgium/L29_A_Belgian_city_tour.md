@@ -57,6 +57,20 @@
 
 > La Grand-Place est magnifique. J'ai visité l'Atomium. Je vais goûter les gaufres...
 
+### Exercise 1b: Brussels Dialogue
+
+**Complete this tourist dialogue about Brussels:**
+
+> 1. La Grand-Place est classée au patrimoine mondial de ___________.
+> 2. Le Manneken-Pis a plus de _________ costumes.
+> 3. Les gaufres de Bruxelles sont _________ (adjective).
+> 4. On peut manger des _________ au Sablon.
+> 5. L'Atomium date de _________ (year).
+
+<details><summary>Answers</summary>
+1. l'UNESCO — 2. 1000 — 3. légères / délicieuses — 4. chocolats — 5. 1958
+</details>
+
 ---
 
 ## Part 2: Bruges — The Venice of the North
@@ -125,6 +139,16 @@
 - Passé composé for what you did/saw (real or imaginary)
 - Futur proche for what you want to do
 
+### Exercise 2b: Compare Two Cities
+
+**Compare two Belgian cities using comparatives:**
+
+> 1. _________ est plus grand(e) que _________.
+> 2. _________ est plus touristique que _________.
+> 3. La cuisine de _________ est meilleure que la cuisine de _________.
+> 4. Il y a plus de _________ à _________ qu'à _________.
+> 5. _________ est aussi intéressant(e) que _________.
+
 ---
 
 ## Part 4: Belgian Identity
@@ -177,6 +201,16 @@
 1. Vrai (unofficial title — seat of EU institutions) — 2. Faux (3: French, Dutch, German) — 3. Vrai (by Adolphe Sax, from Dinant) — 4. Vrai (by Hergé) — 5. Vrai (1,500+!) — 6. Faux (it's in Brussels)
 </details>
 
+### Exercise 3b: Create Your Own Quiz
+
+**Write 5 True/False questions about Belgium for a classmate:**
+
+> 1. ___________. Vrai ou faux ?
+> 2. ___________. Vrai ou faux ?
+> 3. ___________. Vrai ou faux ?
+> 4. ___________. Vrai ou faux ?
+> 5. ___________. Vrai ou faux ?
+
 ---
 
 ## GLOBAL EXERCISE
@@ -190,6 +224,57 @@
 5. **Your opinion**: What you like best about Belgium
 
 Use: present, passé composé, futur proche, comparisons, opinions
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Be a Tour Guide!
+
+**Present a Belgian city to a friend:**
+
+"Bienvenue à Bruxelles ! C'est une ville magnifique. Il faut voir la Grand-Place. On peut manger des gaufres délicieuses. Les gens sont très sympas !"
+
+### Exercise 2: Role-Play — Asking for Recommendations
+
+**Play both roles:**
+
+> **Tourist :** Qu'est-ce qu'on peut visiter en Belgique ?
+>
+> **You :** Je recommande Bruges. C'est très romantique.
+>
+> **Tourist :** Et pour manger ?
+>
+> **You :** Il faut goûter les moules-frites et le chocolat.
+>
+> **Tourist :** Et la bière ?
+>
+> **You :** Bien sûr ! Il y a plus de 1500 bières belges !
+
+---
+
+## Writing Practice
+
+**Write a mini-guide (5-6 lines) about your favorite place in Belgium. Include:**
+- Name of the place/city
+- What to see/visit
+- What to eat
+- Why you like it
+
+**Example:**
+> Mon endroit préféré est Gand. C'est une ville historique avec beaucoup d'eau. On peut visiter le château des Comtes. J'aime manger des cuberdons (bonbons violets). C'est une ville très vivante et moins touristique que Bruges.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je suis allé **à** Bruges hier. (woman) | Je suis allé**e** à Bruges. | With ÊTRE, participle agrees with subject |
+| C'est **le plus beau** ville. | C'est **la plus belle** ville. | Superlative agrees: feminine = la plus belle |
+| J'**ai visité** Bruges et j'**ai allé**... | J'ai visité Bruges et je **suis allé(e)**... | ALLER uses ÊTRE, not AVOIR |
+| Bruxelles est **plus bon** que Paris. | Bruxelles est **meilleur** que Paris. | BON → MEILLEUR |
+| La Belgique a **3** régions **et** 3 communautés. ✅ | *Correct!* | Belgium has both regions AND communities |
 
 ---
 
@@ -211,6 +296,8 @@ Use: present, passé composé, futur proche, comparisons, opinions
 > - The weather ("Il pleut toujours en Belgique !")
 > - The political complexity ("We have 6 governments!")
 > - The rivalry with France ("Nos frites sont meilleures !")
+
+
 
 ---
 

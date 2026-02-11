@@ -427,35 +427,6 @@ Options: a) "Ça va bien, et toi ?" — b) "Très bien, merci. Et vous ?" — c)
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: Using "un/une" before a profession
-
-| Wrong | Correct |
-|:------|:--------|
-| Je suis **une** professeure. | Je suis professeure. |
-| Il est **un** médecin. | Il est médecin. |
-
-After "je suis / il est / elle est" + profession → **NO article!**
-
-### Mistake 2: Forgetting the feminine form
-
-| Wrong | Correct |
-|:------|:--------|
-| Marie est professeur. | Marie est professeur**e**. |
-| Anna est avocat. | Anna est avocat**e**. |
-
-Use the feminine form for women!
-
-### Mistake 3: Confusing ÊTRE and AVOIR
-
-| Wrong | Correct |
-|:------|:--------|
-| J'**ai** médecin. | Je **suis** médecin. (profession = ÊTRE) |
-| Je **suis** 30 ans. | J'**ai** 30 ans. (age = AVOIR) |
-
----
-
 ## Speaking Practice
 
 ### Exercise 1: Professional Introduction
@@ -486,6 +457,37 @@ Use the feminine form for women!
 
 **Example:**
 > Je suis Carlos. Je suis brésilien et je suis médecin. J'ai quarante et un ans. J'ai un cabinet à Uccle. J'habite à Bruxelles. Ça va bien !
+
+---
+
+## Common Mistakes to Avoid
+
+### Mistake 1: Using "un/une" before a profession
+
+| Wrong | Correct |
+|:------|:--------|
+| Je suis **une** professeure. | Je suis professeure. |
+| Il est **un** médecin. | Il est médecin. |
+
+After "je suis / il est / elle est" + profession → **NO article!**
+
+### Mistake 2: Forgetting the feminine form
+
+| Wrong | Correct |
+|:------|:--------|
+| Marie est professeur. | Marie est professeur**e**. |
+| Anna est avocat. | Anna est avocat**e**. |
+
+Use the feminine form for women!
+
+### Mistake 3: Confusing ÊTRE and AVOIR
+
+| Wrong | Correct |
+|:------|:--------|
+| J'**ai** médecin. | Je **suis** médecin. (profession = ÊTRE) |
+| Je **suis** 30 ans. | J'**ai** 30 ans. (age = AVOIR) |
+
+
 
 ---
 

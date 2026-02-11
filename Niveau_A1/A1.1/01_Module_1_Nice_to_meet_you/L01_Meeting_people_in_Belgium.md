@@ -541,32 +541,6 @@ Belgians use "vous" MORE than the French. Even in casual settings, many Belgians
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: Forgetting "Bonjour"
-
-| Wrong | Correct |
-|:------|:--------|
-| "Où est la gare ?" | "**Bonjour**, où est la gare ?" |
-
-In Belgium, ALWAYS start with "Bonjour"!
-
-### Mistake 2: Using "tu" too quickly
-
-| Wrong | Correct |
-|:------|:--------|
-| "Tu es le docteur ?" (to a doctor you just met) | "**Vous êtes** le docteur ?" |
-
-In Belgium, use VOUS with anyone you don't know well.
-
-### Mistake 3: Forgetting elision
-
-| Wrong | Correct |
-|:------|:--------|
-| "Je habite à Bruxelles" | "**J'habite** à Bruxelles" |
-| "Je ai un chat" | "**J'ai** un chat" |
-
-When "je" comes before a vowel (a, e, i, o, u), it becomes **j'**.
 
 ---
 
@@ -606,6 +580,37 @@ When "je" comes before a vowel (a, e, i, o, u), it becomes **j'**.
 
 **Example:**
 > Bonjour ! Je suis Tom. Je suis américain et je suis ingénieur. J'habite à Bruxelles. Enchanté !
+
+---
+
+## Common Mistakes to Avoid
+
+### Mistake 1: Forgetting "Bonjour"
+
+| Wrong | Correct |
+|:------|:--------|
+| "Où est la gare ?" | "**Bonjour**, où est la gare ?" |
+
+In Belgium, ALWAYS start with "Bonjour"!
+
+### Mistake 2: Using "tu" too quickly
+
+| Wrong | Correct |
+|:------|:--------|
+| "Tu es le docteur ?" (to a doctor you just met) | "**Vous êtes** le docteur ?" |
+
+In Belgium, use VOUS with anyone you don't know well.
+
+### Mistake 3: Forgetting elision
+
+| Wrong | Correct |
+|:------|:--------|
+| "Je habite à Bruxelles" | "**J'habite** à Bruxelles" |
+| "Je ai un chat" | "**J'ai** un chat" |
+
+When "je" comes before a vowel (a, e, i, o, u), it becomes **j'**.
+
+
 
 ---
 

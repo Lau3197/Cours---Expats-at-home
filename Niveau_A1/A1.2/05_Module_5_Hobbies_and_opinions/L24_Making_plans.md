@@ -72,6 +72,20 @@ Another set phrase — the **imparfait** of ALLER, used for suggestions:
 1. On pourrait aller au cinéma. — 2. Si on allait manger au restaurant ? — 3. Ça te dit de visiter Bruges ? — 4. On peut prendre le train. — 5. Pourquoi pas faire du vélo ?
 </details>
 
+### Practice 1b: Suggest Belgian Activities
+
+**Make suggestions for each situation, using a DIFFERENT structure each time:**
+
+1. It's sunny → ___________ (Si on allait...)
+2. It's raining → ___________ (On pourrait...)
+3. You're hungry → ___________ (Ça te dit de...)
+4. It's Saturday → ___________ (Pourquoi pas...)
+5. A friend is bored → ___________ (On peut...)
+
+<details><summary>Possible answers</summary>
+1. Si on allait à la Côte belge ? — 2. On pourrait aller au musée. — 3. Ça te dit de manger des moules-frites ? — 4. Pourquoi pas visiter Bruges ? — 5. On peut aller au cinéma.
+</details>
+
 ---
 
 ## Observation 2: Organizing the Outing
@@ -122,6 +136,16 @@ Another set phrase — the **imparfait** of ALLER, used for suggestions:
 Tu es libre samedi ? — On part à quelle heure ? — On pourrait prendre le train de 9 heures. — On se retrouve où ? — On se retrouve à la gare à 8h30 ? — C'est d'accord ! / On fait comme ça !
 </details>
 
+### Practice 2b: Plan Your Own Outing
+
+**Complete these planning sentences for a trip to Liège:**
+
+> 1. On se retrouve où ? → On se retrouve ___________.
+> 2. On part à quelle heure ? → On part ___________.
+> 3. On y va comment ? → On ___________.
+> 4. Qu'est-ce qu'on fait d'abord ? → D'abord, on ___________.
+> 5. On rentre quand ? → On rentre ___________.
+
 ---
 
 ## Observation 3: Connectors for Sequencing
@@ -167,6 +191,61 @@ Tu es libre samedi ? — On part à quelle heure ? — On pourrait prendre le tr
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Let's Organize a Trip!
+
+**Suggest a plan for a day trip to Bruges. Use:**
+- "On pourrait..." (We could...)
+- "Si on allait..." (What if we went...)
+- "D'abord..., ensuite..."
+
+**Example:** "On pourrait aller à Bruges samedi. On va prendre le train. D'abord, on visite le centre. Ensuite, on mange des gaufres. Ça te dit ?"
+
+### Exercise 2: Role-Play — Finalizing Details
+
+**Play both roles:**
+
+> **A :** Bon, pour samedi, c'est confirmé ?
+>
+> **B :** Oui ! On se dit quoi pour l'heure ?
+>
+> **A :** On se retrouve à la gare à 9h.
+>
+> **B :** C'est un peu tôt. Disons 9h30 ?
+>
+> **A :** Ça marche. Je prends les billets.
+>
+> **B :** Merci ! À samedi.
+
+---
+
+## Writing Practice
+
+**Write a text message in a group chat to organize a cinema night. Use:**
+- Suggestions
+- Asking for confirmation
+- "Qui vient ?"
+- Belgian expressions ("À tantôt", "Ça marche")
+
+**Example:**
+> Salut tout le monde !
+> Ça vous dit un ciné ce soir ? Il y a le nouveau film James Bond. On pourrait aller à l'UGC à 20h. Qui vient ? On se retrouve devant le cinéma vers 19h45 ? Dites-moi quoi !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| On **peut** aller ? (suggestion) | On **pourrait** aller ? | POURRAIT is softer and more polite for suggestions |
+| Si on **va** à Bruges ? | Si on **allait** à Bruges ? | "Si on allait" is a set phrase (imparfait) |
+| On **retrouve** à la gare. | On **se retrouve** à la gare. | SE RETROUVER is reflexive |
+| **Après** visiter la cathédrale... | **Après avoir visité** la cathédrale... (or: Ensuite, on visite...) | After + verb needs infinitif passé |
+| Ça **tu dis** de venir ? | Ça **te dit** de venir ? | Fixed expression: Ça TE DIT DE |
+
+---
+
 ## Culture: Planning in Belgium
 
 ### Belgian Social Norms for Plans
@@ -181,6 +260,8 @@ Tu es libre samedi ? — On part à quelle heure ? — On pourrait prendre le tr
 2. Check the weather (always carry a parapluie!)
 3. Reserve restaurants on weekends (especially in Bruges!)
 4. Buy a **Go Pass** or **Rail Pass** for cheaper train travel
+
+
 
 ---
 

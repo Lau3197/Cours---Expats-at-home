@@ -69,6 +69,16 @@
 1. finis — 2. choisis — 3. réfléchit — 4. finissons — 5. choisissez — 6. grandissent
 </details>
 
+### Practice 1b: The Family at Home
+
+**Complete with the correct form of the -IR verb:**
+
+> Samedi matin, Papa _________ (finir) de ranger le garage. Maman _________ (choisir) les plantes pour le jardin. Les enfants _________ (obéir) et _________ (remplir) les sacs de recyclage. Nous _________ (réussir) à tout finir avant midi !
+
+<details><summary>Answers</summary>
+finit — choisit — obéissent — remplissent — réussissons
+</details>
+
 ---
 
 ## Observation 2: Household Chores Vocabulary
@@ -88,10 +98,95 @@
 
 ---
 
-### Practice 2: Divide the Chores
+### Practice 2: Drill — Match the Chore
 
-**You and your roommate divide chores. Write 5 sentences:**
-> Moi, je finis la vaisselle. Tu fais la lessive. On range le salon ensemble...
+**Match each situation to the chore:**
+
+1. Les assiettes sont sales. → Il faut _________. (faire la vaisselle)
+2. Le salon est en désordre. → Il faut _________. (ranger)
+3. Les vêtements sont sales. → Il faut _________. (faire la lessive)
+4. Le sol est sale. → Il faut _________. (passer l'aspirateur)
+5. La poubelle est pleine. → Il faut _________. (sortir les poubelles)
+
+<details><summary>Answers</summary>
+1. faire la vaisselle — 2. ranger (le salon) — 3. faire la lessive — 4. passer l'aspirateur — 5. sortir les poubelles
+</details>
+
+### Practice 2b: Divide the Chores
+
+**You and your roommate divide chores. Write 5 sentences using -IR verbs and chore vocabulary:**
+
+> Exemple: Moi, je **finis** la vaisselle. Tu **choisis** : la lessive ou l'aspirateur ?
+
+> 1. _________
+> 2. _________
+> 3. _________
+> 4. _________
+> 5. _________
+
+---
+
+## GLOBAL EXERCISE
+
+**Describe a typical cleaning day at your home. Use at least 3 -IR verbs and 5 chore vocabulary words:**
+
+> Le samedi, c'est le jour du ménage ! D'abord, je _________ (finir)... Ensuite, on _________ (choisir)...
+
+---
+
+## Speaking Practice
+
+### Exercise 1: The Chore Wheel
+
+**Say who does what in the house (imaginary or real):**
+
+"Moi, je **fais** la vaisselle. Mon mari/ma femme **fait** la lessive. Les enfants **font** leur lit. Nous **finissons** le ménage le samedi."
+
+**Use at least 2 -IR verbs (finir, choisir) and FARE options.**
+
+### Exercise 2: Role-Play — Complaining About Chores!
+
+**Play both roles:**
+
+> **Parent :** Tu finis tes devoirs ?
+>
+> **Child :** Oui, je finis dans 5 minutes.
+>
+> **Parent :** Et ta chambre ? Enlève tes vêtements !
+>
+> **Child :** Oh là là... Je choisis la musique d'abord.
+>
+> **Parent :** Non ! Tu fais ton lit maintenant !
+
+---
+
+## Writing Practice
+
+**Write an email to a cleaning service describing what needs to be done. Use:**
+- "Il faut..."
+- Chore vocabulary (passer l'aspirateur, nettoyer, faire la lessive)
+- -IR verbs (finir, salir, choisir)
+
+**Example:**
+> Bonjour,
+> Pour le ménage, voici la liste :
+> - Nettoyer la cuisine et la salle de bains.
+> - Passer l'aspirateur dans le salon.
+> - Faire la lessive (les draps).
+> On finit généralement vers 12h. Vous choisissez les produits.
+> Merci !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Nous **finons** le travail. | Nous **finissons** le travail. | -IR verbs: nous/vous/ils → -ISS- pattern |
+| Ils **finisent** tôt. | Ils **finissent** tôt. | -ISS- not -IS- in the plural forms |
+| Je **réfléchis** à le problème. | Je réfléchis **au** problème. | à + le = au (contraction) |
+| Il **obit** à sa mère. | Il **obéit** à sa mère. | Obéir keeps the é in all forms |
+| On **choisit** entre **le** lessive et l'aspirateur. | On choisit entre **la** lessive et l'aspirateur. | La lessive is feminine |
 
 ---
 
@@ -107,6 +202,8 @@ Belgium has very strict recycling rules!
 | **Organic** | Food waste (in some communes) |
 
 **Parcs à conteneurs** (recycling centers) accept larger items. Breaking recycling rules can result in fines!
+
+
 
 ---
 

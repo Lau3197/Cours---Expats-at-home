@@ -83,6 +83,21 @@
 
 </details>
 
+### Practice 1b: Sophie's Fridge
+
+**Look at what's in Sophie's fridge and describe it using partitive articles:**
+
+🧈 butter — 🥛 milk — 🍓 jam — 🧀 cheese — ❌ no meat — ❌ no fish
+
+> "Dans le frigo de Sophie, il y a _________, _________, _________ et _________. Il n'y a pas _________ et il n'y a pas _________." 
+
+<details>
+<summary>Answers</summary>
+
+"Dans le frigo de Sophie, il y a **du** beurre, **du** lait, **de la** confiture et **du** fromage. Il n'y a pas **de** viande et il n'y a pas **de** poisson."
+
+</details>
+
 ---
 
 ## Observation 2: "PAS DE" in Negation
@@ -105,6 +120,7 @@
 2. On a de la confiture. → ___________
 3. Il y a des tomates. → ___________
 4. Elle boit de l'eau. → ___________
+5. Nous mangeons du poisson. → ___________
 
 <details>
 <summary>Answers</summary>
@@ -113,20 +129,32 @@
 2. On **n'a pas de** confiture.
 3. Il **n'y a pas de** tomates.
 4. Elle **ne boit pas d'**eau.
+5. Nous **ne mangeons pas de** poisson.
 
 </details>
 
----
+### Practice 2b: Tom's Empty Fridge
 
-## GLOBAL EXERCISE
+**Tom just moved into his new apartment in Brussels. His fridge is empty! Write 5 sentences about what he DOESN'T have, using "pas de":**
 
-**Write Sophie's shopping list. Then say what she DOESN'T need:**
+Exemple: Tom n'a pas **de** lait.
 
-Things she needs: bread, butter, milk, eggs, cheese, chocolate
-Things she doesn't need: meat, fish, wine
+1. (butter) → ___________
+2. (eggs) → ___________
+3. (cheese) → ___________
+4. (water) → ___________
+5. (fruit) → ___________
 
-> Sophie a besoin **de/du/de la/des**: ___________
-> Sophie n'a pas besoin **de**: ___________
+<details>
+<summary>Answers</summary>
+
+1. Tom n'a pas **de** beurre.
+2. Tom n'a pas **d'**œufs.
+3. Tom n'a pas **de** fromage.
+4. Tom n'a pas **d'**eau.
+5. Tom n'a pas **de** fruits.
+
+</details>
 
 ---
 
@@ -155,6 +183,102 @@ Things she doesn't need: meat, fish, wine
 
 ---
 
+### Practice 3: Drill — What's the Partitive?
+
+**Give the correct partitive article for each food item:**
+
+1. _________ poulet (chicken)
+2. _________ bière (beer)
+3. _________ pâtes (pasta)
+4. _________ riz (rice)
+5. _________ eau (water)
+
+<details>
+<summary>Answers</summary>
+
+1. **du** poulet — 2. **de la** bière — 3. **des** pâtes — 4. **du** riz — 5. **de l'**eau
+
+</details>
+
+### Practice 3b: Your Weekly Shopping List
+
+**Write your own shopping list for the week! Use partitive articles for at least 8 items. Then write 3 things you DON'T buy:**
+
+> 🛒 Ma liste de courses :
+> - Je prends _________ (item 1)
+> - Je prends _________ (item 2)
+> - ...
+>
+> ❌ Je ne prends pas _________ (item 1)
+> - ...
+
+---
+
+## GLOBAL EXERCISE
+
+**Write Sophie's shopping list. Then say what she DOESN'T need:**
+
+Things she needs: bread, butter, milk, eggs, cheese, chocolate
+Things she doesn't need: meat, fish, wine
+
+> Sophie a besoin **de/du/de la/des**: ___________
+> Sophie n'a pas besoin **de**: ___________
+
+---
+
+## Speaking Practice
+
+### Exercise 1: What do we need?
+
+**Look at your fridge (real or imaginary) and say what you have and don't have:**
+
+"J'ai _________ (du lait, des œufs...). Mais je n'ai pas de _________. Il me faut _________."
+
+**Use at least 3 partitive articles (du, de la, des) and one negative (pas de).**
+
+### Exercise 2: Role-Play — At the Cheese Counter
+
+**Play both roles:**
+
+> **Vendeur :** Bonjour, qu'est-ce qu'il vous faut ?
+>
+> **You :** Bonjour, je voudrais du fromage pour une raclette.
+>
+> **Vendeur :** Bien sûr. Vous voulez combien ?
+>
+> **You :** Donnez-moi 300 grammes, s'il vous plaît.
+>
+> **Vendeur :** Et avec ça ?
+>
+> **You :** C'est tout, merci.
+
+---
+
+## Writing Practice
+
+**Write a message to your roommate about shopping. "On a..." vs "Il manque...". Use:**
+- Partitive articles
+- "Il n'y a pas de..."
+- "Il faut acheter..."
+- A logical list of 5 items
+
+**Example:**
+> Salut ! On a du pain et du beurre, mais il n'y a pas de confiture. Il faut acheter du lait, des œufs et du café. Je prends aussi de la viande pour ce soir. À plus !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je mange **de le** pain. | Je mange **du** pain. | du = de + le (contraction) |
+| Je bois **de la** eau. | Je bois **de l'**eau. | Before a vowel → de l' |
+| Je n'ai pas **du** lait. | Je n'ai pas **de** lait. | After NE...PAS → always DE |
+| J'aime **du** chocolat. | J'aime **le** chocolat. | Preferences use LE/LA/LES, not partitives |
+| On mange **de** pâtes. | On mange **des** pâtes. | Plural → des (not just "de") |
+
+---
+
 ## Culture: Shopping in Belgium
 
 ### Belgian Supermarkets
@@ -172,6 +296,8 @@ Things she doesn't need: meat, fish, wine
 | C'est combien ? | How much is it? |
 | Où est le rayon... ? | Where is the... section? |
 | Vous avez un sac ? | Do you have a bag? |
+
+
 
 ---
 

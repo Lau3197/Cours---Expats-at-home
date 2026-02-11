@@ -367,34 +367,6 @@ Example:
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: Using LE before a vowel
-
-| Wrong | Correct |
-|:------|:--------|
-| **le** homme | **l'**homme |
-| **la** eau | **l'**eau |
-
-Before a vowel → **l'** (elision!)
-
-### Mistake 2: Confusing UN and LE
-
-| Wrong | Correct |
-|:------|:--------|
-| J'aime **un** chocolat. (I love chocolate in general) | J'aime **le** chocolat. |
-| **Le** café, s'il vous plaît. (ordering any coffee) | **Un** café, s'il vous plaît. |
-
-For general likes → LE/LA/LES. For ordering one item → UN/UNE.
-
-### Mistake 3: Forgetting that LE/LA/LES show gender
-
-| Wrong | Correct |
-|:------|:--------|
-| **le** boulangerie | **la** boulangerie (feminine!) |
-
-LE = masculine, LA = feminine — just like UN = masculine, UNE = feminine.
-
 ---
 
 ## Speaking Practice
@@ -425,6 +397,38 @@ LE = masculine, LA = feminine — just like UN = masculine, UNE = feminine.
 - At least one Belgian-specific place (friterie, night shop, Delhaize...)
 
 ---
+
+## Common Mistakes to Avoid
+
+### Mistake 1: Using LE before a vowel
+
+| Wrong | Correct |
+|:------|:--------|
+| **le** homme | **l'**homme |
+| **la** eau | **l'**eau |
+
+Before a vowel → **l'** (elision!)
+
+### Mistake 2: Confusing UN and LE
+
+| Wrong | Correct |
+|:------|:--------|
+| J'aime **un** chocolat. (I love chocolate in general) | J'aime **le** chocolat. |
+| **Le** café, s'il vous plaît. (ordering any coffee) | **Un** café, s'il vous plaît. |
+
+For general likes → LE/LA/LES. For ordering one item → UN/UNE.
+
+### Mistake 3: Forgetting that LE/LA/LES show gender
+
+| Wrong | Correct |
+|:------|:--------|
+| **le** boulangerie | **la** boulangerie (feminine!) |
+
+LE = masculine, LA = feminine — just like UN = masculine, UNE = feminine.
+
+---
+
+
 
 ## Grammar Summary
 

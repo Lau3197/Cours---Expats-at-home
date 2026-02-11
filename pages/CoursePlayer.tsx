@@ -1516,8 +1516,16 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                       <div className="flex items-center gap-4 mb-8">
                         <div className="h-px flex-1 bg-[#dd8b8b]/20"></div>
                         <div className="flex flex-col items-center gap-2">
-                          <h3 className="text-2xl font-black text-[#5A6B70] serif-display italic px-6 py-2 border-2 border-[#dd8b8b]/10 rounded-full bg-white shadow-sm flex items-center gap-3">
-                            {section.title}
+                          <h3 className="text-2xl font-black serif-display italic px-6 py-2 border-2 border-[#dd8b8b]/10 rounded-full bg-white shadow-sm flex items-center gap-3">
+                            {section.title.includes(' - ') ? (
+                              <>
+                                <span className="text-[#5A6B70]">{section.title.split(' - ')[0]}</span>
+                                <span className="text-[#5A6B70]/40"> - </span>
+                                <span className="text-[#dd8b8b]">{section.title.split(' - ').slice(1).join(' - ')}</span>
+                              </>
+                            ) : (
+                              <span className="text-[#5A6B70]">{section.title}</span>
+                            )}
                             {/* Module Badge */}
                             {section.lessons.every(l => completedLessons.has(l.id)) && (
                               <span title="Module terminé !" className="ml-2 text-3xl drop-shadow-lg" style={{ filter: 'drop-shadow(0 0 8px gold)' }}>🏅</span>
@@ -1660,7 +1668,7 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
             const isRevisionOrConsolidation = lessonTitleLower.includes('revision') || lessonTitleLower.includes('révision') || lessonTitleLower.includes('consolidation') || lessonTitleLower.includes('expression') || lessonTitleLower.includes('compréhension') || lessonTitleLower.includes('comprehension');
 
             return (
-              <div className={`w-full py-12 px-8 rounded-[2rem] mx-auto mt-4 ${isRevisionOrConsolidation ? 'bg-[#B8960C]' : 'bg-[#5A6B70]'}`} style={{ maxWidth: 'calc(100% - 2rem)' }}>
+              <div className={`w-full py-12 px-8 rounded-[2rem] mx-auto mt-4 ${isRevisionOrConsolidation ? 'bg-[#e8c27e]' : 'bg-[#5A6B70]'}`} style={{ maxWidth: 'calc(100% - 2rem)' }}>
                 <div className={`mx-auto transition-all duration-500 ${isSidebarOpen ? 'max-w-4xl' : 'max-w-5xl'}`}>
 
                   {/* Breadcrumb */}
@@ -1798,13 +1806,12 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
                   // But since we want to keep it in the flow (as per user feedback), we might not need to strip it at all.
                   // However, if we want to move it or style it differently, we can.
                   // For now, let's just NOT strip it so it renders in the main markdown flow.
-                  /* 
+                  // Extract Grammar Summary - Improved to NOT swallow everything
+                  // We remove it from main content as it is displayed in the Resources tab
                   const grammarMatch = remaining.match(/\n##\s*(?:📖\s*)?(?:Grammar|Grammaire)[:\s]*(?:Summary|Synthesis|Synthèse|Récapitulatif)([\s\S]*?)(?=\n##|$)/i);
                   if (grammarMatch) {
-                     // If we wanted to hide it from main flow:
-                     // remaining = remaining.replace(grammarMatch[0], '');
-                  } 
-                  */
+                    remaining = remaining.replace(grammarMatch[0], '');
+                  }
 
                   // Extract Next Lesson
                   const nextMatch = remaining.match(/\n## Leçon suivante[\s\S]*$/i);
@@ -2071,7 +2078,17 @@ const CoursePlayer: React.FC<CoursePlayerProps> = ({ course, onBack, initialLess
           {course.sections.map((section) => (
             <div key={section.id} className="mb-4">
               <div className="bg-[#F9F7F2]/80 px-8 py-4 border-y border-[#C87A7A]/5">
-                <h3 className="font-black text-[9px] uppercase tracking-widest text-[#5A6B70]/60">{section.title}</h3>
+                <h3 className="font-black text-[9px] uppercase tracking-widest">
+                  {section.title.includes(' - ') ? (
+                    <>
+                      <span className="text-[#5A6B70]/60">{section.title.split(' - ')[0]}</span>
+                      <span className="text-[#5A6B70]/40"> - </span>
+                      <span className="text-[#dd8b8b]">{section.title.split(' - ').slice(1).join(' - ')}</span>
+                    </>
+                  ) : (
+                    <span className="text-[#5A6B70]/60">{section.title}</span>
+                  )}
+                </h3>
               </div>
               <div className="px-4 py-3 space-y-2">
                 {section.lessons.map((lesson) => (

@@ -370,33 +370,6 @@ Brussels is not one city — it's made up of **19 communes** (municipalities), e
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: Saying "à le" instead of "au"
-
-| Wrong | Correct |
-|:------|:--------|
-| Je vais **à le** supermarché. | Je vais **au** supermarché. |
-| Je vais **à les** magasins. | Je vais **aux** magasins. |
-
-**à + le = au** and **à + les = aux** — always!
-
-### Mistake 2: Saying "en" for Brussels communes
-
-| Wrong | Correct |
-|:------|:--------|
-| Je vais **en** Ixelles. | Je vais **à** Ixelles. |
-
-For cities and communes → **à** (not "en").
-
-### Mistake 3: Forgetting to conjugate ALLER
-
-| Wrong | Correct |
-|:------|:--------|
-| Je **aller** au marché. | Je **vais** au marché. |
-
-ALLER is irregular — you can't just use the infinitive!
-
 ---
 
 ## Speaking Practice
@@ -428,6 +401,37 @@ Example:
 
 ---
 
+## Common Mistakes to Avoid
+
+### Mistake 1: Saying "à le" instead of "au"
+
+| Wrong | Correct |
+|:------|:--------|
+| Je vais **à le** supermarché. | Je vais **au** supermarché. |
+| Je vais **à les** magasins. | Je vais **aux** magasins. |
+
+**à + le = au** and **à + les = aux** — always!
+
+### Mistake 2: Saying "en" for Brussels communes
+
+| Wrong | Correct |
+|:------|:--------|
+| Je vais **en** Ixelles. | Je vais **à** Ixelles. |
+
+For cities and communes → **à** (not "en").
+
+### Mistake 3: Forgetting to conjugate ALLER
+
+| Wrong | Correct |
+|:------|:--------|
+| Je **aller** au marché. | Je **vais** au marché. |
+
+ALLER is irregular — you can't just use the infinitive!
+
+---
+
+
+
 ## Grammar Summary
 
 ### ALLER (to go)
@@ -450,11 +454,34 @@ Example:
 | à + l' | à l' | à l'hôpital |
 | à + les | **aux** | aux Marolles |
 
-### Asking Where
 
-| Informal | Standard | Formal |
-|:---------|:---------|:-------|
-| Tu vas où ? | Où est-ce que tu vas ? | Où allez-vous ? |
+### Verbes + le / la / les (Direct Object)
+
+**Important:** Some verbs use **le, la, l', les** (Direct Object) — NOT "au" or "à la".
+
+| Verb | Example |
+|:-----|:--------|
+| **Aimer** (to like) | J'aime **le** chocolat. |
+| **Adorer** (to love) | J'adore **les** frites. |
+| **Visiter** (to visit) | Je visite **le** musée. |
+| **Voir** (to see) | Je vois **la** maison. |
+
+> **Compare:**
+> - Je **vais au** parc (I go TO THE park).
+> - Je **vois le** parc (I see THE park).
+
+### Asking "Where?" — Où est-ce que... ?
+
+**Ways to Ask "Where?":**
+
+| French | English | Register |
+|:-------|:--------|:---------|
+| Tu vas **où** ? | Where are you going? | Informal |
+| **Où** est-ce que tu vas ? | Where are you going? | Standard |
+| **Où** allez-vous ? | Where are you going? | Formal |
+
+- **"Où" = Where.** Place it at the beginning or end.
+- **"Est-ce que"** turns a statement into a question.
 
 ---
 

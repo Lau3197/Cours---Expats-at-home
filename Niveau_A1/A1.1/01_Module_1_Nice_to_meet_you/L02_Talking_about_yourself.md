@@ -479,35 +479,6 @@ When you register at the commune, you'll get a national number (numéro de regis
 
 ---
 
-## Common Mistakes to Avoid
-
-### Mistake 1: "Je suis 30 ans" instead of "J'ai 30 ans"
-
-| Wrong | Correct |
-|:------|:--------|
-| Je **suis** 30 ans. | J'**ai** 30 ans. |
-
-In French, you "have" an age!
-
-### Mistake 2: Forgetting "ans"
-
-| Wrong | Correct |
-|:------|:--------|
-| J'ai 30. | J'ai 30 **ans**. |
-
-Always add "ans" after the number.
-
-### Mistake 3: Saying "soixante-dix" in Belgium
-
-| France | Belgium |
-|:-------|:--------|
-| soixante-dix | **septante** |
-| quatre-vingt-dix | **nonante** |
-
-You're in Belgium — use septante and nonante!
-
----
-
 ## Speaking Practice
 
 ### Exercise 1: Introduce Yourself Completely
@@ -536,6 +507,37 @@ You're in Belgium — use septante and nonante!
 
 Example:
 > Je suis Tom. Je suis américain et je suis ingénieur. J'ai 32 ans. J'habite à Bruxelles. J'ai un appartement à Ixelles.
+
+---
+
+## Common Mistakes to Avoid
+
+### Mistake 1: "Je suis 30 ans" instead of "J'ai 30 ans"
+
+| Wrong | Correct |
+|:------|:--------|
+| Je **suis** 30 ans. | J'**ai** 30 ans. |
+
+In French, you "have" an age!
+
+### Mistake 2: Forgetting "ans"
+
+| Wrong | Correct |
+|:------|:--------|
+| J'ai 30. | J'ai 30 **ans**. |
+
+Always add "ans" after the number.
+
+### Mistake 3: Saying "soixante-dix" in Belgium
+
+| France | Belgium |
+|:-------|:--------|
+| soixante-dix | **septante** |
+| quatre-vingt-dix | **nonante** |
+
+You're in Belgium — use septante and nonante!
+
+
 
 ---
 

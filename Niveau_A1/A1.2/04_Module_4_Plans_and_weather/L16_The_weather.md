@@ -80,6 +80,20 @@
 1. Il fait beau / Il y a du soleil — 2. Il pleut — 3. Il neige / Il fait froid — 4. Il y a du vent — 5. Il y a du brouillard — 6. Il y a de l'orage — 7. Il y a des nuages / Il fait gris
 </details>
 
+### Practice 1b: Belgian Weather Reporter
+
+**You hear the weather report on VRT. Write the weather for each city:**
+
+> 1. Bruxelles: ☁️ 8°C → À Bruxelles, _________.
+> 2. Ostende: 💨68°C → À Ostende, _________.
+> 3. Liège: 🌧️ 5°C → À Liège, _________.
+> 4. Ardennes: ❄️ -2°C → Dans les Ardennes, _________.
+> 5. Gand: ☀️ 12°C → À Gand, _________.
+
+<details><summary>Possible answers</summary>
+1. Il fait gris et il fait 8 degrés. — 2. Il y a du vent et il fait 8 degrés. — 3. Il pleut et il fait 5 degrés. — 4. Il neige et il fait moins 2 degrés. — 5. Il fait beau / Il y a du soleil et il fait 12 degrés.
+</details>
+
 ---
 
 ## Observation 2: Asking About the Weather
@@ -107,6 +121,20 @@
 1. Quel temps fait-il aujourd'hui chez vous ? → ___________________________
 2. Il fait combien de degrés ? → ___________________________
 3. Il pleut souvent dans votre pays ? → ___________________________
+4. Quel temps fait-il en Belgique en hiver ? → ___________________________
+5. Quel temps va-t-il faire demain ? → ___________________________
+
+### Practice 2b: Compare the Weather
+
+**Compare the weather in different cities/seasons. Write 5 sentences:**
+
+> Exemple: En été, il fait **plus** chaud **qu'**en hiver. Il pleut **moins** en été.
+
+> 1. _________
+> 2. _________
+> 3. _________
+> 4. _________
+> 5. _________
 
 ---
 
@@ -150,6 +178,54 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Belgian Weather Report
+
+**Look out the window (or imagine) and give a report:**
+
+"Aujourd'hui, il **fait** _________ (mauvais/beau). Il y a _________ (du soleil/des nuages). La température est de _________ degrés. En Belgique, c'est normal !"
+
+### Exercise 2: Role-Play — Complaining About the Weather
+
+**Play both roles:**
+
+> **You :** Quel temps de chien !
+>
+> **Friend :** Oui, il pleut encore.
+>
+> **You :** Je déteste la pluie. Je veux du soleil !
+>
+> **Friend :** Moi aussi. Vivement l'été !
+>
+> **You :** En attendant, prends ton parapluie.
+
+---
+
+## Writing Practice
+
+**Write a weather forecast for tomorrow. Use:**
+- Futur proche (Il va faire...)
+- Weather expressions (pleuvoir, faire beau, il y a du vent)
+- Temperatures
+
+**Example:**
+> Demain, à Bruxelles, il va faire gris. Le matin, il va pleuvoir. L'après-midi, il y aura un peu de soleil mais beaucoup de vent. La température va être de 12 degrés. N'oubliez pas votre manteau !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Il **est** froid aujourd'hui. | Il **fait** froid. | Weather → IL FAIT (not IL EST) |
+| Il fait **soleil**. | Il y a **du soleil**. | Sun → IL Y A du soleil |
+| Il **fait pluie**. | Il **pleut**. | Rain → IL PLEUT (verb, not IL FAIT) |
+| **Au** été, il fait chaud. | **En** été, il fait chaud. | Only "au printemps" uses AU; others use EN |
+| Il fait **zéro** degrés. | Il fait zéro **degré** (sg). | Zero = singular in French |
+
+---
+
 ## Culture: Belgian Weather Jokes
 
 Belgians love to complain about the weather! Here are some common expressions:
@@ -166,6 +242,8 @@ Belgians love to complain about the weather! Here are some common expressions:
 - **Bruxelles et le centre**: grey, rainy
 - **Les Ardennes** (south): colder, snowy in winter
 - **La Campine** (northeast): continental, hot summers
+
+
 
 ---
 

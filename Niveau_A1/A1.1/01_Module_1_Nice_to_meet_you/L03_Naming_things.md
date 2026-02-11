@@ -346,6 +346,35 @@ When you enter a Belgian shop, you say "Bonjour !" and when you see something yo
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Look Around You
+
+**Look at the room you're in. Name 5 objects in French with UN, UNE, or DES:**
+
+"Il y a un(e)... Il y a des..."
+
+### Exercise 2: Shopping Role-Play
+
+**At the bakery. Practice:**
+
+> **You:** Bonjour ! Je voudrais **un** pain et **des** croissants, s'il vous plaît.
+> **Baker:** Combien de croissants ?
+> **You:** Trois croissants, s'il vous plaît.
+> **Baker:** Voilà ! Ça fera cinq euros.
+> **You:** Voilà. Merci ! Au revoir !
+
+---
+
+## Writing Practice
+
+**Write a list of 10 things in your home. Use UN, UNE, or DES:**
+
+Example:
+> Dans mon appartement, il y a un canapé, une table, des chaises, un lit, une lampe, un ordinateur, des livres, une télévision, un frigo et des photos.
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Mistake 1: Forgetting the article
@@ -373,34 +402,7 @@ In French, you ALWAYS need an article before a noun.
 
 Plural = **des** (for both masculine and feminine).
 
----
 
-## Speaking Practice
-
-### Exercise 1: Look Around You
-
-**Look at the room you're in. Name 5 objects in French with UN, UNE, or DES:**
-
-"Il y a un(e)... Il y a des..."
-
-### Exercise 2: Shopping Role-Play
-
-**At the bakery. Practice:**
-
-> **You:** Bonjour ! Je voudrais **un** pain et **des** croissants, s'il vous plaît.
-> **Baker:** Combien de croissants ?
-> **You:** Trois croissants, s'il vous plaît.
-> **Baker:** Voilà ! Ça fera cinq euros.
-> **You:** Voilà. Merci ! Au revoir !
-
----
-
-## Writing Practice
-
-**Write a list of 10 things in your home. Use UN, UNE, or DES:**
-
-Example:
-> Dans mon appartement, il y a un canapé, une table, des chaises, un lit, une lampe, un ordinateur, des livres, une télévision, un frigo et des photos.
 
 ---
 

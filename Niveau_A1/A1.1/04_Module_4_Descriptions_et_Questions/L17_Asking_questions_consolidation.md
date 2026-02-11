@@ -289,6 +289,69 @@
 
 ---
 
+---
+
+## Speaking Practice
+
+### Exercise 1: 20 Questions Game
+
+**Ask yourself (or a partner) questions using all 7 question words. Answer each one:**
+
+1. **Comment** _________ ? → _________
+2. **Quel(le)** _________ ? → _________
+3. **Qu'est-ce que** _________ ? → _________
+4. **Où** _________ ? → _________
+5. **Quand** _________ ? → _________
+6. **Combien** _________ ? → _________
+7. **Pourquoi** _________ ? → _________
+
+### Exercise 2: Role-Play — Interview a New Expat
+
+**Play both roles:**
+
+> **You :** Bonjour ! Comment vous vous appelez ?
+>
+> **Expat :** Je m'appelle _________. Et vous ?
+>
+> **You :** Qu'est-ce que vous faites dans la vie ?
+>
+> **Expat :** Je suis _________. Et vous, où est-ce que vous habitez ?
+>
+> **You :** J'habite à _________. Pourquoi vous êtes en Belgique ?
+>
+> **Expat :** Parce que _________.
+
+---
+
+## Writing Practice
+
+**Write a mini-interview (6-8 questions + answers). You interview Sophie about her life in Belgium. Use:**
+- At least 5 different question words (comment, quel, qu'est-ce que, où, quand, combien, pourquoi)
+- At least 2 "est-ce que" questions
+- Answers with "parce que" for "pourquoi"
+
+**Example:**
+> — Comment tu t'appelles ? — Je m'appelle Sophie.
+> — Quel âge as-tu ? — J'ai 30 ans.
+> — Où est-ce que tu habites ? — J'habite à Ixelles, à Bruxelles.
+> — Pourquoi tu aimes la Belgique ? — Parce que les gens sont gentils et la bière est bonne !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| ~~Qu'est-ce que~~ tu habites ? | **Où est-ce que** tu habites ? | "Qu'est-ce que" = What; "Où" = Where |
+| ~~Comment~~ tu t'appelles ? (with "est-ce que") | **Comment est-ce que** tu t'appelles ? | With "est-ce que", keep the full structure |
+| Quel **est** ton âge ? | **Quel âge** as-tu ? / Tu as **quel** âge ? | French says "have an age", not "be an age" |
+| ~~Pourquoi~~ tu aimes ? — ~~Pourquoi que~~ j'aime... | **Pourquoi** tu aimes ? → **Parce que** j'aime... | Answer with "parce que", NEVER "pourquoi que" |
+| ~~Combien~~ langues tu parles ? | **Combien de** langues tu parles ? | Combien + noun always needs **DE** |
+
+---
+
+
+
 ## Self-Evaluation
 
 - [ ] I can use all 7 question words correctly

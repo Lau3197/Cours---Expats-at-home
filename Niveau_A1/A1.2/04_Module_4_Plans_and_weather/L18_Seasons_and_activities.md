@@ -99,6 +99,20 @@
 1. jouer au football — 2. faire du vélo — 3. jouer aux cartes — 4. faire de la natation — 5. jouer au tennis — 6. faire de la marche / randonnée
 </details>
 
+### Practice 1b: What Do They Do?
+
+**Write sentences about what each person does, using FAIRE or JOUER:**
+
+1. Tom / vélo / le dimanche → Tom _________.
+2. Sophie / badminton / au club → Sophie _________.
+3. Les enfants / cartes / le soir → Les enfants _________.
+4. Marie / natation / en été → Marie _________.
+5. Nous / marche / dans les Ardennes → Nous _________.
+
+<details><summary>Answers</summary>
+1. Tom fait du vélo le dimanche. — 2. Sophie joue au badminton au club. — 3. Les enfants jouent aux cartes le soir. — 4. Marie fait de la natation en été. — 5. Nous faisons de la marche dans les Ardennes.
+</details>
+
 ---
 
 ## Observation 3: Expressing Frequency
@@ -130,10 +144,21 @@
 2. Il joue au football. (toujours) → ___________________________
 3. On fait de la natation. (parfois) → ___________________________
 4. Je fais du ski. (jamais) → ___________________________
+5. Elles jouent au tennis. (rarement) → ___________________________
 
 <details><summary>Answers</summary>
-1. Je fais souvent du sport. — 2. Il joue toujours au football. — 3. On fait parfois de la natation. — 4. Je ne fais jamais de ski.
+1. Je fais souvent du sport. — 2. Il joue toujours au football. — 3. On fait parfois de la natation. — 4. Je ne fais jamais de ski. — 5. Elles jouent rarement au tennis.
 </details>
+
+### Practice 2b: Survey — How Often?
+
+**Answer these questions about yourself using frequency words:**
+
+> 1. Vous faites du sport ? → ___________
+> 2. Vous jouez aux cartes ? → ___________
+> 3. Vous faites du vélo ? → ___________
+> 4. Vous faites de la cuisine belge ? → ___________
+> 5. Vous jouez au football ? → ___________
 
 ---
 
@@ -160,6 +185,56 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: What do you do in... ?
+
+**Say what activity you do in each season:**
+
+"En été, je **fais** _________. En hiver, je _________. Au printemps, j'aime _________. En automne, on _________."
+
+**Use FAIRE DU/DE LA and JOUER AU/À LA.**
+
+### Exercise 2: Role-Play — Sporty Friends
+
+**Play both roles:**
+
+> **Friend :** Tu fais du sport ?
+>
+> **You :** Oui, je fais du tennis et de la natation.
+>
+> **Friend :** Tu joues au football ?
+>
+> **You :** Non, je ne joue jamais au football. Je n'aime pas ça.
+>
+> **Friend :** Dommage !
+
+---
+
+## Writing Practice
+
+**Write about your favorite season and activities. Use:**
+- "Ma saison préférée est..." / "J'aime..."
+- Activities with FAIRE and JOUER
+- Frequency (souvent, parfois, jamais)
+
+**Example:**
+> J'adore l'été. Il fait beau et chaud. Je fais souvent du vélo avec mes amis. Parfois, nous jouons au tennis dans le parc. Je ne fais jamais de ski en été ! Le soir, on fait des barbecues. C'est super.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je **fais** football. | Je **joue au** football. | Team sports/games = JOUER À |
+| Je **joue de la** natation. | Je **fais de la** natation. | Individual sports = FAIRE DE |
+| Je fais **de** vélo. | Je fais **du** vélo. | du = de + le (contraction required) |
+| Je ne fais **jamais du** ski. | Je ne fais **jamais de** ski. | After negative → du/de la/des → DE |
+| Je fais **toujours** du sport. ✅ | *This is correct!* | Frequency adverb goes after the verb |
+
+---
+
 ## Culture: Seasonal Activities in Belgium
 
 ### By Season
@@ -176,6 +251,8 @@
 > - **La Ronde van Vlaanderen** (Tour of Flanders) is a legendary race
 > - Many Belgians cycle to work every day
 > - Villo (Brussels) and Blue-Bike are bike-sharing services
+
+
 
 ---
 

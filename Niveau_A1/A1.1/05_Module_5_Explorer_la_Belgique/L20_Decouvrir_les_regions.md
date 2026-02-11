@@ -1,6 +1,6 @@
 ﻿# Discovering Belgian Regions
 
-**Level**: A1.1 — Module 4  
+**Level**: A1.1 — Module 5  
 **Estimated duration**: 2-3 hours  
 **Main grammar**: Belgian geography, 3 regions, 3 communities, languages, culture  
 **This is a culture-heavy lesson** — less new grammar, more application of everything learned!
@@ -258,6 +258,63 @@ Include:
 </details>
 
 ---
+
+---
+
+## Speaking Practice
+
+### Exercise 1: Present Belgium to a Friend
+
+**Say out loud (aim for 30 seconds):**
+
+"La Belgique a trois régions : _________, _________ et _________. On parle _________ en Wallonie et _________ en Flandre. À Bruxelles, on parle les deux ! La Belgique est célèbre pour _________ et _________."
+
+### Exercise 2: Role-Play — Belgian Culture Quiz Night
+
+**Play both roles (quiz master and contestant):**
+
+> **Quiz master :** Quelle est la capitale de la Belgique ?
+>
+> **You :** C'est Bruxelles !
+>
+> **Quiz master :** Quelles sont les trois langues officielles ?
+>
+> **You :** Le français, le néerlandais et l'allemand.
+>
+> **Quiz master :** Qu'est-ce que c'est, les moules-frites ?
+>
+> **You :** C'est le plat national belge ! Ce sont des moules avec des frites.
+>
+> **Quiz master :** Bravo !
+
+---
+
+## Writing Practice
+
+**Write a postcard (5-6 sentences) to a friend about your visit to Belgium. Use:**
+- At least 2 Belgian cities
+- "Il y a" for things you discovered
+- "J'aime / J'adore" with "parce que"
+- At least 1 Belgian expression (à tantôt, avec plaisir, s'il vous plaît)
+
+**Example:**
+> Cher(e) ami(e), je suis en Belgique ! J'adore Bruxelles parce que c'est une ville multiculturelle. Il y a la Grand-Place, le Manneken-Pis et beaucoup de bons restaurants. J'ai visité Bruges aussi — c'est magnifique ! Les Belges sont très gentils. À tantôt !
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| ~~Le~~ Belgique est un beau pays. | **La** Belgique est un beau pays. | Belgique is feminine → LA |
+| On parle français ~~à~~ Flandre. | On parle néerlandais **en** Flandre. | Regions use EN, not À — and Flanders speaks Dutch! |
+| Bruxelles est ~~en~~ Flandre. | Bruxelles est **la Région de Bruxelles-Capitale**. | Brussels is its own separate region |
+| Les Belges parlent ~~le belge~~. | Les Belges parlent **français, néerlandais ou allemand**. | There is no "Belgian" language |
+| ~~À~~ Bruxelles, on parle français. | **À** Bruxelles, on parle français. ✅ | Cities use À — correct! |
+
+---
+
+
 
 ## Self-Evaluation
 

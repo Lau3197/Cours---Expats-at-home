@@ -68,6 +68,20 @@
 1. vais aller — 2. vas manger — 3. va visiter — 4. allons prendre — 5. allez voir — 6. vont partir
 </details>
 
+### Practice 1b: Sophie's Week Ahead
+
+**Rewrite Sophie's plans in the futur proche:**
+
+> 1. (lundi / aller à la commune) Lundi, Sophie _________.
+> 2. (mardi / visiter un musée) Mardi, elle _________.
+> 3. (mercredi / prendre le train pour Bruges) Mercredi, elle _________.
+> 4. (jeudi / manger au restaurant) Jeudi, elle _________.
+> 5. (vendredi / faire les courses) Vendredi, elle _________.
+
+<details><summary>Answers</summary>
+1. va aller à la commune — 2. va visiter un musée — 3. va prendre le train pour Bruges — 4. va manger au restaurant — 5. va faire les courses
+</details>
+
 ---
 
 ## Observation 2: Negation in the Futur Proche
@@ -88,10 +102,18 @@
 2. On va prendre le bus. → ___________________________
 3. Ils vont venir à la fête. → ___________________________
 4. Tu vas manger au restaurant. → ___________________________
+5. Nous allons visiter Bruges. → ___________________________
 
 <details><summary>Answers</summary>
-1. Je ne vais pas sortir ce soir. — 2. On ne va pas prendre le bus. — 3. Ils ne vont pas venir à la fête. — 4. Tu ne vas pas manger au restaurant.
+1. Je ne vais pas sortir ce soir. — 2. On ne va pas prendre le bus. — 3. Ils ne vont pas venir à la fête. — 4. Tu ne vas pas manger au restaurant. — 5. Nous n'allons pas visiter Bruges.
 </details>
+
+### Practice 2b: Plans and Anti-Plans
+
+**Write 5 things you ARE going to do and 3 things you are NOT going to do this weekend:**
+
+> ✅ Ce week-end, je vais ___________.
+> ❌ Ce week-end, je ne vais pas ___________.
 
 ---
 
@@ -131,6 +153,59 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: Weekend Plans
+
+**Say 3 things you are GOING to do this weekend:**
+
+"Ce weekend, je **vais** _________. Je **vais** aussi _________. Et dimanche, je **vais** _________."
+
+**And one thing you are NOT going to do:**
+"Mais je **ne vais pas** _________."
+
+### Exercise 2: Role-Play — Discussing Holiday Plans
+
+**Play both roles:**
+
+> **Friend :** Qu'est-ce que tu vas faire cet été ?
+>
+> **You :** Je vais aller en France.
+>
+> **Friend :** Super ! Tu vas visiter Paris ?
+>
+> **You :** Oui, je vais voir la Tour Eiffel et je vais manger des croissants.
+>
+> **Friend :** Quelle chance !
+
+---
+
+## Writing Practice
+
+**Write a list of resolutions for next year. Use "Je vais..." and "Je ne vais pas...".**
+
+**Example:**
+> L'année prochaine :
+> 1. Je vais faire plus de sport.
+> 2. Je vais apprendre le français chaque jour.
+> 3. Je vais manger moins de chocolat.
+> 4. Je ne vais pas fumer.
+> 5. Je vais voyager en Belgique.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je **va** manger. | Je **vais** manger. | JE = vais (not va) |
+| Je vais **mange**. | Je vais **manger**. | After ALLER, always use the INFINITIVE |
+| Je **ne vais manger pas**. | Je **ne vais pas** manger. | NE...PAS surrounds ALLER |
+| Demain, je **mange** au restaurant. | Demain, je **vais manger** au restaurant. | Future time marker → use futur proche |
+| On **va à manger**. | On **va manger**. | No preposition between ALLER and infinitive |
+
+---
+
 ## Culture: Belgian Festivals and Events
 
 ### Major Belgian Festivals
@@ -155,6 +230,8 @@
 - Takes place in **Boom**, near Antwerp
 - 400,000+ visitors from around the world
 - Tickets sell out in minutes!
+
+
 
 ---
 

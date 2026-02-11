@@ -1,6 +1,6 @@
 ﻿# Getting Around Belgium
 
-**Level**: A1.1 — Module 4  
+**Level**: A1.1 — Module 5  
 **Estimated duration**: 2-3 hours  
 **Main grammar**: Transport vocabulary, basic directions, PRENDRE (preview: "je prends le bus/tram/métro")  
 **Also in this lesson**: Review prepositions + ALLER, STIB/TEC/De Lijn
@@ -271,6 +271,62 @@ tout droit — à gauche — là-bas — au bout de la rue — loin — à pied
 | Amsterdam | Thalys | 1h50 |
 
 ---
+
+---
+
+## Speaking Practice
+
+### Exercise 1: How Do You Get to Work?
+
+**Say out loud:**
+
+"Pour aller au travail, je prends _________. Le trajet dure _________ minutes. Je descends à la station _________."
+
+**Describe your daily commute (or an imaginary one in Brussels). Name at least 2 types of transport.**
+
+### Exercise 2: Role-Play — Tourist Lost in Brussels
+
+**Play both roles:**
+
+> **Tourist :** Excusez-moi, pour aller à la Grand-Place ?
+>
+> **You :** Allez tout droit, puis tournez à gauche au feu. C'est à cinq minutes à pied.
+>
+> **Tourist :** Et pour le Manneken-Pis ?
+>
+> **You :** C'est près de la Grand-Place ! Continuez tout droit, puis tournez à droite. C'est au bout de la rue.
+>
+> **Tourist :** Merci beaucoup !
+>
+> **You :** Avec plaisir !
+
+---
+
+## Writing Practice
+
+**Write directions from a Brussels landmark to another (5-6 sentences). Use:**
+- At least 3 direction words (tout droit, à gauche, à droite, au bout de la rue)
+- At least 1 transport type (je prends le métro/tram/bus)
+- "Près de", "loin de", "à côté de"
+
+**Example:**
+> Pour aller de la Gare Centrale à la Grand-Place, c'est facile. Sortez de la gare et allez tout droit. Tournez à droite au bout de la rue. La Grand-Place est là, à deux minutes à pied. Ce n'est pas loin ! Si vous êtes fatigué, vous pouvez prendre le bus 48.
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Je prends ~~le~~ bus **5**. | Je prends **le** bus **5**. ✅ (both OK) | With a number, article is optional |
+| Tournez ~~à le~~ gauche. | Tournez **à** gauche. | No article: à gauche, à droite |
+| Allez tout ~~le~~ droit. | Allez tout **droit**. | "Tout droit" — no article needed |
+| La gare est ~~à~~ loin. | La gare est **loin**. | LOIN is an adverb — no preposition before it |
+| Je vais ~~à~~ pied. | Je vais **à pied**. ✅ | "À pied" is a fixed expression — correct! |
+
+---
+
+
 
 ## Self-Evaluation
 

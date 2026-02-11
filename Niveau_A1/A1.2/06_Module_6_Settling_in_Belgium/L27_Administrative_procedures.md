@@ -75,6 +75,20 @@
 1. Vous avez votre carte d'identité ? — 2. Vous devez apporter un document. — 3. Vous voulez vous inscrire ? — 4. Vous pouvez revenir demain. — 5. Qu'est-ce que vous voulez ? / Que désirez-vous ?
 </details>
 
+### Practice 1b: At the Commune — Role Play
+
+**Rewrite these informal sentences in formal French (VOUS):**
+
+> 1. Tu as ton contrat de bail ? → ___________
+> 2. Tu viens d'où ? → ___________
+> 3. Tu habites dans quelle commune ? → ___________
+> 4. Tu peux apporter une photo ? → ___________
+> 5. Comment tu t'appelles ? → ___________
+
+<details><summary>Answers</summary>
+1. Vous avez votre contrat de bail ? — 2. Vous venez d'où ? — 3. Vous habitez dans quelle commune ? — 4. Vous pouvez apporter une photo ? — 5. Comment vous appelez-vous ?
+</details>
+
 ---
 
 ## Observation 2: Essential Administrative Vocabulary
@@ -130,6 +144,16 @@
 
 <details><summary>Answers</summary>
 1. remplir — 2. apporter — 3. m'inscrire — 4. signer — 5. fournir
+</details>
+
+### Practice 2b: Tom's Checklist
+
+**Tom is going to the commune. What does he need? Complete with the correct word:**
+
+> Tom doit aller à la commune. Il doit _________ (bring) son _________ (passport). Il faut aussi _________ (fill out) un _________ (form). Il doit _________ (provide) une _________ (ID photo) et _________ (sign) le document.
+
+<details><summary>Answers</summary>
+apporter — passeport — remplir — formulaire — fournir — photo d'identité — signer
 </details>
 
 ---
@@ -199,6 +223,68 @@
 
 ---
 
+## Speaking Practice
+
+### Exercise 1: At the Commune
+
+**Practice these sentences for the commune (formal):**
+
+1. "Bonjour, je voudrais m'inscrire, s'il vous plaît."
+2. "Voici mon passeport et mon contrat de bail."
+3. "Est-ce que je dois remplir ce formulaire ?"
+4. "Quand est-ce que l'agent de quartier va passer ?"
+
+### Exercise 2: Role-Play — The Neighbourhood Officer
+
+**Play both roles:**
+
+> **Agent :** Bonjour, Police. C'est pour le changement d'adresse.
+>
+> **You :** Bonjour. Entrez.
+>
+> **Agent :** Vous habitez ici depuis quand ?
+>
+> **You :** Depuis lundi dernier.
+>
+> **Agent :** Vous vivez seul ?
+>
+> **You :** Non, avec mon mari/ma femme.
+>
+> **Agent :** C'est tout bon. Vous pouvez aller à la commune demain.
+
+---
+
+## Writing Practice
+
+**Fill out this form (imaginary) with your details:**
+- Nom :
+- Prénom :
+- Nationalité :
+- Date de naissance :
+- Adresse en Belgique :
+- Profession :
+
+**Then write a polite email to the commune asking for an appointment.**
+> Madame, Monsieur,
+> Je voudrais prendre rendez-vous pour m'inscrire à la commune. Je suis arrivé(e) en Belgique hier.
+> Je suis disponible lundi matin.
+> Bien à vous,
+> [Votre nom]
+
+---
+
+## Common Mistakes to Avoid
+
+| ❌ Incorrect | ✅ Correct | Why? |
+|:------------|:----------|:-----|
+| Tu **veux** t'inscrire ? (at commune) | **Vous voulez** vous inscrire ? | Use VOUS in formal/administrative settings |
+| Je voudrais **inscrire** à la commune. | Je voudrais **m'inscrire** à la commune. | S'inscrire is reflexive |
+| Il faut **que** apporter le passeport. | Il faut **apporter** le passeport. | IL FAUT + infinitive directly |
+| Je dois **remplir le** formulaire. ✅ | *Correct!* | REMPLIR LE formulaire (definite article) |
+| Vous **devons** signer ici. | Vous **devez** signer ici. | VOUS = devez (not devons) |
+
+---
+
 ## Culture: Belgian Administration
 
 ### The Commune System
@@ -230,6 +316,8 @@ Belgian addresses follow this format:
 
 ### Belgian Tip
 > Many administrative tasks can now be done online at **www.my.belgium.be** with your **eID** (electronic identity card).
+
+
 
 ---
 
